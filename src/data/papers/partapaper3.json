@@ -1,1094 +1,1202 @@
 [
   {
-    "id": 1,
-    "question": "Acceleration is the rate of change of:",
-    "options": [
-      "Distance only",
-      "Force",
-      "Velocity",
-      "Mass"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Acceleration is defined as the rate of change of velocity with respect to time."
-  },
-  {
-    "id": 2,
-    "question": "A boiler nameplate (data plate) typically shows the:",
-    "options": [
-      "The current market price of the fuel",
-      "The name of the plant operator on duty",
-      "The maker, MAWP, and heating surface",
-      "The most recent daily log entries"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A boiler nameplate provides crucial design and manufacturing details, including the manufacturer, Maximum Allowable Working Pressure (MAWP), and heating surface."
-  },
-  {
-    "id": 3,
-    "question": "A handhole in a boiler provides access to:",
-    "options": [
-      "The boiler feed pump and its driving electric motor",
-      "The main steam line from the drum",
-      "Headers and water legs",
-      "The chimney and the breeching"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Handholes are smaller openings used to provide access for inspection, cleaning, and maintenance in restricted areas such as headers and water legs."
-  },
-  {
-    "id": 4,
-    "question": "Liquid penetrant testing detects:",
-    "options": [
-      "Defects that break the surface",
-      "The alloy content of the metal",
-      "The surface hardness of the part",
-      "Deep voids well below the surface"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Liquid penetrant testing is a non-destructive examination method used exclusively to reveal surface-breaking flaws or defects."
-  },
-  {
-    "id": 5,
-    "question": "If 12,000 J of work is done in 4 s, the power developed is:",
-    "options": [
-      "750 W",
-      "3000 J",
-      "3000 W",
-      "48,000 W"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Power is work divided by time (P = W / t). 12000 J / 4 s = 3000 W."
-  },
-  {
-    "id": 6,
-    "question": "Baffles inside a boiler are arranged to:",
-    "options": [
-      "Separate the dry steam out from the boiler water",
-      "Support and steady the safety valve",
-      "Store a reserve of boiler feedwater",
-      "Guide flue gases over the surfaces"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Baffles direct the path of flue gases to ensure maximum heat transfer across the boiler heating surfaces before exiting."
-  },
-  {
-    "id": 7,
-    "question": "The circumferential (girth) seam of a boiler shell:",
-    "options": [
-      "Attaches the boiler tubes to the sheet",
-      "Seals the boiler manhole cover plate",
-      "Joins one shell course to the next",
-      "Runs the full length of a single course"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Circumferential or girth seams run around the circumference of the boiler shell, joining individual cylindrical courses together end-to-end."
-  },
-  {
-    "id": 8,
-    "question": "A once-through steam generator (OTSG) does NOT require a:",
-    "options": [
-      "A separate steam (water) drum",
-      "A fuel-burning burner assembly",
-      "A boiler feedwater pump",
-      "A stack or breeching to the atmosphere"
-    ],
-    "correctAnswer": 0,
-    "explanation": "In a once-through steam generator, water passes through the tubes once and is completely vaporized without needing a steam drum to separate water and steam."
-  },
-  {
-    "id": 9,
-    "question": "The main steam header in a plant:",
-    "options": [
-      "Distributes steam to the users",
-      "Traps and drains condensate from the steam line",
-      "Removes dissolved gases from the water",
-      "Stores a reserve of boiler feedwater"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A main steam header collects steam from the boilers and distributes it to the various plant process users or turbines."
-  },
-  {
-    "id": 10,
-    "question": "The first step before doing maintenance on a rotating pump or fan is to:",
-    "options": [
-      "Oil and grease its bearings while it runs",
-      "Take off its protective guard",
-      "Lock out its energy sources",
-      "Run it up to a higher speed"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Lockout/Tagout (LOTO) and isolating all energy sources is the mandatory first safety step before performing maintenance on rotating equipment."
-  },
-  {
-    "id": 11,
-    "question": "The pH scale measures:",
-    "options": [
-      "The dissolved oxygen in the water",
-      "The pressure of the fluid",
-      "How acidic or alkaline it is",
-      "The temperature of the solution"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The pH scale quantifies the acidity or alkalinity of an aqueous solution on a logarithmic scale from 0 to 14."
-  },
-  {
-    "id": 12,
-    "question": "For full open/closed isolation of a line with minimal flow restriction, the best valve is a:",
-    "options": [
-      "Gate valve",
-      "Needle valve",
-      "Globe valve",
-      "Relief valve"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Gate valves are designed for straight-through flow with minimal pressure drop when fully open, making them ideal for isolation rather than throttling."
-  },
-  {
-    "id": 13,
-    "question": "A coil-tube boiler is essentially a:",
-    "options": [
-      "A shell-type firetube boiler",
-      "A cast-iron sectional boiler",
-      "A natural-draft horizontal firebox boiler",
-      "Once-through watertube unit"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Coil-tube boilers consist of continuous concentric coils of tubing and operate as once-through watertube boilers without a traditional steam drum."
-  },
-  {
-    "id": 14,
-    "question": "If a fuel-gas leak is detected in the boiler room, the operator should:",
-    "options": [
-      "Ignore if the leak seems small",
-      "Light the burner to burn it off",
-      "Cut fuel, ventilate, no ignition",
-      "Just speed up the draft fan a little more"
-    ],
-    "correctAnswer": 2,
-    "explanation": "In the event of a fuel-gas leak, the immediate action is to shut off the fuel source, maximize ventilation, and avoid any potential sources of ignition."
-  },
-  {
-    "id": 15,
-    "question": "Compared with conduction and convection, radiation:",
-    "options": [
-      "Takes place only within solids",
-      "Depends on the flow of a fluid",
-      "Needs no medium to transfer heat",
-      "Requires direct contact between the bodies"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Thermal radiation transfers heat via electromagnetic waves and does not require any physical medium or matter to travel through."
-  },
-  {
-    "id": 16,
-    "question": "To control (lower) the temperature of superheated steam to a target value, the plant uses a:",
-    "options": [
-      "Desuperheater on the line",
-      "An economizer in the flue-gas path",
-      "A steam trap on the supply line",
-      "A deaerator on the feedwater side"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A desuperheater (or attemperator) is used to reduce and control the temperature of superheated steam by injecting high-purity water."
-  },
-  {
-    "id": 17,
-    "question": "A thermistor is a temperature sensor whose resistance:",
-    "options": [
-      "Varies with the rate of flow",
-      "Changes markedly with temperature",
-      "Stays fixed regardless of conditions",
-      "Varies with the line pressure"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A thermistor is a type of resistor whose electrical resistance exhibits a significant, predictable change in response to temperature variations."
-  },
-  {
-    "id": 18,
-    "question": "To remove sulphur oxides from the flue gas, a plant installs a:",
-    "options": [
-      "An economizer in the flue-gas path",
-      "A deaerator on the feedwater side",
-      "A Bourdon-tube pressure gauge",
-      "Flue-gas desulphurization scrubber"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Flue-gas desulphurization (FGD) scrubbers are specialized pollution control systems designed to remove sulphur dioxide (SO2) from exhaust gases."
-  },
-  {
-    "id": 19,
-    "question": "The purpose of an emergency fuel shutoff is to:",
-    "options": [
-      "Stop fuel to the burner fast",
-      "Vent the steam from the boiler",
-      "Add feedwater to the drum",
-      "Sharply raise the firing rate of the burner"
-    ],
-    "correctAnswer": 0,
-    "explanation": "An emergency fuel shutoff valve quickly cuts off the fuel supply to the burner to prevent catastrophic hazards during unsafe operating conditions."
-  },
-  {
-    "id": 20,
-    "question": "If the ultimate strength is 600 MPa and the working stress is 150 MPa, the factor of safety is:",
-    "options": [
-      "0.25",
-      "4.5",
-      "4",
-      "2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Factor of safety (FoS) is ultimate strength divided by working stress (600 / 150 = 4)."
-  },
-  {
-    "id": 21,
-    "question": "The hydrostatic test of a new boiler is usually performed at:",
-    "options": [
-      "About atmospheric pressure only",
-      "The boiler's blowdown pressure",
-      "Above the MAWP, often 1.5 times it",
-      "Somewhat below the operating pressure"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A hydrostatic test for code compliance on a new boiler is typically conducted at 1.5 times the Maximum Allowable Working Pressure (MAWP)."
-  },
-  {
-    "id": 22,
-    "question": "A gauge glass guard is provided to:",
-    "options": [
-      "Warm the gauge glass in cold weather",
-      "Measure the boiler water level electronically",
-      "Light up the gauge glass for reading",
-      "Protect the operator if glass breaks"
-    ],
-    "correctAnswer": 3,
-    "explanation": "A gauge glass guard surrounds the water level gauge glass to shield and protect operators from injury if the glass tube shatters under pressure."
-  },
-  {
-    "id": 23,
-    "question": "Surface (continuous) blowoff removes:",
-    "options": [
-      "A thick layer of soot deposited on the boiler tubes",
-      "Air trapped in the steam space",
-      "Solids gathering at the surface",
-      "Sludge settled in the mud drum"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Continuous or surface blowoff removes concentrated dissolved solids and suspended impurities that accumulate near the water surface in the steam drum."
-  },
-  {
-    "id": 24,
-    "question": "The maximum allowable working pressure (MAWP) of a boiler is:",
-    "options": [
-      "The highest pressure for safe operation",
-      "The hydrostatic (proof) test pressure",
-      "The normal day-to-day operating pressure",
-      "The blowdown of the safety valve"
-    ],
-    "correctAnswer": 0,
-    "explanation": "MAWP represents the maximum gauge pressure permissible at the top of a boiler for safe design and operation."
-  },
-  {
-    "id": 25,
-    "question": "Preheating a thick steel section before welding helps to:",
-    "options": [
-      "Harden the finished weld metal",
-      "Cut cracking by slowing cooling",
-      "Add chromium to the weld zone",
-      "Raise the carbon content of the weld"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Preheating thick metals reduces thermal shock and slows down the cooling rate, preventing hard microstructures and thermal cracking."
-  },
-  {
-    "id": 26,
-    "question": "Cast iron is generally:",
-    "options": [
-      "Highly weldable and very easy to repair",
-      "Tough and springy under load",
-      "Hard but brittle and low ductility",
-      "Soft and very ductile when worked"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cast iron has high compressive strength and hardness but is brittle, rigid, and possesses very low ductility."
-  },
-  {
-    "id": 27,
-    "question": "The reheater in a large steam generator:",
-    "options": [
-      "Preheats the air for combustion",
-      "Reheats HP-turbine steam",
-      "Cools the outgoing flue gas",
-      "Preheats the boiler feedwater"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A reheater takes partially expanded steam from the high-pressure turbine exhaust and reheats it before it enters the intermediate or low-pressure turbine."
-  },
-  {
-    "id": 28,
-    "question": "Compared with a watertube boiler, a firetube boiler generally:",
-    "options": [
-      "Reaches the very highest pressures",
-      "Is best suited to large power plants",
-      "Raises steam more quickly than most",
-      "Holds much water and responds slowly"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Firetube boilers contain a large volume of water relative to their steaming capacity, resulting in a slower response time to changes in load."
-  },
-  {
-    "id": 29,
-    "question": "A butterfly valve controls flow with a:",
-    "options": [
-      "A spring-loaded poppet on a seat",
-      "A disc that rotates in the flow path",
-      "A hinged disc that checks reverse flow",
-      "A gate that rises clear of the bore"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A butterfly valve uses a circular disc mounted on a central shaft that rotates to regulate or stop fluid flow."
-  },
-  {
-    "id": 30,
-    "question": "A \"transmitter\" in an instrument loop:",
-    "options": [
-      "Converts a reading to a signal",
-      "Stores the recorded process data",
-      "Drives the control valve fully and directly",
-      "Relieves excess system pressure"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A transmitter senses a process variable and converts that measurement into a standardized electrical or pneumatic transmission signal."
-  },
-  {
-    "id": 31,
-    "question": "A proportional controller produces an output that is:",
-    "options": [
-      "Random and completely unrelated to the error",
-      "Proportional to the error",
-      "Either fully on or fully off",
-      "Fixed no matter what the error is"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A proportional (P) controller generates an output signal directly proportional to the magnitude of the error between the setpoint and process variable."
-  },
-  {
-    "id": 32,
-    "question": "To operate a boiler plant, the operator must hold:",
-    "options": [
-      "Power engineer's certificate",
-      "No operating certificate of any kind at all",
-      "A welding ticket and nothing more",
-      "Only a valid driver's licence"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Operating a regulated high-pressure boiler plant legally requires holding a valid, appropriate class of Power Engineer's certificate."
-  },
-  {
-    "id": 33,
-    "question": "How much heat raises 25 kg of water from 10°C to 60°C? (c = 4.187 kJ/kg·°C)",
-    "options": [
-      "About 1047 kJ",
-      "About 5234 kJ",
-      "About 2617 kJ",
-      "About 10,468 kJ"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Q = m·c·ΔT = 25 kg × 4.187 kJ/kg·°C × 50 °C = 5233.75 kJ, about 5234 kJ."
-  },
-  {
-    "id": 34,
-    "question": "Standardized symbols are used on schematic diagrams so that:",
-    "options": [
-      "Only the original designer can read them",
-      "Colour coding is optional and left to the installer",
-      "The drawings look more decorative",
-      "All trades read drawings the same way"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Standardized symbols ensure consistency so that engineers, technicians, and tradespeople interpret engineering drawings uniformly."
-  },
-  {
-    "id": 35,
-    "question": "In a vertical tubeless boiler, the power burner fires:",
-    "options": [
-      "Straight up into the chimney",
-      "Upward through the vertical boiler tubes",
-      "Down a central furnace tube",
-      "Sideways across the steam drum"
-    ],
-    "correctAnswer": 2,
-    "explanation": "In vertical tubeless boilers, the burner typically fires downward into a central cylindrical furnace tube."
-  },
-  {
-    "id": 36,
-    "question": "Using a latent heat of 2150 kJ/kg, the heat to evaporate 8 kg of water at saturation temperature is:",
-    "options": [
-      "2150 kJ",
-      "268.75 kJ",
-      "8600 kJ",
-      "17,200 kJ"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Q = m × hfg = 8 kg × 2150 kJ/kg = 17,200 kJ."
-  },
-  {
-    "id": 37,
-    "question": "A float-and-thermostatic steam trap:",
-    "options": [
-      "Vents the boiler flue gas",
-      "Drains condensate and vents air",
-      "Passes only live steam through",
-      "Continuously pumps feedwater into the boiler"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Float-and-thermostatic (F&T) steam traps automatically and continuously discharge condensate while venting air using an integrated thermostatic air vent."
-  },
-  {
-    "id": 38,
-    "question": "Before entering a boiler, the internal atmosphere should be:",
-    "options": [
-      "Heated up well before entry",
-      "Tested for oxygen and gases",
-      "Simply assumed to be safe",
-      "Pressurized with fresh air before entry"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Confined space entry safety procedures require testing the atmosphere for adequate oxygen and harmful gases prior to entering any boiler vessel."
-  },
-  {
-    "id": 39,
-    "question": "A body of mass 600 kg occupies 0.75 m³. Its density is:",
-    "options": [
-      "1.25 kg/m³",
-      "8000 kg/m³",
-      "450 kg/m³",
-      "800 kg/m³"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Density is mass divided by volume (600 / 0.75 = 800 kg/m³)."
-  },
-  {
-    "id": 40,
-    "question": "To control scale and corrosion in the boiler water, the plant operates a:",
-    "options": [
-      "A forced-draft combustion-air fan",
-      "Chemical feed (water treatment) system",
-      "A pressure-reducing station on the line",
-      "A sootblower on the heating surfaces"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A chemical feed system injects water treatment chemicals into the boiler feedwater or drum to control scale formation and prevent corrosion."
-  },
-  {
-    "id": 41,
-    "question": "The rusting of iron is an example of:",
-    "options": [
-      "The sublimation of a solid",
-      "Oxidation of the metal",
-      "The condensation of a vapour",
-      "A chemical reduction reaction"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Rusting is a chemical oxidation process where iron reacts with oxygen and moisture over time."
-  },
-  {
-    "id": 42,
-    "question": "At high flame temperature, the main source of NOx in a boiler is:",
-    "options": [
-      "Sulphur present in the fuel",
-      "Nitrogen and oxygen in air",
-      "Water vapour formed in burning",
-      "Mineral ash carried in the fuel"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Thermal NOx is formed at high combustion temperatures when nitrogen and oxygen present in the combustion air combine."
-  },
-  {
-    "id": 43,
-    "question": "To allow a length of pipe or a piece of equipment to be removed for maintenance, the line uses:",
-    "options": [
-      "An orifice plate in the line",
-      "A steam trap on the line",
-      "Permanently welded joints only",
-      "Union or flange connections"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Unions or flanged connections provide a convenient way to disconnect piping sections for maintenance or equipment removal."
-  },
-  {
-    "id": 44,
-    "question": "A pressure of 150 kPa acting on an area of 0.2 m² exerts a force of:",
-    "options": [
-      "300 kN",
-      "750 N",
-      "3 kN",
-      "30 kN"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Force equals pressure times area (150,000 Pa × 0.2 m² = 30,000 N = 30 kN)."
-  },
-  {
-    "id": 45,
-    "question": "A lever has an effort arm of 2 m and a load arm of 0.5 m. Its mechanical advantage is:",
-    "options": [
-      "0.25",
-      "4",
-      "2.5",
-      "1"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Mechanical advantage of a lever is the effort arm length divided by the load arm length (2 / 0.5 = 4)."
-  },
-  {
-    "id": 46,
-    "question": "The most effective single measure to cut greenhouse-gas emissions per unit of steam is to:",
-    "options": [
-      "Improve combustion and efficiency",
-      "Bypass the flue-gas economizer",
-      "Lower the temperature of the feedwater",
-      "Run with a high level of excess air"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Improving overall combustion and thermal efficiency reduces the total fuel burned per unit of steam produced, directly lowering greenhouse gas emissions."
-  },
-  {
-    "id": 47,
-    "question": "Porosity in a weld is caused by:",
-    "options": [
-      "Too little welding current in every case",
-      "A slow rate of travel on its own",
-      "Gas trapped in the solidifying weld",
-      "An excessive amount of preheat"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Porosity in welds is caused by gas entrapment (such as nitrogen, oxygen, or hydrogen) within the molten metal as it solidifies."
-  },
-  {
-    "id": 48,
-    "question": "A \"packaged\" boiler is one that is:",
-    "options": [
-      "Built up completely from loose parts on the job site",
-      "Supplied with no burner fitted",
-      "Shipped assembled with controls",
-      "Made only from cast-iron sections"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A packaged boiler is factory-assembled and shipped complete with its burner, controls, and trim mounted on a common base."
-  },
-  {
-    "id": 49,
-    "question": "To drive pumps, fans, and compressors in a plant, the most common choice is a:",
-    "options": [
-      "A direct-current battery on its own",
-      "A small single-cell motor",
-      "A step-down supply transformer",
-      "A three-phase induction motor"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Three-phase induction motors are the standard, most common drivers for plant pumps, fans, and compressors."
-  },
-  {
-    "id": 50,
-    "question": "A relief valve on a hot-water heating boiler protects against:",
-    "options": [
-      "A drop to low water level",
-      "A sudden loss of the burner flame signal",
-      "A high flue-gas temperature",
-      "Overpressure in the system"
-    ],
-    "correctAnswer": 3,
-    "explanation": "A relief valve on a hot-water heating boiler opens to protect the system against excessive pressure."
-  },
-  {
-    "id": 51,
-    "question": "\"Thermal pollution\" from a power plant refers to:",
-    "options": [
-      "Waste heat warming the water",
-      "Stray light spilling out at night",
-      "Ash being deposited on the land",
-      "Noise produced by the large plant fans"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Thermal pollution is the degradation of water quality by any process that changes ambient water temperature, typically discharging waste heat into natural water bodies."
-  },
-  {
-    "id": 52,
-    "question": "For quick on/off isolation with low pressure drop, an operator would choose a:",
-    "options": [
-      "Ball valve",
-      "Needle valve",
-      "Globe valve",
-      "Swing check valve"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ball valves provide quick quarter-turn on/off operation and straight-through flow with minimal pressure drop."
-  },
-  {
-    "id": 53,
-    "question": "Continuous blowdown is often controlled automatically based on the boiler water's:",
-    "options": [
-      "The temperature of the boiler flue gas",
-      "Conductivity of the water",
-      "The speed of the boiler feed pump",
-      "The working steam pressure"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Boiler water conductivity correlates directly with total dissolved solids (TDS), making it the standard parameter for automatic continuous blowdown control."
-  },
-  {
-    "id": 54,
-    "question": "A substance that gains electrons in a chemical reaction is said to be:",
-    "options": [
-      "Evaporated",
-      "Neutralized",
-      "Oxidized",
-      "Reduced"
-    ],
-    "correctAnswer": 3,
-    "explanation": "In redox reactions, reduction involves the gain of electrons (OIL RIG - Oxidation Is Loss, Reduction Is Gain)."
-  },
-  {
-    "id": 55,
-    "question": "As steam pressure rises, the latent heat of vaporization:",
-    "options": [
-      "Immediately becomes zero",
-      "Decreases",
-      "Increases",
-      "Stays constant"
-    ],
-    "correctAnswer": 1,
-    "explanation": "As operating pressure increases toward the critical point, the latent heat of vaporization steadily decreases until it reaches zero at the critical pressure."
-  },
-  {
-    "id": 56,
-    "question": "The heat needed to raise one kilogram of water by one degree Celsius is about:",
-    "options": [
-      "About 1 kJ",
-      "About 4.19 kJ",
-      "About 0.24 kJ",
-      "About 100 kJ"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The specific heat capacity of water is approximately 4.187 kJ/kg·°C, which is about 4.19 kJ per kg per °C."
-  },
-  {
-    "id": 57,
-    "question": "A through-stay in a firetube boiler runs:",
-    "options": [
-      "Full length, both tubesheets",
-      "Right around the outside of the boiler shell",
-      "Across the water leg only",
-      "Up through the boiler chimney"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Through-stays run the full length of a firetube boiler from the front tubesheet to the rear tubesheet to support flat heads against pressure."
-  },
-  {
-    "id": 58,
-    "question": "A common analog current signal in modern instrument loops is:",
-    "options": [
-      "0–60 Hz",
-      "0–500 V",
-      "1–10 kPa",
-      "4–20 mA"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The standard analog electrical current signal widely used in industrial instrumentation and control loops is 4–20 mA."
-  },
-  {
-    "id": 59,
-    "question": "A steam injector feeds water to a boiler by using:",
-    "options": [
-      "Steam jet draws and forces water",
-      "Gravity feeding from a head tank",
-      "An electrically driven impeller",
-      "A reciprocating piston-driven feed pump"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A steam injector uses a high-velocity steam jet to entrain and force water into a boiler against the boiler operating pressure."
-  },
-  {
-    "id": 60,
-    "question": "Steam lines are sloped and fitted with drip legs mainly to:",
-    "options": [
-      "Greatly increase the velocity of the flowing steam",
-      "Cool the steam as it travels",
-      "Raise the pressure in the line",
-      "Drain condensate to stop hammer"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Sloping steam lines and providing drip legs allow condensate to be collected and drained effectively, preventing dangerous water hammer."
-  },
-  {
-    "id": 61,
-    "question": "To supply a service line at a reduced, steady pressure below boiler pressure, install a:",
-    "options": [
-      "A check valve to stop backflow",
-      "A pressure-reducing valve on the line",
-      "A gate valve for isolation",
-      "A safety valve set above the pressure"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A pressure-reducing valve (PRV) automatically reduces a higher inlet pressure to a steady, lower downstream delivery pressure."
-  },
-  {
-    "id": 62,
-    "question": "A diaphragm element in an instrument is commonly used to sense:",
-    "options": [
-      "Pressure or differential",
-      "The temperature of a process",
-      "The rotational speed of a shaft",
-      "The voltage in a circuit"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A flexible diaphragm element is widely used in pressure transmitters and gauges to measure gauge pressure, vacuum, or differential pressure."
-  },
-  {
-    "id": 63,
-    "question": "The work done in lifting a 200 N load through 5 m is:",
-    "options": [
-      "40 J",
-      "1000 N",
-      "1000 J",
-      "205 J"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Work is force multiplied by distance (200 N × 5 m = 1000 J)."
-  },
-  {
-    "id": 64,
-    "question": "A Class C fire involves:",
-    "options": [
-      "Burning combustible metals",
-      "Burning flammable liquids",
-      "Energized electrical equipment",
-      "Ordinary combustible materials"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Class C fires involve energized electrical equipment, requiring non-conductive extinguishing agents."
-  },
-  {
-    "id": 65,
-    "question": "To keep NOx low and burn a wide variety of fuels (coal, wood, refuse), a plant would choose a:",
-    "options": [
-      "A Scotch marine firetube boiler",
-      "A cast-iron sectional boiler",
-      "A coil-tube once-through boiler",
-      "Fluidized-bed combustion boiler"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Fluidized-bed combustion (FBC) boilers operate at lower temperatures, which suppresses NOx formation and allows burning of diverse, low-grade solid fuels efficiently."
-  },
-  {
-    "id": 66,
-    "question": "A \"ligament\" in a boiler tubesheet is:",
-    "options": [
-      "A lining of furnace refractory",
-      "A run of boiler steam piping",
-      "A particular type of boiler stay",
-      "Metal strip between tube holes"
-    ],
-    "correctAnswer": 3,
-    "explanation": "A ligament is the solid strip of metal remaining between adjacent tube holes drilled in a boiler tubesheet or drum."
-  },
-  {
-    "id": 67,
-    "question": "Boiler-room floors are kept clean and dry mainly to:",
-    "options": [
-      "Help raise the plant's efficiency",
-      "Improve the quality of the steam",
-      "Prevent slips, falls and fires",
-      "Cut down on the amount of blowdown"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Maintaining clean and dry boiler-room floors is a primary housekeeping practice essential for preventing slips, trips, falls, and fire hazards."
-  },
-  {
-    "id": 68,
-    "question": "The unit of electrical resistance is the:",
-    "options": [
-      "Ampere",
-      "Ohm",
-      "Watt",
-      "Volt"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The standard SI unit of electrical resistance is the ohm (Ω)."
-  },
-  {
-    "id": 69,
-    "question": "A burner management system (BMS) primarily ensures:",
-    "options": [
-      "The scheduling of boiler blowdown",
-      "The treatment of the feedwater",
-      "The metering of the plant electrical supply",
-      "Safe light-off and shutdown"
-    ],
-    "correctAnswer": 3,
-    "explanation": "A Burner Management System (BMS) is a safety control system dedicated to ensuring safe startup, operation, and shutdown sequences of the burner."
-  },
-  {
-    "id": 70,
-    "question": "To hold a very steady water level on a boiler whose load swings, the plant uses:",
-    "options": [
-      "No automatic level control at all",
-      "Manual blowdown of the boiler only",
-      "A modulating feedwater control",
-      "A simple on-off feedwater control"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A modulating feedwater control continuously adjusts valve position to match feedwater flow precisely with steaming rate, maintaining stable level during load swings."
-  },
-  {
-    "id": 71,
-    "question": "The property that lets a material absorb energy and resist sudden impact is:",
-    "options": [
-      "Conductivity to heat and electricity",
-      "Toughness, the resistance to impact",
-      "Hardness against scratching and wear",
-      "Brittleness, the tendency to snap"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Toughness is the mechanical property that enables a material to absorb energy and deform plastically before fracturing under impact."
-  },
-  {
-    "id": 72,
-    "question": "Machine guards on pumps and fans are fitted to:",
-    "options": [
-      "Cut down on the noise alone",
-      "Measure the speed of the shaft",
-      "Keep clear of moving parts",
-      "Improve the running efficiency"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Machine guards protect personnel by preventing accidental contact with rotating or moving mechanical parts like belts, couplings, and shafts."
-  },
-  {
-    "id": 73,
-    "question": "Convert 212°F to Celsius. (°C = 5/9 × (°F − 32))",
-    "options": [
-      "120°C",
-      "100°C",
-      "117°C",
-      "80°C"
-    ],
-    "correctAnswer": 1,
-    "explanation": "°C = 5/9 × (212 − 32) = 5/9 × 180 = 100 °C."
-  },
-  {
-    "id": 74,
-    "question": "The discharge piping of a safety valve should be:",
-    "options": [
-      "Piped to a safe spot, free-draining, never valved",
-      "Routed straight back into the boiler feedwater line",
-      "Fitted with a shutoff valve in it",
-      "Capped off when it is not in use"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Safety valve discharge pipes must be independently supported, free-draining to prevent liquid accumulation, routed to a safe location, and strictly have no valves in between."
-  },
-  {
-    "id": 75,
-    "question": "Intermittent bottom blowdown is normally performed:",
-    "options": [
-      "Only during a full plant shutdown",
-      "Automatically, from the steam space",
-      "Briefly, from the lowest point",
-      "Continuously, from near the waterline"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Intermittent bottom blowdown is performed manually for short periods to remove settled sludge and heavy solids from the lowest point of the boiler."
-  },
-  {
-    "id": 76,
-    "question": "Grounding (earthing) electrical equipment is done mainly to:",
-    "options": [
-      "Cut the current the equipment draws",
-      "Improve the running efficiency",
-      "Protect people from electric shock",
-      "Boost the supply voltage"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Electrical equipment grounding provides a safe path for fault current to ground, protecting operators and maintenance personnel from dangerous electric shocks."
-  },
-  {
-    "id": 77,
-    "question": "Radiographic testing (RT) of a weld uses:",
-    "options": [
-      "Ultrasonic echoes through the metal",
-      "Magnetic particles on the surface",
-      "X-rays or gamma rays on the weld",
-      "Dye drawn into surface cracks"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Radiographic testing uses penetrating X-rays or gamma radiation to produce an image revealing internal volumetric flaws or defects in welds."
-  },
-  {
-    "id": 78,
-    "question": "A gauge glass fitted with ball checks will:",
-    "options": [
-      "Automatically raise the boiler water level",
-      "Shut off if the glass breaks",
-      "Add chemicals to the water",
-      "Measure the boiler pressure"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ball checks in gauge glass assemblies are designed to automatically shut off the flow of water and steam if the glass tube shatters or breaks."
-  },
-  {
-    "id": 79,
-    "question": "A sight glass on a tank is used to:",
-    "options": [
-      "Provide on-off control of the pump",
-      "Measure the pressure in the tank",
-      "Take a sample of the gas space",
-      "Show the liquid level visually"
-    ],
-    "correctAnswer": 3,
-    "explanation": "A sight glass provides a direct, visual indication of the liquid level inside a vessel or tank."
-  },
-  {
-    "id": 80,
-    "question": "A clear verbal report to the incoming shift should include:",
-    "options": [
-      "Nothing at all if things seem normal",
-      "General unrelated conversation",
-      "Only the operator's personal opinions of the shift",
-      "Abnormal conditions and plant status"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Shift handovers require clear communication focusing on plant status, ongoing maintenance, and any abnormal conditions or operating issues."
-  },
-  {
-    "id": 81,
-    "question": "Three 60 Ω resistors connected in parallel give a total resistance of:",
-    "options": [
-      "20 Ω",
-      "180 Ω",
-      "60 Ω",
-      "20,000 Ω"
-    ],
-    "correctAnswer": 0,
-    "explanation": "For equal resistors in parallel, R = R/n = 60 / 3 = 20 Ω."
-  },
-  {
-    "id": 82,
+    "number": 1,
+    "question": "Acceleration is how quickly velocity changes with time.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Acceleration is how quickly velocity changes with time.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Acceleration is how quickly velocity changes with time [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 2,
+    "question": "The nameplate records key design data such as manufacturer, MAWP, and capacity.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "The nameplate records key design data such as manufacturer, MAWP, and capacity.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "The nameplate records key design data such as manufacturer, MAWP, and capacity [Codes & standards]."
+  },
+  {
+    "number": 3,
+    "question": "Handholes give access to small spaces for cleaning; manholes admit a person.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Handholes give access to small spaces for cleaning; manholes admit a person.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Handholes give access to small spaces for cleaning; manholes admit a person [Boilers]."
+  },
+  {
+    "number": 4,
+    "question": "Penetrant is drawn into surface-breaking cracks and revealed by a developer; it finds surface flaws only.",
+    "options": {
+      "A": "Penetrant is drawn into surface-breaking cracks and revealed by a developer; it finds surface flaws only.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "Penetrant is drawn into surface-breaking cracks and revealed by a developer; it finds surface flaws only [Materials & welding]."
+  },
+  {
+    "number": 5,
+    "question": "P = W + t = 12,000 + 4 = 3000 W.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "P = W + t = 12,000 + 4 = 3000 W.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "P = W + t = 12,000 + 4 = 3000 W [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 6,
+    "question": "Baffles route gases over more surface (extra passes), improving heat transfer.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Baffles route gases over more surface (extra passes), improving heat transfer."
+    },
+    "correctAnswer": "D",
+    "explanation": "Baffles route gases over more surface (extra passes), improving heat transfer [Boilers]."
+  },
+  {
+    "number": 7,
+    "question": "Girth seams join successive courses end to end; longitudinal seams run along each course.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Girth seams join successive courses end to end; longitudinal seams run along each course.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Girth seams join successive courses end to end; longitudinal seams run along each course [Boilers]."
+  },
+  {
+    "number": 8,
+    "question": "In an OTSG all entering water is turned to steam, so no steam drum is needed.",
+    "options": {
+      "A": "In an OTSG all entering water is turned to steam, so no steam drum is needed.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "In an OTSG all entering water is turned to steam, so no steam drum is needed [Boilers]."
+  },
+  {
+    "number": 9,
+    "question": "The header collects and distributes steam to the plant loads.",
+    "options": {
+      "A": "The header collects and distributes steam to the plant loads.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "The header collects and distributes steam to the plant loads [Boiler systems]."
+  },
+  {
+    "number": 10,
+    "question": "Lockout/tagout of all energy sources prevents unexpected start-up during maintenance.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Lockout/tagout of all energy sources prevents unexpected start-up during maintenance.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Lockout/tagout of all energy sources prevents unexpected start-up during maintenance [Power & heating plant safety]."
+  },
+  {
+    "number": 11,
+    "question": "pH indicates acidity/alkalinity: 7 is neutral, lower is acidic, higher is basic.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "pH indicates acidity/alkalinity: 7 is neutral, lower is acidic, higher is basic.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "pH indicates acidity/alkalinity: 7 is neutral, lower is acidic, higher is basic [Chemistry & thermodynamics]."
+  },
+  {
+    "number": 12,
+    "question": "Gate valves give low-restriction isolation; they are not meant for throttling.",
+    "options": {
+      "A": "Gate valves give low-restriction isolation; they are not meant for throttling.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "Gate valves give low-restriction isolation; they are not meant for throttling [Piping & valves]."
+  },
+  {
+    "number": 13,
+    "question": "A pump forces water through a continuous coil exposed to combustion gas — a once-through watertube design.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "A pump forces water through a continuous coil exposed to combustion gas — a once-through watertube design."
+    },
+    "correctAnswer": "D",
+    "explanation": "A pump forces water through a continuous coil exposed to combustion gas — a once-through watertube design [Boilers]."
+  },
+  {
+    "number": 14,
+    "question": "Cut the fuel, ventilate, and remove ignition sources; gas leaks risk explosion.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Cut the fuel, ventilate, and remove ignition sources; gas leaks risk explosion.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Cut the fuel, ventilate, and remove ignition sources; gas leaks risk explosion [Power & heating plant safety]."
+  },
+  {
+    "number": 15,
+    "question": "Radiation transfers heat as electromagnetic waves, even through a vacuum.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Radiation transfers heat as electromagnetic waves, even through a vacuum.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Radiation transfers heat as electromagnetic waves, even through a vacuum [Chemistry & thermodynamics]."
+  },
+  {
+    "number": 16,
+    "question": "A desuperheater sprays water or uses a heat exchanger to bring steam temperature to the set value.",
+    "options": {
+      "A": "A desuperheater sprays water or uses a heat exchanger to bring steam temperature to the set value.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "A desuperheater sprays water or uses a heat exchanger to bring steam temperature to the set value [Boiler systems]."
+  },
+  {
+    "number": 17,
+    "question": "A thermistor's resistance changes sharply with temperature, giving sensitive measurement.",
+    "options": {
+      "A": "Option A",
+      "B": "A thermistor's resistance changes sharply with temperature, giving sensitive measurement.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "A thermistor's resistance changes sharply with temperature, giving sensitive measurement [Instrumentation & controls]."
+  },
+  {
+    "number": 18,
+    "question": "Wet or dry scrubbers react SOx with an alkaline reagent (e.g., lime) to remove it.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Wet or dry scrubbers react SOx with an alkaline reagent (e.g., lime) to remove it."
+    },
+    "correctAnswer": "D",
+    "explanation": "Wet or dry scrubbers react SOx with an alkaline reagent (e.g., lime) to remove it [Environment]."
+  },
+  {
+    "number": 19,
+    "question": "A clearly marked remote shutoff lets operators cut fuel immediately if a hazard arises.",
+    "options": {
+      "A": "A clearly marked remote shutoff lets operators cut fuel immediately if a hazard arises.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "A clearly marked remote shutoff lets operators cut fuel immediately if a hazard arises [Power & heating plant safety]."
+  },
+  {
+    "number": 20,
+    "question": "Factor of safety = ultimate ÷ working = 600 ÷ 150 = 4.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Factor of safety = ultimate ÷ working = 600 ÷ 150 = 4.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Factor of safety = ultimate ÷ working = 600 ÷ 150 = 4 [Materials & welding]."
+  },
+  {
+    "number": 21,
+    "question": "Hydrostatic testing applies water pressure above MAWP (often 1.5×) to prove integrity.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Hydrostatic testing applies water pressure above MAWP (often 1.5×) to prove integrity.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Hydrostatic testing applies water pressure above MAWP (often 1.5×) to prove integrity [Codes & standards]."
+  },
+  {
+    "number": 22,
+    "question": "The guard shields personnel from flying glass and hot water if the glass fails.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "The guard shields personnel from flying glass and hot water if the glass fails."
+    },
+    "correctAnswer": "D",
+    "explanation": "The guard shields personnel from flying glass and hot water if the glass fails [Boiler systems]."
+  },
+  {
+    "number": 23,
+    "question": "Surface blowoff skims the high-TDS layer near the waterline; bottom blowdown removes sludge.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Surface blowoff skims the high-TDS layer near the waterline; bottom blowdown removes sludge.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Surface blowoff skims the high-TDS layer near the waterline; bottom blowdown removes sludge [Boiler systems]."
+  },
+  {
+    "number": 24,
+    "question": "MAWP is the design-based maximum safe operating pressure stamped on the boiler.",
+    "options": {
+      "A": "MAWP is the design-based maximum safe operating pressure stamped on the boiler.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "MAWP is the design-based maximum safe operating pressure stamped on the boiler [Codes & standards]."
+  },
+  {
+    "number": 25,
+    "question": "Preheat slows cooling, lowering residual stress and the risk of cracking.",
+    "options": {
+      "A": "Option A",
+      "B": "Preheat slows cooling, lowering residual stress and the risk of cracking.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "Preheat slows cooling, lowering residual stress and the risk of cracking [Materials & welding]."
+  },
+  {
+    "number": 26,
+    "question": "Cast iron (high carbon) is hard and wear-resistant but brittle.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Cast iron (high carbon) is hard and wear-resistant but brittle.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Cast iron (high carbon) is hard and wear-resistant but brittle [Materials & welding]."
+  },
+  {
+    "number": 27,
+    "question": "A reheater raises the temperature of partly expanded turbine steam before later turbine stages.",
+    "options": {
+      "A": "Option A",
+      "B": "A reheater raises the temperature of partly expanded turbine steam before later turbine stages.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "A reheater raises the temperature of partly expanded turbine steam before later turbine stages [Boilers]."
+  },
+  {
+    "number": 28,
+    "question": "Firetube boilers store much water, so they respond slowly and suit lower pressures and capacities.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Firetube boilers store much water, so they respond slowly and suit lower pressures and capacities."
+    },
+    "correctAnswer": "D",
+    "explanation": "Firetube boilers store much water, so they respond slowly and suit lower pressures and capacities [Boilers]."
+  },
+  {
+    "number": 29,
+    "question": "A butterfly valve's central disc rotates to open, close, or throttle the line.",
+    "options": {
+      "A": "Option A",
+      "B": "A butterfly valve's central disc rotates to open, close, or throttle the line.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "A butterfly valve's central disc rotates to open, close, or throttle the line [Piping & valves]."
+  },
+  {
+    "number": 30,
+    "question": "The transmitter conditions the sensor reading into a standard signal such as 4–20 mA.",
+    "options": {
+      "A": "The transmitter conditions the sensor reading into a standard signal such as 4–20 mA.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "The transmitter conditions the sensor reading into a standard signal such as 4–20 mA [Instrumentation & controls]."
+  },
+  {
+    "number": 31,
+    "question": "Proportional control output changes in proportion to how far the measurement is from the set point.",
+    "options": {
+      "A": "Option A",
+      "B": "Proportional control output changes in proportion to how far the measurement is from the set point.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "Proportional control output changes in proportion to how far the measurement is from the set point [Instrumentation & controls]."
+  },
+  {
+    "number": 32,
+    "question": "Provincial law requires a power engineer's certificate appropriate to the plant's class.",
+    "options": {
+      "A": "Provincial law requires a power engineer's certificate appropriate to the plant's class.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "Provincial law requires a power engineer's certificate appropriate to the plant's class [Codes & standards]."
+  },
+  {
+    "number": 33,
+    "question": "Q = mcΔT = 25 × 4.187 × 50 = 5233.75 kJ.",
+    "options": {
+      "A": "Option A",
+      "B": "Q = mcΔT = 25 × 4.187 × 50 = 5233.75 kJ.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "Q = mcΔT = 25 × 4.187 × 50 = 5233.75 kJ [Chemistry & thermodynamics]."
+  },
+  {
+    "number": 34,
+    "question": "Standard symbols let engineers, operators, and trades interpret drawings the same way.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Standard symbols let engineers, operators, and trades interpret drawings the same way."
+    },
+    "correctAnswer": "D",
+    "explanation": "Standard symbols let engineers, operators, and trades interpret drawings the same way [Plant communication]."
+  },
+  {
+    "number": 35,
+    "question": "The burner at the top fires downward through the central furnace tube.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "The burner at the top fires downward through the central furnace tube.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "The burner at the top fires downward through the central furnace tube [Boilers]."
+  },
+  {
+    "number": 36,
+    "question": "Q = m × latent heat = 8 × 2150 = 17,200 kJ.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Q = m × latent heat = 8 × 2150 = 17,200 kJ."
+    },
+    "correctAnswer": "D",
+    "explanation": "Q = m × latent heat = 8 × 2150 = 17,200 kJ [Chemistry & thermodynamics]."
+  },
+  {
+    "number": 37,
+    "question": "The float passes condensate while the thermostatic element vents air, common on heating coils.",
+    "options": {
+      "A": "Option A",
+      "B": "The float passes condensate while the thermostatic element vents air, common on heating coils.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "The float passes condensate while the thermostatic element vents air, common on heating coils [Piping & valves]."
+  },
+  {
+    "number": 38,
+    "question": "Confined-space entry requires testing for adequate oxygen and absence of toxic/flammable gases.",
+    "options": {
+      "A": "Option A",
+      "B": "Confined-space entry requires testing for adequate oxygen and absence of toxic/flammable gases.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "Confined-space entry requires testing for adequate oxygen and absence of toxic/flammable gases [Power & heating plant safety]."
+  },
+  {
+    "number": 39,
+    "question": "Density = mass ÷ volume = 600 ÷ 0.75 = 800 kg/m³.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Density = mass ÷ volume = 600 ÷ 0.75 = 800 kg/m³."
+    },
+    "correctAnswer": "D",
+    "explanation": "Density = mass ÷ volume = 600 ÷ 0.75 = 800 kg/m³ [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 40,
+    "question": "Treatment chemicals are dosed to control scale, corrosion, and pH in the boiler water.",
+    "options": {
+      "A": "Option A",
+      "B": "Treatment chemicals are dosed to control scale, corrosion, and pH in the boiler water.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "Treatment chemicals are dosed to control scale, corrosion, and pH in the boiler water [Boiler systems]."
+  },
+  {
+    "number": 41,
+    "question": "Iron reacts with oxygen and moisture to form iron oxide (rust), an oxidation/corrosion process.",
+    "options": {
+      "A": "Option A",
+      "B": "Iron reacts with oxygen and moisture to form iron oxide (rust), an oxidation/corrosion process.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "Iron reacts with oxygen and moisture to form iron oxide (rust), an oxidation/corrosion process [Chemistry & thermodynamics]."
+  },
+  {
+    "number": 42,
+    "question": "At high temperatures atmospheric nitrogen and oxygen combine to form thermal NOx.",
+    "options": {
+      "A": "Option A",
+      "B": "At high temperatures atmospheric nitrogen and oxygen combine to form thermal NOx.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "At high temperatures atmospheric nitrogen and oxygen combine to form thermal NOx [Environment]."
+  },
+  {
+    "number": 43,
+    "question": "Unions and flanges let pipe and equipment be disconnected without cutting the line.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Unions and flanges let pipe and equipment be disconnected without cutting the line."
+    },
+    "correctAnswer": "D",
+    "explanation": "Unions and flanges let pipe and equipment be disconnected without cutting the line [Piping & valves]."
+  },
+  {
+    "number": 44,
+    "question": "F = P × A = 150,000 × 0.2 = 30,000 N = 30 kN.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "F = P × A = 150,000 × 0.2 = 30,000 N = 30 kN."
+    },
+    "correctAnswer": "D",
+    "explanation": "F = P × A = 150,000 × 0.2 = 30,000 N = 30 kN [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 45,
+    "question": "MA = effort arm ÷ load arm = 2 ÷ 0.5 = 4.",
+    "options": {
+      "A": "Option A",
+      "B": "MA = effort arm ÷ load arm = 2 ÷ 0.5 = 4.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "MA = effort arm ÷ load arm = 2 ÷ 0.5 = 4 [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 46,
+    "question": "Higher efficiency burns less fuel per unit of output, directly lowering CO2 and other emissions.",
+    "options": {
+      "A": "Higher efficiency burns less fuel per unit of output, directly lowering CO2 and other emissions.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "Higher efficiency burns less fuel per unit of output, directly lowering CO2 and other emissions [Environment]."
+  },
+  {
+    "number": 47,
+    "question": "Gas from moisture, contamination, or poor shielding becomes trapped during solidification.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Gas from moisture, contamination, or poor shielding becomes trapped during solidification.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Gas from moisture, contamination, or poor shielding becomes trapped during solidification [Materials & welding]."
+  },
+  {
+    "number": 48,
+    "question": "Packaged boilers arrive assembled with burner, controls, and casing, ready to connect.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Packaged boilers arrive assembled with burner, controls, and casing, ready to connect.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Packaged boilers arrive assembled with burner, controls, and casing, ready to connect [Boilers]."
+  },
+  {
+    "number": 49,
+    "question": "Three-phase induction motors are rugged and efficient, ideal for plant rotating equipment.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Three-phase induction motors are rugged and efficient, ideal for plant rotating equipment."
+    },
+    "correctAnswer": "D",
+    "explanation": "Three-phase induction motors are rugged and efficient, ideal for plant rotating equipment [Electricity]."
+  },
+  {
+    "number": 50,
+    "question": "The relief valve guards the closed hot-water system against excess pressure.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "The relief valve guards the closed hot-water system against excess pressure."
+    },
+    "correctAnswer": "D",
+    "explanation": "The relief valve guards the closed hot-water system against excess pressure [Boiler systems]."
+  },
+  {
+    "number": 51,
+    "question": "Discharging warm cooling water raises river/lake temperature, harming aquatic life.",
+    "options": {
+      "A": "Discharging warm cooling water raises river/lake temperature, harming aquatic life.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "Discharging warm cooling water raises river/lake temperature, harming aquatic life [Environment]."
+  },
+  {
+    "number": 52,
+    "question": "A quarter turn opens or closes a ball valve fully, with low resistance when open.",
+    "options": {
+      "A": "A quarter turn opens or closes a ball valve fully, with low resistance when open.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "A quarter turn opens or closes a ball valve fully, with low resistance when open [Piping & valves]."
+  },
+  {
+    "number": 53,
+    "question": "A conductivity controller adjusts continuous blowdown to hold dissolved solids within limits.",
+    "options": {
+      "A": "Option A",
+      "B": "A conductivity controller adjusts continuous blowdown to hold dissolved solids within limits.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "A conductivity controller adjusts continuous blowdown to hold dissolved solids within limits [Boiler systems]."
+  },
+  {
+    "number": 54,
+    "question": "Reduction is gain of electrons; oxidation is loss of electrons.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Reduction is gain of electrons; oxidation is loss of electrons."
+    },
+    "correctAnswer": "D",
+    "explanation": "Reduction is gain of electrons; oxidation is loss of electrons [Chemistry & thermodynamics]."
+  },
+  {
+    "number": 55,
+    "question": "At higher pressure more energy is already in the water as sensible heat, so latent heat falls.",
+    "options": {
+      "A": "Option A",
+      "B": "At higher pressure more energy is already in the water as sensible heat, so latent heat falls.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "At higher pressure more energy is already in the water as sensible heat, so latent heat falls [Chemistry & thermodynamics]."
+  },
+  {
+    "number": 56,
+    "question": "The specific heat of water is about 4.187 kJ/kg·°C.",
+    "options": {
+      "A": "Option A",
+      "B": "The specific heat of water is about 4.187 kJ/kg·°C.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "The specific heat of water is about 4.187 kJ/kg·°C [Chemistry & thermodynamics]."
+  },
+  {
+    "number": 57,
+    "question": "Through (long) stays tie the front and rear flat heads together against pressure.",
+    "options": {
+      "A": "Through (long) stays tie the front and rear flat heads together against pressure.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "Through (long) stays tie the front and rear flat heads together against pressure [Boilers]."
+  },
+  {
+    "number": 58,
+    "question": "Cooler dense water falls in downcomers while the lighter heated mixture rises, circulating naturally.",
+    "options": {
+      "A": "Option A",
+      "B": "Cooler dense water falls in downcomers while the lighter heated mixture rises, circulating naturally.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "Cooler dense water falls in downcomers while the lighter heated mixture rises, circulating naturally [Boilers]."
+  },
+  {
+    "number": 59,
+    "question": "Cylinders are chained upright with valve caps on to prevent falls and valve damage.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Cylinders are chained upright with valve caps on to prevent falls and valve damage."
+    },
+    "correctAnswer": "D",
+    "explanation": "Cylinders are chained upright with valve caps on to prevent falls and valve damage [Power & heating plant safety]."
+  },
+  {
+    "number": 60,
+    "question": "V = I × R = 4 × 25 = 100 V.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "V = I × R = 4 × 25 = 100 V."
+    },
+    "correctAnswer": "D",
+    "explanation": "V = I × R = 4 × 25 = 100 V [Electricity]."
+  },
+  {
+    "number": 61,
+    "question": "AC reverses direction cyclically (e.g., 60 times per second); DC flows in one direction.",
+    "options": {
+      "A": "Option A",
+      "B": "AC reverses direction cyclically (e.g., 60 times per second); DC flows in one direction.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "AC reverses direction cyclically (e.g., 60 times per second); DC flows in one direction [Electricity]."
+  },
+  {
+    "number": 62,
+    "question": "The annunciator signals visually/audibly when a variable goes out of limits.",
+    "options": {
+      "A": "The annunciator signals visually/audibly when a variable goes out of limits.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "The annunciator signals visually/audibly when a variable goes out of limits [Instrumentation & controls]."
+  },
+  {
+    "number": 63,
+    "question": "Hot-work permits ensure combustibles are removed/protected and a fire watch is posted.",
+    "options": {
+      "A": "Option A",
+      "B": "Hot-work permits ensure combustibles are removed/protected and a fire watch is posted.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "Hot-work permits ensure combustibles are removed/protected and a fire watch is posted [Power & heating plant safety]."
+  },
+  {
+    "number": 64,
+    "question": "A centrifugal pump's impeller adds velocity that is converted to pressure head.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "A centrifugal pump's impeller adds velocity that is converted to pressure head.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "A centrifugal pump's impeller adds velocity that is converted to pressure head [Boiler systems]."
+  },
+  {
+    "number": 65,
+    "question": "Heat recovery cuts fuel use, lowering emissions of CO2 and other pollutants.",
+    "options": {
+      "A": "Heat recovery cuts fuel use, lowering emissions of CO2 and other pollutants.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "Heat recovery cuts fuel use, lowering emissions of CO2 and other pollutants [Environment]."
+  },
+  {
+    "number": 66,
+    "question": "A pressure switch opens/closes electrical contacts when pressure reaches its set point.",
+    "options": {
+      "A": "Option A",
+      "B": "A pressure switch opens/closes electrical contacts when pressure reaches its set point.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "A pressure switch opens/closes electrical contacts when pressure reaches its set point [Instrumentation & controls]."
+  },
+  {
+    "number": 67,
+    "question": "4–20 mA is the standard analog transmission signal for process instruments.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "4–20 mA is the standard analog transmission signal for process instruments."
+    },
+    "correctAnswer": "D",
+    "explanation": "4–20 mA is the standard analog transmission signal for process instruments [Instrumentation & controls]."
+  },
+  {
+    "number": 68,
+    "question": "The injector uses a steam jet to entrain feedwater and force it into the boiler.",
+    "options": {
+      "A": "The injector uses a steam jet to entrain feedwater and force it into the boiler.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "The injector uses a steam jet to entrain feedwater and force it into the boiler [Boiler systems]."
+  },
+  {
+    "number": 69,
+    "question": "Sloping and drip legs/traps remove condensate that could otherwise cause water hammer.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Sloping and drip legs/traps remove condensate that could otherwise cause water hammer."
+    },
+    "correctAnswer": "D",
+    "explanation": "Sloping and drip legs/traps remove condensate that could otherwise cause water hammer [Piping & valves]."
+  },
+  {
+    "number": 70,
+    "question": "A PRV throttles to hold the downstream pressure at a set, reduced value.",
+    "options": {
+      "A": "Option A",
+      "B": "A PRV throttles to hold the downstream pressure at a set, reduced value.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "A PRV throttles to hold the downstream pressure at a set, reduced value [Piping & valves]."
+  },
+  {
+    "number": 71,
+    "question": "A flexible diaphragm deflects with pressure and can drive a gauge, switch, or transmitter.",
+    "options": {
+      "A": "A flexible diaphragm deflects with pressure and can drive a gauge, switch, or transmitter.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "A flexible diaphragm deflects with pressure and can drive a gauge, switch, or transmitter [Instrumentation & controls]."
+  },
+  {
+    "number": 72,
+    "question": "W = F × d = 200 × 5 = 1000 J.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "W = F × d = 200 × 5 = 1000 J.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "W = F × d = 200 × 5 = 1000 J [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 73,
+    "question": "Class C fires involve live electrical equipment; the extinguishing agent must be non-conductive.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Class C fires involve live electrical equipment; the extinguishing agent must be non-conductive.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Class C fires involve live electrical equipment; the extinguishing agent must be non-conductive [Power & heating plant safety]."
+  },
+  {
+    "number": 74,
+    "question": "Lower bed temperatures cut NOx and the bed burns many fuels, including waste fuels.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Lower bed temperatures cut NOx and the bed burns many fuels, including waste fuels."
+    },
+    "correctAnswer": "D",
+    "explanation": "Lower bed temperatures cut NOx and the bed burns many fuels, including waste fuels [Boilers]."
+  },
+  {
+    "number": 75,
+    "question": "The ligament is the metal left between tube holes; its strength is checked in design.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "The ligament is the metal left between tube holes; its strength is checked in design."
+    },
+    "correctAnswer": "D",
+    "explanation": "The ligament is the metal left between tube holes; its strength is checked in design [Boilers]."
+  },
+  {
+    "number": 76,
+    "question": "Good housekeeping reduces slip/trip/fall and fire risks around hot, pressurized equipment.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Good housekeeping reduces slip/trip/fall and fire risks around hot, pressurized equipment.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Good housekeeping reduces slip/trip/fall and fire risks around hot, pressurized equipment [Power & heating plant safety]."
+  },
+  {
+    "number": 77,
+    "question": "Resistance is measured in ohms; current in amperes, voltage in volts, power in watts.",
+    "options": {
+      "A": "Option A",
+      "B": "Resistance is measured in ohms; current in amperes, voltage in volts, power in watts.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms; current in amperes, voltage in volts, power in watts [Electricity]."
+  },
+  {
+    "number": 78,
+    "question": "The BMS sequences purge, ignition, flame proving, and safety shutdowns for safe firing.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "The BMS sequences purge, ignition, flame proving, and safety shutdowns for safe firing."
+    },
+    "correctAnswer": "D",
+    "explanation": "The BMS sequences purge, ignition, flame proving, and safety shutdowns for safe firing [Instrumentation & controls]."
+  },
+  {
+    "number": 79,
+    "question": "Modulating control throttles the feed valve smoothly to match steaming rate and hold a steady level.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Modulating control throttles the feed valve smoothly to match steaming rate and hold a steady level.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Modulating control throttles the feed valve smoothly to match steaming rate and hold a steady level [Boiler systems]."
+  },
+  {
+    "number": 80,
+    "question": "Toughness, or impact strength, is the ability to resist fracture under sudden load.",
+    "options": {
+      "A": "Option A",
+      "B": "Toughness, or impact strength, is the ability to resist fracture under sudden load.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "Toughness, or impact strength, is the ability to resist fracture under sudden load [Materials & welding]."
+  },
+  {
+    "number": 81,
+    "question": "Guards keep hands and clothing away from rotating shafts, couplings, and belts.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Guards keep hands and clothing away from rotating shafts, couplings, and belts.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Guards keep hands and clothing away from rotating shafts, couplings, and belts [Power & heating plant safety]."
+  },
+  {
+    "number": 82,
+    "question": "°C = 5/9 × (212 − 32) = 5/9 × 180 = 100°C.",
+    "options": {
+      "A": "Option A",
+      "B": "°C = 5/9 × (212 − 32) = 5/9 × 180 = 100°C.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "°C = 5/9 × (212 − 32) = 5/9 × 180 = 100°C [Chemistry & thermodynamics]."
+  },
+  {
+    "number": 83,
+    "question": "Safety-valve discharge must be unobstructed and drained (drip-pan elbow/escape pipe) to a safe point.",
+    "options": {
+      "A": "Safety-valve discharge must be unobstructed and drained (drip-pan elbow/escape pipe) to a safe point.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "Safety-valve discharge must be unobstructed and drained (drip-pan elbow/escape pipe) to a safe point [Boiler systems]."
+  },
+  {
+    "number": 84,
+    "question": "Bottom blowdown is a brief manual operation from the mud drum/lowest point to remove sludge.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Bottom blowdown is a brief manual operation from the mud drum/lowest point to remove sludge.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Bottom blowdown is a brief manual operation from the mud drum/lowest point to remove sludge [Boiler systems]."
+  },
+  {
+    "number": 85,
+    "question": "Grounding provides a safe path for fault current, reducing shock hazard.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Grounding provides a safe path for fault current, reducing shock hazard.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "Grounding provides a safe path for fault current, reducing shock hazard [Electricity]."
+  },
+  {
+    "number": 86,
+    "question": "RT passes penetrating radiation through the weld to image internal flaws.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "RT passes penetrating radiation through the weld to image internal flaws.",
+      "D": "Option D"
+    },
+    "correctAnswer": "C",
+    "explanation": "RT passes penetrating radiation through the weld to image internal flaws [Materials & welding]."
+  },
+  {
+    "number": 87,
+    "question": "The ball checks seat when the glass bursts, limiting steam and water discharge.",
+    "options": {
+      "A": "Option A",
+      "B": "The ball checks seat when the glass bursts, limiting steam and water discharge.",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "B",
+    "explanation": "The ball checks seat when the glass bursts, limiting steam and water discharge [Boiler systems]."
+  },
+  {
+    "number": 88,
+    "question": "A sight glass shows the level of liquid in a tank or vessel directly.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "A sight glass shows the level of liquid in a tank or vessel directly."
+    },
+    "correctAnswer": "D",
+    "explanation": "A sight glass shows the level of liquid in a tank or vessel directly [Instrumentation & controls]."
+  },
+  {
+    "number": 89,
+    "question": "A good handover covers status, problems, and pending work so operation continues safely.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "A good handover covers status, problems, and pending work so operation continues safely."
+    },
+    "correctAnswer": "D",
+    "explanation": "A good handover covers status, problems, and pending work so operation continues safely [Plant communication]."
+  },
+  {
+    "number": 90,
+    "question": "For equal resistors in parallel, R = 60 ÷ 3 = 20 Ω.",
+    "options": {
+      "A": "For equal resistors in parallel, R = 60 ÷ 3 = 20 Ω.",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "correctAnswer": "A",
+    "explanation": "For equal resistors in parallel, R = 60 ÷ 3 = 20 Ω [Electricity]."
+  },
+  {
+    "number": 91,
     "question": "A boiler safety valve must be set to relieve at a pressure:",
-    "options": [
-      "No higher than the MAWP",
-      "Exactly at the operating pressure",
-      "Well above the boiler's MAWP",
-      "At about half of the MAWP"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A boiler safety valve must be set to open at a pressure no higher than the Maximum Allowable Working Pressure (MAWP) of the boiler vessel."
+    "options": {
+      "A": "No higher than the MAWP",
+      "B": "Exactly at the operating pressure",
+      "C": "Well above the boiler's MAWP",
+      "D": "At about half of the MAWP"
+    },
+    "correctAnswer": "A",
+    "explanation": "The safety-valve set pressure must not exceed the boiler's MAWP [Boiler systems]."
   },
   {
-    "id": 83,
-    "question": "The current drawn when 600 W is used at 120 V is (I = P / V):",
-    "options": [
-      "480 A",
-      "0.2 A",
-      "5 A",
-      "720 A"
-    ],
-    "correctAnswer": 2,
-    "explanation": "I = P / V = 600 W / 120 V = 5 A."
+    "number": 92,
+    "question": "The current drawn when 600 W is used at 120 V is ($I = P / V$):",
+    "options": {
+      "A": "480 A",
+      "B": "0.2 A",
+      "C": "5 A",
+      "D": "720 A"
+    },
+    "correctAnswer": "C",
+    "explanation": "I = P ÷ V = 600 ÷ 120 = 5 A [Electricity]."
   },
   {
-    "id": 84,
+    "number": 93,
     "question": "When lifting a heavy valve by hand, the worker should:",
-    "options": [
-      "Lift it quickly using the arms",
-      "Hold the load away from the body while lifting",
-      "Lift with legs, back straight",
-      "Bend at the back and twist"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Safe manual lifting techniques dictate lifting with the legs and keeping the back straight to prevent spinal injury."
+    "options": {
+      "A": "Lift it quickly using the arms",
+      "B": "Hold the load away from the body while lifting",
+      "C": "Lift with legs, back straight",
+      "D": "Bend at the back and twist"
+    },
+    "correctAnswer": "C",
+    "explanation": "Lifting with the legs and keeping the load close prevents back injury [Power & heating plant safety]."
   },
   {
-    "id": 85,
+    "number": 94,
     "question": "The final control element most directly:",
-    "options": [
-      "Measures the controlled process variable",
-      "Records the process data",
-      "Adjusts to correct the error",
-      "Displays the current reading"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The final control element (such as a control valve) directly alters the manipulated variable to correct the process error."
+    "options": {
+      "A": "Measures the controlled process variable",
+      "B": "Records the process data",
+      "C": "Adjusts to correct the error",
+      "D": "Displays the current reading"
+    },
+    "correctAnswer": "C",
+    "explanation": "The final element, often a valve, acts on the process per the controller's signal [Instrumentation & controls]."
   },
   {
-    "id": 86,
+    "number": 95,
     "question": "The \"heating surface\" of a boiler is the area that has:",
-    "options": [
-      "A refractory lining on both of its sides",
-      "Gas one side, water the other",
-      "Insulation covering both sides",
-      "Steam in contact on both sides"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Boiler heating surface is defined as the area exposed to hot combustion gases on one side and boiler water on the other side."
+    "options": {
+      "A": "A refractory lining on both of its sides",
+      "B": "Gas one side, water the other",
+      "C": "Insulation covering both sides",
+      "D": "Steam in contact on both sides"
+    },
+    "correctAnswer": "B",
+    "explanation": "Heating surface transfers heat from the gas side to the water side [Boilers]."
   },
   {
-    "id": 87,
-    "question": "Selective non-catalytic reduction (SNCR) reduces NOx by injecting:",
-    "options": [
-      "Ammonia or urea into the flue gas",
-      "Crushed limestone fed into the furnace",
-      "Powdered carbon into the gas",
-      "Chlorine gas into the flue"
-    ],
-    "correctAnswer": 0,
-    "explanation": "SNCR systems inject a reagent such as ammonia or urea into the high-temperature flue gas stream to selectively reduce NOx into nitrogen and water."
+    "number": 96,
+    "question": "Selective non-catalytic reduction (SNCR) reduces $\\text{NO}_x$ by injecting:",
+    "options": {
+      "A": "Ammonia or urea into the flue gas",
+      "B": "Crushed limestone fed into the furnace",
+      "C": "Powdered carbon into the gas",
+      "D": "Chlorine gas into the flue"
+    },
+    "correctAnswer": "A",
+    "explanation": "SNCR injects ammonia/urea into the hot gas to convert NOx to nitrogen and water, without a catalyst [Environment]."
   },
   {
-    "id": 88,
+    "number": 97,
     "question": "Velocity is:",
-    "options": [
-      "Force acting per unit of area",
-      "Mass multiplied by its speed",
-      "Speed in a stated direction",
-      "Distance travelled on its own"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Velocity is a vector quantity defined as the rate of change of position, representing speed in a specified direction."
+    "options": {
+      "A": "Force acting per unit of area",
+      "B": "Mass multiplied by its speed",
+      "C": "Speed in a stated direction",
+      "D": "Distance travelled on its own"
+    },
+    "correctAnswer": "C",
+    "explanation": "Velocity is a vector — speed together with direction [Elementary mechanics & dynamics]."
   },
   {
-    "id": 89,
+    "number": 98,
     "question": "A flash tank is used to:",
-    "options": [
-      "Store a supply of fuel oil",
-      "Recover flash steam",
-      "Filter suspended solids from the feedwater",
-      "Cool the air used for combustion"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A flash tank separates flash steam generated from high-pressure condensate drainage so it can be recovered and utilized at a lower pressure."
+    "options": {
+      "A": "Store a supply of fuel oil",
+      "B": "Recover flash steam",
+      "C": "Filter suspended solids from the feedwater",
+      "D": "Cool the air used for combustion"
+    },
+    "correctAnswer": "B",
+    "explanation": "As hot high-pressure condensate/blowdown drops in pressure, some flashes to steam, recovered in a flash tank [Boiler systems]."
   },
   {
-    "id": 90,
+    "number": 99,
     "question": "A cast-iron sectional boiler is always classified as a:",
-    "options": [
-      "Power boiler",
-      "Watertube power boiler",
-      "Supercritical boiler",
-      "Heating boiler"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cast-iron sectional boilers are designed and built specifically for low-pressure hot water or steam heating service (heating boilers)."
+    "options": {
+      "A": "Power boiler",
+      "B": "Watertube power boiler",
+      "C": "Supercritical boiler",
+      "D": "Heating boiler"
+    },
+    "correctAnswer": "D",
+    "explanation": "All cast-iron boilers are built to ASME IV, so they are heating boilers [Boilers]."
   },
   {
-    "id": 91,
+    "number": 100,
     "question": "Hardness in water is caused mainly by dissolved:",
-    "options": [
-      "Calcium and magnesium salts",
-      "Dissolved oxygen in the water",
-      "Sodium chloride (salt) only",
-      "Dissolved carbon dioxide only"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Water hardness is primarily caused by dissolved calcium and magnesium mineral salts, which form scale in boilers."
+    "options": {
+      "A": "Calcium and magnesium salts",
+      "B": "Dissolved oxygen in the water",
+      "C": "Sodium chloride (salt) only",
+      "D": "Dissolved carbon dioxide only"
+    },
+    "correctAnswer": "A",
+    "explanation": "Calcium and magnesium salts cause hardness and form scale in boilers [Chemistry & thermodynamics]."
   }
 ]
