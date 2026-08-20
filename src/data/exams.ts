@@ -1,6 +1,7 @@
 import paper1 from "./papers/partapaper1.json";
 import paper2 from "./papers/partapaper2.json";
 import paper3 from "./papers/partapaper3.json";
+import paper4Raw from "./papers/partapaper4.json";
 
 export interface Question {
   id: number;
@@ -11,6 +12,34 @@ export interface Question {
   correctAnswer: number;
   explanation: string;
 }
+
+/** Raw shape of partapaper4.json: options keyed by letter, correctAnswer as a letter. */
+interface RawPaper4Question {
+  number: number;
+  question: string;
+  options: { A: string; B: string; C: string; D: string };
+  correctAnswer: "A" | "B" | "C" | "D";
+  explanation: string;
+}
+
+const LETTER_INDEX: Record<string, number> = { A: 0, B: 1, C: 2, D: 3 };
+
+/** Convert paper4's object-keyed format into the Question shape the quiz engine uses. */
+function convertPaper4(raw: RawPaper4Question[]): Question[] {
+  return raw.map((q) => {
+    const topicMatch = q.explanation.match(/\[([^\]]+)\]\s*\.?$/);
+    return {
+      id: q.number,
+      question: q.question,
+      options: [q.options.A, q.options.B, q.options.C, q.options.D],
+      correctAnswer: LETTER_INDEX[q.correctAnswer] ?? 0,
+      explanation: q.explanation,
+      topic: topicMatch ? topicMatch[1] : undefined,
+    };
+  });
+}
+
+const paper4 = convertPaper4(paper4Raw as RawPaper4Question[]);
 
 export interface Paper {
   id: string;
@@ -63,7 +92,13 @@ export const exams: Exam[] = [
         description: "100 questions · randomized order",
         questions: paper3 as Question[],
       },
-      ...placeholderPapers(4, 9),
+      {
+        id: "paper4",
+        label: "Paper 4",
+        description: "100 questions · randomized order",
+        questions: paper4,
+      },
+      ...placeholderPapers(5, 9),
     ],
   },
   {
