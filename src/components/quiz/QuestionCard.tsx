@@ -1,4 +1,4 @@
-import { CheckCircle2, XCircle, Lightbulb } from "lucide-react";
+import { CircleCheck as CheckCircle2, Circle as XCircle, Lightbulb, Flag } from "lucide-react";
 import type { Question } from "@/data/exams";
 import { cn } from "@/lib/utils";
 
@@ -9,10 +9,20 @@ interface QuestionCardProps {
   index: number;
   total: number;
   selected: number | null;
+  flagged: boolean;
   onSelect: (optionIndex: number) => void;
+  onToggleFlag: () => void;
 }
 
-export function QuestionCard({ question, index, total, selected, onSelect }: QuestionCardProps) {
+export function QuestionCard({
+  question,
+  index,
+  total,
+  selected,
+  flagged,
+  onSelect,
+  onToggleFlag,
+}: QuestionCardProps) {
   const locked = selected !== null;
 
   return (
@@ -29,9 +39,26 @@ export function QuestionCard({ question, index, total, selected, onSelect }: Que
             {question.question}
           </h1>
         </div>
-        <span className="shrink-0 rounded-full border bg-secondary px-3 py-1 text-xs font-semibold text-secondary-foreground tabular-nums">
-          {index + 1}/{total}
-        </span>
+        <div className="flex shrink-0 items-center gap-2">
+          <button
+            type="button"
+            onClick={onToggleFlag}
+            aria-label={
+              flagged ? "Unflag this question" : "Flag this question for review"
+            }
+            className={cn(
+              "flex size-8 items-center justify-center rounded-full border transition-colors",
+              flagged
+                ? "border-warning bg-warning text-warning-foreground"
+                : "border-border bg-secondary text-muted-foreground hover:text-foreground",
+            )}
+          >
+            <Flag className="size-3.5" />
+          </button>
+          <span className="rounded-full border bg-secondary px-3 py-1 text-xs font-semibold text-secondary-foreground tabular-nums">
+            {index + 1}/{total}
+          </span>
+        </div>
       </div>
 
       <div className="mt-6 flex flex-col gap-2.5">
@@ -51,7 +78,9 @@ export function QuestionCard({ question, index, total, selected, onSelect }: Que
                 !locked &&
                   "cursor-pointer border-border bg-background hover:-translate-y-0.5 hover:border-primary hover:bg-secondary hover:shadow-panel",
                 locked && !reveal && "border-border bg-background opacity-50",
-                reveal && isCorrect && "border-success bg-success text-success-foreground shadow-panel",
+                reveal &&
+                  isCorrect &&
+                  "border-success bg-success text-success-foreground shadow-panel",
                 reveal &&
                   !isCorrect &&
                   "border-destructive bg-destructive text-destructive-foreground shadow-panel",
@@ -60,14 +89,22 @@ export function QuestionCard({ question, index, total, selected, onSelect }: Que
               <span
                 className={cn(
                   "flex size-7 shrink-0 items-center justify-center rounded-lg border text-sm font-bold",
-                  reveal ? "border-current" : "border-border bg-secondary text-secondary-foreground",
+                  reveal
+                    ? "border-current"
+                    : "border-border bg-secondary text-secondary-foreground",
                 )}
               >
                 {LETTERS[i]}
               </span>
-              <span className="min-w-0 flex-1 text-sm leading-relaxed sm:text-base">{option}</span>
-              {reveal && isCorrect && <CheckCircle2 className="mt-0.5 size-5 shrink-0" />}
-              {reveal && !isCorrect && <XCircle className="mt-0.5 size-5 shrink-0" />}
+              <span className="min-w-0 flex-1 text-sm leading-relaxed sm:text-base">
+                {option}
+              </span>
+              {reveal && isCorrect && (
+                <CheckCircle2 className="mt-0.5 size-5 shrink-0" />
+              )}
+              {reveal && !isCorrect && (
+                <XCircle className="mt-0.5 size-5 shrink-0" />
+              )}
             </button>
           );
         })}
@@ -84,8 +121,9 @@ export function QuestionCard({ question, index, total, selected, onSelect }: Que
         >
           <p className="flex items-center gap-2 text-sm font-semibold text-foreground">
             <Lightbulb className="size-4 shrink-0 text-accent" />
-            {selected === question.correctAnswer ? "Correct" : "Incorrect"} — the answer is{" "}
-            {LETTERS[question.correctAnswer]}. {question.options[question.correctAnswer]}
+            {selected === question.correctAnswer ? "Correct" : "Incorrect"} —
+            the answer is {LETTERS[question.correctAnswer]}.{" "}
+            {question.options[question.correctAnswer]}
           </p>
           <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
             {question.explanation}

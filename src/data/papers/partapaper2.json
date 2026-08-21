@@ -74,12 +74,7 @@
   {
     "id": 7,
     "question": "The schedule number of a pipe indicates its:",
-    "options": [
-      "Length",
-      "Material grade",
-      "Wall thickness",
-      "Thread type"
-    ],
+    "options": ["Length", "Material grade", "Wall thickness", "Thread type"],
     "correctAnswer": 2,
     "explanation": "Schedule relates to wall thickness for a given pipe size; a higher schedule is thicker."
   },
@@ -98,24 +93,14 @@
   {
     "id": 9,
     "question": "Two 30 Ω resistors connected in parallel give a total resistance of:",
-    "options": [
-      "15 Ω",
-      "60 Ω",
-      "900 Ω",
-      "30 Ω"
-    ],
+    "options": ["15 Ω", "60 Ω", "900 Ω", "30 Ω"],
     "correctAnswer": 0,
     "explanation": "For two equal parallel resistors, R = 30 ÷ 2 = 15 Ω."
   },
   {
     "id": 10,
     "question": "A bellows element in an instrument is used to sense:",
-    "options": [
-      "Pressure",
-      "Level only",
-      "Flow only",
-      "Temperature only"
-    ],
+    "options": ["Pressure", "Level only", "Flow only", "Temperature only"],
     "correctAnswer": 0,
     "explanation": "A bellows expands or contracts with pressure and can drive an indicator or switch."
   },
@@ -134,12 +119,7 @@
   {
     "id": 12,
     "question": "A rod of cross-section 0.0005 m² carries a load of 15,000 N. The tensile stress is:",
-    "options": [
-      "300 MPa",
-      "30 MPa",
-      "7.5 MPa",
-      "3 MPa"
-    ],
+    "options": ["300 MPa", "30 MPa", "7.5 MPa", "3 MPa"],
     "correctAnswer": 1,
     "explanation": "σ = F ÷ A = 15,000 ÷ 0.0005 = 30,000,000 Pa = 30 MPa."
   },
@@ -206,12 +186,7 @@
   {
     "id": 18,
     "question": "To convert a Celsius temperature to kelvin you:",
-    "options": [
-      "Add 32",
-      "Add 273",
-      "Multiply by 9/5",
-      "Subtract 273"
-    ],
+    "options": ["Add 32", "Add 273", "Multiply by 9/5", "Subtract 273"],
     "correctAnswer": 1,
     "explanation": "K = °C + 273 (more precisely 273.15)."
   },
@@ -338,12 +313,7 @@
   {
     "id": 29,
     "question": "A weld defect that is a groove melted into the base metal at the weld toe and left unfilled is:",
-    "options": [
-      "Porosity",
-      "Spatter",
-      "Undercut",
-      "Slag inclusion"
-    ],
+    "options": ["Porosity", "Spatter", "Undercut", "Slag inclusion"],
     "correctAnswer": 2,
     "explanation": "Undercut reduces the cross-section at the weld toe and concentrates stress."
   },
@@ -386,12 +356,7 @@
   {
     "id": 33,
     "question": "To soften a steel part and relieve internal stresses so it can be machined, it is:",
-    "options": [
-      "Cold-worked",
-      "Case-hardened",
-      "Annealed",
-      "Quenched"
-    ],
+    "options": ["Cold-worked", "Case-hardened", "Annealed", "Quenched"],
     "correctAnswer": 2,
     "explanation": "Annealing (heating then slow cooling) softens steel and relieves stresses."
   },
@@ -434,24 +399,14 @@
   {
     "id": 37,
     "question": "To keep scale and debris from damaging a control valve, the operator installs ahead of it a:",
-    "options": [
-      "Orifice plate",
-      "Check valve",
-      "Pipe strainer",
-      "Steam trap"
-    ],
+    "options": ["Orifice plate", "Check valve", "Pipe strainer", "Steam trap"],
     "correctAnswer": 2,
     "explanation": "The strainer removes particles that could erode or jam the valve."
   },
   {
     "id": 38,
     "question": "Brass is an alloy of copper and:",
-    "options": [
-      "Lead",
-      "Nickel",
-      "Tin",
-      "Zinc"
-    ],
+    "options": ["Lead", "Nickel", "Tin", "Zinc"],
     "correctAnswer": 3,
     "explanation": "Brass is mainly copper and zinc; bronze is mainly copper and tin."
   },
@@ -530,12 +485,7 @@
   {
     "id": 45,
     "question": "Convert 80°C to Fahrenheit. (°F = 9/5 × °C + 32)",
-    "options": [
-      "144°F",
-      "112°F",
-      "146°F",
-      "176°F"
-    ],
+    "options": ["144°F", "112°F", "146°F", "176°F"],
     "correctAnswer": 3,
     "explanation": "°F = (9/5 × 80) + 32 = 144 + 32 = 176°F."
   },
@@ -554,12 +504,7 @@
   {
     "id": 47,
     "question": "A circuit has 240 V across a resistance of 60 Ω. The current is:",
-    "options": [
-      "4 A",
-      "14,400 A",
-      "0.25 A",
-      "300 A"
-    ],
+    "options": ["4 A", "14,400 A", "0.25 A", "300 A"],
     "correctAnswer": 0,
     "explanation": "I = V ÷ R = 240 ÷ 60 = 4 A."
   },
@@ -578,12 +523,7 @@
   {
     "id": 49,
     "question": "If the ultimate stress is 480 MPa and the allowable stress is 120 MPa, the factor of safety is:",
-    "options": [
-      "6",
-      "2",
-      "4",
-      "0.25"
-    ],
+    "options": ["6", "2", "4", "0.25"],
     "correctAnswer": 2,
     "explanation": "Factor of safety = ultimate stress ÷ allowable stress = 480 ÷ 120 = 4."
   },
@@ -686,12 +626,7 @@
   {
     "id": 58,
     "question": "The common AC supply frequency in North America is:",
-    "options": [
-      "60 Hz",
-      "120 Hz",
-      "25 Hz",
-      "50 Hz"
-    ],
+    "options": ["60 Hz", "120 Hz", "25 Hz", "50 Hz"],
     "correctAnswer": 0,
     "explanation": "North American AC mains operate at 60 cycles per second (60 Hz)."
   },
@@ -722,24 +657,14 @@
   {
     "id": 61,
     "question": "Absolute zero is approximately:",
-    "options": [
-      "-100°C",
-      "0°C",
-      "-273°C",
-      "-40°C"
-    ],
+    "options": ["-100°C", "0°C", "-273°C", "-40°C"],
     "correctAnswer": 2,
     "explanation": "Absolute zero (0 K) is about -273°C, where molecular motion theoretically ceases."
   },
   {
     "id": 62,
     "question": "To let a temperature sensor be removed without depressurizing the line, it is installed in a:",
-    "options": [
-      "Strainer",
-      "Siphon",
-      "Thermowell",
-      "Orifice plate"
-    ],
+    "options": ["Strainer", "Siphon", "Thermowell", "Orifice plate"],
     "correctAnswer": 2,
     "explanation": "A thermowell shields the sensor from the process and allows removal while the line stays in service."
   },
@@ -782,12 +707,7 @@
   {
     "id": 66,
     "question": "A mass of 50 kg is lifted 3 m. The work done against gravity is (g = 9.81 m/s²):",
-    "options": [
-      "About 1472 J",
-      "About 150 J",
-      "About 14,715 J",
-      "About 491 J"
-    ],
+    "options": ["About 1472 J", "About 150 J", "About 14,715 J", "About 491 J"],
     "correctAnswer": 0,
     "explanation": "W = mgh = 50 × 9.81 × 3 = 1471.5 J."
   },
@@ -842,12 +762,7 @@
   {
     "id": 71,
     "question": "The tubes that carry the steam-water mixture upward to the steam drum are the:",
-    "options": [
-      "Stay tubes",
-      "Superheater tubes",
-      "Risers",
-      "Downcomers"
-    ],
+    "options": ["Stay tubes", "Superheater tubes", "Risers", "Downcomers"],
     "correctAnswer": 2,
     "explanation": "Heated risers carry the mixture up; cooler downcomers return water to the lower drum."
   },
@@ -914,12 +829,7 @@
   {
     "id": 77,
     "question": "The power dissipated when 5 A flows through 8 Ω is (P = I²R):",
-    "options": [
-      "40 W",
-      "200 W",
-      "320 W",
-      "1.6 W"
-    ],
+    "options": ["40 W", "200 W", "320 W", "1.6 W"],
     "correctAnswer": 1,
     "explanation": "P = I²R = 5² × 8 = 25 × 8 = 200 W."
   },
@@ -962,12 +872,7 @@
   {
     "id": 81,
     "question": "A device that converts mechanical energy into electrical energy is a:",
-    "options": [
-      "Generator",
-      "Transformer",
-      "Motor",
-      "Rectifier"
-    ],
+    "options": ["Generator", "Transformer", "Motor", "Rectifier"],
     "correctAnswer": 0,
     "explanation": "A generator converts rotational mechanical energy to electrical energy; a motor does the reverse."
   },
@@ -986,12 +891,7 @@
   {
     "id": 83,
     "question": "A 2 m bar stretches 1 mm under load. The strain is:",
-    "options": [
-      "0.005",
-      "0.002",
-      "0.00005",
-      "0.0005"
-    ],
+    "options": ["0.005", "0.002", "0.00005", "0.0005"],
     "correctAnswer": 3,
     "explanation": "Strain = ΔL / L = 1 mm ÷ 2000 mm = 0.0005 (dimensionless)."
   },
@@ -1010,24 +910,14 @@
   {
     "id": 85,
     "question": "A force of 300 N acts on a piston of area 0.02 m². The pressure produced is:",
-    "options": [
-      "15 kPa",
-      "150 kPa",
-      "1.5 kPa",
-      "6 kPa"
-    ],
+    "options": ["15 kPa", "150 kPa", "1.5 kPa", "6 kPa"],
     "correctAnswer": 0,
     "explanation": "P = F ÷ A = 300 ÷ 0.02 = 15,000 Pa = 15 kPa."
   },
   {
     "id": 86,
     "question": "Pipe is commonly joined by all of the following EXCEPT:",
-    "options": [
-      "Threading",
-      "Riveting",
-      "Flanging",
-      "Welding"
-    ],
+    "options": ["Threading", "Riveting", "Flanging", "Welding"],
     "correctAnswer": 1,
     "explanation": "Pipe is welded, threaded, or flanged; riveting is not a normal pipe-joining method."
   },

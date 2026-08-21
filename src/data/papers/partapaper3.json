@@ -2,12 +2,7 @@
   {
     "id": 1,
     "question": "Acceleration is the rate of change of:",
-    "options": [
-      "Distance only",
-      "Force",
-      "Velocity",
-      "Mass"
-    ],
+    "options": ["Distance only", "Force", "Velocity", "Mass"],
     "answer": "Velocity",
     "explanation": "Acceleration is defined scientifically as the rate of change of velocity with respect to time."
   },
@@ -50,12 +45,7 @@
   {
     "id": 5,
     "question": "If 12,000 J of work is done in 4 s, the power developed is:",
-    "options": [
-      "750 W",
-      "3000 J",
-      "3000 W",
-      "48,000 W"
-    ],
+    "options": ["750 W", "3000 J", "3000 W", "48,000 W"],
     "answer": "3000 W",
     "explanation": "Power is work divided by time ($P = W / t$). Therefore, $12000 \\text{ J} / 4 \\text{ s} = 3000 \\text{ W}$."
   },
@@ -133,12 +123,7 @@
   {
     "id": 12,
     "question": "For full open/closed isolation of a line with minimal flow restriction, the best valve is a:",
-    "options": [
-      "Gate valve",
-      "Needle valve",
-      "Globe valve",
-      "Relief valve"
-    ],
+    "options": ["Gate valve", "Needle valve", "Globe valve", "Relief valve"],
     "answer": "Gate valve",
     "explanation": "Gate valves are designed for straight-through flow with very little pressure drop when fully open, making them ideal for isolation."
   },
@@ -229,12 +214,7 @@
   {
     "id": 20,
     "question": "If the ultimate strength is 600 MPa and the working stress is 150 MPa, the factor of safety is:",
-    "options": [
-      "0.25",
-      "4.5",
-      "4",
-      "2"
-    ],
+    "options": ["0.25", "4.5", "4", "2"],
     "answer": "4",
     "explanation": "Factor of safety is calculated as ultimate strength divided by working stress ($600 / 150 = 4$)."
   },
@@ -421,12 +401,7 @@
   {
     "id": 36,
     "question": "Using a latent heat of 2150 kJ/kg, the heat to evaporate 8 kg of water at saturation temperature is:",
-    "options": [
-      "2150 kJ",
-      "268.75 kJ",
-      "8600 kJ",
-      "17,200 kJ"
-    ],
+    "options": ["2150 kJ", "268.75 kJ", "8600 kJ", "17,200 kJ"],
     "answer": "17,200 kJ",
     "explanation": "Latent heat energy required is mass multiplied by latent heat ($8 \\text{ kg} \\times 2150 \\text{ kJ/kg} = 17200 \\text{ kJ}$). "
   },
@@ -457,12 +432,7 @@
   {
     "id": 39,
     "question": "A body of mass 600 kg occupies 0.75 m³. Its density is:",
-    "options": [
-      "1.25 kg/m³",
-      "8000 kg/m³",
-      "450 kg/m³",
-      "800 kg/m³"
-    ],
+    "options": ["1.25 kg/m³", "8000 kg/m³", "450 kg/m³", "800 kg/m³"],
     "answer": "800 kg/m³",
     "explanation": "Density is mass divided by volume ($\\rho = m / V$). Thus, $600 \\text{ kg} / 0.75 \\text{ m}^3 = 800 \\text{ kg/m}^3$."
   },
@@ -517,24 +487,14 @@
   {
     "id": 44,
     "question": "A pressure of 150 kPa acting on an area of 0.2 m² exerts a force of:",
-    "options": [
-      "300 kN",
-      "750 N",
-      "3 kN",
-      "30 kN"
-    ],
+    "options": ["300 kN", "750 N", "3 kN", "30 kN"],
     "answer": "3 kN",
     "explanation": "Force equals pressure multiplied by area ($F = P \\cdot A$). Hence, $150 \\text{ kPa} \\times 0.2 \\text{ m}^2 = 30 \\text{ kN}$."
   },
   {
     "id": 45,
     "question": "A lever has an effort arm of 2 m and a load arm of 0.5 m. Its mechanical advantage is:",
-    "options": [
-      "0.25",
-      "4",
-      "2.5",
-      "1"
-    ],
+    "options": ["0.25", "4", "2.5", "1"],
     "answer": "4",
     "explanation": "Ideal mechanical advantage of a lever is the length of the effort arm divided by the load arm ($2 \\text{ m} / 0.5 \\text{ m} = 4$)."
   },
@@ -637,12 +597,7 @@
   {
     "id": 54,
     "question": "A substance that gains electrons in a chemical reaction is said to be:",
-    "options": [
-      "Evaporated",
-      "Neutralized",
-      "Oxidized",
-      "Reduced"
-    ],
+    "options": ["Evaporated", "Neutralized", "Oxidized", "Reduced"],
     "answer": "Reduced",
     "explanation": "In redox chemistry, reduction refers to the gain of electrons (remember RIG: Reduction Is Gain)."
   },
@@ -661,12 +616,7 @@
   {
     "id": 56,
     "question": "The heat needed to raise one kilogram of water by one degree Celsius is about:",
-    "options": [
-      "About 1 kJ",
-      "About 4.19 kJ",
-      "About 0.24 kJ",
-      "About 100 kJ"
-    ],
+    "options": ["About 1 kJ", "About 4.19 kJ", "About 0.24 kJ", "About 100 kJ"],
     "answer": "About 4.19 kJ",
     "explanation": "The specific heat capacity of water is approximately $4.187 \\text{ kJ/kg}\\cdot\\text{°C}$."
   },
@@ -709,12 +659,7 @@
   {
     "id": 60,
     "question": "The voltage across a 25 ohm resistor carrying 4 A is:",
-    "options": [
-      "29 V",
-      "6.25 V",
-      "0.16 V",
-      "100 V"
-    ],
+    "options": ["29 V", "6.25 V", "0.16 V", "100 V"],
     "answer": "100 V",
     "explanation": "Using Ohm's Law ($V = I \\cdot R$), calculate $4 \\text{ A} \\times 25 \\text{ \\Omega} = 100 \\text{ V}$."
   },
@@ -793,12 +738,7 @@
   {
     "id": 67,
     "question": "A common analog current signal in modern instrument loops is:",
-    "options": [
-      "0-60 Hz",
-      "0-500 V",
-      "1-10 kPa",
-      "4-20 mA"
-    ],
+    "options": ["0-60 Hz", "0-500 V", "1-10 kPa", "4-20 mA"],
     "answer": "4-20 mA",
     "explanation": "The 4-20 milliamp current loop is the global standard for transmitting analog instrumentation control signals reliably over distance."
   },
@@ -853,12 +793,7 @@
   {
     "id": 72,
     "question": "The work done in lifting a 200 N load through 5 m is:",
-    "options": [
-      "40 J",
-      "1000 N",
-      "1000 J",
-      "205 J"
-    ],
+    "options": ["40 J", "1000 N", "1000 J", "205 J"],
     "answer": "1000 J",
     "explanation": "Work is force multiplied by distance ($W = F \\cdot d$). Therefore, $200 \\text{ N} \\times 5 \\text{ m} = 1000 \\text{ J}$."
   },
@@ -913,12 +848,7 @@
   {
     "id": 77,
     "question": "The unit of electrical resistance is the:",
-    "options": [
-      "Ampere",
-      "Ohm",
-      "Watt",
-      "Volt"
-    ],
+    "options": ["Ampere", "Ohm", "Watt", "Volt"],
     "answer": "Ohm",
     "explanation": "Electrical resistance is measured in ohms ($\\Omega$). "
   },
@@ -973,12 +903,7 @@
   {
     "id": 82,
     "question": "Convert 212°F to Celsius. (°C = 5/9 × (°F - 32))",
-    "options": [
-      "120°C",
-      "100°C",
-      "117°C",
-      "80°C"
-    ],
+    "options": ["120°C", "100°C", "117°C", "80°C"],
     "answer": "100°C",
     "explanation": "Applying the formula: $(5/9) \\times (212 - 32) = (5/9) \\times 180 = 100\\text{°C}$."
   },
@@ -1093,12 +1018,7 @@
   {
     "id": 92,
     "question": "The current drawn when 600 W is used at 120 V is (I = P ÷ V):",
-    "options": [
-      "480 A",
-      "0.2 A",
-      "5 A",
-      "720 A"
-    ],
+    "options": ["480 A", "0.2 A", "5 A", "720 A"],
     "answer": "5 A",
     "explanation": "Using $I = P / V$, calculate $600 \\text{ W} / 120 \\text{ V} = 5 \\text{ A}$."
   },

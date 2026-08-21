@@ -1,5 +1,13 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { ArrowRight, BookOpen, Gauge, ShieldCheck, Shuffle, Timer, Lock } from "lucide-react";
+import {
+  ArrowRight,
+  BookOpen,
+  Gauge,
+  ShieldCheck,
+  Shuffle,
+  Timer,
+  Lock,
+} from "lucide-react";
 
 import { exams } from "@/data/exams";
 import { cn } from "@/lib/utils";
@@ -42,8 +50,9 @@ function LandingPage() {
             Sharpen your certification exam skills, one paper at a time.
           </h1>
           <p className="mt-5 max-w-2xl text-base leading-relaxed text-muted-foreground sm:text-lg">
-            Randomized question papers, instant answer feedback with explanations, a live timer and
-            a full scored review — in a clean, distraction-free interface.
+            Randomized question papers, instant answer feedback with
+            explanations, a live timer and a full scored review — in a clean,
+            distraction-free interface.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Feature icon={Shuffle} label="Fresh shuffle every attempt" />
@@ -89,7 +98,9 @@ function LandingPage() {
                     {exam.available ? "Available" : "Coming soon"}
                   </span>
                 </div>
-                <h3 className="mt-5 text-xl font-bold sm:text-2xl">{exam.title}</h3>
+                <h3 className="mt-5 text-xl font-bold sm:text-2xl">
+                  {exam.title}
+                </h3>
                 <p className="text-sm font-semibold uppercase tracking-[0.18em] text-accent">
                   {exam.subtitle}
                 </p>
@@ -108,7 +119,11 @@ function LandingPage() {
             );
 
             return exam.available ? (
-              <Link key={exam.id} to="/exams/$examId" params={{ examId: exam.id }}>
+              <Link
+                key={exam.id}
+                to="/exams/$examId"
+                params={{ examId: exam.id }}
+              >
                 {card}
               </Link>
             ) : (
@@ -126,11 +141,13 @@ function LandingPage() {
           </span>
           <div className="min-w-0 flex-1">
             <h3 className="text-lg font-bold sm:text-xl">
-              Power Engineering Fourth Class Part A — Quick Reference &amp; Blueprint
+              Power Engineering Fourth Class Part A — Quick Reference &amp;
+              Blueprint
             </h3>
             <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
-              Exam topic blueprint, common formulas, steam and heat terms, boiler fittings, codes
-              and standards, operator safety and electrical basics.
+              Exam topic blueprint, common formulas, steam and heat terms,
+              boiler fittings, codes and standards, operator safety and
+              electrical basics.
             </p>
           </div>
           <span className="inline-flex shrink-0 items-center gap-2 text-sm font-semibold text-primary">
@@ -139,7 +156,6 @@ function LandingPage() {
           </span>
         </Link>
       </section>
-
     </main>
   );
 }

@@ -1,20 +1,33 @@
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
-import { ArrowLeft, ChevronLeft, ChevronRight, Clock, Flag } from "lucide-react";
+import {
+  ArrowLeft,
+  ChevronLeft,
+  ChevronRight,
+  Clock,
+  Flag,
+} from "lucide-react";
+import { toast } from "sonner";
 
 import { getPaper, shuffleExam, type Question } from "@/data/exams";
 import { QuestionCard } from "@/components/quiz/QuestionCard";
 import { QuestionNavigator } from "@/components/quiz/QuestionNavigator";
 import { ResultsScreen } from "@/components/quiz/ResultsScreen";
 import { useElapsedTimer } from "@/hooks/use-elapsed-timer";
+import {
+  useQuizSave,
+  getSavedQuiz,
+  clearSavedQuiz,
+} from "@/hooks/use-quiz-save";
 import { Button } from "@/components/ui/button";
 
 export const Route = createFileRoute("/exams/$examId/$paperId")({
   head: ({ params }) => {
     const { exam, paper } = getPaper(params.examId, params.paperId);
-    const title = exam && paper
-      ? `${paper.label} — ${exam.title} ${exam.subtitle} Practice Exam`
-      : "Practice Exam";
+    const title =
+      exam && paper
+        ? `${paper.label} — ${exam.title} ${exam.subtitle} Practice Exam`
+        : "Practice Exam";
     const description =
       "Randomized practice exam with instant answer feedback, explanations, a live timer and a scored review.";
     return {
@@ -43,53 +56,154 @@ function QuizPage() {
       source={paper.questions}
       title={`${exam.title} ${exam.subtitle} · ${paper.label}`}
       examId={examId}
+      paperId={paperId}
     />
   );
 }
+
+const LETTER_KEYS = ["1", "2", "3", "4", "5", "6"] as const;
 
 function Quiz({
   source,
   title,
   examId,
+  paperId,
 }: {
   source: Question[];
   title: string;
   examId: string;
+  paperId: string;
 }) {
   const [seed, setSeed] = useState(0);
-  // Shuffle on the client only, so server and client markup match on first paint.
   const [questions, setQuestions] = useState<Question[]>(source);
   useEffect(() => {
     setQuestions(shuffleExam(source));
   }, [source, seed]);
 
+  const saved = getSavedQuiz(examId, paperId);
+
   const [answers, setAnswers] = useState<(number | null)[]>(() =>
-    Array(source.length).fill(null),
+    saved ? saved.answers : Array(source.length).fill(null),
   );
-  const [current, setCurrent] = useState(0);
-  const [finished, setFinished] = useState(false);
-  const { formatted, reset } = useElapsedTimer(!finished);
+  const [flagged, setFlagged] = useState<boolean[]>(() =>
+    saved ? saved.flagged : Array(source.length).fill(false),
+  );
+  const [current, setCurrent] = useState(saved?.current ?? 0);
+  const [finished, setFinished] = useState(saved?.finished ?? false);
+
+  const { seconds, formatted, reset } = useElapsedTimer(
+    !finished,
+    saved?.elapsedSeconds ?? 0,
+  );
+
+  const { save, clear, hasSaved } = useQuizSave(
+    examId,
+    paperId,
+    source.length,
+    !finished,
+  );
 
   const question = questions[current]!;
   const answered = answers.filter((a) => a !== null).length;
   const progress = Math.round((answered / questions.length) * 100);
+  const flaggedCount = flagged.filter(Boolean).length;
 
-  const select = (optionIndex: number) => {
-    setAnswers((prev) => {
-      if (prev[current] !== null) return prev;
+  // Persist to localStorage whenever state changes
+  useEffect(() => {
+    if (!finished && questions.length > 0) {
+      save({
+        answers,
+        flagged,
+        current,
+        elapsedSeconds: seconds,
+        finished: false,
+      });
+    }
+  }, [answers, flagged, current, finished, seconds, questions.length, save]);
+
+  const select = useCallback(
+    (optionIndex: number) => {
+      setAnswers((prev) => {
+        const next = [...prev];
+        next[current] = optionIndex;
+        return next;
+      });
+    },
+    [current],
+  );
+
+  const toggleFlag = useCallback(() => {
+    setFlagged((prev) => {
       const next = [...prev];
-      next[current] = optionIndex;
+      next[current] = !next[current];
       return next;
     });
-  };
+  }, [current]);
+
+  const goNext = useCallback(() => {
+    setCurrent((i) => Math.min(questions.length - 1, i + 1));
+  }, [questions.length]);
+
+  const goPrev = useCallback(() => {
+    setCurrent((i) => Math.max(0, i - 1));
+  }, []);
 
   const restart = () => {
+    clear();
     setSeed((s) => s + 1);
     setAnswers(Array(source.length).fill(null));
+    setFlagged(Array(source.length).fill(false));
     setCurrent(0);
     setFinished(false);
     reset();
+    toast.success("New exam started with a fresh shuffle");
   };
+
+  const submit = () => {
+    const unanswered = answers.filter((a) => a === null).length;
+    if (unanswered > 0) {
+      const proceed = window.confirm(
+        `You have ${unanswered} unanswered question${unanswered > 1 ? "s" : ""}. Submit anyway?`,
+      );
+      if (!proceed) return;
+    }
+    setFinished(true);
+    clear();
+    toast.success("Exam submitted — see your results below");
+  };
+
+  // Keyboard shortcuts
+  useEffect(() => {
+    if (finished) return;
+    const handler = (e: KeyboardEvent) => {
+      if (
+        e.target instanceof HTMLInputElement ||
+        e.target instanceof HTMLTextAreaElement
+      )
+        return;
+
+      const key = e.key.toLowerCase();
+      const letterIdx = LETTER_KEYS.indexOf(
+        key as (typeof LETTER_KEYS)[number],
+      );
+
+      if (letterIdx >= 0 && letterIdx < question.options.length) {
+        e.preventDefault();
+        select(letterIdx);
+      } else if (key === "arrowright" || key === "d") {
+        e.preventDefault();
+        goNext();
+      } else if (key === "arrowleft" || key === "a") {
+        e.preventDefault();
+        goPrev();
+      } else if (key === "f") {
+        e.preventDefault();
+        toggleFlag();
+      }
+    };
+    window.addEventListener("keydown", handler);
+    return () => window.removeEventListener("keydown", handler);
+  }, [finished, question, select, goNext, goPrev, toggleFlag]);
 
   if (finished) {
     return (
@@ -98,6 +212,7 @@ function Quiz({
           title={title}
           questions={questions}
           answers={answers}
+          flagged={flagged}
           elapsed={formatted}
           examId={examId}
           onRestart={restart}
@@ -112,7 +227,7 @@ function Quiz({
 
   return (
     <main className="min-h-screen bg-background pb-16">
-      <header className="sticky top-0 z-10 border-b bg-card/90 backdrop-blur">
+      <header className="sticky top-14 z-10 border-b bg-card/90 backdrop-blur">
         <div className="mx-auto grid w-full max-w-6xl grid-cols-[minmax(0,1fr)_auto] items-center gap-4 px-4 py-3">
           <div className="min-w-0">
             <Link
@@ -125,6 +240,8 @@ function Quiz({
             <h1 className="truncate text-base font-bold sm:text-xl">{title}</h1>
             <p className="truncate text-xs text-muted-foreground">
               Question {current + 1} of {questions.length} · {answered} answered
+              {flaggedCount > 0 && ` · ${flaggedCount} flagged`}
+              {hasSaved && " · Saved"}
             </p>
           </div>
           <div className="flex shrink-0 items-center gap-2">
@@ -132,7 +249,7 @@ function Quiz({
               <Clock className="size-4" />
               {formatted}
             </span>
-            <Button size="sm" onClick={() => setFinished(true)}>
+            <Button size="sm" onClick={submit}>
               <Flag /> <span className="hidden sm:inline">Submit exam</span>
             </Button>
           </div>
@@ -152,23 +269,35 @@ function Quiz({
             index={current}
             total={questions.length}
             selected={answers[current] ?? null}
+            flagged={flagged[current] ?? false}
             onSelect={select}
+            onToggleFlag={toggleFlag}
           />
 
           <nav className="mt-5 flex items-center justify-between gap-3">
-            <Button
-              variant="outline"
-              onClick={() => setCurrent((i) => Math.max(0, i - 1))}
-              disabled={current === 0}
-            >
+            <Button variant="outline" onClick={goPrev} disabled={current === 0}>
               <ChevronLeft /> Previous
             </Button>
+            <span className="hidden text-xs text-muted-foreground sm:block">
+              <kbd className="rounded border bg-secondary px-1.5 py-0.5 font-mono">
+                1-4
+              </kbd>{" "}
+              answer ·{" "}
+              <kbd className="rounded border bg-secondary px-1.5 py-0.5 font-mono">
+                F
+              </kbd>{" "}
+              flag ·{" "}
+              <kbd className="rounded border bg-secondary px-1.5 py-0.5 font-mono">
+                ← →
+              </kbd>{" "}
+              navigate
+            </span>
             {current === questions.length - 1 ? (
-              <Button onClick={() => setFinished(true)}>
-                <Flag /> Finish & score
+              <Button onClick={submit}>
+                <Flag /> Finish &amp; score
               </Button>
             ) : (
-              <Button onClick={() => setCurrent((i) => Math.min(questions.length - 1, i + 1))}>
+              <Button onClick={goNext}>
                 Next <ChevronRight />
               </Button>
             )}
@@ -180,6 +309,7 @@ function Quiz({
             total={questions.length}
             current={current}
             answers={answers}
+            flagged={flagged}
             correctAnswers={questions.map((q) => q.correctAnswer)}
             onJump={setCurrent}
           />

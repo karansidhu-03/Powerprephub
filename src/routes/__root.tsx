@@ -10,6 +10,9 @@ import {
 import { useEffect, type ReactNode } from "react";
 
 import appCss from "../styles.css?url";
+import { ThemeProvider } from "@/hooks/use-theme";
+import { NavBar } from "@/components/NavBar";
+import { Toaster } from "@/components/ui/sonner";
 
 function NotFoundComponent() {
   return (
@@ -77,8 +80,12 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       meta: [
         { charSet: "utf-8" },
         { name: "viewport", content: "width=device-width, initial-scale=1" },
-        { title: "Exam App" },
-        { name: "description", content: "Exam Application" },
+        { title: "Exam Practice Hub" },
+        {
+          name: "description",
+          content:
+            "Power Engineering exam practice with randomized papers, instant feedback, and scored results.",
+        },
       ],
       links: [
         {
@@ -95,6 +102,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
           rel: "stylesheet",
           href: "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600;700&display=swap",
         },
+        { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
       ],
     }),
     shellComponent: RootShell,
@@ -123,8 +131,11 @@ function RootComponent() {
 
   return (
     <QueryClientProvider client={queryClient}>
-      {/* Required: nested routes render here. Removing <Outlet /> breaks all child routes. */}
-      <Outlet />
+      <ThemeProvider>
+        <NavBar />
+        <Outlet />
+        <Toaster />
+      </ThemeProvider>
     </QueryClientProvider>
   );
 }

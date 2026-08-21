@@ -14,36 +14,21 @@
   {
     "id": 2,
     "question": "Using c = 1 Btu/lb·°F, the heat needed to raise 200 lb of water from 60°F to 200°F is:",
-    "options": [
-      "40,000 Btu",
-      "2800 Btu",
-      "14,000 Btu",
-      "28,000 Btu"
-    ],
+    "options": ["40,000 Btu", "2800 Btu", "14,000 Btu", "28,000 Btu"],
     "correctAnswer": 3,
     "explanation": "Q = mcΔT = 200 × 1 × (200 − 60) = 28,000 Btu."
   },
   {
     "id": 3,
     "question": "An operator suspects the gauge glass reading may be false. To independently confirm the true water level, the operator uses the:",
-    "options": [
-      "Draft gauge",
-      "Steam gauge",
-      "Try-cocks",
-      "Pressure gauge"
-    ],
+    "options": ["Draft gauge", "Steam gauge", "Try-cocks", "Pressure gauge"],
     "correctAnswer": 2,
     "explanation": "Try-cocks give an independent check of water level when the gauge glass reading is in question."
   },
   {
     "id": 4,
     "question": "The power drawn by a device operating at 120 V and 5 A is:",
-    "options": [
-      "125 W",
-      "600 V",
-      "24 W",
-      "600 W"
-    ],
+    "options": ["125 W", "600 V", "24 W", "600 W"],
     "correctAnswer": 3,
     "explanation": "P = V × I = 120 × 5 = 600 W."
   },
@@ -86,12 +71,7 @@
   {
     "id": 8,
     "question": "To protect a steam trap and control valve from scale and debris carried in the line, the operator installs a:",
-    "options": [
-      "Orifice plate",
-      "Check valve",
-      "Steam trap",
-      "Pipe strainer"
-    ],
+    "options": ["Orifice plate", "Check valve", "Steam trap", "Pipe strainer"],
     "correctAnswer": 3,
     "explanation": "Strainers catch scale and dirt, protecting downstream valves and traps."
   },
@@ -110,24 +90,14 @@
   {
     "id": 10,
     "question": "A process requires steam at a temperature above its saturation temperature. To supply it, the boiler is fitted with a:",
-    "options": [
-      "Economizer",
-      "Superheater",
-      "Steam trap",
-      "Desuperheater"
-    ],
+    "options": ["Economizer", "Superheater", "Steam trap", "Desuperheater"],
     "correctAnswer": 1,
     "explanation": "Superheaters add heat beyond saturation, drying the steam and increasing the energy available per kilogram."
   },
   {
     "id": 11,
     "question": "The fitting that connects the gauge glass to the boiler and commonly houses the try-cocks is the:",
-    "options": [
-      "Blowoff tank",
-      "Water column",
-      "Steam header",
-      "Economizer"
-    ],
+    "options": ["Blowoff tank", "Water column", "Steam header", "Economizer"],
     "correctAnswer": 1,
     "explanation": "The water column connects the gauge glass and often carries the try-cocks and level controls."
   },
@@ -146,12 +116,7 @@
   {
     "id": 13,
     "question": "In a basic control loop, the element that compares the measured value to the set point and takes corrective action is the:",
-    "options": [
-      "Controller",
-      "Final control element",
-      "Sensor",
-      "Recorder"
-    ],
+    "options": ["Controller", "Final control element", "Sensor", "Recorder"],
     "correctAnswer": 0,
     "explanation": "The controller compares the measurement with the set point and signals the final control element, such as a valve."
   },
@@ -182,36 +147,21 @@
   {
     "id": 16,
     "question": "What is the main cylindrical pressure vessel of a firetube boiler called?",
-    "options": [
-      "The drum",
-      "The mud drum",
-      "The header",
-      "The shell"
-    ],
+    "options": ["The drum", "The mud drum", "The header", "The shell"],
     "correctAnswer": 3,
     "explanation": "In a firetube boiler the main vessel is the shell; \"drum\" is the term used for watertube boilers."
   },
   {
     "id": 17,
     "question": "An inspector must physically enter a boiler drum to examine it internally. The opening provided for this is the:",
-    "options": [
-      "Washout plug",
-      "Handhole",
-      "Manhole",
-      "Nozzle"
-    ],
+    "options": ["Washout plug", "Handhole", "Manhole", "Nozzle"],
     "correctAnswer": 2,
     "explanation": "Manholes allow personnel entry; handholes give access to smaller spaces such as headers and waterlegs."
   },
   {
     "id": 18,
     "question": "Heat that changes the temperature of a substance without changing its state is called:",
-    "options": [
-      "Sensible heat",
-      "Superheat",
-      "Latent heat",
-      "Specific heat"
-    ],
+    "options": ["Sensible heat", "Superheat", "Latent heat", "Specific heat"],
     "correctAnswer": 0,
     "explanation": "Sensible heat changes temperature; latent heat changes state at constant temperature."
   },
@@ -314,24 +264,14 @@
   {
     "id": 27,
     "question": "A plant wants to improve fuel economy by recovering heat from the flue gas to warm the feedwater. The component that does this is the:",
-    "options": [
-      "Steam separator",
-      "Economizer",
-      "Superheater",
-      "Air ejector"
-    ],
+    "options": ["Steam separator", "Economizer", "Superheater", "Air ejector"],
     "correctAnswer": 1,
     "explanation": "The economizer recovers waste heat from the flue gas to raise feedwater temperature."
   },
   {
     "id": 28,
     "question": "A tie rod carries a load of 24,000 N over a cross-sectional area of 0.0008 m². The tensile stress is:",
-    "options": [
-      "300 MPa",
-      "30 MPa",
-      "3 MPa",
-      "19.2 MPa"
-    ],
+    "options": ["300 MPa", "30 MPa", "3 MPa", "19.2 MPa"],
     "correctAnswer": 1,
     "explanation": "Stress σ = F ÷ A = 24,000 N ÷ 0.0008 m² = 30,000,000 Pa = 30 MPa."
   },
@@ -350,12 +290,7 @@
   {
     "id": 30,
     "question": "If 6000 J of work is done in 3 s, the power developed is:",
-    "options": [
-      "500 W",
-      "2000 W",
-      "2000 J",
-      "18,000 W"
-    ],
+    "options": ["500 W", "2000 W", "2000 J", "18,000 W"],
     "correctAnswer": 1,
     "explanation": "Power = work ÷ time = 6000 J ÷ 3 s = 2000 W."
   },
@@ -422,24 +357,14 @@
   {
     "id": 36,
     "question": "A pressure of 200 kPa acts on a piston of area 0.05 m². The force on the piston is:",
-    "options": [
-      "4000 N",
-      "40 N",
-      "10,000 N",
-      "10 N"
-    ],
+    "options": ["4000 N", "40 N", "10,000 N", "10 N"],
     "correctAnswer": 2,
     "explanation": "Force = pressure × area = 200,000 Pa × 0.05 m² = 10,000 N (10 kN)."
   },
   {
     "id": 37,
     "question": "Carbon steel, used for boiler shells, is an example of a:",
-    "options": [
-      "Polymer",
-      "Ferrous metal",
-      "Ceramic",
-      "Non-ferrous metal"
-    ],
+    "options": ["Polymer", "Ferrous metal", "Ceramic", "Non-ferrous metal"],
     "correctAnswer": 1,
     "explanation": "Ferrous metals are iron-based; carbon steel is iron with a small percentage of carbon."
   },
@@ -518,12 +443,7 @@
   {
     "id": 44,
     "question": "Under ASME, a power boiler generally requires how many bottom blowoff valves piped in series?",
-    "options": [
-      "Three",
-      "Four",
-      "Two",
-      "One"
-    ],
+    "options": ["Three", "Four", "Two", "One"],
     "correctAnswer": 2,
     "explanation": "Power boilers (ASME I, PG-58) generally require two bottom blowoff valves in series; heating boilers require one."
   },
@@ -542,12 +462,7 @@
   {
     "id": 46,
     "question": "A force of 500 N moves an object 4 m in the direction of the force. The work done is:",
-    "options": [
-      "125 J",
-      "2000 J",
-      "504 J",
-      "2000 N"
-    ],
+    "options": ["125 J", "2000 J", "504 J", "2000 N"],
     "correctAnswer": 1,
     "explanation": "Work = force × distance = 500 N × 4 m = 2000 J."
   },
@@ -602,12 +517,7 @@
   {
     "id": 51,
     "question": "The main cylindrical pressure vessel of a watertube boiler is called the:",
-    "options": [
-      "Furnace tube",
-      "Course",
-      "Shell",
-      "Drum"
-    ],
+    "options": ["Furnace tube", "Course", "Shell", "Drum"],
     "correctAnswer": 3,
     "explanation": "Watertube boilers use steam and mud (water) drums; the firetube equivalent is the shell."
   },
@@ -626,12 +536,7 @@
   {
     "id": 53,
     "question": "A certain fitting melts to warn the operator if low water allows it to overheat. This fitting is the:",
-    "options": [
-      "Steam trap",
-      "Safety valve",
-      "Fusible plug",
-      "Blowoff valve"
-    ],
+    "options": ["Steam trap", "Safety valve", "Fusible plug", "Blowoff valve"],
     "correctAnswer": 2,
     "explanation": "The fusible plug's low-melting-point core melts on low water/overheating; it is largely superseded by low-water cutoffs."
   },
@@ -662,24 +567,14 @@
   {
     "id": 56,
     "question": "The property that describes a metal's ability to be drawn out into a wire is:",
-    "options": [
-      "Ductility",
-      "Brittleness",
-      "Hardness",
-      "Conductivity"
-    ],
+    "options": ["Ductility", "Brittleness", "Hardness", "Conductivity"],
     "correctAnswer": 0,
     "explanation": "Ductility is the ability to undergo plastic deformation in tension, such as being drawn into wire."
   },
   {
     "id": 57,
     "question": "Two 10 ohm resistors connected in series have a total resistance of:",
-    "options": [
-      "20 ohm",
-      "5 ohm",
-      "10 ohm",
-      "100 ohm"
-    ],
+    "options": ["20 ohm", "5 ohm", "10 ohm", "100 ohm"],
     "correctAnswer": 0,
     "explanation": "Correct answer: 20 ohm."
   },
@@ -698,12 +593,7 @@
   {
     "id": 59,
     "question": "Short tube stubs welded to a shell or drum for attaching piping and fittings are called:",
-    "options": [
-      "Nozzles",
-      "Saddles",
-      "Stays",
-      "Lugs"
-    ],
+    "options": ["Nozzles", "Saddles", "Stays", "Lugs"],
     "correctAnswer": 0,
     "explanation": "Nozzles are stub connections for valves, feedwater, blowdown, and instrument piping."
   },
@@ -781,12 +671,7 @@
   {
     "id": 66,
     "question": "The specific gravity of a liquid compares its density to the density of:",
-    "options": [
-      "Steam",
-      "Water",
-      "Air",
-      "Mercury"
-    ],
+    "options": ["Steam", "Water", "Air", "Mercury"],
     "correctAnswer": 1,
     "explanation": "Specific gravity is the ratio of a substance's density to that of water (for liquids and solids)."
   },
@@ -805,24 +690,14 @@
   {
     "id": 68,
     "question": "The three modes by which heat is transferred are conduction, convection, and:",
-    "options": [
-      "Condensation",
-      "Radiation",
-      "Insulation",
-      "Evaporation"
-    ],
+    "options": ["Condensation", "Radiation", "Insulation", "Evaporation"],
     "correctAnswer": 1,
     "explanation": "Heat moves by conduction, convection, and radiation."
   },
   {
     "id": 69,
     "question": "Pieces of metal used to support otherwise unsupported flat surfaces in a boiler are called:",
-    "options": [
-      "Baffles",
-      "Stays",
-      "Lugs",
-      "Nozzles"
-    ],
+    "options": ["Baffles", "Stays", "Lugs", "Nozzles"],
     "correctAnswer": 1,
     "explanation": "Stays brace flat surfaces against bulging; firetubes themselves often act as stay tubes."
   },
@@ -877,12 +752,7 @@
   {
     "id": 74,
     "question": "A 120 V supply drives a current of 6 A through a heating element. Its resistance is:",
-    "options": [
-      "126 ohm",
-      "720 ohm",
-      "0.05 ohm",
-      "20 ohm"
-    ],
+    "options": ["126 ohm", "720 ohm", "0.05 ohm", "20 ohm"],
     "correctAnswer": 3,
     "explanation": "Correct answer: 20 ohm."
   },
@@ -1009,36 +879,21 @@
   {
     "id": 85,
     "question": "The mass of 2 m³ of a liquid with a density of 800 kg/m³ is:",
-    "options": [
-      "1600 m³",
-      "400 kg",
-      "1600 kg",
-      "1600 N"
-    ],
+    "options": ["1600 m³", "400 kg", "1600 kg", "1600 N"],
     "correctAnswer": 2,
     "explanation": "Mass = density × volume = 800 kg/m³ × 2 m³ = 1600 kg."
   },
   {
     "id": 86,
     "question": "An operator needs a valve only to isolate a line (fully open or fully closed), with no throttling. The correct choice is a:",
-    "options": [
-      "Gate valve",
-      "Globe valve",
-      "Needle valve",
-      "Control valve"
-    ],
+    "options": ["Gate valve", "Globe valve", "Needle valve", "Control valve"],
     "correctAnswer": 0,
     "explanation": "Correct answer: Gate valve."
   },
   {
     "id": 87,
     "question": "The most common head shape used on a watertube boiler drum is:",
-    "options": [
-      "Ellipsoidal",
-      "Flat",
-      "Torispherical",
-      "Hemispherical"
-    ],
+    "options": ["Ellipsoidal", "Flat", "Torispherical", "Hemispherical"],
     "correctAnswer": 0,
     "explanation": "Correct answer: Ellipsoidal."
   },
@@ -1105,12 +960,7 @@
   {
     "id": 93,
     "question": "If the latent heat of vaporization is 2086 kJ/kg, the heat required to evaporate 5 kg of water already at its saturation temperature is:",
-    "options": [
-      "2086 kJ",
-      "417 kJ",
-      "10,430 kJ",
-      "5215 kJ"
-    ],
+    "options": ["2086 kJ", "417 kJ", "10,430 kJ", "5215 kJ"],
     "correctAnswer": 2,
     "explanation": "Q = m × latent heat = 5 × 2086 = 10,430 kJ; temperature does not change during evaporation."
   },
@@ -1153,12 +1003,7 @@
   {
     "id": 97,
     "question": "The Canadian standard governing the construction, inspection, and registration of boilers and pressure vessels is:",
-    "options": [
-      "NFPA 70",
-      "CSA Z662",
-      "API 650",
-      "CSA B51"
-    ],
+    "options": ["NFPA 70", "CSA Z662", "API 650", "CSA B51"],
     "correctAnswer": 3,
     "explanation": "Correct answer: CSA B51."
   },

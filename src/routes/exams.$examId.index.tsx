@@ -1,5 +1,5 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
-import { ArrowLeft, ArrowRight, FileText, Lock } from "lucide-react";
+import { ArrowRight, FileText, Lock } from "lucide-react";
 
 import { getExam } from "@/data/exams";
 import { cn } from "@/lib/utils";
@@ -37,13 +37,7 @@ function PapersPage() {
     <main className="min-h-screen bg-background">
       <header className="border-b bg-card">
         <div className="mx-auto w-full max-w-6xl px-4 py-10 sm:py-14">
-          <Link
-            to="/"
-            className="inline-flex items-center gap-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
-          >
-            <ArrowLeft className="size-4" /> All exams
-          </Link>
-          <h1 className="mt-4 text-3xl font-bold sm:text-4xl">
+          <h1 className="text-3xl font-bold sm:text-4xl">
             {exam.title} <span className="text-accent">{exam.subtitle}</span>
           </h1>
           <p className="mt-2 max-w-2xl text-sm leading-relaxed text-muted-foreground">
@@ -61,7 +55,9 @@ function PapersPage() {
               <div
                 className={cn(
                   "group relative flex h-full flex-col rounded-2xl border bg-card p-5 shadow-panel transition-all duration-300",
-                  ready ? "hover:-translate-y-1 hover:border-primary hover:shadow-lg" : "opacity-70",
+                  ready
+                    ? "hover:-translate-y-1 hover:border-primary hover:shadow-lg"
+                    : "opacity-70",
                 )}
               >
                 <div className="flex items-center justify-between">
@@ -73,7 +69,11 @@ function PapersPage() {
                         : "bg-secondary text-muted-foreground",
                     )}
                   >
-                    {ready ? <FileText className="size-5" /> : <Lock className="size-4" />}
+                    {ready ? (
+                      <FileText className="size-5" />
+                    ) : (
+                      <Lock className="size-4" />
+                    )}
                   </span>
                   {ready && (
                     <span className="rounded-full bg-success-soft px-2.5 py-1 text-xs font-bold uppercase tracking-wider text-success">
@@ -82,7 +82,9 @@ function PapersPage() {
                   )}
                 </div>
                 <h3 className="mt-4 text-lg font-bold">{paper.label}</h3>
-                <p className="mt-1 flex-1 text-sm text-muted-foreground">{paper.description}</p>
+                <p className="mt-1 flex-1 text-sm text-muted-foreground">
+                  {paper.description}
+                </p>
                 <span
                   className={cn(
                     "mt-5 inline-flex items-center gap-2 text-sm font-semibold",

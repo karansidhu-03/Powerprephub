@@ -62,12 +62,7 @@
   {
     "id": 6,
     "question": "The unit of electrical power is the:",
-    "options": [
-      "Watt",
-      "Ohm",
-      "Joule",
-      "Coulomb"
-    ],
+    "options": ["Watt", "Ohm", "Joule", "Coulomb"],
     "answer": "Watt",
     "explanation": "Electrical power is measured in watts (W), which represent the rate of energy transfer or work done."
   },
@@ -170,12 +165,7 @@
   {
     "id": 15,
     "question": "The force exerted by a pressure of 500 kPa acting on an area of 0.05 m² is:",
-    "options": [
-      "2.5 kN",
-      "25 kN",
-      "250 kN",
-      "10 kN"
-    ],
+    "options": ["2.5 kN", "25 kN", "250 kN", "10 kN"],
     "answer": "25 kN",
     "explanation": "Force equals pressure multiplied by area ($F = P \\times A$). Therefore, $500 \\text{ kPa} \\times 0.05 \\text{ m}^2 = 25 \\text{ kN}$ ($500,000 \\times 0.05 = 25,000 \\text{ N}$ or $25 \\text{ kN}$). "
   },
@@ -230,24 +220,14 @@
   {
     "id": 20,
     "question": "Convert 300 K to degrees Celsius.",
-    "options": [
-      "27 K",
-      "327°C",
-      "573°C",
-      "27°C"
-    ],
+    "options": ["27 K", "327°C", "573°C", "27°C"],
     "answer": "27°C",
     "explanation": "To convert Kelvin to Celsius, subtract 273.15 ($300 - 273 = 27\\text{°C}$)."
   },
   {
     "id": 21,
     "question": "The current through a 12 $\\Omega$ resistor connected across 24 V is:",
-    "options": [
-      "288 A",
-      "36 A",
-      "0.5 A",
-      "2 A"
-    ],
+    "options": ["288 A", "36 A", "0.5 A", "2 A"],
     "answer": "2 A",
     "explanation": "Using Ohm's Law ($I = V / R$), calculate $24 \\text{ V} / 12 \\text{ \\Omega} = 2 \\text{ A}$."
   },
@@ -302,12 +282,7 @@
   {
     "id": 26,
     "question": "Convert 25°C to Fahrenheit. (°F = 9/5 × °C + 32)",
-    "options": [
-      "45°F",
-      "97°F",
-      "57°F",
-      "77°F"
-    ],
+    "options": ["45°F", "97°F", "57°F", "77°F"],
     "answer": "77°F",
     "explanation": "Applying the formula: $(9/5 \\times 25) + 32 = 45 + 32 = 77\\text{°F}$."
   },
@@ -350,48 +325,28 @@
   {
     "id": 30,
     "question": "When the gauge-glass reading is doubtful, the operator confirms the true water level using the:",
-    "options": [
-      "Pressure gauge",
-      "Try-cocks",
-      "Safety valve",
-      "Steam trap"
-    ],
+    "options": ["Pressure gauge", "Try-cocks", "Safety valve", "Steam trap"],
     "answer": "Try-cocks",
     "explanation": "Try-cocks are direct physical test valves mounted on the water column to verify actual water levels independently if the gauge glass is suspect."
   },
   {
     "id": 31,
     "question": "The work done lifting an 80 kg mass through 2.5 m is ($g = 9.81 \\text{ m/s}^2$):",
-    "options": [
-      "About 785 J",
-      "About 200 J",
-      "About 19,620 J",
-      "About 1962 J"
-    ],
+    "options": ["About 785 J", "About 200 J", "About 19,620 J", "About 1962 J"],
     "answer": "About 1962 J",
     "explanation": "Work is gravitational potential energy change ($W = m \\cdot g \\cdot h$). Thus, $80 \\text{ kg} \\times 9.81 \\text{ m/s}^2 \\times 2.5 \\text{ m} = 1962 \\text{ J}$."
   },
   {
     "id": 32,
     "question": "To produce the least CO2 per unit of heat among common fossil fuels, a plant would burn:",
-    "options": [
-      "Wood",
-      "Heavy fuel oil",
-      "Coal",
-      "Natural gas"
-    ],
+    "options": ["Wood", "Heavy fuel oil", "Coal", "Natural gas"],
     "answer": "Natural gas",
     "explanation": "Natural gas consists primarily of methane ($\\text{CH}_4$), which has a higher hydrogen-to-carbon ratio than oil or coal, resulting in the lowest carbon dioxide emissions per unit of energy released."
   },
   {
     "id": 33,
     "question": "The energy used by a 2 kW heater running for 3 hours is:",
-    "options": [
-      "6 kWh",
-      "0.67 kWh",
-      "6 kW",
-      "6000 kWh"
-    ],
+    "options": ["6 kWh", "0.67 kWh", "6 kW", "6000 kWh"],
     "answer": "6 kWh",
     "explanation": "Energy is power multiplied by time ($E = P \\times t$). Therefore, $2 \\text{ kW} \\times 3 \\text{ hours} = 6 \\text{ kWh}$."
   },
@@ -410,12 +365,7 @@
   {
     "id": 35,
     "question": "The lowest drum of a watertube boiler, fitted with a blowoff to remove sludge, is the:",
-    "options": [
-      "Superheater header",
-      "Mud drum",
-      "Steam drum",
-      "Economizer"
-    ],
+    "options": ["Superheater header", "Mud drum", "Steam drum", "Economizer"],
     "answer": "Mud drum",
     "explanation": "The mud drum (or lower drum) sits at the bottom of a watertube boiler where suspended solids and sludge naturally settle and are blown down."
   },
@@ -590,24 +540,14 @@
   {
     "id": 50,
     "question": "If 9000 J of work is done in 6 s, the power developed is:",
-    "options": [
-      "375 W",
-      "1500 J",
-      "1500 W",
-      "54,000 W"
-    ],
+    "options": ["375 W", "1500 J", "1500 W", "54,000 W"],
     "answer": "1500 W",
     "explanation": "Power is work divided by time ($P = W / t$). Therefore, $9000 \\text{ J} / 6 \\text{ s} = 1500 \\text{ W}$."
   },
   {
     "id": 51,
     "question": "The total resistance of 10 $\\Omega$ and 15 $\\Omega$ connected in series is:",
-    "options": [
-      "5 $\\Omega$",
-      "6 $\\Omega$",
-      "150 $\\Omega$",
-      "25 $\\Omega$"
-    ],
+    "options": ["5 $\\Omega$", "6 $\\Omega$", "150 $\\Omega$", "25 $\\Omega$"],
     "answer": "25 $\\Omega$",
     "explanation": "Resistors in series add directly ($R_{\\text{total}} = R_1 + R_2$). Thus, $10 \\text{ \\Omega} + 15 \\text{ \\Omega} = 25 \\text{ \\Omega}$."
   },
@@ -734,12 +674,7 @@
   {
     "id": 62,
     "question": "On a power boiler, the lowest visible point of the gauge glass must be at least how far above the lowest safe water level?",
-    "options": [
-      "25 mm (1 in)",
-      "10 mm",
-      "50 mm (2 in)",
-      "100 mm"
-    ],
+    "options": ["25 mm (1 in)", "10 mm", "50 mm (2 in)", "100 mm"],
     "answer": "50 mm (2 in)",
     "explanation": "Regulatory codes require the lowest visible level of the gauge glass to be positioned at least 50 mm (2 inches) above the lowest permissible safe water line to prevent running dry."
   },
@@ -866,24 +801,14 @@
   {
     "id": 73,
     "question": "The smallest particle of an element that still has the element's properties is an:",
-    "options": [
-      "Atom",
-      "Mixture",
-      "Compound",
-      "Molecule"
-    ],
+    "options": ["Atom", "Mixture", "Compound", "Molecule"],
     "answer": "Atom",
     "explanation": "An atom is the fundamental building block and smallest unit of an ordinary chemical element that retains the chemical properties of that element."
   },
   {
     "id": 74,
     "question": "A material with an ultimate strength of 450 MPa is used with a factor of safety of 5. The allowable stress is:",
-    "options": [
-      "90 MPa",
-      "455 MPa",
-      "45 MPa",
-      "2250 MPa"
-    ],
+    "options": ["90 MPa", "455 MPa", "45 MPa", "2250 MPa"],
     "answer": "90 MPa",
     "explanation": "Allowable stress equals ultimate strength divided by the factor of safety ($450 \\text{ MPa} / 5 = 90 \\text{ MPa}$). "
   },
@@ -1010,12 +935,7 @@
   {
     "id": 85,
     "question": "The tensile stress in a bar of cross-section 0.0008 m² carrying 24,000 N is:",
-    "options": [
-      "30 MPa",
-      "19.2 MPa",
-      "300 MPa",
-      "3 MPa"
-    ],
+    "options": ["30 MPa", "19.2 MPa", "300 MPa", "3 MPa"],
     "answer": "30 MPa",
     "explanation": "Tensile stress is force divided by area ($\\sigma = F / A$). Thus, $24,000 \\text{ N} / 0.0008 \\text{ m}^2 = 30,000,000 \\text{ Pa} = 30 \\text{ MPa}$."
   },
@@ -1106,12 +1026,7 @@
   {
     "id": 93,
     "question": "To improve toughness and resist brittleness at low temperatures, steel is alloyed with:",
-    "options": [
-      "Lead",
-      "Sulfur",
-      "Phosphorus",
-      "Nickel"
-    ],
+    "options": ["Lead", "Sulfur", "Phosphorus", "Nickel"],
     "answer": "Nickel",
     "explanation": "Nickel is added to alloy steels to significantly increase impact strength, toughness, and low-temperature ductile performance."
   },

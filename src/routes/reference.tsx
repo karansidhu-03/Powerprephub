@@ -1,6 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import {
-  ArrowLeft,
   BookOpen,
   Calculator,
   Flame,
@@ -31,7 +30,10 @@ export const Route = createFileRoute("/reference")({
 
 const blueprint: { topic: string; count: number; note?: string }[] = [
   { topic: "Boilers (types, construction, parts)", count: 15 },
-  { topic: "Boiler systems (feedwater, steam, blowdown, fittings & mountings)", count: 15 },
+  {
+    topic: "Boiler systems (feedwater, steam, blowdown, fittings & mountings)",
+    count: 15,
+  },
   { topic: "Chemistry & thermodynamics (heat, steam properties)", count: 10 },
   { topic: "Power & heating plant safety", count: 10 },
   { topic: "Instrumentation & controls", count: 10 },
@@ -39,7 +41,8 @@ const blueprint: { topic: string; count: number; note?: string }[] = [
   { topic: "Materials & welding", count: 7 },
   { topic: "Piping & valves", count: 7 },
   {
-    topic: "Electricity, Environment, Codes & standards (Act/Regs, ASME, CSA B51), Plant communication",
+    topic:
+      "Electricity, Environment, Codes & standards (Act/Regs, ASME, CSA B51), Plant communication",
     count: 16,
     note: "Electricity 7 · Environment 6 · Codes & standards 4 · Plant communication 2",
   },
@@ -55,23 +58,44 @@ const formulas = [
 
 const steamTerms: [string, string][] = [
   ["Sensible heat", "heat that changes temperature with no change of state."],
-  ["Latent heat", "heat that changes state (e.g. evaporation) at constant temperature."],
+  [
+    "Latent heat",
+    "heat that changes state (e.g. evaporation) at constant temperature.",
+  ],
   ["Saturated steam", "steam at the boiling temperature for its pressure."],
   ["Superheated steam", "steam heated above saturation at a given pressure."],
   ["Dryness fraction", "mass of dry steam per unit mass of wet steam."],
   ["Enthalpy", "total heat content per unit mass."],
-  ["Critical point", "the pressure and temperature above which water and steam are indistinguishable."],
+  [
+    "Critical point",
+    "the pressure and temperature above which water and steam are indistinguishable.",
+  ],
 ];
 
 const fittings: [string, string][] = [
   ["Gauge glass", "continuous visible indication of boiler water level."],
-  ["Try-cocks and water column", "independent check of level and mounting for level controls."],
-  ["Safety valve", "relieves overpressure; set per code and boiler classification."],
-  ["Low-water fuel cutoff", "stops firing when water falls below a safe level."],
+  [
+    "Try-cocks and water column",
+    "independent check of level and mounting for level controls.",
+  ],
+  [
+    "Safety valve",
+    "relieves overpressure; set per code and boiler classification.",
+  ],
+  [
+    "Low-water fuel cutoff",
+    "stops firing when water falls below a safe level.",
+  ],
   ["Fusible plug", "melts to warn of low water in certain firetube boilers."],
   ["Steam trap", "discharges condensate while holding back steam."],
-  ["Feedwater check valve", "prevents backflow from the boiler into the feed line."],
-  ["Bottom blowoff and surface blowoff", "remove sludge and control dissolved solids."],
+  [
+    "Feedwater check valve",
+    "prevents backflow from the boiler into the feed line.",
+  ],
+  [
+    "Bottom blowoff and surface blowoff",
+    "remove sludge and control dissolved solids.",
+  ],
 ];
 
 const codes: [string, string][] = [
@@ -80,7 +104,10 @@ const codes: [string, string][] = [
     "Section I — power boilers; Section IV — heating boilers; Section VIII — pressure vessels; Section IX — welding qualification.",
   ],
   ["CSA B51", "boiler, pressure-vessel, and pressure-piping code (Canada)."],
-  ["CRN (Canadian Registration Number)", "registration of a pressure design for use in a jurisdiction."],
+  [
+    "CRN (Canadian Registration Number)",
+    "registration of a pressure design for use in a jurisdiction.",
+  ],
   [
     "Provincial or territorial legislation",
     "sets registration, inspection, and operating-engineer requirements.",
@@ -138,7 +165,9 @@ function DefList({ items }: { items: [string, string][] }) {
       {items.map(([term, def]) => (
         <div key={term} className="rounded-xl border bg-background p-4">
           <dt className="text-sm font-bold">{term}</dt>
-          <dd className="mt-1 text-sm leading-relaxed text-muted-foreground">{def}</dd>
+          <dd className="mt-1 text-sm leading-relaxed text-muted-foreground">
+            {def}
+          </dd>
         </div>
       ))}
     </dl>
@@ -149,8 +178,14 @@ function Bullets({ items }: { items: string[] }) {
   return (
     <ul className="space-y-2.5">
       {items.map((item) => (
-        <li key={item} className="flex gap-3 text-sm leading-relaxed text-foreground">
-          <span aria-hidden className="mt-2 size-1.5 shrink-0 rounded-full bg-accent" />
+        <li
+          key={item}
+          className="flex gap-3 text-sm leading-relaxed text-foreground"
+        >
+          <span
+            aria-hidden
+            className="mt-2 size-1.5 shrink-0 rounded-full bg-accent"
+          />
           <span>{item}</span>
         </li>
       ))}
@@ -167,27 +202,26 @@ function ReferencePage() {
           className="pointer-events-none absolute -top-32 right-[-8%] size-[24rem] rounded-full bg-accent/15 blur-3xl"
         />
         <div className="relative mx-auto w-full max-w-4xl px-4 py-10 sm:py-14">
-          <Link
-            to="/"
-            className="inline-flex items-center gap-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
-          >
-            <ArrowLeft className="size-4" /> All exams
-          </Link>
-          <h1 className="mt-4 text-3xl font-bold sm:text-4xl">
-            Power Engineering 4A — <span className="text-accent">Quick Reference &amp; Blueprint</span>
+          <h1 className="text-3xl font-bold sm:text-4xl">
+            Power Engineering 4A —{" "}
+            <span className="text-accent">Quick Reference &amp; Blueprint</span>
           </h1>
           <p className="mt-3 max-w-2xl text-sm leading-relaxed text-muted-foreground">
-            A compact refresher of the formulas, terms, exam blueprints, and references used across
-            the Part A papers.
+            A compact refresher of the formulas, terms, exam blueprints, and
+            references used across the Part A papers.
           </p>
         </div>
       </header>
 
       <div className="mx-auto grid w-full max-w-4xl gap-5 px-4 py-10 sm:py-14">
-        <Section icon={Gauge} step={1} title="Part A Exam Blueprint (Topic Coverage)">
+        <Section
+          icon={Gauge}
+          step={1}
+          title="Part A Exam Blueprint (Topic Coverage)"
+        >
           <p className="text-sm text-muted-foreground">
-            The 100 questions in each paper are distributed across these topics according to the
-            SOPEEC 4A standard.
+            The 100 questions in each paper are distributed across these topics
+            according to the SOPEEC 4A standard.
           </p>
           <ul className="mt-4 divide-y rounded-xl border bg-background">
             {blueprint.map((row) => (
@@ -195,7 +229,9 @@ function ReferencePage() {
                 <div className="min-w-0 flex-1">
                   <p className="text-sm font-medium">{row.topic}</p>
                   {row.note && (
-                    <p className="mt-0.5 text-xs text-muted-foreground">{row.note}</p>
+                    <p className="mt-0.5 text-xs text-muted-foreground">
+                      {row.note}
+                    </p>
                   )}
                 </div>
                 <span className="shrink-0 rounded-full bg-secondary px-2.5 py-1 text-xs font-bold tabular-nums text-secondary-foreground">

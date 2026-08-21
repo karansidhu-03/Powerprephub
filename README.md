@@ -2,7 +2,7 @@
 
 A modern, responsive web application designed for practicing Power Engineering multiple-choice question (MCQ) exams. The application provides a clean, distraction-free testing and learning experience tailored for aspiring engineers.
 
-> **A Note from the Creator:** 
+> **A Note from the Creator:**
 > I built this platform for myself to help study, and I truly hope it helps anyone out there preparing for their Power Engineering exams. Good luck with your studies—feel free to use this entirely for free!
 
 ## Core Features
