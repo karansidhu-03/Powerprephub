@@ -1,7 +1,8 @@
 import paper1 from "./papers/partapaper1.json";
 import paper2 from "./papers/partapaper2.json";
-import paper3 from "./papers/partapaper3.json";
+import paper3Raw from "./papers/partapaper3.json";
 import paper4Raw from "./papers/partapaper4.json";
+import paper5 from "./papers/partapaper5.json";
 
 export interface Question {
   id: number;
@@ -13,33 +14,33 @@ export interface Question {
   explanation: string;
 }
 
-/** Raw shape of partapaper4.json: options keyed by letter, correctAnswer as a letter. */
-interface RawPaper4Question {
-  number: number;
+/** Raw shape of partapaper3.json and partapaper4.json: correctAnswer stored as option text. */
+interface RawTextAnswerQuestion {
+  id: number;
   question: string;
-  options: { A: string; B: string; C: string; D: string };
-  correctAnswer: "A" | "B" | "C" | "D";
+  options: string[];
+  answer: string;
   explanation: string;
 }
 
-const LETTER_INDEX: Record<string, number> = { A: 0, B: 1, C: 2, D: 3 };
-
-/** Convert paper4's object-keyed format into the Question shape the quiz engine uses. */
-function convertPaper4(raw: RawPaper4Question[]): Question[] {
+/** Convert text-answer papers into the Question shape the quiz engine uses. */
+function convertTextAnswer(raw: RawTextAnswerQuestion[]): Question[] {
   return raw.map((q) => {
+    const idx = q.options.indexOf(q.answer);
     const topicMatch = q.explanation.match(/\[([^\]]+)\]\s*\.?$/);
     return {
-      id: q.number,
+      id: q.id,
       question: q.question,
-      options: [q.options.A, q.options.B, q.options.C, q.options.D],
-      correctAnswer: LETTER_INDEX[q.correctAnswer] ?? 0,
+      options: q.options,
+      correctAnswer: idx >= 0 ? idx : 0,
       explanation: q.explanation,
       topic: topicMatch ? topicMatch[1] : undefined,
     };
   });
 }
 
-const paper4 = convertPaper4(paper4Raw as RawPaper4Question[]);
+const paper3 = convertTextAnswer(paper3Raw as RawTextAnswerQuestion[]);
+const paper4 = convertTextAnswer(paper4Raw as RawTextAnswerQuestion[]);
 
 export interface Paper {
   id: string;
@@ -98,7 +99,13 @@ export const exams: Exam[] = [
         description: "100 questions · randomized order",
         questions: paper4,
       },
-      ...placeholderPapers(5, 9),
+      {
+        id: "paper5",
+        label: "Paper 5",
+        description: "100 questions · randomized order",
+        questions: paper5 as Question[],
+      },
+      ...placeholderPapers(6, 9),
     ],
   },
   {

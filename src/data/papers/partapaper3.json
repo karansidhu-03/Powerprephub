@@ -259,7 +259,7 @@
       "Light up the gauge glass for reading",
       "Protect the operator if glass breaks"
     ],
-    "answer": "Protect the operator if glass breaking occurs",
+    "answer": "Protect the operator if glass breaks",
     "explanation": "Protective shields and components around gauge glasses help safeguard operators from flying glass and steam if failure happens under pressure."
   },
   {
