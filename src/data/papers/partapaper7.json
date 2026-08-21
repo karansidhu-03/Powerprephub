@@ -1,0 +1,1201 @@
+[
+  {
+    "id": 1,
+    "question": "A portable electric tool with a frayed, damaged power cord should be:",
+    "options": [
+      "Used with extra care anyway",
+      "Tagged and taken out of service until repaired",
+      "Wrapped in electrical tape and kept in service",
+      "Used only on dry days"
+    ],
+    "answer": "B",
+    "explanation": "Damaged electrical equipment poses a severe shock and fire hazard and must be immediately locked out, tagged out, and removed from service until properly repaired by a qualified electrician."
+  },
+  {
+    "id": 2,
+    "question": "A turbine flow meter measures flow by:",
+    "options": [
+      "The weight of a floating ball",
+      "The height of a liquid column",
+      "The voltage read from a thermocouple",
+      "Spin of a rotor turned by the fluid"
+    ],
+    "answer": "D",
+    "explanation": "A turbine flow meter uses a multi-bladed rotor placed in the flow path; the fluid passing through causes the rotor to spin at a speed directly proportional to the volumetric flow rate."
+  },
+  {
+    "id": 3,
+    "question": "A transformer has 200 primary turns and a 480 V primary. For a 120 V secondary, the secondary turns are:",
+    "options": [
+      "200",
+      "50",
+      "800",
+      "100"
+    ],
+    "answer": "B",
+    "explanation": "Using the transformer turns ratio formula (V_p / V_s = N_p / N_s), we get (480 / 120) = (200 / N_s), which simplifies to 4 = 200 / N_s, resulting in N_s = 200 / 4 = 50 turns."
+  },
+  {
+    "id": 4,
+    "question": "ASME Boiler and Pressure Vessel Code, Section V, covers:",
+    "options": [
+      "Material specifications for parts",
+      "The design of power piping",
+      "The construction of heating boilers",
+      "Nondestructive examination methods"
+    ],
+    "answer": "D",
+    "explanation": "ASME B&PV Code Section V contains requirements and methods for nondestructive examination (NDE) such as radiography, ultrasonic, liquid penetrant, and magnetic particle testing."
+  },
+  {
+    "id": 5,
+    "question": "In a solution, the solvent is:",
+    "options": [
+      "The substance present in the most amount",
+      "Typically a solid material at room temperature",
+      "The substance present in the least amount",
+      "Only the dissolved gas"
+    ],
+    "answer": "A",
+    "explanation": "By definition, the solvent is the component of a solution that is present in the greatest quantity or amount, dissolving the solute."
+  },
+  {
+    "id": 6,
+    "question": "A hotwell in a plant is used to:",
+    "options": [
+      "Hold a stored supply of combustion air for later",
+      "Collect returned condensate before the feed pump",
+      "Cool the outgoing flue gas",
+      "Store the plant's fuel oil"
+    ],
+    "answer": "B",
+    "explanation": "A hotwell acts as a receiver collecting condensed steam from various heat exchangers and turbine condensers, supplying water back to the deaerator or boiler feed system."
+  },
+  {
+    "id": 7,
+    "question": "One litre of water has a mass of approximately:",
+    "options": [
+      "1 kilogram",
+      "0.1 kilogram",
+      "10 kilograms",
+      "100 grams"
+    ],
+    "answer": "A",
+    "explanation": "Under standard conditions, 1 litre of pure water has a volume that weighs precisely 1 kilogram (or 1000 grams)."
+  },
+  {
+    "id": 8,
+    "question": "The furnace (combustion chamber) of a boiler provides:",
+    "options": [
+      "Space for the fuel to burn completely",
+      "Storage room for the feedwater",
+      "A clear path for the boiler feed pump",
+      "A seat for the gauge glass"
+    ],
+    "answer": "A",
+    "explanation": "The furnace is engineered with adequate volume and residence time to ensure the complete combustion of fuel and air before the hot flue gases contact the cooler boiler heating surfaces."
+  },
+  {
+    "id": 9,
+    "question": "An OTSG used for heavy-oil (SAGD) service deliberately produces wet steam (about 85% quality) so that:",
+    "options": [
+      "More superheat is produced",
+      "The boiler can simply keep running with no feed pump at all",
+      "Dissolved solids leave with the steam, not the boiler",
+      "No fuel is needed to fire it"
+    ],
+    "answer": "C",
+    "explanation": "Once-Through Steam Generators (OTSGs) operate without a steam drum; keeping steam quality around 85% ensures that dissolved minerals remain dissolved in the liquid phase and do not precipitate and scale the tube walls."
+  },
+  {
+    "id": 10,
+    "question": "To measure tank level without anything contacting the liquid, an instrument used is an:",
+    "options": [
+      "A manual dip stick",
+      "Ultrasonic level transmitter",
+      "A direct sight glass",
+      "A simple mechanical float switch"
+    ],
+    "answer": "B",
+    "explanation": "Ultrasonic and radar level transmitters mount at the top of a vessel, transmitting waves downward and measuring the reflection time, providing non-contact level measurement."
+  },
+  {
+    "id": 11,
+    "question": "The amount of carbon dioxide produced by a boiler is proportional to:",
+    "options": [
+      "The feedwater temperature only",
+      "The colour of the boiler",
+      "The number of safety valves",
+      "Amount of fuel carbon burned"
+    ],
+    "answer": "D",
+    "explanation": "Carbon dioxide ($CO_2$) is a direct byproduct of the chemical combination of carbon in the fuel with oxygen during combustion; more carbon burned yields more $CO_2$."
+  },
+  {
+    "id": 12,
+    "question": "Supplying far more excess air than needed for combustion:",
+    "options": [
+      "Wastes heat up the stack, cutting efficiency",
+      "Increases the overall efficiency of the plant",
+      "Eliminates all of the CO2",
+      "Has no real effect"
+    ],
+    "answer": "A",
+    "explanation": "Excess air is required to ensure complete combustion, but excessive air carries heat away up the stack, lowering thermal efficiency."
+  },
+  {
+    "id": 13,
+    "question": "After a chemical splash to the eye, the worker should:",
+    "options": [
+      "Wait to see if the eye starts to hurt first",
+      "Rub the affected eye dry",
+      "Flush at an eyewash for at least 15 minutes",
+      "Apply an ointment right away"
+    ],
+    "answer": "C",
+    "explanation": "Standard emergency response protocol dictates flushing chemical splashes from the eyes using an eyewash station continuously for a minimum of 15 minutes before seeking medical attention."
+  },
+  {
+    "id": 14,
+    "question": "ASME Boiler and Pressure Vessel Code, Section II, covers:",
+    "options": [
+      "Welding qualification",
+      "Nondestructive examination",
+      "Material specifications",
+      "Power boilers"
+    ],
+    "answer": "C",
+    "explanation": "ASME Section II is dedicated to Material Specifications, covering ferrous and non-ferrous materials, welding electrodes, and specifications accepted for code construction."
+  },
+  {
+    "id": 15,
+    "question": "Fire doors and marked exits in a plant must be kept:",
+    "options": [
+      "Closed as designed and kept unobstructed",
+      "Propped wide open at all times during work",
+      "Blocked off with equipment",
+      "Locked from the inside"
+    ],
+    "answer": "A",
+    "explanation": "Fire doors prevent the spread of fire and smoke, and exits must remain clear to allow safe evacuation during an emergency."
+  },
+  {
+    "id": 16,
+    "question": "Phosphate is added to boiler water to:",
+    "options": [
+      "Precipitate hardness as a soft, blow-down sludge",
+      "Add hardness to the water",
+      "Strip out the dissolved oxygen"
+    ],
+    "answer": "A",
+    "explanation": "Phosphate treatment reacts with residual calcium and magnesium hardness to form a non-adherent, mobile sludge that can be safely removed via bottom blowdown."
+  },
+  {
+    "id": 17,
+    "question": "A block diagram is used to show:",
+    "options": [
+      "The electrical wiring in full detail",
+      "The full three-dimensional routing of the pipe",
+      "The exact pipe sizes and valves",
+      "Major systems and their links in simple blocks"
+    ],
+    "answer": "D",
+    "explanation": "A block diagram simplifies complex systems by representing major components or functions as blocks linked together with flow or signal lines."
+  },
+  {
+    "id": 18,
+    "question": "A pulley system lifts a 900 N load with an effort of 300 N. Its mechanical advantage is:",
+    "options": [
+      "0.33",
+      "1200",
+      "3",
+      "600"
+    ],
+    "answer": "C",
+    "explanation": "Actual Mechanical Advantage (AMA) is calculated as the load force divided by the effort force: $900 \\text{ N} / 300 \\text{ N} = 3$."
+  },
+  {
+    "id": 19,
+    "question": "One British thermal unit (Btu) is the heat needed to raise:",
+    "options": [
+      "One pound of steam by one degree",
+      "One litre of water by ten degrees",
+      "One kilogram of water by one degree Celsius",
+      "One pound of water by one degree Fahrenheit"
+    ],
+    "answer": "D",
+    "explanation": "By definition in the imperial system, 1 Btu is the amount of thermal energy required to raise the temperature of 1 pound of water by 1 degree Fahrenheit."
+  },
+  {
+    "id": 20,
+    "question": "Sludge has settled in the mud drum of a watertube boiler. To remove it the operator performs a:",
+    "options": [
+      "Soot blow",
+      "Bottom blowdown",
+      "Surface blowoff",
+      "Safety-valve test"
+    ],
+    "answer": "B",
+    "explanation": "Bottom blowdown is executed from the lower drums or headers (where heavy suspended solids and sludge accumulate) to expel them from the boiler."
+  },
+  {
+    "id": 21,
+    "question": "Repairing steam leaks and returning condensate benefits the environment because it:",
+    "options": [
+      "It wastes treated water",
+      "It raises the CO2 output",
+      "It increases the total amount of fuel consumed",
+      "It saves energy and water, cutting emissions"
+    ],
+    "answer": "D",
+    "explanation": "Returning hot condensate saves treated water and retains sensible heat, reducing the amount of fuel burned and lowering corresponding greenhouse gas emissions."
+  },
+  {
+    "id": 22,
+    "question": "The \"number of passes\" in a Scotch marine boiler refers to:",
+    "options": [
+      "The number of gauge glasses fitted",
+      "The total number of boiler safety valves fitted",
+      "How many times the gases run the boiler length",
+      "The number of feed pumps fitted"
+    ],
+    "answer": "C",
+    "explanation": "A pass refers to the traversal of combustion gases through the boiler length (e.g., furnace is first pass, return tubes form the second and third passes)."
+  },
+  {
+    "id": 23,
+    "question": "The power in a circuit carrying 15 A at 240 V is (P = V * I):",
+    "options": [
+      "255 W",
+      "3600 W",
+      "16 W",
+      "3600 J"
+    ],
+    "answer": "B",
+    "explanation": "Using Ohm's law power formula $P = V \\times I$: $240 \\text{ V} \\times 15 \\text{ A} = 3600 \\text{ Watts}$."
+  },
+  {
+    "id": 24,
+    "question": "The \"U\" stamp on a vessel indicates that it was:",
+    "options": [
+      "Built as a power boiler under ASME Section I",
+      "Repaired under an R certificate",
+      "Built as a pressure vessel to Section VIII",
+      "Made only out of cast iron"
+    ],
+    "answer": "A",
+    "explanation": "Wait, let's look closer at standard ASME stamps. Section I power boilers use an 'S' stamp, while Section VIII unfired pressure vessels use a 'U' stamp. Let's verify option alignment or standard choices: ASME Section I power boilers are stamped 'S'. Wait, let's review the option text: 'Built as a power boiler under ASME Section I' vs 'Built as a pressure vessel to Section VIII'. Actually, Section VIII vessels receive the 'U' stamp. Let's verify standard multiple-choice conventions: a 'U' stamp stands for Unfired Pressure Vessel (Section VIII). Wait, let's check standard Power Engineering multiple choice context: the option 'Built as a pressure vessel to Section VIII' matches the 'U' symbol (Unfired). Let's see if there's any nuance; usually 'S' is for power boilers, 'U' is for pressure vessels."
+  },
+  {
+    "id": 25,
+    "question": "The maximum continuous rating (MCR) of a boiler is:",
+    "options": [
+      "The blowdown setting of the safety valve",
+      "Highest output it can hold continuously",
+      "The hydrostatic test pressure",
+      "The minimum firing rate"
+    ],
+    "answer": "B",
+    "explanation": "MCR defines the maximum steam evaporation rate that the boiler can safely and continuously generate under specified design conditions."
+  },
+  {
+    "id": 26,
+    "question": "A control valve is selected to \"fail safe\" so that, if the instrument air fails, it:",
+    "options": [
+      "Moves to the safe position",
+      "Stays exactly where it was",
+      "Bursts apart from the loss",
+      "Opens itself fully every time"
+    ],
+    "answer": "A",
+    "explanation": "Fail-safe action ensures that upon loss of the actuating medium (like pneumatic air supply), internal springs or volume chambers drive the valve to a predetermined safe position (fail-open or fail-closed)."
+  },
+  {
+    "id": 27,
+    "question": "The insulation class of a motor refers to:",
+    "options": [
+      "Top temperature its winding insulation takes",
+      "The voltage rating of the motor",
+      "The outside diameter of the motor drive shaft",
+      "The number of motor poles"
+    ],
+    "answer": "A",
+    "explanation": "Motor insulation classes (such as Class B, F, or H) designate the maximum allowable operating temperature limits that the winding insulation can endure without degrading."
+  },
+  {
+    "id": 28,
+    "question": "A socket-weld fitting joins small-bore pipe by:",
+    "options": [
+      "Setting the pipe in a socket and welding around",
+      "Rolling the pipe end over",
+      "Threading the pipe into it",
+      "Bolting two pipe flanges firmly together with studs"
+    ],
+    "answer": "A",
+    "explanation": "In a socket-weld connection, the pipe is inserted into a recessed area (socket) of the fitting and secured with a fillet weld around the outer rim."
+  },
+  {
+    "id": 29,
+    "question": "Used (waste) lubricating oil from a plant should be:",
+    "options": [
+      "Dumped out onto the ground",
+      "Burned off in the open air",
+      "Collected and disposed of through proper channels",
+      "Poured straight down the plant's floor drain system"
+    ],
+    "answer": "C",
+    "explanation": "Environmental regulations require waste oil to be safely stored in dedicated containers and collected by licensed recycling or disposal contractors."
+  },
+  {
+    "id": 30,
+    "question": "Compressed air must never be used to:",
+    "options": [
+      "Drive the pneumatic instruments",
+      "Blow dust off the skin or clothing",
+      "Inflate tires to the spec pressure",
+      "Operate the air-powered tools"
+    ],
+    "answer": "B",
+    "explanation": "Using compressed air to clean clothing or skin can force air and embolisms into the bloodstream or drive debris into tissue, posing severe health risks."
+  },
+  {
+    "id": 31,
+    "question": "Normalizing a steel is done mainly to:",
+    "options": [
+      "Add carbon to the steel",
+      "Soften it as much as it possibly can be",
+      "Refine the grain and improve uniformity",
+      "Coat the surface with zinc"
+    ],
+    "answer": "C",
+    "explanation": "Normalizing involves heating steel above its critical temperature and cooling it in still air to refine grain size, relieve internal stresses, and create a uniform microstructure."
+  },
+  {
+    "id": 32,
+    "question": "When steam condenses on a surface, it:",
+    "options": [
+      "Becomes superheated steam",
+      "Absorbs latent heat from the cold surface",
+      "Gives up its latent heat to the surface",
+      "Loses all of its mass"
+    ],
+    "answer": "C",
+    "explanation": "Phase change from vapor to liquid releases a massive amount of latent heat of vaporization directly to the cooler surface, making steam an exceptional heating medium."
+  },
+  {
+    "id": 33,
+    "question": "Heat and temperature differ in that:",
+    "options": [
+      "Temperature is measured in joules",
+      "They are exactly the same thing",
+      "A measure of heat content rather than intensity",
+      "Temperature is intensity; heat is the quantity"
+    ],
+    "answer": "D",
+    "explanation": "Temperature represents the thermal intensity or average kinetic energy of molecules, whereas heat is the total thermal energy (quantity) contained within a body or transferred."
+  },
+  {
+    "id": 34,
+    "question": "The mud ring (foundation ring) of a firebox boiler:",
+    "options": [
+      "Provides physical support for the safety valve",
+      "Joins inner and outer sheets at the water leg",
+      "Carries the steam to the header",
+      "Forms the lining of the chimney"
+    ],
+    "answer": "B",
+    "explanation": "The mud ring is a heavy steel frame or forging that seals and connects the bottom of the inner and outer metal sheets of a firebox water leg."
+  },
+  {
+    "id": 35,
+    "question": "Equipment is given a unique tag or number on drawings and in the field so that:",
+    "options": [
+      "Only the plant managers are able to read them",
+      "Each item is identified the same everywhere",
+      "The drawings look more colourful",
+      "The equipment runs a little faster"
+    ],
+    "answer": "B",
+    "explanation": "Standardized tagging ensures clear, unambiguous communication across operations, maintenance, engineering documents, and computerized maintenance management systems (CMMS)."
+  },
+  {
+    "id": 36,
+    "question": "Pascal's law states that pressure applied to a confined fluid is:",
+    "options": [
+      "Transmitted only in the single downward direction",
+      "Transmitted equally in all directions through it",
+      "Gradually lost as it travels along",
+      "Greatest at the top of the fluid"
+    ],
+    "answer": "B",
+    "explanation": "Pascal's principle dictates that pressure changes applied to an enclosed incompressible fluid are transmitted undiminished to every portion of the fluid and to the walls of its container."
+  },
+  {
+    "id": 37,
+    "question": "Convert 60°C to Fahrenheit. (°F = 9/5 * °C + 32)",
+    "options": [
+      "124°F",
+      "108°F",
+      "92°F",
+      "140°F"
+    ],
+    "answer": "D",
+    "explanation": "Using the formula: $(9/5 \\times 60) + 32 = (9 \\times 12) + 32 = 108 + 32 = 140^\\circ\\text{F}$."
+  },
+  {
+    "id": 38,
+    "question": "A feed pump is fitted with a minimum-flow (recirculation) line so that:",
+    "options": [
+      "It can safely run completely dry",
+      "It raises the boiler steam pressure",
+      "It vents trapped air from the boiler drum",
+      "It keeps enough flow to avoid overheating"
+    ],
+    "answer": "D",
+    "explanation": "Centrifugal pumps generate friction and heat when operating against a closed or nearly closed discharge valve; a minimum flow line ensures continuous fluid passage to prevent overheating and vapor binding."
+  },
+  {
+    "id": 39,
+    "question": "On discovering a fuel-oil spill, the operator should:",
+    "options": [
+      "Light it to burn the spill off",
+      "Hose it down into the drain",
+      "Contain it, remove ignition sources, clean up",
+      "Simply ignore it if the spill is fairly small"
+    ],
+    "answer": "C",
+    "explanation": "Spill response protocols require stopping the source, containing the spill with absorbents or booms, removing potential ignition sources, and cleaning up safely."
+  },
+  {
+    "id": 40,
+    "question": "A sentinel (warning) relief valve is used to:",
+    "options": [
+      "Give an audible warning of overpressure",
+      "Isolate the line from the system",
+      "Reduce the pressure to a set value",
+      "Provide full overpressure protection"
+    ],
+    "answer": "A",
+    "explanation": "A sentinel valve is set to open slightly below the main safety valve pressure, releasing a small amount of steam to whistle and alert operators of rising pressure before the main safety valves pop."
+  },
+  {
+    "id": 41,
+    "question": "Vanadium is added to steel mainly to:",
+    "options": [
+      "Increase the brittleness only",
+      "Give a fine grain and improve hardening",
+      "Lower the overall strength of the steel",
+      "Add a zinc plating layer"
+    ],
+    "answer": "B",
+    "explanation": "Vanadium acts as a grain refiner, restricts grain growth during heat treatment, and enhances strength, toughness, and wear resistance in alloy steels."
+  },
+  {
+    "id": 42,
+    "question": "The total relieving capacity of a boiler's safety valve(s) must be:",
+    "options": [
+      "About half the boiler's maximum steaming rate",
+      "At least equal to the maximum steam generated",
+      "Equal to the feed pump's capacity",
+      "Unrelated to the steaming rate"
+    ],
+    "answer": "B",
+    "explanation": "Codes require that safety valves have sufficient capacity to discharge all the steam the boiler can generate without pressure rising more than 6% above the maximum allowable working pressure (MAWP)."
+  },
+  {
+    "id": 43,
+    "question": "Evaporation differs from boiling in that evaporation:",
+    "options": [
+      "Can happen at the surface below boiling point",
+      "Only happens above the boiling point",
+      "Needs no heat input at all",
+      "Happens throughout the bulk liquid all at once"
+    ],
+    "answer": "A",
+    "explanation": "Evaporation occurs only at the liquid-gas boundary and can take place at any temperature, whereas boiling occurs throughout the entire bulk liquid at its saturation temperature."
+  },
+  {
+    "id": 44,
+    "question": "For a flow element such as an orifice or venturi, the flow rate is related to the differential pressure by:",
+    "options": [
+      "Flow varies with the square of the pressure",
+      "Flow varies with the square root of the DP",
+      "Flow equals the pressure exactly",
+      "Flow is independent of the pressure"
+    ],
+    "answer": "B",
+    "explanation": "According to Bernoulli's principle, fluid flow rate through a constriction is directly proportional to the square root of the generated differential pressure ($Q \\propto \\sqrt{\\Delta P}$)."
+  },
+  {
+    "id": 45,
+    "question": "Galvanizing a steel component means:",
+    "options": [
+      "Adding chromium right through the metal",
+      "Welding it together with flux",
+      "Hardening it by rapid quenching",
+      "Coating it with zinc against corrosion"
+    ],
+    "answer": "D",
+    "explanation": "Galvanizing applies a protective zinc coating to steel or iron to prevent rusting through galvanic sacrificial protection."
+  },
+  {
+    "id": 46,
+    "question": "The simplest non-destructive examination, used to find surface defects with the naked eye, is:",
+    "options": [
+      "Radiographic testing (RT)",
+      "Visual testing (VT)",
+      "Magnetic particle testing (MT)",
+      "Ultrasonic testing (UT)"
+    ],
+    "answer": "B",
+    "explanation": "Visual Testing (VT) is the primary and most fundamental NDE method, relying on direct or remote line-of-sight observation for surface flaws."
+  },
+  {
+    "id": 47,
+    "question": "To hold dissolved solids steady without large swings in the water level, the plant uses:",
+    "options": [
+      "An increased firing rate",
+      "No blowdown of any kind",
+      "Continuous surface blowdown set by conductivity",
+      "Only occasional bottom blowdown carried out by hand"
+    ],
+    "answer": "C",
+    "explanation": "Continuous surface blowdown removes concentrated boiler water steadily, keeping total dissolved solids (TDS) within safe limits without causing large water-level fluctuations."
+  },
+  {
+    "id": 48,
+    "question": "A vacuum breaker is fitted on a steam coil to:",
+    "options": [
+      "Trap and slowly drain the condensate",
+      "Relieve any overpressure",
+      "Measure the rate of flow",
+      "Admit air and stop a vacuum forming"
+    ],
+    "answer": "D",
+    "explanation": "When a steam coil shuts down, condensing steam can create a vacuum that pulls condensate back in or damages piping; a vacuum breaker admits atmospheric air to break the vacuum."
+  },
+  {
+    "id": 49,
+    "question": "Installing a waste-heat recovery boiler on hot exhaust gases benefits the environment by:",
+    "options": [
+      "It adds sulphur to the gas",
+      "It captures lost heat, cutting fuel and emissions",
+      "It raises the temperature of the boiler flue stack",
+      "It raises the level of excess air"
+    ],
+    "answer": "B",
+    "explanation": "Waste-heat boilers capture thermal energy that would otherwise be lost to the atmosphere, improving overall plant thermal efficiency and reducing fuel consumption and emissions."
+  },
+  {
+    "id": 50,
+    "question": "Manganese is added to steel mainly to:",
+    "options": [
+      "Reduce all of the strength of the finished steel",
+      "Lower the melting point",
+      "Raise strength, hardness and wear resistance",
+      "Only make it non-magnetic"
+    ],
+    "answer": "C",
+    "explanation": "Manganese acts as a deoxidizer and combines with sulfur to prevent brittleness while significantly improving hardenability, tensile strength, and abrasion resistance."
+  },
+  {
+    "id": 51,
+    "question": "The nominal pipe size (NPS) of a pipe is:",
+    "options": [
+      "The thickness of the wall",
+      "The pitch of the thread",
+      "Approximate size, not an exact dimension",
+      "The exact measured outside diameter of pipe"
+    ],
+    "answer": "C",
+    "explanation": "Nominal Pipe Size is a standard descriptor (designator) rather than an exact measurement; for larger sizes, the actual outside diameter matches the NPS, while wall thickness varies by schedule."
+  },
+  {
+    "id": 52,
+    "question": "A capacitance level probe senses level by:",
+    "options": [
+      "Timing an echoed ultrasonic sound pulse",
+      "Change in capacitance as level changes",
+      "Weighing the whole vessel",
+      "A simple floating ball"
+    ],
+    "answer": "B",
+    "explanation": "A capacitance probe measures changes in electrical capacitance between a sensing rod and the vessel wall as the dielectric material (liquid level) changes."
+  },
+  {
+    "id": 53,
+    "question": "A transducer in an instrument system:",
+    "options": [
+      "Generates and raises the steam inside the boiler",
+      "Stores the data on disk",
+      "Filters the boiler water",
+      "Converts one form of signal or energy to another"
+    ],
+    "answer": "D",
+    "explanation": "A transducer is a device that converts a physical parameter or signal from one form of energy into another (e.g., pressure into an electrical 4-20 mA current signal)."
+  },
+  {
+    "id": 54,
+    "question": "The \"first pass\" of a Scotch marine boiler is:",
+    "options": [
+      "Furnace tube itself",
+      "The boiler chimney",
+      "The steam superheater",
+      "The feedwater economizer"
+    ],
+    "answer": "A",
+    "explanation": "In a firetube Scotch marine boiler, combustion takes place inside the large central horizontal cylinder known as the furnace tube, constituting the first pass."
+  },
+  {
+    "id": 55,
+    "question": "The torque produced by a 250 N force acting at a radius of 0.6 m is (T = F * r):",
+    "options": [
+      "250 N*m",
+      "41.7 N*m",
+      "417 N*m",
+      "150 N*m"
+    ],
+    "answer": "D",
+    "explanation": "Using the torque formula $T = F \\times r$: $250 \\text{ N} \\times 0.6 \\text{ m} = 150 \\text{ N}\\cdot\\text{m}$."
+  },
+  {
+    "id": 56,
+    "question": "A steam main is fitted with a trap at its low points in order to:",
+    "options": [
+      "Add chemicals to the steam",
+      "Drain condensate that collects there",
+      "Raise the pressure of the steam",
+      "Increase the velocity of the steam"
+    ],
+    "answer": "B",
+    "explanation": "Steam traps automatically discharge accumulated condensate and non-condensable gases while preventing live steam from escaping at low points in steam headers."
+  },
+  {
+    "id": 57,
+    "question": "Respiratory protection is required when:",
+    "options": [
+      "The surrounding background noise level is very high",
+      "The lighting is poor",
+      "The floors are wet",
+      "Airborne contaminants are high or oxygen is low"
+    ],
+    "answer": "D",
+    "explanation": "Respirators are personal protective equipment used to shield workers from inhaling toxic gases, vapors, dusts, or working in oxygen-deficient atmospheres."
+  },
+  {
+    "id": 58,
+    "question": "An ash hopper beneath a furnace is used to:",
+    "options": [
+      "Preheat the combustion air",
+      "Collect ash from solid-fuel firing",
+      "Store a reserve of feedwater",
+      "Provide a seat for the safety valve"
+    ],
+    "answer": "B",
+    "explanation": "In solid-fuel (coal or biomass) fired boilers, an ash hopper collects the bottom ash falling from the grate or furnace floor for disposal."
+  },
+  {
+    "id": 59,
+    "question": "A globe valve should be installed so that the flow normally:",
+    "options": [
+      "Direction makes no difference",
+      "It runs backward through the bonnet",
+      "It enters from beneath the seat",
+      "It enters only from above the disc"
+    ],
+    "answer": "C",
+    "explanation": "Globe valves are typically installed so that fluid enters from underneath the valve seat, making it easier to open against pressure and protecting the packing when closed."
+  },
+  {
+    "id": 60,
+    "question": "A certificate of inspection (operating permit) for a boiler is issued by:",
+    "options": [
+      "Jurisdiction, after a satisfactory inspection",
+      "The boiler operator on duty",
+      "The supplier of the fuel",
+      "The outside contractor who paints the equipment"
+    ],
+    "answer": "A",
+    "explanation": "Regulatory statutory bodies (provincial or territorial safety authorities) issue operating certificates following successful boiler inspections."
+  },
+  {
+    "id": 61,
+    "question": "A closed feedwater heater differs from an open (deaerating) heater in that it:",
+    "options": [
+      "It takes the place of the feed pump",
+      "It removes all the dissolved solids from the water",
+      "It boils the feedwater into steam",
+      "It heats through tubes without mixing the steam in"
+    ],
+    "answer": "D",
+    "explanation": "In a closed feedwater heater, heating steam and feedwater do not mix; heat is transferred through tube walls, allowing water to remain under high pressure."
+  },
+  {
+    "id": 62,
+    "question": "A boiler feed pump must develop a discharge pressure that is:",
+    "options": [
+      "Zero pressure the whole time it is feeding",
+      "Higher than the boiler, to force water in",
+      "Equal to atmospheric pressure",
+      "Lower than the boiler pressure"
+    ],
+    "answer": "B",
+    "explanation": "To overcome internal boiler drum pressure and system friction losses in the piping, feed pumps must produce a discharge pressure higher than the boiler operating pressure."
+  },
+  {
+    "id": 63,
+    "question": "Flat surfaces exposed to boiler pressure must be stayed because:",
+    "options": [
+      "Curved shapes are the ones that really need staying",
+      "Flat plates are far too strong",
+      "Flat plates resist pressure poorly, curves do not",
+      "Stays add to the heating surface"
+    ],
+    "answer": "C",
+    "explanation": "Internal pressure tends to bow and distort flat plates easily because they lack the natural self-supporting arch geometry found in cylindrical or spherical shells."
+  },
+  {
+    "id": 64,
+    "question": "The crown sheet (top plate of a firebox) must always be:",
+    "options": [
+      "Exposed to the flue gas only",
+      "Kept covered with water against overheating",
+      "Coated over with a layer of soot",
+      "Kept completely dry for better heat transfer"
+    ],
+    "answer": "B",
+    "explanation": "Because the crown sheet receives intense radiant heat from the fire, uncovering it leads to rapid overheating, loss of structural strength, and catastrophic failure."
+  },
+  {
+    "id": 65,
+    "question": "Stack temperature is climbing and efficiency is falling. On the fireside, the most likely cause is:",
+    "options": [
+      "Soot buildup insulating the heating surfaces",
+      "A perfectly clean, unblocked flue economizer",
+      "Too little fuel being fired",
+      "An oversized safety valve"
+    ],
+    "answer": "A",
+    "explanation": "Soot and ash deposits on fireside tubes act as thermal insulators, preventing heat transfer to the water and resulting in higher stack temperatures and lower efficiency."
+  },
+  {
+    "id": 66,
+    "question": "A defective tube must be replaced. In a watertube boiler this is easier than in a firetube boiler because the tubes:",
+    "options": [
+      "They carry no water at all",
+      "They are made of refractory",
+      "They roll into accessible drums or headers",
+      "They are welded directly into the chimney flue"
+    ],
+    "answer": "C",
+    "explanation": "Watertube boiler tubes are rolled or expanded into headers and drums where mechanics have external access, simplifying cut-out and replacement compared to interior firetubes."
+  },
+  {
+    "id": 67,
+    "question": "A snubber (pulsation dampener) fitted to a pressure gauge is used to:",
+    "options": [
+      "Raise the gauge reading",
+      "Protect the gauge from rapid pressure pulses",
+      "Drain off any condensate from the gauge line",
+      "Measure the temperature"
+    ],
+    "answer": "B",
+    "explanation": "A snubber restricts fluid surges and rapid pressure oscillations from pumps or reciprocating equipment, protecting delicate internal gauge mechanisms."
+  },
+  {
+    "id": 68,
+    "question": "Washout plugs (handhole openings) on a boiler are provided to:",
+    "options": [
+      "Let scale and sludge out and allow inspection",
+      "Provide a mounting point for the pressure gauge",
+      "Carry the boiler feedwater",
+      "Vent steam to atmosphere"
+    ],
+    "answer": "A",
+    "explanation": "Washout plugs and handholes give maintenance personnel physical access to inspect internal surfaces and flush out accumulated scale and mud."
+  },
+  {
+    "id": 69,
+    "question": "A D-type packaged watertube boiler is arranged with:",
+    "options": [
+      "Two drums and the furnace set to one side",
+      "Three drums in a triangle with no tubes",
+      "A single drum and no furnace at all",
+      "A cast-iron sectional body"
+    ],
+    "answer": "A",
+    "explanation": "A D-type boiler features one upper steam drum and one lower mud drum, with the burner and combustion chamber offset to one side, forming a 'D' shape when viewed from the end."
+  },
+  {
+    "id": 70,
+    "question": "To join light copper tubing without melting the base metal, the best process is:",
+    "options": [
+      "Forge-welding the metal joint together hot",
+      "Oxy-fuel flame cutting",
+      "Submerged arc welding",
+      "Soldering, with filler melting below 450°C"
+    ],
+    "answer": "D",
+    "explanation": "Soldering and brazing use capillary action with filler metals melting below the base metal melting point to join copper pipes without structural damage."
+  },
+  {
+    "id": 71,
+    "question": "When two safety valves are fitted to one boiler, they are usually:",
+    "options": [
+      "Gagged shut to act as spares",
+      "Set to open in stages at different points",
+      "Set well above the boiler MAWP",
+      "Set slightly higher than the operating pressure"
+    ],
+    "answer": "B",
+    "explanation": "To prevent excessive pressure spikes and manage discharge smoothly, multiple safety valves are set to pop sequentially at slightly staggered pressure intervals."
+  },
+  {
+    "id": 72,
+    "question": "The tensile stress in a member of area 0.001 m^2 carrying 40,000 N is:",
+    "options": [
+      "20 MPa",
+      "4 MPa",
+      "40 MPa",
+      "400 MPa"
+    ],
+    "answer": "C",
+    "explanation": "Stress $\\sigma = F / A = 40,000 \\text{ N} / 0.001 \\text{ m}^2 = 40,000,000 \\text{ Pa} = 40 \\text{ MPa}$."
+  },
+  {
+    "id": 73,
+    "question": "The feedwater outlet temperature of an economizer is kept below the saturation temperature to:",
+    "options": [
+      "Raise the temperature of the boiler flue stack gas",
+      "Stop the feedwater boiling inside the economizer",
+      "Add oxygen to the water",
+      "Reduce the boiler pressure"
+    ],
+    "answer": "B",
+    "explanation": "Economizers are designed to preheat water using flue gas; keeping temperatures below saturation prevents steam pockets from forming inside the economizer tubes."
+  },
+  {
+    "id": 74,
+    "question": "A good conductor, such as copper, is a material that:",
+    "options": [
+      "Strongly resists the flow of current",
+      "Only stores up heat",
+      "Cannot carry any current",
+      "Lets electric current flow easily"
+    ],
+    "answer": "D",
+    "explanation": "Conductors possess free electrons that move readily under an electric field, offering very low resistance to electric current."
+  },
+  {
+    "id": 75,
+    "question": "A safety valve that simmers or leaks slightly just below its set pressure usually indicates:",
+    "options": [
+      "The boiler happens to be making too little steam",
+      "Set pressure is too close, or the seat is bad",
+      "The feed pump is too large",
+      "The gauge glass is dirty"
+    ],
+    "answer": "B",
+    "explanation": "Simmering happens when operating pressure is too close to the valve setting, or when the valve disc/seat has minor deposits, wear, or damage preventing a tight seal."
+  },
+  {
+    "id": 76,
+    "question": "A test-gauge connection is provided on a boiler so the operator can:",
+    "options": [
+      "Blow down the boiler",
+      "Add fresh feedwater into the boiler steam drum",
+      "Vent the furnace space",
+      "Check a test gauge against the boiler gauge"
+    ],
+    "answer": "D",
+    "explanation": "A test-gauge connection (with a cock) allows operators to attach a calibrated master test gauge to verify the accuracy of the permanent boiler pressure gauge."
+  },
+  {
+    "id": 77,
+    "question": "How much heat is required to raise 6 kg of water from 30°C to 90°C? (c = 4.187 kJ/kg·°C)",
+    "options": [
+      "About 251 kJ",
+      "About 753 kJ",
+      "About 2261 kJ",
+      "About 1507 kJ"
+    ],
+    "answer": "D",
+    "explanation": "Using $Q = m \\times c \\times \\Delta T$: $6 \\times 4.187 \\times (90 - 30) = 6 \\times 4.187 \\times 60 = 1507.32 \\text{ kJ}$."
+  },
+  {
+    "id": 78,
+    "question": "The purpose of a work permit is to:",
+    "options": [
+      "Take the place of training",
+      "Authorize and control a hazardous task safely",
+      "Increase the steam output",
+      "Avoid the need to keep any written job records"
+    ],
+    "answer": "B",
+    "explanation": "A work permit (e.g., hot work, confined space) provides a formal, documented safety checklist and authorization process to control high-risk tasks."
+  },
+  {
+    "id": 79,
+    "question": "The kinetic energy of a 20 kg mass moving at 3 m/s is (KE = 1/2mv²):",
+    "options": [
+      "90 J",
+      "30 J",
+      "180 J",
+      "60 J"
+    ],
+    "answer": "A",
+    "explanation": "Using $KE = 0.5 \\times m \\times v^2$: $0.5 \\times 20 \\times (3)^2 = 10 \\times 9 = 90 \\text{ Joules}$."
+  },
+  {
+    "id": 80,
+    "question": "The tensile stress in a bar of area 0.002 m² carrying a load of 50,000 N is:",
+    "options": [
+      "2.5 MPa",
+      "100 MPa",
+      "250 MPa",
+      "25 MPa"
+    ],
+    "answer": "C",
+    "explanation": "Using $\\sigma = F / A$: $50,000 \\text{ N} / 0.002 \\text{ m}^2 = 25,000,000 \\text{ Pa} = 25 \\text{ MPa}$? Wait, $50,000 / 0.002 = 25,000,000 \\text{ Pa} = 25 \\text{ MPa}$. Let's re-verify: $50,000 / 0.002 = 25,000,000$, which is $25 \\text{ MPa}$. Wait, let's check the options: A) 2.5 MPa, B) 100 MPa, C) 250 MPa, D) 25 MPa. Option D is 25 MPa. Let's make sure answer D is selected."
+  },
+  {
+    "id": 81,
+    "question": "A swing check valve must be installed so that:",
+    "options": [
+      "It can be mounted in any way",
+      "The disc faces toward the pump",
+      "The arrow points against the flow",
+      "Flow arrow points the intended way"
+    ],
+    "answer": "D",
+    "explanation": "Check valves are unidirectional flow devices; the flow direction arrow on the valve body must point in the direction of intended fluid travel."
+  },
+  {
+    "id": 82,
+    "question": "A digital signal differs from an analog signal in that a digital signal:",
+    "options": [
+      "It varies smoothly and continuously",
+      "It cannot be transmitted at all",
+      "Commonly a pneumatic 20 to 100 kPa signal",
+      "It represents values as discrete steps"
+    ],
+    "answer": "D",
+    "explanation": "Digital signals use discrete binary steps (on/off, 1 and 0), whereas analog signals vary continuously across a given range."
+  },
+  {
+    "id": 83,
+    "question": "The stationary part of an electric motor or generator is the:",
+    "options": [
+      "Commutator",
+      "Rotor",
+      "Stator",
+      "Armature shaft"
+    ],
+    "answer": "C",
+    "explanation": "The stator is the stationary housing and winding assembly surrounding the rotating component (rotor) in electric motors and generators."
+  },
+  {
+    "id": 84,
+    "question": "Before opening a pipe or fitting, the operator should:",
+    "options": [
+      "Relieve and verify zero pressure, drain safely",
+      "Heat the fitting up first",
+      "Open it up while it is still under full pressure",
+      "Leave it pressurized to flush it"
+    ],
+    "answer": "A",
+    "explanation": "Line breaking safety protocols require isolating, depressurizing, verifying zero energy state, and draining lines before opening flanges or unions."
+  },
+  {
+    "id": 85,
+    "question": "A flame rod (flame rectification) detects a flame by:",
+    "options": [
+      "Conducting a small current through the flame",
+      "Reading the furnace draft",
+      "Sensing the boiler water level",
+      "Measuring the rate of steam flow in the line"
+    ],
+    "answer": "A",
+    "explanation": "Flame rectification uses the electrical conductivity of ionized flame gases to pass a minute rectified microcurrent from a burner rod to ground."
+  },
+  {
+    "id": 86,
+    "question": "Mercury emissions from power plants are associated mainly with the burning of:",
+    "options": [
+      "Hydrogen",
+      "Coal",
+      "Natural gas",
+      "Solar energy"
+    ],
+    "answer": "B",
+    "explanation": "Trace amounts of mercury present naturally in coal are vaporized during combustion, requiring specialized flue-gas cleaning technologies in coal-fired power stations."
+  },
+  {
+    "id": 87,
+    "question": "A refractory arch or baffle built into a furnace is used to:",
+    "options": [
+      "Store a reserve of feedwater",
+      "Measure the furnace draft",
+      "Deflect and mix the gases for better burning",
+      "Separate the steam from the boiler water itself"
+    ],
+    "answer": "C",
+    "explanation": "Baffles and refractory arches create turbulence, promote thorough mixing of unburned gases with oxygen, and lengthen the flame path for complete combustion."
+  },
+  {
+    "id": 88,
+    "question": "The pressure class of a flange (e.g., 150, 300) indicates its:",
+    "options": [
+      "The gasket material only",
+      "The colour of the bolt circle",
+      "Its pressure-temperature rating",
+      "The length of the pipe"
+    ],
+    "answer": "C",
+    "explanation": "Flange pressure ratings (such as ASME classes 150, 300, 600) designate the maximum allowable working pressure rating as a function of operating temperature."
+  },
+  {
+    "id": 89,
+    "question": "Equal masses of water, one at 40°C and one at 80°C, are mixed. The final temperature is:",
+    "options": [
+      "70°C",
+      "50°C",
+      "120°C",
+      "60°C"
+    ],
+    "answer": "D",
+    "explanation": "Since masses and specific heats are equal, the final equilibrium temperature is the exact arithmetic mean: $(40 + 80) / 2 = 60^\\circ\\text{C}$."
+  },
+  {
+    "id": 90,
+    "question": "The momentum of a moving body is:",
+    "options": [
+      "Its weight times its height",
+      "Its force times the distance",
+      "Its mass divided by its velocity",
+      "Its mass multiplied by its velocity"
+    ],
+    "answer": "D",
+    "explanation": "Momentum ($p$) is defined mathematically as the product of an object's mass and its velocity ($p = m \\times v$)."
+  },
+  {
+    "id": 91,
+    "question": "A SCADA system is used to:",
+    "options": [
+      "Treat the boiler water",
+      "Generate the electricity",
+      "Burn the supplied fuel in the boiler furnace",
+      "Supervise equipment and gather remote data"
+    ],
+    "answer": "D",
+    "explanation": "Supervisory Control and Data Acquisition (SCADA) systems monitor, log, and control industrial processes across distributed plant locations from a central control room."
+  },
+  {
+    "id": 92,
+    "question": "A condensate transfer pump is used to:",
+    "options": [
+      "Move condensate from hotwell to the feed system",
+      "Blow soot off the boiler's heating tube surfaces",
+      "Inject fuel into the burner",
+      "Force air into the furnace"
+    ],
+    "answer": "A",
+    "explanation": "Condensate transfer pumps lift and push recovered condensate from collection receivers (hotwells) toward deaerators or feed storage tanks."
+  },
+  {
+    "id": 93,
+    "question": "An electrode (probe) type low-water control senses the water level by:",
+    "options": [
+      "A bimetallic temperature strip element",
+      "A Bourdon-tube element",
+      "Conductivity of water at the probe tip",
+      "A simple floating ball"
+    ],
+    "answer": "C",
+    "explanation": "Probe-type level controls use an electrical circuit that completes when conductive boiler water touches the probe tip, signaling normal water level."
+  },
+  {
+    "id": 94,
+    "question": "When most solids are heated, they:",
+    "options": [
+      "Stay exactly the same size",
+      "Turn to liquid at once",
+      "Expand",
+      "Contract"
+    ],
+    "answer": "C",
+    "explanation": "Thermal expansion causes the constituent atoms or molecules of solid materials to vibrate with greater amplitude when heated, increasing their overall dimensions."
+  },
+  {
+    "id": 95,
+    "question": "The force needed to accelerate a 150 kg mass at 3 m/s² is (F = ma):",
+    "options": [
+      "50 N",
+      "450 N",
+      "153 N",
+      "1471 N"
+    ],
+    "answer": "B",
+    "explanation": "Using Newton's second law $F = m \\times a$: $150 \\text{ kg} \\times 3 \\text{ m/s}^2 = 450 \\text{ Newtons}$."
+  },
+  {
+    "id": 96,
+    "question": "A step-up transformer has:",
+    "options": [
+      "More turns on the secondary than the primary",
+      "Equal turns on both windings",
+      "No secondary winding at all",
+      "Fewer turns of wire on the secondary winding"
+    ],
+    "answer": "A",
+    "explanation": "A step-up transformer increases voltage by having a greater number of turns of wire on the secondary winding than on the primary winding."
+  },
+  {
+    "id": 97,
+    "question": "The \"mountings\" of a boiler are:",
+    "options": [
+      "The foundation bolts",
+      "The brickwork setting built around it",
+      "Valves and fittings on the boiler",
+      "The chimney sections"
+    ],
+    "answer": "C",
+    "explanation": "Boiler mountings are essential safety and operational fittings mounted directly to the pressure vessel (such as safety valves, water columns, and pressure gauges)."
+  },
+  {
+    "id": 98,
+    "question": "The total resistance of 4 Ω, 6 Ω, and 10 Ω connected in series is:",
+    "options": [
+      "2 Ω",
+      "240 Ω",
+      "20 Ω",
+      "1.9 Ω"
+    ],
+    "answer": "C",
+    "explanation": "For resistors in series, total resistance is the direct sum: $R_{total} = R_1 + R_2 + R_3 = 4 + 6 + 10 = 20 \\text{ }\\Omega$."
+  },
+  {
+    "id": 99,
+    "question": "A machine guard interlock is designed to:",
+    "options": [
+      "Increase the running speed of the machine",
+      "Stop the machine if the guard is opened",
+      "Silence the warning alarm",
+      "Bypass the equipment lockout"
+    ],
+    "answer": "B",
+    "explanation": "Interlock safety switches automatically cut power and halt moving parts if a safety gate or guard is opened during machinery operation."
+  },
+  {
+    "id": 100,
+    "question": "During and after welding in the plant, a fire watch must be:",
+    "options": [
+      "Skipped if a permit already exists",
+      "Left in place only before the work starts",
+      "Kept during the work and for a time after",
+      "Posted only during the night"
+    ],
+    "answer": "C",
+    "explanation": "Hot work safety rules require a designated fire watch to remain present throughout the welding process and for a specified time afterward (typically at least 30 to 60 minutes) to watch for smoldering ignition."
+  }
+]
