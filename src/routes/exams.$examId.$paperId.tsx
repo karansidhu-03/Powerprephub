@@ -14,11 +14,6 @@ import { QuestionCard } from "@/components/quiz/QuestionCard";
 import { QuestionNavigator } from "@/components/quiz/QuestionNavigator";
 import { ResultsScreen } from "@/components/quiz/ResultsScreen";
 import { useElapsedTimer } from "@/hooks/use-elapsed-timer";
-import {
-  useQuizSave,
-  getSavedQuiz,
-  clearSavedQuiz,
-} from "@/hooks/use-quiz-save";
 import { Button } from "@/components/ui/button";
 
 export const Route = createFileRoute("/exams/$examId/$paperId")({
@@ -56,7 +51,6 @@ function QuizPage() {
       source={paper.questions}
       title={`${exam.title} ${exam.subtitle} · ${paper.label}`}
       examId={examId}
-      paperId={paperId}
     />
   );
 }
@@ -67,12 +61,10 @@ function Quiz({
   source,
   title,
   examId,
-  paperId,
 }: {
   source: Question[];
   title: string;
   examId: string;
-  paperId: string;
 }) {
   const [seed, setSeed] = useState(0);
   const [questions, setQuestions] = useState<Question[]>(source);
@@ -80,46 +72,21 @@ function Quiz({
     setQuestions(shuffleExam(source));
   }, [source, seed]);
 
-  const saved = getSavedQuiz(examId, paperId);
-
   const [answers, setAnswers] = useState<(number | null)[]>(() =>
-    saved ? saved.answers : Array(source.length).fill(null),
+    Array(source.length).fill(null),
   );
   const [flagged, setFlagged] = useState<boolean[]>(() =>
-    saved ? saved.flagged : Array(source.length).fill(false),
+    Array(source.length).fill(false),
   );
-  const [current, setCurrent] = useState(saved?.current ?? 0);
-  const [finished, setFinished] = useState(saved?.finished ?? false);
+  const [current, setCurrent] = useState(0);
+  const [finished, setFinished] = useState(false);
 
-  const { seconds, formatted, reset } = useElapsedTimer(
-    !finished,
-    saved?.elapsedSeconds ?? 0,
-  );
-
-  const { save, clear, hasSaved } = useQuizSave(
-    examId,
-    paperId,
-    source.length,
-    !finished,
-  );
+  const { seconds, formatted, reset } = useElapsedTimer(!finished);
 
   const question = questions[current]!;
   const answered = answers.filter((a) => a !== null).length;
   const progress = Math.round((answered / questions.length) * 100);
   const flaggedCount = flagged.filter(Boolean).length;
-
-  // Persist to localStorage whenever state changes
-  useEffect(() => {
-    if (!finished && questions.length > 0) {
-      save({
-        answers,
-        flagged,
-        current,
-        elapsedSeconds: seconds,
-        finished: false,
-      });
-    }
-  }, [answers, flagged, current, finished, seconds, questions.length, save]);
 
   const select = useCallback(
     (optionIndex: number) => {
@@ -149,7 +116,6 @@ function Quiz({
   }, []);
 
   const restart = () => {
-    clear();
     setSeed((s) => s + 1);
     setAnswers(Array(source.length).fill(null));
     setFlagged(Array(source.length).fill(false));
@@ -168,7 +134,6 @@ function Quiz({
       if (!proceed) return;
     }
     setFinished(true);
-    clear();
     toast.success("Exam submitted — see your results below");
   };
 
@@ -241,7 +206,6 @@ function Quiz({
             <p className="truncate text-xs text-muted-foreground">
               Question {current + 1} of {questions.length} · {answered} answered
               {flaggedCount > 0 && ` · ${flaggedCount} flagged`}
-              {hasSaved && " · Saved"}
             </p>
           </div>
           <div className="flex shrink-0 items-center gap-2">
