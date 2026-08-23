@@ -3,6 +3,10 @@ import paper2 from "./papers/partapaper2.json";
 import paper3Raw from "./papers/partapaper3.json";
 import paper4Raw from "./papers/partapaper4.json";
 import paper5 from "./papers/partapaper5.json";
+import paper6Raw from "./papers/partapaper6.json";
+import paper7Raw from "./papers/partapaper7.json";
+import paper8Raw from "./papers/partapaper8.json";
+import paper9Raw from "./papers/partapaper9.json";
 
 export interface Question {
   id: number;
@@ -41,6 +45,42 @@ function convertTextAnswer(raw: RawTextAnswerQuestion[]): Question[] {
 
 const paper3 = convertTextAnswer(paper3Raw as RawTextAnswerQuestion[]);
 const paper4 = convertTextAnswer(paper4Raw as RawTextAnswerQuestion[]);
+
+/** Raw shape of papers 6-9: options may be an object {A,B,C,D} or array, answer is a letter. */
+interface RawLetterAnswerQuestion {
+  id: number;
+  question: string;
+  options: Record<string, string> | string[];
+  correctAnswer?: string;
+  answer?: string;
+  explanation: string;
+}
+
+const LETTER_TO_INDEX: Record<string, number> = { A: 0, B: 1, C: 2, D: 3, E: 4, F: 5 };
+
+/** Convert letter-answer papers (options as object or array) into the Question shape. */
+function convertLetterAnswer(raw: RawLetterAnswerQuestion[]): Question[] {
+  return raw.map((q) => {
+    const options = Array.isArray(q.options)
+      ? q.options
+      : Object.keys(q.options)
+          .sort()
+          .map((k) => (q.options as Record<string, string>)[k]!);
+    const letter = (q.correctAnswer ?? q.answer ?? "").toUpperCase();
+    return {
+      id: q.id,
+      question: q.question,
+      options,
+      correctAnswer: LETTER_TO_INDEX[letter] ?? 0,
+      explanation: q.explanation,
+    };
+  });
+}
+
+const paper6 = convertLetterAnswer(paper6Raw as RawLetterAnswerQuestion[]);
+const paper7 = convertLetterAnswer(paper7Raw as RawLetterAnswerQuestion[]);
+const paper8 = convertLetterAnswer(paper8Raw as RawLetterAnswerQuestion[]);
+const paper9 = convertLetterAnswer(paper9Raw as RawLetterAnswerQuestion[]);
 
 export interface Paper {
   id: string;
@@ -105,7 +145,30 @@ export const exams: Exam[] = [
         description: "100 questions · randomized order",
         questions: paper5 as Question[],
       },
-      ...placeholderPapers(6, 9),
+      {
+        id: "paper6",
+        label: "Paper 6",
+        description: "100 questions · randomized order",
+        questions: paper6,
+      },
+      {
+        id: "paper7",
+        label: "Paper 7",
+        description: "100 questions · randomized order",
+        questions: paper7,
+      },
+      {
+        id: "paper8",
+        label: "Paper 8",
+        description: "100 questions · randomized order",
+        questions: paper8,
+      },
+      {
+        id: "paper9",
+        label: "Paper 9",
+        description: "100 questions · randomized order",
+        questions: paper9,
+      },
     ],
   },
   {
