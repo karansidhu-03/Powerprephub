@@ -440,7 +440,7 @@
       "140°F"
     ],
     "answer": "D",
-    "explanation": "Using the formula: $(9/5 \\times 60) + 32 = (9 \\times 12) + 32 = 108 + 32 = 140^\\circ\\text{F}$."
+    "explanation": "Using the formula: 9/5 x 60 + 32 = (9 \\times 12) + 32 = 108 + 32 = 140^\\circ\\text{F}$."
   },
   {
     "id": 38,
