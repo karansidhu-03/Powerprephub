@@ -464,8 +464,8 @@
       "C": "The top valve first, then the bottom valve",
       "D": "Quickly, to save time"
     },
-    "correctAnswer": "C",
-    "explanation": "Opening the top valve first allows steam to gently warm the glass before opening the bottom valve to fill it with water, preventing thermal shock and shattering."
+    "correctAnswer": "A",
+    "explanation": "Regardless of sequence, both valves must be cracked open slowly and gradually to allow the glass to equalize pressure, heat up safely without shattering from thermal shock, and prevent internal ball check valves from slamming shut."
   },
   {
     "id": 40,

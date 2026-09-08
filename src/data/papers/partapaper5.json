@@ -443,8 +443,8 @@
       "About 1675 kJ",
       "About 6480 kJ"
     ],
-    "correctAnswer": 0,
-    "explanation": "Answer: A [Chemistry & thermodynamics] — Sensible heat: $5 \\times 4.187 \\times (100 - 20) = 1674.8\\text{ kJ}$. Latent heat: $5 \\times 2257 = 11,285\\text{ kJ}$? Total sensible + latent calculated per standard module formulas equals $\\approx 11,285\\text{ kJ}$."
+    "correctAnswer": 1,
+    "explanation": " [Chemistry & thermodynamics] — Sensible heat: 5 x  4.187 x (100 - 20) = 1674.8. Latent heat: 5x 2257 = 11,285. Total sensible + latent = 12,960  kJ"
   },
   {
     "id": 42,
@@ -456,7 +456,7 @@
       "Draw steam from the drum top, cutting carryover"
     ],
     "correctAnswer": 3,
-    "explanation": "Answer: D [Boilers] — Dry pipes utilize internal baffles and slotted openings to separate moisture droplets from outgoing steam."
+    "explanation": " [Boilers] — Dry pipes utilize internal baffles and slotted openings to separate moisture droplets from outgoing steam."
   },
   {
     "id": 43,
@@ -468,7 +468,7 @@
       "Form deposits and damage the superheater/turbine"
     ],
     "correctAnswer": 3,
-    "explanation": "Answer: D [Boilers] — Entrained solids cause scaling in superheaters and erosion/deposition on turbine blades."
+    "explanation": "[Boilers] — Entrained solids cause scaling in superheaters and erosion/deposition on turbine blades."
   },
   {
     "id": 44,
@@ -904,7 +904,7 @@
       "About 1177 kPa"
     ],
     "correctAnswer": 0,
-    "explanation": "Answer: A [Elementary mechanics & dynamics] — $P = \\rho g h = 1000 \\times 9.81 \\times 12 = 117,720\\text{ Pa} \\approx 118\\text{ kPa}$."
+    "explanation": "[Elementary mechanics & dynamics] — P = p g h = 1000 x 9.81 x 12 = 117,720 Pa \\approx 118 kPa."
   },
   {
     "id": 82,

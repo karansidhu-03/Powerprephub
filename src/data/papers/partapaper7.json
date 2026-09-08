@@ -283,8 +283,8 @@
       "Built as a pressure vessel to Section VIII",
       "Made only out of cast iron"
     ],
-    "answer": "A",
-    "explanation": "Wait, let's look closer at standard ASME stamps. Section I power boilers use an 'S' stamp, while Section VIII unfired pressure vessels use a 'U' stamp. Let's verify option alignment or standard choices: ASME Section I power boilers are stamped 'S'. Wait, let's review the option text: 'Built as a power boiler under ASME Section I' vs 'Built as a pressure vessel to Section VIII'. Actually, Section VIII vessels receive the 'U' stamp. Let's verify standard multiple-choice conventions: a 'U' stamp stands for Unfired Pressure Vessel (Section VIII). Wait, let's check standard Power Engineering multiple choice context: the option 'Built as a pressure vessel to Section VIII' matches the 'U' symbol (Unfired). Let's see if there's any nuance; usually 'S' is for power boilers, 'U' is for pressure vessels."
+    "answer": "C",
+    "explanation": " Section I power boilers use an 'S' stamp, while Section VIII unfired pressure vessels use a 'U' stamp. "
   },
   {
     "id": 25,
@@ -944,7 +944,7 @@
       "60 J"
     ],
     "answer": "A",
-    "explanation": "Using $KE = 0.5 \\times m \\times v^2$: $0.5 \\times 20 \\times (3)^2 = 10 \\times 9 = 90 \\text{ Joules}$."
+    "explanation": "Using KE = 1/2  m x v^2 "
   },
   {
     "id": 80,
@@ -955,8 +955,8 @@
       "250 MPa",
       "25 MPa"
     ],
-    "answer": "C",
-    "explanation": "Using $\\sigma = F / A$: $50,000 \\text{ N} / 0.002 \\text{ m}^2 = 25,000,000 \\text{ Pa} = 25 \\text{ MPa}$? Wait, $50,000 / 0.002 = 25,000,000 \\text{ Pa} = 25 \\text{ MPa}$. Let's re-verify: $50,000 / 0.002 = 25,000,000$, which is $25 \\text{ MPa}$. Wait, let's check the options: A) 2.5 MPa, B) 100 MPa, C) 250 MPa, D) 25 MPa. Option D is 25 MPa. Let's make sure answer D is selected."
+    "answer": "D",
+    "explanation": "Using sigma = F / A : $50,000  N / 0.002  m^2 = 25,000,000  Pa = 25 MPa"
   },
   {
     "id": 81,
