@@ -1,15 +1,16 @@
-import paper1 from "./papers/partapaper1.json";
-import paper2 from "./papers/partapaper2.json";
-import paper3Raw from "./papers/partapaper3.json";
-import paper4Raw from "./papers/partapaper4.json";
-import paper5 from "./papers/partapaper5.json";
-import paper6Raw from "./papers/partapaper6.json";
-import paper7Raw from "./papers/partapaper7.json";
-import paper8Raw from "./papers/partapaper8.json";
-import paper9Raw from "./papers/partapaper9.json";
+import paper1 from "./Part A/papers/partapaper1.json";
+import paper2 from "./Part A/papers/partapaper2.json";
+import paper3Raw from "./Part A/papers/partapaper3.json";
+import paper4Raw from "./Part A/papers/partapaper4.json";
+import paper5 from "./Part A/papers/partapaper5.json";
+import paper6Raw from "./Part A/papers/partapaper6.json";
+import paper7Raw from "./Part A/papers/partapaper7.json";
+import paper8Raw from "./Part A/papers/partapaper8.json";
+import paper9Raw from "./Part A/papers/partapaper9.json";
+import chp1Raw from "./Part A/Chp/chp1.json";
 
 export interface Question {
-  id: number;
+  id: string | number;
   topic?: string;
   question: string;
   options: string[];
@@ -82,6 +83,33 @@ const paper7 = convertLetterAnswer(paper7Raw as RawLetterAnswerQuestion[]);
 const paper8 = convertLetterAnswer(paper8Raw as RawLetterAnswerQuestion[]);
 const paper9 = convertLetterAnswer(paper9Raw as RawLetterAnswerQuestion[]);
 
+/** Raw shape of chapter JSON files: string IDs, correctAnswer stored as option text. */
+interface RawChapterQuestion {
+  id: string;
+  chapter: string;
+  question: string;
+  options: string[];
+  correctAnswer: string;
+  explanation: string;
+}
+
+/** Convert chapter questions (text answer, string IDs) into the Question shape. */
+function convertChapter(raw: RawChapterQuestion[]): Question[] {
+  return raw.map((q, i) => {
+    const idx = q.options.indexOf(q.correctAnswer);
+    return {
+      id: q.id,
+      question: q.question,
+      options: q.options,
+      correctAnswer: idx >= 0 ? idx : 0,
+      explanation: q.explanation,
+      topic: q.chapter,
+    };
+  });
+}
+
+const chp1 = convertChapter(chp1Raw as RawChapterQuestion[]);
+
 export interface Paper {
   id: string;
   label: string;
@@ -95,7 +123,10 @@ export interface Exam {
   subtitle: string;
   description: string;
   available: boolean;
+  /** Full-length exam papers (100 questions each). */
   papers: Paper[];
+  /** Chapter-wise question sets (shorter, topic-focused). */
+  chapters: Paper[];
 }
 
 const placeholderPapers = (from: number, to: number): Paper[] =>
@@ -170,6 +201,14 @@ export const exams: Exam[] = [
         questions: paper9,
       },
     ],
+    chapters: [
+      {
+        id: "chp1",
+        label: "Chapter 1: SI Units",
+        description: `${chp1.length} questions · randomized order`,
+        questions: chp1,
+      },
+    ],
   },
   {
     id: "power-eng-4th-part-b",
@@ -179,6 +218,7 @@ export const exams: Exam[] = [
       "Prime movers, pumps, refrigeration, electrical systems and plant maintenance. Question papers are being prepared.",
     available: false,
     papers: placeholderPapers(1, 9),
+    chapters: [],
   },
 ];
 
@@ -186,7 +226,10 @@ export const getExam = (examId: string) => exams.find((e) => e.id === examId);
 
 export const getPaper = (examId: string, paperId: string) => {
   const exam = getExam(examId);
-  return { exam, paper: exam?.papers.find((p) => p.id === paperId) };
+  const paper =
+    exam?.papers.find((p) => p.id === paperId) ??
+    exam?.chapters.find((c) => c.id === paperId);
+  return { exam, paper };
 };
 
 /** Fisher-Yates shuffle — returns a new array. */
