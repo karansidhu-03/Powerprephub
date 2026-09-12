@@ -100,7 +100,7 @@
     "chapter": "Chapter 1: SI Units",
     "question": "Units of volume in the SI system are:\n1. Tonnes\n2. Cubic metres\n3. Litres\n4. dm³\n5. Millilitres\n6. Kilograms",
     "options": ["1, 4, 6", "1, 3, 4", "2, 3, 4, 5", "2, 3, 4", "2, 3, 5, 6"],
-    "correctAnswer": "2, 3, 4",
+    "correctAnswer": "2, 3, 4, 5",
     "explanation": "Cubic metres (m³), litres (L), and cubic decimetres (dm³) are standard metric/SI volumetric units. Tonnes and kilograms measure mass."
   },
   {
