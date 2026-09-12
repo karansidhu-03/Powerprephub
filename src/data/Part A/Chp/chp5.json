@@ -1,0 +1,197 @@
+[
+  {
+    "number": 1,
+    "question": "Solve the following equation for r, s = (6y⁹ / a⁵r).",
+    "options": {
+      "A": "6y⁴ / sa",
+      "B": "6y⁹ - sa⁵",
+      "C": "6y⁹ - (b⁵ / s)",
+      "D": "6a⁻¹ / s",
+      "E": "6y⁹ / sa⁵"
+    },
+    "correctAnswer": "E",
+    "explanation": "To solve for r in s = 6y⁹ / (a⁵r), multiply both sides by r and divide by s, resulting in r = 6y⁹ / (sa⁵) [Basic algebra]."
+  },
+  {
+    "number": 2,
+    "question": "If 13y + 12 = 7y + 36, then y=:",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1",
+      "E": "5"
+    },
+    "correctAnswer": "A",
+    "explanation": "Subtract 7y from both sides: 6y + 12 = 36. Subtract 12: 6y = 24. Divide by 6: y = 4 [Basic algebra]."
+  },
+  {
+    "number": 3,
+    "question": "Solve the equation for A, b = ½h(A + C):",
+    "options": {
+      "A": "A = (2b/h) - C",
+      "B": "A = (bh/2)C",
+      "C": "A = (2b/h) + C",
+      "D": "A = ½bh + C",
+      "E": "A = 2bh - C"
+    },
+    "correctAnswer": "A",
+    "explanation": "Multiply by 2/h: 2b/h = A + C. Subtract C: A = (2b/h) - C [Basic algebra]."
+  },
+  {
+    "number": 4,
+    "question": "If A = ½ b x h, then h=:",
+    "options": {
+      "A": "2 A / b",
+      "B": "2 b / A",
+      "C": "½ A / b",
+      "D": "½ Ab",
+      "E": "2 Ab"
+    },
+    "correctAnswer": "A",
+    "explanation": "Multiply both sides by 2 to get 2A = b * h, then divide by b to isolate h: h = 2A / b [Basic algebra]."
+  },
+  {
+    "number": 5,
+    "question": "If E = I x R, then R=:",
+    "options": {
+      "A": "I / E",
+      "B": "(E / I)²",
+      "C": "E x I",
+      "D": "E / I",
+      "E": "(E x I)⁵"
+    },
+    "correctAnswer": "D",
+    "explanation": "Divide both sides of Ohm's law equation (E = I * R) by I to get R = E / I [Basic algebra]."
+  },
+  {
+    "number": 6,
+    "question": "Solve the expression: [2 x (-4)²] + [4 x (-2)³] / 4.",
+    "options": {
+      "A": "-32",
+      "B": "32",
+      "C": "64",
+      "D": "Undefined",
+      "E": "24"
+    },
+    "correctAnswer": "E",
+    "explanation": "Calculate parts: (-4)² = 16, so 2 * 16 = 32. Next, (-2)³ = -8, so 4 * (-8) = -32, and -32 / 4 = -8. Finally, 32 + (-8) = 24 [Basic algebra]."
+  },
+  {
+    "number": 7,
+    "question": "If 6 / y = 2, then y=:",
+    "options": {
+      "A": "1",
+      "B": "5",
+      "C": "4",
+      "D": "2",
+      "E": "3"
+    },
+    "correctAnswer": "E",
+    "explanation": "Multiply both sides by y to get 6 = 2y, then divide by 2: y = 3 [Basic algebra]."
+  },
+  {
+    "number": 8,
+    "question": "If 3y = 6, then y=:",
+    "options": {
+      "A": "5",
+      "B": "1",
+      "C": "3",
+      "D": "2",
+      "E": "4"
+    },
+    "correctAnswer": "D",
+    "explanation": "Divide both sides by 3: y = 6 / 3 = 2 [Basic algebra]."
+  },
+  {
+    "number": 9,
+    "question": "If 5y = 250 / 2y then y=:",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "2",
+      "D": "1",
+      "E": "3"
+    },
+    "correctAnswer": "B",
+    "explanation": "Multiply both sides by 2y: 10y² = 250. Divide by 10: y² = 25. Taking the square root gives y = 5 [Basic algebra]."
+  },
+  {
+    "number": 10,
+    "question": "Solve the following equation for m, y = mt + c.",
+    "options": {
+      "A": "y / (t + c)",
+      "B": "(y - c) / t",
+      "C": "ym - c",
+      "D": "y - t - c",
+      "E": "mt - y"
+    },
+    "correctAnswer": "B",
+    "explanation": "Subtract c from both sides: y - c = mt. Divide by t: m = (y - c) / t [Basic algebra]."
+  },
+  {
+    "number": 11,
+    "question": "Solve the following equation for A: b / 4 = (q² / 8) (A + L).",
+    "options": {
+      "A": "(2b / q²) - L",
+      "B": "(b / 24q²) - L",
+      "C": "√(b / 8q) - L",
+      "D": "(4b / q²) - L",
+      "E": "(b / 2q²) - L"
+    },
+    "correctAnswer": "A",
+    "explanation": "Multiply both sides by 8/q²: (8b)/(4q²) = A + L, which simplifies to 2b/q² = A + L. Subtract L: A = (2b/q²) - L [Basic algebra]."
+  },
+  {
+    "number": 12,
+    "question": "If y - 5 = 3, then y=:",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "9",
+      "D": "8",
+      "E": "10"
+    },
+    "correctAnswer": "D",
+    "explanation": "Add 5 to both sides: y = 3 + 5 = 8 [Basic algebra]."
+  },
+  {
+    "number": 13,
+    "question": "If 3y + 6 - 9 = 9 then y =:",
+    "options": {
+      "A": "10",
+      "B": "15",
+      "C": "18",
+      "D": "4",
+      "E": "6"
+    },
+    "correctAnswer": "D",
+    "explanation": "Simplify terms: 3y - 3 = 9. Add 3: 3y = 12. Divide by 3: y = 4 [Basic algebra]."
+  },
+  {
+    "number": 14,
+    "question": "If A = πr², then r=:",
+    "options": {
+      "A": "(π/A)²",
+      "B": "(π/A)²",
+      "C": "√(Aπ)",
+      "D": "√(A/π)",
+      "E": "(Aπ)⁵"
+    },
+    "correctAnswer": "D",
+    "explanation": "Divide by π to get r² = A / π, then take the square root: r = √(A/π) [Basic algebra]."
+  },
+  {
+    "number": 15,
+    "question": "In the equation 36 = 12 + (15t) - 6, t equals:",
+    "options": {
+      "A": "-2.8",
+      "B": "1.7",
+      "C": "3",
+      "D": "-2.2",
+      "E": "2"
+    },
+    "correctAnswer": "E",
+    "explanation": "Simplify right side: 36 = 6 + 15t. Subtract 6: 30 = 15t. Divide by 15: t = 2 [Basic algebra]."
+  }
+]
