@@ -1,0 +1,132 @@
+[
+  {
+    "number": 1,
+    "question": "Which of the following is a mixed number?",
+    "options": {
+      "A": "19/5",
+      "B": "32/36",
+      "C": "3 1/5",
+      "D": "35/7",
+      "E": "6/24"
+    },
+    "correctAnswer": "C",
+    "explanation": "A mixed number consists of a whole number and a proper fraction combined [Fractions, decimals and percentages]."
+  },
+  {
+    "number": 2,
+    "question": "Evaluate the following 3/10 x 5/2 - 2/3 to the lowest terms.",
+    "options": {
+      "A": "1/12",
+      "B": "33/60",
+      "C": "5/60",
+      "D": "3/6",
+      "E": "11/20"
+    },
+    "correctAnswer": "A",
+    "explanation": "Multiply 3/10 by 5/2 to get 15/20 (3/4), then subtract 2/3 (8/12 from 9/12) to get 1/12 [Fractions, decimals and percentages]."
+  },
+  {
+    "number": 3,
+    "question": "62% of 85 362 equals:",
+    "options": {
+      "A": "13.768",
+      "B": "52 924.44",
+      "C": "5 292.492",
+      "D": "22 932.64",
+      "E": "137 680.65"
+    },
+    "correctAnswer": "B",
+    "explanation": "85,362 × 0.62 = 52,924.44 [Fractions, decimals and percentages]."
+  },
+  {
+    "number": 4,
+    "question": "Which of the following is an improper fraction?",
+    "options": {
+      "A": "6 3/4",
+      "B": "1/2",
+      "C": "37/39",
+      "D": "65/100",
+      "E": "3/2"
+    },
+    "correctAnswer": "E",
+    "explanation": "An improper fraction is a fraction where the numerator is greater than or equal to the denominator [Fractions, decimals and percentages]."
+  },
+  {
+    "number": 5,
+    "question": "Evaluate the following 3/8 + 2/3 - 1/2 to the lowest terms.",
+    "options": {
+      "A": "13/24",
+      "B": "6/13",
+      "C": "6/12",
+      "D": "12/24",
+      "E": "6/24"
+    },
+    "correctAnswer": "A",
+    "explanation": "Convert to a common denominator of 24: (9/24) + (16/24) - (12/24) = 13/24 [Fractions, decimals and percentages]."
+  },
+  {
+    "number": 6,
+    "question": "Multiplying the numerator and denominator by the same number:",
+    "options": {
+      "A": "Divides the whole fraction by that number",
+      "B": "Gives a product of the numerator",
+      "C": "Does not change the value of the fraction",
+      "D": "Results in a product of the denominator",
+      "E": "Results in the answer divided by the number"
+    },
+    "correctAnswer": "C",
+    "explanation": "Multiplying both the numerator and denominator by the same non-zero number produces an equivalent fraction [Fractions, decimals and percentages]."
+  },
+  {
+    "number": 7,
+    "question": "19/12 is equal to:",
+    "options": {
+      "A": "1.583",
+      "B": "2",
+      "C": "7. (430200)",
+      "D": "6.931",
+      "E": "9.6"
+    },
+    "correctAnswer": "A",
+    "explanation": "19 ÷ 12 ≈ 1.583 [Fractions, decimals and percentages]."
+  },
+  {
+    "number": 8,
+    "question": "(6/16) + (6/9) - [(2)²/(2)³] equals:",
+    "options": {
+      "A": "13/24",
+      "B": "25/24",
+      "C": "7/12",
+      "D": "1/2",
+      "E": "13/144"
+    },
+    "correctAnswer": "A",
+    "explanation": "Simplify terms: 6/16 = 3/8, 6/9 = 2/3, and 4/8 = 1/2. Then 3/8 + 2/3 - 1/2 = 13/24 [Fractions, decimals and percentages]."
+  },
+  {
+    "number": 9,
+    "question": "Calculate the % increase in fuel economy from an old car getting 30mpg to a new one getting 40mpg:",
+    "options": {
+      "A": "75",
+      "B": "25",
+      "C": "50",
+      "D": "10",
+      "E": "33"
+    },
+    "correctAnswer": "E",
+    "explanation": "Percentage increase = [(40 - 30) / 30] × 100 = 33.3% (or 33) [Fractions, decimals and percentages]."
+  },
+  {
+    "number": 10,
+    "question": "26.86% of 85 362 is equal to:",
+    "options": {
+      "A": "5 292.492",
+      "B": "22 928.23",
+      "C": "137 680.65",
+      "D": "52 924.44",
+      "E": "13.768"
+    },
+    "correctAnswer": "B",
+    "explanation": "85,362 × 0.2686 = 22,928.2332 [Fractions, decimals and percentages]."
+  }
+]
