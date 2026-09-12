@@ -1,0 +1,197 @@
+[
+  {
+    "number": 1,
+    "question": "When all the angles of a quadrilateral are added together their sum is:",
+    "options": {
+      "A": "90º",
+      "B": "120º",
+      "C": "180º",
+      "D": "320º",
+      "E": "360º"
+    },
+    "correctAnswer": "E",
+    "explanation": "The sum of the interior angles of any quadrilateral is always 360 degrees [Geometry and Mensuration]."
+  },
+  {
+    "number": 2,
+    "question": "150 m is _____ yd.",
+    "options": {
+      "A": "100",
+      "B": "164",
+      "C": "154",
+      "D": "50",
+      "E": "144"
+    },
+    "correctAnswer": "B",
+    "explanation": "150 meters converted to yards (1 m ≈ 1.09361 yd) equals approximately 164 yards [Units and Measurement]."
+  },
+  {
+    "number": 3,
+    "question": "The following quadrilateral has no sides parallel:",
+    "options": {
+      "A": "Rhomboid",
+      "B": "Scalene triangle",
+      "C": "Trapezoid",
+      "D": "Rhombus",
+      "E": "Trapezium"
+    },
+    "correctAnswer": "E",
+    "explanation": "A trapezium is defined as a quadrilateral with no parallel sides [Geometry and Mensuration]."
+  },
+  {
+    "number": 4,
+    "question": "75 mm = _____ in.",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "E": "7"
+    },
+    "correctAnswer": "A",
+    "explanation": "75 mm divided by 25.4 mm/inch equals approximately 2.95 inches, which rounds to 3 inches [Units and Measurement]."
+  },
+  {
+    "number": 5,
+    "question": "A _____ is a four sided figure having no two sides parallel.",
+    "options": {
+      "A": "Trapezoid",
+      "B": "Rhombus",
+      "C": "Rectangle",
+      "D": "Square",
+      "E": "Trapezium"
+    },
+    "correctAnswer": "E",
+    "explanation": "A trapezium has four sides with no parallel pairs [Geometry and Mensuration]."
+  },
+  {
+    "number": 6,
+    "question": "In a triangle, if one of the angles is 90°, this is a/an _____ triangle.",
+    "options": {
+      "A": "Scalene",
+      "B": "Right",
+      "C": "Obtuse",
+      "D": "Equilateral",
+      "E": "Isosceles"
+    },
+    "correctAnswer": "B",
+    "explanation": "A triangle containing a 90-degree angle is classified as a right-angled triangle [Geometry and Mensuration]."
+  },
+  {
+    "number": 7,
+    "question": "25 cm is _____ in.",
+    "options": {
+      "A": "5.54",
+      "B": "6.24",
+      "C": "7.56",
+      "D": "8.23",
+      "E": "9.84"
+    },
+    "correctAnswer": "E",
+    "explanation": "25 cm divided by 2.54 cm/inch equals 9.8425 inches [Units and Measurement]."
+  },
+  {
+    "number": 8,
+    "question": "When two straight lines meet or cross each other, they form:",
+    "options": {
+      "A": "Perpendicular lines",
+      "B": "An angle",
+      "C": "Equilateral lines",
+      "D": "Tangential lines",
+      "E": "Parallel lines"
+    },
+    "correctAnswer": "B",
+    "explanation": "The intersection of two straight lines creates an angle [Geometry and Mensuration]."
+  },
+  {
+    "number": 9,
+    "question": "Convert 5 miles, 6 yards, 9 feet to metres.",
+    "options": {
+      "A": "8 054.95 m",
+      "B": "287.85 m",
+      "C": "8 326.53 m",
+      "D": "6 283.42 m",
+      "E": "539.66 m"
+    },
+    "correctAnswer": "A",
+    "explanation": "5 miles (8046.72 m) + 6 yards (5.49 m) + 9 feet (2.74 m) = 8,054.95 m [Units and Measurement]."
+  },
+  {
+    "number": 10,
+    "question": "100 m = _____ ft.",
+    "options": {
+      "A": "300",
+      "B": "310",
+      "C": "328",
+      "D": "350",
+      "E": "360"
+    },
+    "correctAnswer": "C",
+    "explanation": "100 meters multiplied by 3.28084 feet/meter equals approximately 328 feet [Units and Measurement]."
+  },
+  {
+    "number": 11,
+    "question": "The following objects are quadrilaterals: 1. Square, 2. Triangle, 3. Trapezoid, 4. Rhombus",
+    "options": {
+      "A": "1, 2, 4",
+      "B": "1, 2, 3, 4",
+      "C": "2, 3, 4",
+      "D": "1, 3, 4",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "D",
+    "explanation": "Squares, trapezoids, and rhombuses are 4-sided figures (quadrilaterals), whereas a triangle has 3 sides [Geometry and Mensuration]."
+  },
+  {
+    "number": 12,
+    "question": "Lines that are exactly the same distance apart at all points are said to be _____ to each other.",
+    "options": {
+      "A": "Parallel",
+      "B": "Coincided",
+      "C": "Tangential",
+      "D": "Perpendicular",
+      "E": "Equal"
+    },
+    "correctAnswer": "A",
+    "explanation": "Parallel lines maintain an equal constant distance from one another along their entire length [Geometry and Mensuration]."
+  },
+  {
+    "number": 13,
+    "question": "A _____ is a four sided figure in which the four sides are of equal length, but the angles are not right angles.",
+    "options": {
+      "A": "Rhomboid",
+      "B": "Rhombus",
+      "C": "Trapezoid",
+      "D": "Square",
+      "E": "Rectangle"
+    },
+    "correctAnswer": "B",
+    "explanation": "A rhombus is an equilateral quadrilateral whose angles are oblique rather than right angles [Geometry and Mensuration]."
+  },
+  {
+    "number": 14,
+    "question": "If a quadrilateral has angle measurements of 85°, 36°, and 110° the last angle equals:",
+    "options": {
+      "A": "90º",
+      "B": "182º",
+      "C": "180º",
+      "D": "129º",
+      "E": "360º"
+    },
+    "correctAnswer": "D",
+    "explanation": "Subtract the sum of the known angles from 360°: 360° - (85° + 36° + 110°) = 360° - 231° = 129° [Geometry and Mensuration]."
+  },
+  {
+    "number": 15,
+    "question": "One hundred m/s = _____ ft/s.",
+    "options": {
+      "A": "300",
+      "B": "310",
+      "C": "328",
+      "D": "350",
+      "E": "360"
+    },
+    "correctAnswer": "C",
+    "explanation": "100 m/s multiplied by 3.28084 ft/m equals approximately 328 ft/s [Units and Measurement]."
+  }
+]
