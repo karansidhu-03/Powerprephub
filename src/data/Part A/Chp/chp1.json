@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ch1_q1",
+    "chapter": "Chapter 1: SI Units",
+    "question": "The base unit for mass density in the SI system is the:",
+    "options": ["kg/m²", "N/m²", "N/m³", "g/m³", "kg/m³"],
+    "correctAnswer": "kg/m³",
+    "explanation": "Mass density (density) is defined as mass per unit volume. In SI units, mass is measured in kilograms (kg) and volume in cubic metres (m³)."
+  },
+  {
+    "id": "ch1_q2",
+    "chapter": "Chapter 1: SI Units",
+    "question": "The unit of area in the SI system is the:",
+    "options": ["m²", "m", "m⁴", "m³", "cm²"],
+    "correctAnswer": "m²",
+    "explanation": "Area is a derived unit representing length squared, expressed in square metres (m²)."
+  },
+  {
+    "id": "ch1_q3",
+    "chapter": "Chapter 1: SI Units",
+    "question": "15 kg is equal to _____ lb.",
+    "options": ["75", "30", "90", "33", "45"],
+    "correctAnswer": "33",
+    "explanation": "Since 1 kg is approximately 2.2046 lb, multiplying 15 kg by 2.2046 gives approximately 33 lb."
+  },
+  {
+    "id": "ch1_q4",
+    "chapter": "Chapter 1: SI Units",
+    "question": "6 200 kPa is equal to approximately _____ psi:",
+    "options": ["900", "800", "1 451", "689", "1 000"],
+    "correctAnswer": "900",
+    "explanation": "1 psi is approximately 6.895 kPa. Dividing 6,200 kPa by 6.895 yields approximately 899.2 psi (rounded to 900)."
+  },
+  {
+    "id": "ch1_q5",
+    "chapter": "Chapter 1: SI Units",
+    "question": "Which of the following is a symbol for a unit of thermodynamic temperature?",
+    "options": ["m", "cd", "kg", "mol", "K"],
+    "correctAnswer": "K",
+    "explanation": "The Kelvin (K) is the SI base unit for thermodynamic temperature."
+  },
+  {
+    "id": "ch1_q6",
+    "chapter": "Chapter 1: SI Units",
+    "question": "15 cm² is equal to _____ square inches.",
+    "options": ["2.953", "13.95", "10.75", "2.325", "2.59"],
+    "correctAnswer": "2.325",
+    "explanation": "Since 1 inch equals 2.54 cm, 1 square inch equals 6.4516 cm². Dividing 15 by 6.4516 gives 2.325 square inches."
+  },
+  {
+    "id": "ch1_q7",
+    "chapter": "Chapter 1: SI Units",
+    "question": "Area = L x W, if L = 15 cm and W = 2 m, then Area will equal:",
+    "options": ["300 cm²", "3 000 cm²", "30 cm²", "300 m²", "30 m²"],
+    "correctAnswer": "3 000 cm²",
+    "explanation": "Convert dimensions to the same unit: L = 15 cm, W = 2 m = 200 cm. Area = 15 cm × 200 cm = 3,000 cm²."
+  },
+  {
+    "id": "ch1_q8",
+    "chapter": "Chapter 1: SI Units",
+    "question": "10 km is equal to:",
+    "options": ["3.28 miles", "1 609 miles", "1.609 miles", "6.215 miles", "5.215 miles"],
+    "correctAnswer": "6.215 miles",
+    "explanation": "1 mile is equal to 1.60934 km. Dividing 10 km by 1.60934 gives approximately 6.215 miles."
+  },
+  {
+    "id": "ch1_q9",
+    "chapter": "Chapter 1: SI Units",
+    "question": "The unit of work in the SI system is the:",
+    "options": ["Newton-metre/second", "Watt", "Joule", "Newton/second", "Pascal"],
+    "correctAnswer": "Joule",
+    "explanation": "Work is force times distance (N·m), which is given the special name Joule (J) in the SI system."
+  },
+  {
+    "id": "ch1_q10",
+    "chapter": "Chapter 1: SI Units",
+    "question": "12 inches is equal to _____ cm.",
+    "options": ["39.37", "30.48", "32.80", "25.40", "35.48"],
+    "correctAnswer": "30.48",
+    "explanation": "1 inch is exactly 2.54 cm. Multiplying 12 inches by 2.54 cm gives 30.48 cm."
+  },
+  {
+    "id": "ch1_q11",
+    "chapter": "Chapter 1: SI Units",
+    "question": "Find the volume of a rectangular prism 3 m long, 5 m wide and 2 m high.",
+    "options": ["30 m³", "3 m³", "30 m", "30 m²", "30"],
+    "correctAnswer": "30 m³",
+    "explanation": "Volume = Length × Width × Height = 3 m × 5 m × 2 m = 30 m³."
+  },
+  {
+    "id": "ch1_q12",
+    "chapter": "Chapter 1: SI Units",
+    "question": "The basic unit of thermodynamic temperature in the SI system is the:",
+    "options": ["Kelvin", "Kilogram", "Ampere", "Second", "Metre"],
+    "correctAnswer": "Kelvin",
+    "explanation": "The Kelvin is the official SI base unit for measuring thermodynamic temperature."
+  },
+  {
+    "id": "ch1_q13",
+    "chapter": "Chapter 1: SI Units",
+    "question": "Units of volume in the SI system are:\n1. Tonnes\n2. Cubic metres\n3. Litres\n4. dm³\n5. Millilitres\n6. Kilograms",
+    "options": ["1, 4, 6", "1, 3, 4", "2, 3, 4, 5", "2, 3, 4", "2, 3, 5, 6"],
+    "correctAnswer": "2, 3, 4",
+    "explanation": "Cubic metres (m³), litres (L), and cubic decimetres (dm³) are standard metric/SI volumetric units. Tonnes and kilograms measure mass."
+  },
+  {
+    "id": "ch1_q14",
+    "chapter": "Chapter 1: SI Units",
+    "question": "One Joule per second is equal to:",
+    "options": ["1 Watt/second", "1 kW", "746 Watts", "1 kg/m²", "1 Newton-metre/second"],
+    "correctAnswer": "1 Newton-metre/second",
+    "explanation": "Power is work per unit time (Joules/second or N·m/s), which defines the Watt."
+  },
+  {
+    "id": "ch1_q15",
+    "chapter": "Chapter 1: SI Units",
+    "question": "A mole refers to a quantity of:",
+    "options": ["Time", "Electric current", "Luminous intensity", "Amount of substance", "Length"],
+    "correctAnswer": "Amount of substance",
+    "explanation": "The mole (mol) is the SI base unit for the amount of a substance."
+  },
+  {
+    "id": "ch1_q16",
+    "chapter": "Chapter 1: SI Units",
+    "question": "10 Imperial gallons is equal to _____ Litres:",
+    "options": ["45.46", "88", "22", "22.72", "44"],
+    "correctAnswer": "45.46",
+    "explanation": "1 Imperial gallon is approximately 4.546 litres. 10 Imperial gallons equals 45.46 litres."
+  },
+  {
+    "id": "ch1_q17",
+    "chapter": "Chapter 1: SI Units",
+    "question": "One kilopascal is equal to:",
+    "options": ["1 kW", "1 kN/m²", "1 m/s", "1 kg/m²", "1 bar"],
+    "correctAnswer": "1 kN/m²",
+    "explanation": "Pressure is force per unit area (P = F/A). 1 Pascal = 1 N/m², therefore 1 kilopascal (kPa) = 1 kN/m²."
+  },
+  {
+    "id": "ch1_q18",
+    "chapter": "Chapter 1: SI Units",
+    "question": "The symbol for the basic unit of time is:",
+    "options": ["m", "A", "s", "K", "kg"],
+    "correctAnswer": "s",
+    "explanation": "The second, symbolized by 's', is the SI base unit of time."
+  },
+  {
+    "id": "ch1_q19",
+    "chapter": "Chapter 1: SI Units",
+    "question": "One billion of a base unit is indicated by the prefix:",
+    "options": ["hecto", "mega", "giga", "kilo", "deca"],
+    "correctAnswer": "giga",
+    "explanation": "The SI prefix 'giga' (G) represents a factor of $10^9$ (one billion)."
+  },
+  {
+    "id": "ch1_q20",
+    "chapter": "Chapter 1: SI Units",
+    "question": "The basic unit of time in the SI system is the:",
+    "options": ["Metre", "Second", "Kelvin", "Ampere", "Kilogram"],
+    "correctAnswer": "Second",
+    "explanation": "The second is the foundational SI unit for measuring time intervals."
+  }
+]
