@@ -1,0 +1,132 @@
+[
+  {
+    "number": 1,
+    "question": "Subtract 74 from 101.",
+    "options": {
+      "A": "37",
+      "B": "24",
+      "C": "33",
+      "D": "27",
+      "E": "30"
+    },
+    "correctAnswer": "D",
+    "explanation": "101 - 74 = 27 [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 2,
+    "question": "Solve the expression: (-3)²-[54/(18(-5+3))]+[11-(-2)²].",
+    "options": {
+      "A": "25.5",
+      "B": "17.5",
+      "C": "36.5",
+      "D": "15",
+      "E": "14.5"
+    },
+    "correctAnswer": "B",
+    "explanation": "Following the order of operations (BEDMAS): (-3)² = 9, (-5+3) = -2, 18*(-2) = -36, 54/(-36) = -1.5, [11-(-2)²] = 7, giving 9 - (-1.5) + 7 = 17.5 [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 3,
+    "question": "Multiply 365.24 by 92.1.",
+    "options": {
+      "A": "33 791.219",
+      "B": "33 638.649",
+      "C": "33 638.604",
+      "D": "33 605.831",
+      "E": "32 538.504"
+    },
+    "correctAnswer": "C",
+    "explanation": "365.24 × 92.1 = 33 638.604 [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 4,
+    "question": "The simplest way to add or subtract a decimal number is to:",
+    "options": {
+      "A": "Add the whole numbers first and then round up the decimals",
+      "B": "Multiply the whole numbers",
+      "C": "Round down the decimals to their nearest whole number",
+      "D": "Round up the decimals to their nearest whole numbers",
+      "E": "Line up the decimal points"
+    },
+    "correctAnswer": "E",
+    "explanation": "Lining up decimal points ensures accurate place-value alignment during addition and subtraction [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 5,
+    "question": "Divide 4 035 by 15.",
+    "options": {
+      "A": "269",
+      "B": "326",
+      "C": "103",
+      "D": "127",
+      "E": "335"
+    },
+    "correctAnswer": "A",
+    "explanation": "4 035 ÷ 15 = 269 [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 6,
+    "question": "Prime numbers are:",
+    "options": {
+      "A": "Numbers which have either a positive or a negative sign in front",
+      "B": "Numbers used for counting",
+      "C": "Whole numbers other than 0 and 1 that are exactly divisible by 1 and themselves only",
+      "D": "Positive and negative whole numbers and zero",
+      "E": "None of these answer is correct"
+    },
+    "correctAnswer": "C",
+    "explanation": "Prime numbers are whole numbers greater than 1 that have no positive divisors other than 1 and themselves [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 7,
+    "question": "Add (-56) + 39.",
+    "options": {
+      "A": "-95",
+      "B": "17",
+      "C": "95",
+      "D": "-17",
+      "E": "-26"
+    },
+    "correctAnswer": "D",
+    "explanation": "-56 + 39 = -17 [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 8,
+    "question": "Solve the expression: (31) + (-27) + (-17)-(-35) + (-2)³",
+    "options": {
+      "A": "14",
+      "B": "36",
+      "C": "-40",
+      "D": "68",
+      "E": "-48"
+    },
+    "correctAnswer": "A",
+    "explanation": "31 - 27 - 17 + 35 - 8 = 14 [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 9,
+    "question": "Add 1 785 + 36 + 291.",
+    "options": {
+      "A": "2 112",
+      "B": "1 112",
+      "C": "2 221",
+      "D": "2 101",
+      "E": "1 912"
+    },
+    "correctAnswer": "A",
+    "explanation": "1 785 + 36 + 291 = 2 112 [Elementary mechanics & dynamics]."
+  },
+  {
+    "number": 10,
+    "question": "The Acronym for helping remember the correct order of operations is:",
+    "options": {
+      "A": "MASBED",
+      "B": "BASMED",
+      "C": "BEDMAS",
+      "D": "SPAMED",
+      "E": "SMEDBA"
+    },
+    "correctAnswer": "C",
+    "explanation": "BEDMAS stands for Brackets, Exponents, Division, Multiplication, Addition, and Subtraction [Elementary mechanics & dynamics]."
+  }
+]
