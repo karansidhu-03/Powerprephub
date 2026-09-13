@@ -8,6 +8,11 @@ import paper7Raw from "./Part A/papers/partapaper7.json";
 import paper8Raw from "./Part A/papers/partapaper8.json";
 import paper9Raw from "./Part A/papers/partapaper9.json";
 import chp1Raw from "./Part A/Chp/chp1.json";
+import chp2Raw from "./Part A/Chp/chp2.json";
+import chp3Raw from "./Part A/Chp/chp3.json";
+import chp4Raw from "./Part A/Chp/chp4.json";
+import chp5Raw from "./Part A/Chp/chp5.json";
+import chp6Raw from "./Part A/Chp/chp6.json";
 
 export interface Question {
   id: string | number;
@@ -19,7 +24,7 @@ export interface Question {
   explanation: string;
 }
 
-/** Raw shape of partapaper3.json and partapaper4.json: correctAnswer stored as option text. */
+/** Raw shape of papers 3, 4, and 5: correctAnswer stored as option text (`answer` field). */
 interface RawTextAnswerQuestion {
   id: number;
   question: string;
@@ -57,7 +62,14 @@ interface RawLetterAnswerQuestion {
   explanation: string;
 }
 
-const LETTER_TO_INDEX: Record<string, number> = { A: 0, B: 1, C: 2, D: 3, E: 4, F: 5 };
+const LETTER_TO_INDEX: Record<string, number> = {
+  A: 0,
+  B: 1,
+  C: 2,
+  D: 3,
+  E: 4,
+  F: 5,
+};
 
 /** Convert letter-answer papers (options as object or array) into the Question shape. */
 function convertLetterAnswer(raw: RawLetterAnswerQuestion[]): Question[] {
@@ -83,24 +95,45 @@ const paper7 = convertLetterAnswer(paper7Raw as RawLetterAnswerQuestion[]);
 const paper8 = convertLetterAnswer(paper8Raw as RawLetterAnswerQuestion[]);
 const paper9 = convertLetterAnswer(paper9Raw as RawLetterAnswerQuestion[]);
 
-/** Raw shape of chapter JSON files: string IDs, correctAnswer stored as option text. */
+/** Raw shape of chapter JSON files: options can be an array or an object map ({A, B, C, D}). */
 interface RawChapterQuestion {
-  id: string;
-  chapter: string;
+  id: string | number;
+  chapter?: string;
   question: string;
-  options: string[];
-  correctAnswer: string;
+  options: Record<string, string> | string[];
+  correctAnswer?: string;
+  answer?: string;
   explanation: string;
 }
 
-/** Convert chapter questions (text answer, string IDs) into the Question shape. */
+/** Convert chapter questions handling both array and object-map formats for options. */
 function convertChapter(raw: RawChapterQuestion[]): Question[] {
-  return raw.map((q, i) => {
-    const idx = q.options.indexOf(q.correctAnswer);
+  return raw.map((q) => {
+    const options = Array.isArray(q.options)
+      ? q.options
+      : Object.keys(q.options)
+          .sort()
+          .map((k) => (q.options as Record<string, string>)[k]!);
+
+    const targetAnswer = q.correctAnswer ?? q.answer ?? "";
+    let idx = -1;
+
+    if (Array.isArray(q.options)) {
+      idx = q.options.indexOf(targetAnswer);
+    } else {
+      // If options is an object map (e.g. { A: "...", B: "..." }), targetAnswer might be a letter ("A") or matching text
+      const upperLetter = targetAnswer.toUpperCase();
+      if (LETTER_TO_INDEX[upperLetter] !== undefined) {
+        idx = LETTER_TO_INDEX[upperLetter];
+      } else {
+        idx = options.indexOf(targetAnswer);
+      }
+    }
+
     return {
       id: q.id,
       question: q.question,
-      options: q.options,
+      options,
       correctAnswer: idx >= 0 ? idx : 0,
       explanation: q.explanation,
       topic: q.chapter,
@@ -109,6 +142,11 @@ function convertChapter(raw: RawChapterQuestion[]): Question[] {
 }
 
 const chp1 = convertChapter(chp1Raw as RawChapterQuestion[]);
+const chp2 = convertChapter(chp2Raw as RawChapterQuestion[]);
+const chp3 = convertChapter(chp3Raw as RawChapterQuestion[]);
+const chp4 = convertChapter(chp4Raw as RawChapterQuestion[]);
+const chp5 = convertChapter(chp5Raw as RawChapterQuestion[]);
+const chp6 = convertChapter(chp6Raw as RawChapterQuestion[]);
 
 export interface Paper {
   id: string;
@@ -162,7 +200,7 @@ export const exams: Exam[] = [
         id: "paper3",
         label: "Paper 3",
         description: "100 questions · randomized order",
-        questions: paper3 as Question[],
+        questions: paper3,
       },
       {
         id: "paper4",
@@ -207,6 +245,36 @@ export const exams: Exam[] = [
         label: "Chapter 1: SI Units",
         description: `${chp1.length} questions · randomized order`,
         questions: chp1,
+      },
+      {
+        id: "chp2",
+        label: "Chapter 2: Basic Arithmetic Operations",
+        description: `${chp2.length} questions · randomized order`,
+        questions: chp2,
+      },
+      {
+        id: "chp3",
+        label: "Chapter 3: Fractions, Decimals and Percentages",
+        description: `${chp3.length} questions · randomized order`,
+        questions: chp3,
+      },
+      {
+        id: "chp4",
+        label: "Chapter 4: Ratios and Proportion",
+        description: `${chp4.length} questions · randomized order`,
+        questions: chp4,
+      },
+      {
+        id: "chp5",
+        label: "Chapter 5: Equations and Transposition",
+        description: `${chp5.length} questions · randomized order`,
+        questions: chp5,
+      },
+      {
+        id: "chp6",
+        label: "Chapter 6: Length, Lines and Simple Plane Figures",
+        description: `${chp6.length} questions · randomized order`,
+        questions: chp6,
       },
     ],
   },
