@@ -1,0 +1,483 @@
+[
+  {
+    "number": 1,
+    "heading": "Fire Safety and Prevention",
+    "question": "To prevent Class C fire, electrical equipment should be approved by:",
+    "options": {
+      "A": "Provincial government",
+      "B": "Company Senior Management",
+      "C": "ASME, API",
+      "D": "Federal government",
+      "E": "CSA, ULC"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 2,
+    "heading": "Fire Safety and Prevention",
+    "question": "The major advantage of CO2 as a fire extinguishing agent for fires in electrical equipment is that it:",
+    "options": {
+      "A": "Has superior cooling ability over other agents",
+      "B": "Provides a barrier between oxygen and burning materials",
+      "C": "Is non toxic",
+      "D": "Does not leave a residue",
+      "E": "Does not reduce the oxygen content of the area"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 3,
+    "heading": "Fire Safety and Prevention",
+    "question": "Which of these should be avoided when using or maintaining oxygen equipment?",
+    "options": {
+      "A": "Brass fittings",
+      "B": "Ventilation of work area",
+      "C": "Lubricating parts with oil",
+      "D": "Teflon gaskets",
+      "E": "Metallic tubing or piping"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 4,
+    "heading": "Fire Safety and Prevention",
+    "question": "A reducing agent or fuel could be:",
+    "options": {
+      "A": "A heavy metal oxide",
+      "B": "Carbon monoxide",
+      "C": "Hydrogen peroxide",
+      "D": "Chlorine",
+      "E": "Concentrated sulphuric acid"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "heading": "Fire Safety and Prevention",
+    "question": "Burning Sodium may be extinguished by using:",
+    "options": {
+      "A": "Carbon dioxide extinguisher",
+      "B": "Dry chemical extinguisher",
+      "C": "AFFF extinguisher",
+      "D": "Dry powder extinguisher",
+      "E": "Foam extinguisher"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 6,
+    "heading": "Fire Safety and Prevention",
+    "question": "A Class B fire is extinguished by:",
+    "options": {
+      "A": "Smothering the burning liquid",
+      "B": "Lowering the temperature of the burning liquid",
+      "C": "Wetting the burning paper or wood",
+      "D": "Creating a chain reaction between the molecules of the materials",
+      "E": "Lowering the temperature of the burning wood or paper"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 7,
+    "heading": "Fire Safety and Prevention",
+    "question": "The best type of fire extinguisher to use on an electrical fire would be a:",
+    "options": {
+      "A": "Carbon dioxide extinguisher",
+      "B": "Foam extinguisher",
+      "C": "Dry chemical extinguisher",
+      "D": "FF extinguisher",
+      "E": "Dry powder extinguisher"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 8,
+    "heading": "Fire Safety and Prevention",
+    "question": "For combustion to occur, the following four criteria must be met:\na. Must be able to continue\nb. Must be fuel to burn\nc. Must be pressurized\nd. Oxygen is present\ne. Ignition source available",
+    "options": {
+      "A": "a, c, d, e",
+      "B": "a, b, c, e",
+      "C": "a, b, d, e",
+      "D": "a, b, c, d",
+      "E": "b, c, d, e"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 9,
+    "heading": "Fire Safety and Prevention",
+    "question": "Work that creates a source of ignition is:",
+    "options": {
+      "A": "Cold work",
+      "B": "Hot work",
+      "C": "Always safe",
+      "D": "Never safe",
+      "E": "Not allowed"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 10,
+    "heading": "Fire Safety and Prevention",
+    "question": "Fire - rated (FR) clothing should be worn:",
+    "options": {
+      "A": "Only when working directly with an open flame",
+      "B": "With respiratory apparatus",
+      "C": "At all times everywhere in the work place",
+      "D": "Only when welding",
+      "E": "When there is a possible exposure to an ignition source"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 11,
+    "heading": "Fire Safety and Prevention",
+    "question": "A fire can be stopped by:\na. Removing or cutting off the fuel supply\nb. Cooling the material below the ignition temperature\nc. Removing or cutting off the oxygen supply\nd. Installing an effective fire detection system",
+    "options": {
+      "A": "a, b, d",
+      "B": "b, c, d",
+      "C": "a, c",
+      "D": "a, b, c, d",
+      "E": "a, b, c"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 12,
+    "heading": "Fire Safety and Prevention",
+    "question": "An effective method to identify potential fire hazards and reduce the chances of fire is:",
+    "options": {
+      "A": "Ask the human resources department",
+      "B": "Use correct PPE",
+      "C": "A fire risk assessment",
+      "D": "Job Hazard Assessment",
+      "E": "Create a policy"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 13,
+    "heading": "Fire Safety and Prevention",
+    "question": "In addition to automatic fire detection systems, what additional fire monitoring is required?",
+    "options": {
+      "A": "Operators performing physical rounds",
+      "B": "Regular reports to Human Resources department",
+      "C": "Vibration monitoring equipment",
+      "D": "Inspections by Insurance underwriters",
+      "E": "Regular reporting to the federal government"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 14,
+    "heading": "Fire Safety and Prevention",
+    "question": "To prevent fire when storing combustible metals:",
+    "options": {
+      "A": "The metal should be hermetically sealed and immersed in oil",
+      "B": "No special precautions are required as long as it is in a metal cabinet",
+      "C": "The cabinet should be oxygen free",
+      "D": "A water based fire extinguisher should be near by",
+      "E": "Signage should be in place to indicate what is being stored and what can't be stored with it"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 15,
+    "heading": "Fire Safety and Prevention",
+    "question": "A class A fire would involve:",
+    "options": {
+      "A": "Paint or grease",
+      "B": "Any dry materials",
+      "C": "Electrical equipment",
+      "D": "Wood or coal",
+      "E": "Gasoline or oil"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 16,
+    "heading": "Fire Safety and Prevention",
+    "question": "A class K fire occurs with:",
+    "options": {
+      "A": "Kitchen oils and greases",
+      "B": "Lithium batteries",
+      "C": "In nuclear power stations",
+      "D": "Potassium fires",
+      "E": "All these answers are correct"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 17,
+    "heading": "Fire Safety and Prevention",
+    "question": "To extinguish a fire, aqueous film forming foam agents act in order to:",
+    "options": {
+      "A": "Smother the fire",
+      "B": "Cool the fire",
+      "C": "Seal out oxygen",
+      "D": "Break the chain reaction",
+      "E": "All these answers are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 18,
+    "heading": "Fire Safety and Prevention",
+    "question": "Class A fires are extinguished by:",
+    "options": {
+      "A": "Cooling the fire and fuel",
+      "B": "Using halogenated agents",
+      "C": "Using dry powder",
+      "D": "Smothering with excess oxygen",
+      "E": "None of these answer are correct"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 19,
+    "heading": "Fire Safety and Prevention",
+    "question": "When ignition can occur without any apparent external ignition source:",
+    "options": {
+      "A": "Simultaneous ignition",
+      "B": "Spontaneous ignition",
+      "C": "Magnetic induction",
+      "D": "Inductive ignition",
+      "E": "Synchronous ignition"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 20,
+    "heading": "Fire Safety and Prevention",
+    "question": "Halon agents are:",
+    "options": {
+      "A": "Safe until they make contact with combustion process",
+      "B": "Gradually replacing dry powder extinguishers",
+      "C": "The best extinguishers for Class K fires",
+      "D": "Toxic and harmful to people",
+      "E": "Able to maintain cylinder pressure regardless of temperatures"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 21,
+    "heading": "Fire Safety and Prevention",
+    "question": "The gaseous products of combustion are toxic and can:",
+    "options": {
+      "A": "Can create acid rain",
+      "B": "Have immediate and long term health effects",
+      "C": "Have only short term health effects",
+      "D": "Have only long term health effects",
+      "E": "Are not a concern when you are in fresh air"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 22,
+    "heading": "Fire Safety and Prevention",
+    "question": "Power engineers who are familiar will all areas of their plants should provide input to the fire risk assessment, including:",
+    "options": {
+      "A": "Identify any hazards",
+      "B": "Evaluate the possibility of a fire starting",
+      "C": "Evaluate the severity of impact from a fire",
+      "D": "Developing steps to prevent a fire starting",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 23,
+    "heading": "Fire Safety and Prevention",
+    "question": "The following is a class B fire:",
+    "options": {
+      "A": "An oil fire on the surface of a flare pit",
+      "B": "A fire in a coal bunker",
+      "C": "Burning metal",
+      "D": "A fire in an electrical panel",
+      "E": "A fire in a wood pile"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 24,
+    "heading": "Fire Safety and Prevention",
+    "question": "The best fire extinguisher to use on a hydrocarbon fire would be:",
+    "options": {
+      "A": "AFFF",
+      "B": "Water",
+      "C": "Dry chemical",
+      "D": "Carbon dioxide",
+      "E": "Dry powder"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 25,
+    "heading": "Fire Safety and Prevention",
+    "question": "Regular cleaning is an effective way to prevent which type of fire?",
+    "options": {
+      "A": "Class K",
+      "B": "Class D",
+      "C": "Class C",
+      "D": "Class B",
+      "E": "Class A"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 26,
+    "heading": "Fire Safety and Prevention",
+    "question": "Water is the best extinguisher for:",
+    "options": {
+      "A": "A gas fire",
+      "B": "An electrical fire",
+      "C": "A burning metal fire",
+      "D": "A wood fire",
+      "E": "An oil fire"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 27,
+    "heading": "Fire Safety and Prevention",
+    "question": "To minimize the panic that people experience in a fire situation, most companies:",
+    "options": {
+      "A": "Use military style command structures to control employees",
+      "B": "Employ psychologists to train workers to not panic",
+      "C": "Have regular fire drills",
+      "D": "Only hire people who never panic",
+      "E": "Write a safety policy"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 28,
+    "heading": "Fire Safety and Prevention",
+    "question": "Your first reaction to a fire should be to:",
+    "options": {
+      "A": "Contain it",
+      "B": "Get to the nearest fire extinguisher",
+      "C": "Turn on the alarm",
+      "D": "Fight it",
+      "E": "Remove people from immediate danger"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 29,
+    "heading": "Fire Safety and Prevention",
+    "question": "Which of the following is a class C fire:",
+    "options": {
+      "A": "A fire in a wood pile",
+      "B": "A fire in an electrical panel",
+      "C": "An oil fire in a fuel tank",
+      "D": "A fire in a coal bunker",
+      "E": "Burning metal"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 30,
+    "heading": "Fire Safety and Prevention",
+    "question": "Foam extinguishers are recommended for:",
+    "options": {
+      "A": "Class A and B fires",
+      "B": "Class C and D fires",
+      "C": "Class D and K fires",
+      "D": "Class C and K fires",
+      "E": "Class A and C fires"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 31,
+    "heading": "Fire Safety and Prevention",
+    "question": "Good practices to prevent fires from getting started include:",
+    "options": {
+      "A": "Prohibiting smoking",
+      "B": "Keeping flammable materials distributed throughout the site",
+      "C": "Storing combustible materials next to sources of ignition",
+      "D": "Allowing cooking in all areas",
+      "E": "Allowing heat sources to contact only Class A fuel sources"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 32,
+    "heading": "Fire Safety and Prevention",
+    "question": "The best portable fire extinguisher to use on a class d fire is the:",
+    "options": {
+      "A": "Dry powder unit",
+      "B": "Halon unit",
+      "C": "Dry chemical unit",
+      "D": "Aqueous film forming foam unit",
+      "E": "Carbon Dioxide unit"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 33,
+    "heading": "Fire Safety and Prevention",
+    "question": "Identifying and repairing leaks in equipment is a good way to prevent:",
+    "options": {
+      "A": "Class C fires",
+      "B": "Class A fires",
+      "C": "Class K fires",
+      "D": "Class D fires",
+      "E": "Class B fires"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 34,
+    "heading": "Fire Safety and Prevention",
+    "question": "Halon extinguishers:",
+    "options": {
+      "A": "Create radiation shielding",
+      "B": "Isolate and coat the fuel",
+      "C": "Remove oxygen supply",
+      "D": "Break the uninhibited chain reaction",
+      "E": "Cool below the ignition temperature"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 35,
+    "heading": "Fire Safety and Prevention",
+    "question": "The best type of fire extinguisher to use on deep fat fryer would be a:",
+    "options": {
+      "A": "Foam extinguisher",
+      "B": "Dry chemical extinguisher",
+      "C": "Carbon dioxide extinguisher",
+      "D": "Dry powder extinguisher",
+      "E": "Wet chemical extinguisher"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 36,
+    "heading": "Fire Safety and Prevention",
+    "question": "Material transferred by hoses can be a source of ignition due to:",
+    "options": {
+      "A": "Magnetic interference",
+      "B": "High pressures",
+      "C": "Static electricity",
+      "D": "High velocities",
+      "E": "High flow rate"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 37,
+    "heading": "Fire Safety and Prevention",
+    "question": "Which of these state the requirements for fire detection and suppression systems?",
+    "options": {
+      "A": "ASME Code, CSA Code",
+      "B": "Fire Detection code, suppression regulations",
+      "C": "National Fire Code, National Building Code",
+      "D": "Safety Code, fire code",
+      "E": "B51 and B52 codes"
+    },
+    "correctAnswer": "C"
+  }
+]

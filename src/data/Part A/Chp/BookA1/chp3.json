@@ -1,0 +1,132 @@
+[
+  {
+    "number": 1,
+    "question": "An effort of 400 N is required to raise a mass of 100 kg in a certain machine. If the mass is raised 4 m while the effort moves 12 m, find the efficiency of the machine.",
+    "options": {
+      "A": "93%",
+      "B": "82%",
+      "C": "80%",
+      "D": "75%",
+      "E": "70%"
+    },
+    "correctAnswer": "B",
+    "explanation": "Load = 100 kg * 9.81 m/s² = 981 N. MA = 981 / 400 = 2.4525. VR = 12 / 4 = 3. Efficiency = (MA / VR) * 100% = (2.4525 / 3) * 100% = 81.75%, which rounds to 82% [Machines and Mechanical Advantage]."
+  },
+  {
+    "number": 2,
+    "question": "An effort of 3 kN is required to move a mass of 2 000 kg in a certain simple machine. If the mass is raised 1.5 m while the effort moves 12 m, find the velocity ratio (VR), the actual mechanical advantage (MA), and the efficiency (EFF) of the machine.",
+    "options": {
+      "A": "VR = 8, MA = 0.67, EFF = 8.3%",
+      "B": "VR = 12, MA = 6.54, EFF = 54.5%",
+      "C": "VR = 1.5, MA = 0.67, EFF = 44.7%",
+      "D": "VR = 8, MA = 6.54, EFF = 81.8%",
+      "E": "VR = 8, MA = 0.67, EFF = 5.3%"
+    },
+    "correctAnswer": "D",
+    "explanation": "VR = 12 / 1.5 = 8. Load = 2000 * 9.81 = 19620 N; MA = 19620 / 3000 = 6.54. EFF = (6.54 / 8) * 100% = 81.8% [Machines and Mechanical Advantage]."
+  },
+  {
+    "number": 3,
+    "question": "The ratio of the load to the effort is called:",
+    "options": {
+      "A": "Work",
+      "B": "Velocity ratio",
+      "C": "Actual mechanical advantage",
+      "D": "Power",
+      "E": "Efficiency"
+    },
+    "correctAnswer": "C",
+    "explanation": "Actual mechanical advantage is defined as the ratio of the load force to the effort force [Machines and Mechanical Advantage]."
+  },
+  {
+    "number": 4,
+    "question": "In any Machine, the ratio of the load to the effort is called the:",
+    "options": {
+      "A": "Equilibrium factor",
+      "B": "Actual mechanical advantage",
+      "C": "Mechanical efficiency",
+      "D": "Velocity ratio",
+      "E": "Gear ratio"
+    },
+    "correctAnswer": "B",
+    "explanation": "The ratio of load to effort represents the actual mechanical advantage of a machine [Machines and Mechanical Advantage]."
+  },
+  {
+    "number": 5,
+    "question": "A lever is used to move a load of 10 kN by applying an effort of 1 000 N. What is the mechanical advantage of the lever?",
+    "options": {
+      "A": "100",
+      "B": "1",
+      "C": "1 000",
+      "D": "10 000",
+      "E": "10"
+    },
+    "correctAnswer": "E",
+    "explanation": "MA = Load / Effort = 10,000 N / 1,000 N = 10 [Machines and Mechanical Advantage]."
+  },
+  {
+    "number": 6,
+    "question": "A simple machine is one that receives energy by means of a single applied force and produces work by means of:",
+    "options": {
+      "A": "Distance moved",
+      "B": "Multiple output forces",
+      "C": "An energy form",
+      "D": "A single output force",
+      "E": "A mechanical device"
+    },
+    "correctAnswer": "D",
+    "explanation": "A simple machine operates with a single applied input force and produces work through a single output force [Machines and Mechanical Advantage]."
+  },
+  {
+    "number": 7,
+    "question": "Which of the following statements about inclined planes is false?",
+    "options": {
+      "A": "A ramp is an inclined plane",
+      "B": "Work is wasted in friction",
+      "C": "Work input = work output + work wasted",
+      "D": "A screw is an inclined plane",
+      "E": "No work is wasted in producing heat"
+    },
+    "correctAnswer": "E",
+    "explanation": "Friction converts useful work into thermal energy (heat), making the statement that no work is wasted in producing heat false [Machines and Mechanical Advantage]."
+  },
+  {
+    "number": 8,
+    "question": "Which of the following statements about simple machines is false?",
+    "options": {
+      "A": "Work input is greater than work output",
+      "B": "Work output is the product of the load and the distance moved by the load",
+      "C": "The machine receives energy by means of a single applied force",
+      "D": "The machine receives energy by means of two or more applied forces",
+      "E": "The machine produces work by means of a single output force"
+    },
+    "correctAnswer": "D",
+    "explanation": "Simple machines receive energy through a single applied force, making statement D false [Machines and Mechanical Advantage]."
+  },
+  {
+    "number": 9,
+    "question": "A block and tackle system has 6 pulleys in each of two blocks (12 pulleys total). If a downward effort of 260 N is required to raise a load of 300 kg, calculate the efficiency of the system.",
+    "options": {
+      "A": "19.2%",
+      "B": "94.3%",
+      "C": "9.6%",
+      "D": "108.6%",
+      "E": "188.3%"
+    },
+    "correctAnswer": "B",
+    "explanation": "Load = 300 * 9.81 = 2943 N. MA = 2943 / 260 = 11.319. VR = 12. Efficiency = (11.319 / 12) * 100% = 94.3% [Machines and Mechanical Advantage]."
+  },
+  {
+    "number": 10,
+    "question": "A machine is used to lift a load of 12 kN and the effort applied is 4 kN. What distance will the load move if the effort moved a distance of 8 m and the efficiency of the machine is 70%?",
+    "options": {
+      "A": "3.8095 m",
+      "B": "0.3809 m",
+      "C": "5.3570 m",
+      "D": "0.5357 m",
+      "E": "1.8667 m"
+    },
+    "correctAnswer": "E",
+    "explanation": "MA = 12 / 4 = 3. Efficiency = MA / VR => 0.70 = 3 / VR => VR = 4.2857. VR = distance_effort / distance_load => 4.2857 = 8 / distance_load => distance_load = 1.8667 m [Machines and Mechanical Advantage]."
+  }
+]

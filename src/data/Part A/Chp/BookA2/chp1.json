@@ -1,0 +1,535 @@
+[
+  {
+    "number": 1,
+    "question": "Which is not an example of a physical property of a material?",
+    "options": {
+      "A": "Its boiling point",
+      "B": "Its hardness",
+      "C": "Its reactive properties",
+      "D": "Its density",
+      "E": "Its colour"
+    },
+    "correctAnswer": "C",
+    "explanation": "Chemical reactivity describes how a substance reacts chemically, making it a chemical property rather than a physical property [Chemistry Fundamentals]."
+  },
+  {
+    "number": 2,
+    "question": "An example of a chemical change is:",
+    "options": {
+      "A": "Melting of lead",
+      "B": "Heat of fusion",
+      "C": "Water to ice",
+      "D": "Burning of coal",
+      "E": "Steam to water"
+    },
+    "correctAnswer": "D",
+    "explanation": "Burning involves a chemical reaction with oxygen that alters the chemical composition of the substance [Chemistry Fundamentals]."
+  },
+  {
+    "number": 3,
+    "question": "Which of the following represent homogenous mixtures?",
+    "options": {
+      "A": "An emulsion of oil and water",
+      "B": "Flue gas",
+      "C": "A mixture of sand and water",
+      "D": "Metal alloys",
+      "E": "Both b and d"
+    },
+    "correctAnswer": "E",
+    "explanation": "Flue gas (uniform gaseous mixture) and metal alloys (solid solutions) are both homogeneous mixtures [Chemistry Fundamentals]."
+  },
+  {
+    "number": 4,
+    "question": "The density of water is _____ g/ml.",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "correctAnswer": "A",
+    "explanation": "Pure water has a standard density of approximately 1 g/mL at standard temperature and pressure [Chemistry Fundamentals]."
+  },
+  {
+    "number": 5,
+    "question": "If 1 kg of ethanol is burned, how much oxygen is required?",
+    "options": {
+      "A": "0.28 kg",
+      "B": "2.08 grams",
+      "C": "2.08 kg",
+      "D": "20.8 kg",
+      "E": "20.8 grams"
+    },
+    "correctAnswer": "C",
+    "explanation": "Based on the stoichiometric combustion equation of ethanol, burning 1 kg requires approximately 2.08 kg of oxygen [Chemistry Fundamentals]."
+  },
+  {
+    "number": 6,
+    "question": "An example of a physical property is:",
+    "options": {
+      "A": "Burning of wood",
+      "B": "Rusting of steel",
+      "C": "The formation of smoke",
+      "D": "Burning of coal",
+      "E": "Melting point of a substance"
+    },
+    "correctAnswer": "E",
+    "explanation": "Melting point is an intrinsic physical characteristic observed without altering chemical identity [Chemistry Fundamentals]."
+  },
+  {
+    "number": 7,
+    "question": "Which of the following involves a chemical change?",
+    "options": {
+      "A": "Burning natural gas",
+      "B": "Sublimation of CO₂",
+      "C": "The freezing of water",
+      "D": "Evaporation of alcohol",
+      "E": "Melting steel"
+    },
+    "correctAnswer": "A",
+    "explanation": "Burning natural gas is a combustion reaction that forms new chemical substances [Chemistry Fundamentals]."
+  },
+  {
+    "number": 8,
+    "question": "The most common chemical bonds are:",
+    "options": {
+      "A": "Ionic, covalent, metallic",
+      "B": "Coupled, separated, joined",
+      "C": "Hydrogen, Oxygen, Carbon",
+      "D": "Shared, individual, combination",
+      "E": "None of these answer is correct"
+    },
+    "correctAnswer": "A",
+    "explanation": "The three primary types of chemical bonds in materials are ionic, covalent, and metallic bonds [Chemistry Fundamentals]."
+  },
+  {
+    "number": 9,
+    "question": "Which is an example of a physical change in a material?",
+    "options": {
+      "A": "Melting",
+      "B": "Evaporation",
+      "C": "Condensation",
+      "D": "Sublimation",
+      "E": "All of the above"
+    },
+    "correctAnswer": "E",
+    "explanation": "Melting, evaporation, condensation, and sublimation are all phase changes representing physical transformations [Chemistry Fundamentals]."
+  },
+  {
+    "number": 10,
+    "question": "Any material made up of distinct elements, compounds or both, not chemically combined with each other represents a/an:",
+    "options": {
+      "A": "Atomic structure",
+      "B": "Mixture",
+      "C": "Molecule",
+      "D": "Compound",
+      "E": "Element compound"
+    },
+    "correctAnswer": "B",
+    "explanation": "A mixture consists of two or more substances physically combined without chemical bonding [Chemistry Fundamentals]."
+  },
+  {
+    "number": 11,
+    "question": "An intensive (physical) property is one that is:",
+    "options": {
+      "A": "Dependent on the amount of mass",
+      "B": "Not dependent on the amount of matter",
+      "C": "Dependent on the amount of pressure applied",
+      "D": "Dependent on the amount of matter",
+      "E": "Dependent on the volume"
+    },
+    "correctAnswer": "B",
+    "explanation": "Intensive properties (such as density and temperature) do not depend on the sample size or amount of matter present [Chemistry Fundamentals]."
+  },
+  {
+    "number": 12,
+    "question": "The mass of 100 moles of Iron is:",
+    "options": {
+      "A": "55.85 kg",
+      "B": "55.85 grams",
+      "C": "558.5 grams",
+      "D": "5.585 kg",
+      "E": "5.585 gram"
+    },
+    "correctAnswer": "D",
+    "explanation": "With an atomic mass of 55.85 g/mol, 100 moles of iron equals 5,585 grams, or 5.585 kg [Chemistry Fundamentals]."
+  },
+  {
+    "number": 13,
+    "question": "An extensive (physical) property is one that is:",
+    "options": {
+      "A": "Dependent on the volume",
+      "B": "Dependent on the amount of matter",
+      "C": "Not dependent on the amount of matter",
+      "D": "Dependent on the amount of pressure applied",
+      "E": "Dependent on the amount of temperature"
+    },
+    "correctAnswer": "B",
+    "explanation": "Extensive properties (such as mass and volume) depend directly on the amount of matter in the sample [Chemistry Fundamentals]."
+  },
+  {
+    "number": 14,
+    "question": "An example of an extensive property of a substance is:",
+    "options": {
+      "A": "Boiling point",
+      "B": "Density",
+      "C": "Freezing point",
+      "D": "Mass",
+      "E": "Colour"
+    },
+    "correctAnswer": "D",
+    "explanation": "Mass scales with the size of the system, making it an extensive property [Chemistry Fundamentals]."
+  },
+  {
+    "number": 15,
+    "question": "Pure substances are:",
+    "options": {
+      "A": "Homogeneous land heterogeneous",
+      "B": "Compounds and elements",
+      "C": "Heterogeneous mixtures",
+      "D": "Varied in composition",
+      "E": "Homogeneous mixtures"
+    },
+    "correctAnswer": "B",
+    "explanation": "Pure substances consist of either chemical elements or chemical compounds with fixed compositions [Chemistry Fundamentals]."
+  },
+  {
+    "number": 16,
+    "question": "Matter can exist in _____ different physical states.",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four",
+      "E": "Five"
+    },
+    "correctAnswer": "C",
+    "explanation": "The three classical states of matter commonly studied in basic thermodynamic frameworks are solid, liquid, and gas [Chemistry Fundamentals]."
+  },
+  {
+    "number": 17,
+    "question": "If there is a material that cannot be separated into any other individual materials by any chemical means, then this material is called a/an:",
+    "options": {
+      "A": "Molecule",
+      "B": "Element",
+      "C": "Atom",
+      "D": "Compound",
+      "E": "Mixture"
+    },
+    "correctAnswer": "B",
+    "explanation": "An element is a pure chemical substance consisting of atoms that cannot be broken down by chemical reactions [Chemistry Fundamentals]."
+  },
+  {
+    "number": 18,
+    "question": "An example of a homogenous mixture of solid elements is:",
+    "options": {
+      "A": "Metal alloy",
+      "B": "Wood",
+      "C": "Plastic",
+      "D": "Concrete",
+      "E": "Stainless steel"
+    },
+    "correctAnswer": "A",
+    "explanation": "Metal alloys represent solid-solution homogeneous mixtures formed by combining metallic elements [Chemistry Fundamentals]."
+  },
+  {
+    "number": 19,
+    "question": "Balance this Methane fuel combustion equation:\n\nCH4 + 2O2 -> CO + H2O",
+    "options": {
+      "A": "CH₄ + 20₂ → 2CO + 2H₂O",
+      "B": "CH₄ + 20₂ → CO + H₂O",
+      "C": "CH₄ + 20₂ → CO₂ + 2H₂O",
+      "D": "CH₄ + 20₂ → CO + 2H₂O",
+      "E": "CH₄ + 20₂ → CO + HO"
+    },
+    "correctAnswer": "C",
+    "explanation": "Complete combustion of methane produces carbon dioxide and water: $\\text{CH}_4 + 2\\text{O}_2 \\rightarrow \\text{CO}_2 + 2\\text{H}_2\\text{O}$ [Chemistry Fundamentals]."
+  },
+  {
+    "number": 20,
+    "question": "Sodium Chloride, NaCl is an example of:",
+    "options": {
+      "A": "Non molecular bond",
+      "B": "Ionic bond",
+      "C": "Metallic bond",
+      "D": "Valence bond",
+      "E": "Covalent Bond"
+    },
+    "correctAnswer": "B",
+    "explanation": "Sodium chloride is formed by the electrostatic attraction between oppositely charged sodium and chloride ions, forming an ionic bond [Chemistry Fundamentals]."
+  },
+  {
+    "number": 21,
+    "question": "A chemical reaction occurs when atoms or molecules come together to form:",
+    "options": {
+      "A": "A new molecule",
+      "B": "A new atom",
+      "C": "A new element",
+      "D": "A new electron",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "A",
+    "explanation": "Chemical reactions rearrange atoms and molecules to create new molecular structures [Chemistry Fundamentals]."
+  },
+  {
+    "number": 22,
+    "question": "A chemical reaction involves the interaction of __________ between different atoms.",
+    "options": {
+      "A": "Protons",
+      "B": "Neutrons",
+      "C": "Moles",
+      "D": "Electrons",
+      "E": "Quarks"
+    },
+    "correctAnswer": "D",
+    "explanation": "Bond formation and breaking during chemical reactions are driven by interactions among valence electrons [Chemistry Fundamentals]."
+  },
+  {
+    "number": 23,
+    "question": "Transformations between states and properties of a matter are:",
+    "options": {
+      "A": "Possible",
+      "B": "Productive",
+      "C": "Prohibitive",
+      "D": "Impossible",
+      "E": "Difficult"
+    },
+    "correctAnswer": "A",
+    "explanation": "Substances routinely undergo phase and property transformations under changing environmental conditions [Chemistry Fundamentals]."
+  },
+  {
+    "number": 24,
+    "question": "The state of matter observed for a particular substance is dependent on its:",
+    "options": {
+      "A": "Pressure and density",
+      "B": "Time and distance",
+      "C": "Temperature and pressure",
+      "D": "Weight and length",
+      "E": "Size and shape"
+    },
+    "correctAnswer": "C",
+    "explanation": "Thermodynamic states of matter are governed primarily by system temperature and pressure [Chemistry Fundamentals]."
+  },
+  {
+    "number": 25,
+    "question": "An example of a heterogeneous mixture is:",
+    "options": {
+      "A": "Soda water",
+      "B": "Flue gas",
+      "C": "Acid",
+      "D": "Oil and water emulsion",
+      "E": "Metal alloys"
+    },
+    "correctAnswer": "D",
+    "explanation": "An oil and water emulsion retains distinct phases, classifying it as a heterogeneous mixture [Chemistry Fundamentals]."
+  },
+  {
+    "number": 26,
+    "question": "The Periodic Table:",
+    "options": {
+      "A": "Has sixteen distinct groups",
+      "B": "Reflects the similar chemical properties of some elements",
+      "C": "Arranges elements in descending order of atomic numbers",
+      "D": "Provides no information besides the chemical symbol of the element",
+      "E": "Arranges elements in equal numbers of columns and rows"
+    },
+    "correctAnswer": "B",
+    "explanation": "Elements are grouped in the periodic table to highlight recurring patterns and similar chemical properties [Chemistry Fundamentals]."
+  },
+  {
+    "number": 27,
+    "question": "The type of bond that leads to high strength, good electrical and thermal conductivity is:",
+    "options": {
+      "A": "Polar Covalent Bond",
+      "B": "Ionic bond",
+      "C": "Metallic bond",
+      "D": "Ironic bond",
+      "E": "Bi-valence bond"
+    },
+    "correctAnswer": "C",
+    "explanation": "Metallic bonding features delocalized electron clouds that facilitate excellent electrical/thermal conductivity and structural strength [Chemistry Fundamentals]."
+  },
+  {
+    "number": 28,
+    "question": "If a substance goes through a process that changes its composition so that it is no longer the same substance, then it is said that the substance has undergone a:",
+    "options": {
+      "A": "Chemical change",
+      "B": "Physical change",
+      "C": "Physical property",
+      "D": "Homogeneous change",
+      "E": "Heterogeneous change"
+    },
+    "correctAnswer": "A",
+    "explanation": "A change in chemical composition resulting in a new substance defines a chemical change [Chemistry Fundamentals]."
+  },
+  {
+    "number": 29,
+    "question": "When the composition of a substance is not altered but its state is, this is called:",
+    "options": {
+      "A": "Chemical change",
+      "B": "Physical change",
+      "C": "Physical property",
+      "D": "Homogeneous property",
+      "E": "Chemical property"
+    },
+    "correctAnswer": "B",
+    "explanation": "Changing states (e.g., solid to liquid) without altering chemical identity is a physical change [Chemistry Fundamentals]."
+  },
+  {
+    "number": 30,
+    "question": "Phosphates are added to boiler to:",
+    "options": {
+      "A": "Prevent corrosion",
+      "B": "Increase pH levels",
+      "C": "Prevent caustic embrittlement",
+      "D": "Prevent scale",
+      "E": "Improve flow through the boiler"
+    },
+    "correctAnswer": "D",
+    "explanation": "Phosphate treatment in boiler water chemistry is primarily utilized to precipitate hardness ions and prevent scale formation [Boiler Water Treatment]."
+  },
+  {
+    "number": 31,
+    "question": "Hydrazine and Sulfites are used in boiler water to:",
+    "options": {
+      "A": "Form a sludge",
+      "B": "Prevent scale",
+      "C": "Prevent corrosion",
+      "D": "Improve combustion",
+      "E": "Lower pH levels"
+    },
+    "correctAnswer": "C",
+    "explanation": "Hydrazine and sulfites act as oxygen scavengers to prevent corrosion in boiler feedwater systems [Boiler Water Treatment]."
+  },
+  {
+    "number": 32,
+    "question": "A material made up of two or more elements in chemical combination represents a:",
+    "options": {
+      "A": "Compound",
+      "B": "Mixture",
+      "C": "Molecule",
+      "D": "Physical change",
+      "E": "Chemical change"
+    },
+    "correctAnswer": "A",
+    "explanation": "A chemical compound consists of two or more distinct elements chemically bonded in fixed proportions [Chemistry Fundamentals]."
+  },
+  {
+    "number": 33,
+    "question": "The atomic mass of Carbon is:",
+    "options": {
+      "A": "6",
+      "B": "12.01",
+      "C": "14",
+      "D": "20",
+      "E": "2.55"
+    },
+    "correctAnswer": "B",
+    "explanation": "The standard atomic weight (atomic mass) of carbon is approximately 12.01 atomic mass units [Chemistry Fundamentals]."
+  },
+  {
+    "number": 34,
+    "question": "An example of a heterogeneous mixture is:",
+    "options": {
+      "A": "Acid",
+      "B": "Sand and water",
+      "C": "Flue gas",
+      "D": "Soda water",
+      "E": "Metal alloys"
+    },
+    "correctAnswer": "B",
+    "explanation": "Sand and water do not dissolve uniformly, forming a visibly non-uniform heterogeneous mixture [Chemistry Fundamentals]."
+  },
+  {
+    "number": 35,
+    "question": "The Periodic Table lists all of the known:",
+    "options": {
+      "A": "Elements",
+      "B": "Substances",
+      "C": "Mixtures",
+      "D": "Matter",
+      "E": "Compounds"
+    },
+    "correctAnswer": "A",
+    "explanation": "The periodic table catalogs all discovered chemical elements ordered by atomic number [Chemistry Fundamentals]."
+  },
+  {
+    "number": 36,
+    "question": "In a chemical reaction, a catalyst:",
+    "options": {
+      "A": "Makes it quicker but Is not consumed",
+      "B": "Acts as the limiting reagent",
+      "C": "Becomes a new substance itself",
+      "D": "Is combined in the reactant and reagent",
+      "E": "Ensure the reaction is reversible"
+    },
+    "correctAnswer": "A",
+    "explanation": "Catalysts increase reaction rates by lowering activation energy without being permanently consumed in the process [Chemistry Fundamentals]."
+  },
+  {
+    "number": 37,
+    "question": "The type of bond where the valence electrons are shared between atoms is:",
+    "options": {
+      "A": "Ionic",
+      "B": "Jamesbond",
+      "C": "Non metallic",
+      "D": "Covalent bond",
+      "E": "Static"
+    },
+    "correctAnswer": "D",
+    "explanation": "Covalent bonds are formed by the mutual sharing of valence electrons between atoms [Chemistry Fundamentals]."
+  },
+  {
+    "number": 38,
+    "question": "_________ can be described in terms of its physical and chemical properties.",
+    "options": {
+      "A": "Compound",
+      "B": "Matter",
+      "C": "Element",
+      "D": "Molecule",
+      "E": "Atom"
+    },
+    "correctAnswer": "B",
+    "explanation": "Matter is broadly characterized and classified by its physical and chemical properties [Chemistry Fundamentals]."
+  },
+  {
+    "number": 39,
+    "question": "The type of bond where the electrons form a delocalized cloud:",
+    "options": {
+      "A": "Metallic bond",
+      "B": "Covalent Bond",
+      "C": "Ionic bond",
+      "D": "Orion bond",
+      "E": "Non Valence bond"
+    },
+    "correctAnswer": "A",
+    "explanation": "Metallic bonding creates a 'sea' or delocalized cloud of shared electrons moving freely among metal cations [Chemistry Fundamentals]."
+  },
+  {
+    "number": 40,
+    "question": "An example of a chemical property is the:",
+    "options": {
+      "A": "Melting point of ice",
+      "B": "Formation of rust on a metal",
+      "C": "Formation of ice from water",
+      "D": "Formation of steam from water",
+      "E": "Melting point of a metal"
+    },
+    "correctAnswer": "B",
+    "explanation": "Rust formation is an oxidation reaction that demonstrates the chemical properties of iron [Chemistry Fundamentals]."
+  },
+  {
+    "number": 41,
+    "question": "These are either removed from one atom or shared between different atoms:",
+    "options": {
+      "A": "Protons",
+      "B": "Moles",
+      "C": "Valence electorns",
+      "D": "Neutrons",
+      "E": "Quarks"
+    },
+    "correctAnswer": "C",
+    "explanation": "Valence electrons are the outermost electrons involved in chemical bonding, transfer, or sharing [Chemistry Fundamentals]."
+  }
+]

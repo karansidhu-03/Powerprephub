@@ -1,0 +1,834 @@
+[
+  {
+    "number": 1,
+    "question": "Wrought iron:",
+    "options": {
+      "A": "Is corrosion resistant",
+      "B": "Contains a high percentage of carbon",
+      "C": "Is produced by annealing",
+      "D": "Is a non-ferrous metal",
+      "E": "Is stronger than steel"
+    },
+    "correctAnswer": "A",
+    "explanation": "Wrought iron contains very little carbon and slag fibers, giving it high corrosion resistance compared to standard carbon steels[cite: 25]."
+  },
+  {
+    "number": 2,
+    "question": "The result of removing nearly all the impurities and carbon from pig iron is:",
+    "options": {
+      "A": "Wrought iron",
+      "B": "Low carbon steel",
+      "C": "Coke",
+      "D": "White cast iron",
+      "E": "Steel"
+    },
+    "correctAnswer": "A",
+    "explanation": "Refining pig iron by removing nearly all carbon and impurities produces practically pure iron known as wrought iron[cite: 25]."
+  },
+  {
+    "number": 3,
+    "question": "Grey Cast Iron is used for:",
+    "options": {
+      "A": "Crusher jaws",
+      "B": "Aircraft frames",
+      "C": "Machinery bases",
+      "D": "Pipe fittings",
+      "E": "Boiler tunes"
+    },
+    "correctAnswer": "C",
+    "explanation": "Grey cast iron has excellent compressive strength and vibration-damping properties, making it ideal for machinery bases and engine blocks[cite: 25]."
+  },
+  {
+    "number": 4,
+    "question": "A material that can be drawn out or extended in length without breakage is said to be:",
+    "options": {
+      "A": "Ductile",
+      "B": "Chilled",
+      "C": "Hard",
+      "D": "Malleable",
+      "E": "Brittle"
+    },
+    "correctAnswer": "A",
+    "explanation": "Ductility is the mechanical property that allows a material to be stretched or drawn into wires without fracturing[cite: 25]."
+  },
+  {
+    "number": 5,
+    "question": "Which of the following metals is the most ductile?",
+    "options": {
+      "A": "Copper",
+      "B": "High speed steel",
+      "C": "Chilled cast iron",
+      "D": "High carbon steel",
+      "E": "White cast iron"
+    },
+    "correctAnswer": "A",
+    "explanation": "Copper possesses high ductility compared to brittle cast irons and high-carbon tool steels[cite: 25]."
+  },
+  {
+    "number": 6,
+    "question": "Lead, Tin, Copper, Arsenic and Antimony are sometimes found in:",
+    "options": {
+      "A": "Chrome products",
+      "B": "Bearing metals",
+      "C": "Brass",
+      "D": "Bronze",
+      "E": "Copper"
+    },
+    "correctAnswer": "B",
+    "explanation": "Bearing metals (such as Babbitt alloys) are formulated using combinations of lead, tin, copper, arsenic, and antimony[cite: 25]."
+  },
+  {
+    "number": 7,
+    "question": "Brinell and Rockwell are:",
+    "options": {
+      "A": "Strength tests",
+      "B": "Ductility tests",
+      "C": "Brittleness tests",
+      "D": "Toughness tests",
+      "E": "Hardness tests"
+    },
+    "correctAnswer": "E",
+    "explanation": "The Brinell and Rockwell scales are standard standardized testing methods used to measure material hardness[cite: 25]."
+  },
+  {
+    "number": 8,
+    "question": "Babbitt or white metal:",
+    "options": {
+      "A": "Contains no lead",
+      "B": "Is used for electrical wiring",
+      "C": "Is composed of aluminium and nickel",
+      "D": "Is a hard material",
+      "E": "Is used for bearing metal"
+    },
+    "correctAnswer": "E",
+    "explanation": "White metal alloys like Babbitt are traditionally utilized as anti-friction lining materials for sliding bearings[cite: 25]."
+  },
+  {
+    "number": 9,
+    "question": "When nickel is added to steel, it:",
+    "options": {
+      "A": "Decreases hardness and brittleness",
+      "B": "Decreases toughness and corrosion resistance",
+      "C": "Improves hardness and brittleness",
+      "D": "Improves toughness and corrosion resistance",
+      "E": "Improves malleability"
+    },
+    "correctAnswer": "D",
+    "explanation": "Alloying steel with nickel significantly enhances its overall toughness, impact strength, and resistance to corrosion[cite: 25]."
+  },
+  {
+    "number": 10,
+    "question": "Tin based white metal (Babbitt) is composed of:",
+    "options": {
+      "A": "10% tin, 7% antimony, 75% lead and 7% copper",
+      "B": "75% tin, 15% lead, 10% copper and 5% silver",
+      "C": "89% lead, 7% tin, 3% copper and 1% antimony",
+      "D": "85% tin, 0.35% lead, 7% copper, 7% antimony",
+      "E": "75% lead, 9% tin, 10% antimony and 6% arsenic"
+    },
+    "correctAnswer": "D",
+    "explanation": "High-grade tin-based Babbitt typically consists of approximately 85% tin alongside balanced proportions of copper, antimony, and minimal lead[cite: 25]."
+  },
+  {
+    "number": 11,
+    "question": "When chromium is added to alloy steel, it produces:",
+    "options": {
+      "A": "Improved malleability",
+      "B": "Improved machinability",
+      "C": "Increased toughness",
+      "D": "Increased ductility",
+      "E": "Increased hardness"
+    },
+    "correctAnswer": "E",
+    "explanation": "Chromium increases hardenability, wear resistance, and surface hardness in alloy steels[cite: 25]."
+  },
+  {
+    "number": 12,
+    "question": "Stainless steel:",
+    "options": {
+      "A": "Contains a high percentage of chromium",
+      "B": "Has a high carbon content",
+      "C": "Has a high graphite content",
+      "D": "Is corrosion resistant",
+      "E": "Is not an alloy steel"
+    },
+    "correctAnswer": "A",
+    "explanation": "Stainless steels are high-alloy steels characterized by a substantial chromium content (typically minimum 10.5%)[cite: 25]."
+  },
+  {
+    "number": 13,
+    "question": "Malleability of a metal:",
+    "options": {
+      "A": "Will usually decrease as the temperature rises",
+      "B": "Means the same as \"toughness\"",
+      "C": "Usually increases with the addition of heat",
+      "D": "Means it will crack when struck with a hammer",
+      "E": "Is checked using the Charpy tester"
+    },
+    "correctAnswer": "C",
+    "explanation": "Heating a metal increases its plasticity and malleability, making it easier to shape through rolling or hammering[cite: 25]."
+  },
+  {
+    "number": 14,
+    "question": "Copper alloys are:",
+    "options": {
+      "A": "Much lower in carbon content than copper",
+      "B": "Not as strong as copper itself",
+      "C": "Harder to machine than copper",
+      "D": "Easier to machine than copper itself",
+      "E": "Less resistant to corrosion than copper"
+    },
+    "correctAnswer": "D",
+    "explanation": "Pure copper tends to be gummy and difficult to machine, whereas copper alloys like brass and bronze offer improved machinability[cite: 25]."
+  },
+  {
+    "number": 15,
+    "question": "In order to avoid residual stresses after welding, alloy steels:",
+    "options": {
+      "A": "Must contain copper",
+      "B": "Are not affected by carbon content",
+      "C": "Must be heated after welding",
+      "D": "Cannot contain any copper",
+      "E": "Should be heated before, during and after welding"
+    },
+    "correctAnswer": "E",
+    "explanation": "Preheating and controlled post-weld heat treatment are necessary on alloy steels to prevent thermal shock, hardening, and residual stresses[cite: 25]."
+  },
+  {
+    "number": 16,
+    "question": "Bearing metal:\n1. Is sometimes called Babbitt metal\n2. Is sometimes called white metal\n3. Can be heated to any temperature\n4. Can be made for different types of service",
+    "options": {
+      "A": "1, 2, 4",
+      "B": "1, 2, 3",
+      "C": "1, 3, 4",
+      "D": "2, 3, 4",
+      "E": "3, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "Bearing metals are formulated for diverse load and speed services and are commonly known as Babbitt or white metal (items 1, 2, and 4)[cite: 25]."
+  },
+  {
+    "number": 17,
+    "question": "Pig iron:",
+    "options": {
+      "A": "Is the raw material from which cast iron is made",
+      "B": "Contains at least 2% carbon",
+      "C": "Has a high percentage of graphite",
+      "D": "Is the raw material from which brass is made",
+      "E": "Has most of its carbon in a combined state"
+    },
+    "correctAnswer": "A",
+    "explanation": "Pig iron is the crude intermediate metal produced in blast furnaces, serving as the primary feedstock for cast iron and steel production[cite: 25]."
+  },
+  {
+    "number": 18,
+    "question": "An element that reduces creep in metal is:",
+    "options": {
+      "A": "Nickel",
+      "B": "Vanadium",
+      "C": "Molybdenum",
+      "D": "Manganese",
+      "E": "Copper"
+    },
+    "correctAnswer": "C",
+    "explanation": "Molybdenum is a key alloying element added to steels to maintain high-temperature strength and inhibit high-temperature creep[cite: 25]."
+  },
+  {
+    "number": 19,
+    "question": "Aluminium is produced from:",
+    "options": {
+      "A": "Babbitt",
+      "B": "Copper and zinc",
+      "C": "Aluminum ore",
+      "D": "Non-ferous ore",
+      "E": "Bauxite"
+    },
+    "correctAnswer": "E",
+    "explanation": "The principal commercial ore used for primary aluminum extraction is bauxite[cite: 25]."
+  },
+  {
+    "number": 20,
+    "question": "Aluminium alloys are used in the construction of:",
+    "options": {
+      "A": "Motor casings",
+      "B": "Bearing shells",
+      "C": "Internal combustion engine parts",
+      "D": "Valves and piping",
+      "E": "Condenser tubes"
+    },
+    "correctAnswer": "C",
+    "explanation": "Lightweight aluminum alloys are widely used for internal combustion engine components such as pistons and cylinder heads[cite: 25]."
+  },
+  {
+    "number": 21,
+    "question": "\"Coalescence\" is:",
+    "options": {
+      "A": "A term used in soldering",
+      "B": "A term used in brazing",
+      "C": "The same as fusion",
+      "D": "A type of coating used on a welding rod",
+      "E": "The mixing of gases in a cutting torch"
+    },
+    "correctAnswer": "C",
+    "explanation": "Coalescence refers to the growing together or fusion of metals into a single continuous piece during welding[cite: 26]."
+  },
+  {
+    "number": 22,
+    "question": "When braze welding, the filler rod is usually:",
+    "options": {
+      "A": "Alloy steel",
+      "B": "Antimony",
+      "C": "Bronze",
+      "D": "Aluminum",
+      "E": "Brass"
+    },
+    "correctAnswer": "C",
+    "explanation": "Bronze filler rods are standardly used in braze-welding applications due to their good wetting and strength characteristics[cite: 26]."
+  },
+  {
+    "number": 23,
+    "question": "During OFW, if a filler metal is used:",
+    "options": {
+      "A": "It is usually made of a mixture of tin and lead",
+      "B": "It is made from an alloy of copper and zinc",
+      "C": "It is made using high alloy stainless steel",
+      "D": "It is the same composition as the parent metal",
+      "E": "It is made of bronze"
+    },
+    "correctAnswer": "D",
+    "explanation": "In oxy-fuel gas welding (OFW) where fusion is desired, matching filler metal composition to the parent base metal is standard practice[cite: 26]."
+  },
+  {
+    "number": 24,
+    "question": "The weld that fuses the metal at the bottom of the butt joint is called:",
+    "options": {
+      "A": "Parent pass",
+      "B": "Cap pass",
+      "C": "Bottom pass",
+      "D": "Root pass",
+      "E": "Face pass"
+    },
+    "correctAnswer": "D",
+    "explanation": "The initial weld pass deposited at the base of a joint groove to achieve full root penetration is called the root pass[cite: 26]."
+  },
+  {
+    "number": 25,
+    "question": "Boiler tubes must be expanded into place because:",
+    "options": {
+      "A": "Expanded tubes provide a better seal than welded tubes",
+      "B": "Strength welds are too expensive to use on every joint",
+      "C": "Double V butt joints are too weak to use on boilers",
+      "D": "The seal welds are not designed for full internal pressure",
+      "E": "Tubes are too short to extend through the shell"
+    },
+    "correctAnswer": "D",
+    "explanation": "Tube rolling secures mechanical fit, while light seal welds provide leak tightness since full structural pressure loads are shared mechanically[cite: 26]."
+  },
+  {
+    "number": 26,
+    "question": "Solder connections are usually used on _____ pipe.",
+    "options": {
+      "A": "Steel",
+      "B": "Aluminum",
+      "C": "Cast iron",
+      "D": "Copper",
+      "E": "Stainless steel"
+    },
+    "correctAnswer": "D",
+    "explanation": "Capillary soft soldering is widely employed for joining copper plumbing and tubing systems[cite: 26]."
+  },
+  {
+    "number": 27,
+    "question": "The flue and repad around a manhole are:",
+    "options": {
+      "A": "Fillet welded",
+      "B": "V-Groove welded",
+      "C": "Not required in high pressure equipment",
+      "D": "Only required in steam boilers",
+      "E": "Forge welded"
+    },
+    "correctAnswer": "A",
+    "explanation": "Reinforcing pads (repads) and manhole flanges are attached to pressure vessels using structural fillet welds[cite: 26]."
+  },
+  {
+    "number": 28,
+    "question": "Tee joints and Lap joints are constructed using:",
+    "options": {
+      "A": "Backing welds",
+      "B": "Expansion mandrel",
+      "C": "Groove welds",
+      "D": "Butt welds",
+      "E": "Fillet welds"
+    },
+    "correctAnswer": "E",
+    "explanation": "Tee joints and overlapping plates are joined primarily using fillet welds[cite: 26]."
+  },
+  {
+    "number": 29,
+    "question": "To be certified to weld pressure equipment:",
+    "options": {
+      "A": "A welder performance test is required",
+      "B": "Test coupons must pass destructive tests",
+      "C": "Test welds must pass non destructive examination",
+      "D": "Welding must follow written, approved procedure",
+      "E": "All of these are required"
+    },
+    "correctAnswer": "E",
+    "explanation": "Pressure equipment welding certification mandates qualified procedures, performance qualification tests, and successful destructive/NDT coupon examinations[cite: 26]."
+  },
+  {
+    "number": 30,
+    "question": "When a filler rod and very hot flames are used in a welding process, the weld method is the:",
+    "options": {
+      "A": "Oxy-acetylene method",
+      "B": "Electric arc method",
+      "C": "Heli-arc welding",
+      "D": "Spot weld method",
+      "E": "Submerged arc welding"
+    },
+    "correctAnswer": "A",
+    "explanation": "Oxy-acetylene welding utilizes fuel gas combustion flames alongside a filler rod to melt and fuse metals[cite: 26]."
+  },
+  {
+    "number": 31,
+    "question": "If a welding electrode has the following identifying number \"E7015\", what does the \"70\" represent?",
+    "options": {
+      "A": "70 kPa",
+      "B": "70 000 psi",
+      "C": "70 psi",
+      "D": "700 psi",
+      "E": "70 000 kPa"
+    },
+    "correctAnswer": "B",
+    "explanation": "The first two digits of an AWS electrode classification (e.g., 70) indicate a minimum tensile strength of 70,000 psi[cite: 26]."
+  },
+  {
+    "number": 32,
+    "question": "Welded fin tube waterwall panels are an example of:",
+    "options": {
+      "A": "Casting welds",
+      "B": "Boundary seal welds",
+      "C": "Casing wleds",
+      "D": "Strength welds",
+      "E": "Porosity welds"
+    },
+    "correctAnswer": "D",
+    "explanation": "Fin tubes welded into boiler waterwall panels perform a structural load-bearing and heat-transfer function under pressure, classified as strength welds[cite: 26]."
+  },
+  {
+    "number": 33,
+    "question": "The most common form of weld preparation is:",
+    "options": {
+      "A": "U-groove",
+      "B": "Square Groove",
+      "C": "V-groove",
+      "D": "Bevel Groove",
+      "E": "Double U-Groove"
+    },
+    "correctAnswer": "C",
+    "explanation": "V-groove edge preparation is the most common joint design utilized for full-penetration butt welds on standard thickness plates[cite: 26]."
+  },
+  {
+    "number": 34,
+    "question": "The electrical power necessary for arc welding may be supplied by:\n1. Generators\n2. Transformers\n3. Rectifiers\n4. Pumps",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "1, 2, 4",
+      "C": "1, 2, 3, 4",
+      "D": "1, 3, 4",
+      "E": "1, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "Arc welding power sources include engine-driven generators, welding transformers, and rectifiers (items 1, 2, and 3)[cite: 26]."
+  },
+  {
+    "number": 35,
+    "question": "The item which keeps the weld from oxidizing, cooling too fast, and the bead smooth during submerged arc welding, is the:",
+    "options": {
+      "A": "Flux",
+      "B": "Steadiness of the welder's hand",
+      "C": "Arc temperature",
+      "D": "Rod composition",
+      "E": "Rod rate of feed"
+    },
+    "correctAnswer": "A",
+    "explanation": "In submerged arc welding, a blanket of fusible granular flux covers the arc, protecting the molten puddle from atmospheric oxidation and acting as an insulator[cite: 26]."
+  },
+  {
+    "number": 36,
+    "question": "A common method used to start the arc in submerged arc welding is with:",
+    "options": {
+      "A": "A piece of steel wool",
+      "B": "A striker similar to that used in oxy-acetylene",
+      "C": "An electric sparker",
+      "D": "A long wooden match",
+      "E": "An oil soaked torch"
+    },
+    "correctAnswer": "A",
+    "explanation": "Placing a small wad of steel wool between the wire electrode and the workpiece creates high resistance to initiate the arc under the flux blanket[cite: 26]."
+  },
+  {
+    "number": 37,
+    "question": "When brought into an oxygen rich atmosphere, steel will burn at:",
+    "options": {
+      "A": "670ºC",
+      "B": "358ºC",
+      "C": "507ºC",
+      "D": "870ºC",
+      "E": "1 213ºC"
+    },
+    "correctAnswer": "D",
+    "explanation": "Oxy-fuel cutting relies on preheating steel to its ignition temperature (approximately 870 °C) where it rapidly oxidizes and burns in pure oxygen[cite: 26]."
+  },
+  {
+    "number": 38,
+    "question": "The weld and the area around the weld that becomes red hot is called:",
+    "options": {
+      "A": "Heat treated zone",
+      "B": "Heat affected zone",
+      "C": "Weld affected zone",
+      "D": "Brittle metal zone",
+      "E": "Heat treatment zone"
+    },
+    "correctAnswer": "B",
+    "explanation": "The region of base metal whose microstructure and properties are altered by welding thermal cycles is known as the heat-affected zone (HAZ)[cite: 26]."
+  },
+  {
+    "number": 39,
+    "question": "Advantages of submerged arc welding include:\n1. A protective coating is required over the electrode\n2. The arc is not visible\n3. Weld seams are neat and uniform in appearance\n4. A skilled welder is not required to operate the machinery\n5. Very little gas or fumes rise from the weld",
+    "options": {
+      "A": "1, 3, 5",
+      "B": "1, 4, 5",
+      "C": "2, 3, 4",
+      "D": "2, 3, 5",
+      "E": "3, 4, 5"
+    },
+    "correctAnswer": "D",
+    "explanation": "Submerged arc welding provides an unexposed arc, clean uniform beads, and low fumes under the flux blanket (items 2, 3, and 5)[cite: 26]."
+  },
+  {
+    "number": 40,
+    "question": "Electric arc temperatures may be as high as:",
+    "options": {
+      "A": "7 450°C",
+      "B": "4 250°C",
+      "C": "8 300°C",
+      "D": "3 000°C",
+      "E": "5 325°C"
+    },
+    "correctAnswer": "B",
+    "explanation": "Welding electric arcs generate extreme localized heat reaching temperatures up to approximately 4,250 °C[cite: 26]."
+  },
+  {
+    "number": 41,
+    "question": "When acetylene is stored in a cylinder it is absorbed in:",
+    "options": {
+      "A": "Acetate",
+      "B": "Water",
+      "C": "Phosphate",
+      "D": "Acetone",
+      "E": "Chromate"
+    },
+    "correctAnswer": "D",
+    "explanation": "Dissolved acetylene cylinders are packed with a porous filler material saturated with liquid acetone to stabilize the gas under pressure[cite: 26]."
+  },
+  {
+    "number": 42,
+    "question": "When flame cutting, a blast of pure oxygen is directed into the heated metal to:",
+    "options": {
+      "A": "Burn away a portion of the metal",
+      "B": "Remove slag",
+      "C": "Blow molten metal out",
+      "D": "Cool the metal",
+      "E": "Produce slag"
+    },
+    "correctAnswer": "C",
+    "explanation": "The high-pressure cutting oxygen jet physically blows the oxidized molten metal out of the kerf to cleanly sever the plate[cite: 26]."
+  },
+  {
+    "number": 43,
+    "question": "A welding electrode stamped \"E6010\" would have a tensile strength of:",
+    "options": {
+      "A": "60 100 psi",
+      "B": "6 000 psi",
+      "C": "6 010 psi",
+      "D": "60 000 psi",
+      "E": "6 100 psi"
+    },
+    "correctAnswer": "D",
+    "explanation": "The prefix '60' in E6010 designates a minimum weld metal tensile strength of 60,000 psi[cite: 26]."
+  },
+  {
+    "number": 44,
+    "question": "A braze welding process:",
+    "options": {
+      "A": "Is used in the construction of low pressure heating boilers",
+      "B": "a form of fusion welding",
+      "C": "Requires two dissimilar materials",
+      "D": "Heats metal to a bright red colour",
+      "E": "Is done with a temperature above 870ºC"
+    },
+    "correctAnswer": "A",
+    "explanation": "Braze welding is permitted and utilized under specific construction codes for joining components in low-pressure heating boilers[cite: 26]."
+  },
+  {
+    "number": 45,
+    "question": "Acetylene should not be used at pressures above:",
+    "options": {
+      "A": "50 kPa",
+      "B": "25 kPa",
+      "C": "120 kPa",
+      "D": "100 kPa",
+      "E": "10 kPa"
+    },
+    "correctAnswer": "D",
+    "explanation": "Free acetylene becomes dangerously unstable and prone to explosive self-decomposition at pressures exceeding 100 kPa (15 psi)[cite: 26]."
+  },
+  {
+    "number": 46,
+    "question": "SAW Flux is:",
+    "options": {
+      "A": "A granular substance deposited on the weld",
+      "B": "A gas flame that is neither rich in oxygen or acetylene",
+      "C": "The unspecified pieces of scrap metal added to a weld to speed up the process",
+      "D": "A grouping of gas pockets together in a weld",
+      "E": "The metal added as filler to a weld area"
+    },
+    "correctAnswer": "A",
+    "explanation": "Submerged arc welding flux is supplied as a fusible granular material poured onto the weld zone[cite: 26]."
+  },
+  {
+    "number": 47,
+    "question": "PWHT is done by holding the temperature at 595 degrees:",
+    "options": {
+      "A": "By increasing temperature 25 degrees per hour until 595 degrees",
+      "B": "1 hour",
+      "C": "1 hour for every 25mm thickness",
+      "D": "And then lowering to 230 degrees, and then 80 degrees",
+      "E": "25 minutes for every mm of thickness"
+    },
+    "correctAnswer": "C",
+    "explanation": "Standard post-weld heat treatment (PWHT) holding time is typically calculated at one hour per 25 mm (1 inch) of weld thickness[cite: 26]."
+  },
+  {
+    "number": 48,
+    "question": "With reverse polarity:",
+    "options": {
+      "A": "DC power is supplied to the electrode",
+      "B": "AC or DC power may be supplied to the electrode",
+      "C": "The welding electrode is connected to the negative terminal",
+      "D": "AC power is supplied to the electrode",
+      "E": "The welding electrode is connected to the positive terminal"
+    },
+    "correctAnswer": "E",
+    "explanation": "Direct current electrode positive (DCEP), commonly called reverse polarity, connects the electrode holder to the positive terminal[cite: 26]."
+  },
+  {
+    "number": 49,
+    "question": "Which of the following is the colour for an acetylene hose?",
+    "options": {
+      "A": "Green",
+      "B": "White",
+      "C": "Yellow",
+      "D": "Red",
+      "E": "Black"
+    },
+    "correctAnswer": "D",
+    "explanation": "Standard industrial color coding designates red hoses for fuel gases like acetylene and green hoses for oxygen[cite: 26]."
+  },
+  {
+    "number": 50,
+    "question": "When attaching tubes to Shell, the tube is secured with:",
+    "options": {
+      "A": "Groove welds",
+      "B": "Forged welds",
+      "C": "Plastic welds",
+      "D": "Zone weld",
+      "E": "None of these answers is correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "Tubes are typically secured to shell tube sheets via mechanical expansion (rolling) and optional seal or strength welding, rather than standard groove or forged joints[cite: 26]."
+  },
+  {
+    "number": 51,
+    "question": "Liquid penetrant testing is chosen to:",
+    "options": {
+      "A": "Highlight surface indication",
+      "B": "Highlight interior indications",
+      "C": "Determine thickness of parent material",
+      "D": "Identify porosity",
+      "E": "Find cracks in cast iron"
+    },
+    "correctAnswer": "A",
+    "explanation": "Liquid penetrant testing is a non-destructive method specifically designed to reveal open-to-surface flaws and discontinuities[cite: 27]."
+  },
+  {
+    "number": 52,
+    "question": "An example of Non-destructive testing of a weld:",
+    "options": {
+      "A": "Thermal shocking a vessel to the point of fracture",
+      "B": "Subjecting the weld to a radiographic inspection",
+      "C": "Testing the weld by means of chemical analysis",
+      "D": "Mechanical testing of a sample or small portion of a weld",
+      "E": "Raising the hydrostatic pressure on a vessel to the point of rupture"
+    },
+    "correctAnswer": "B",
+    "explanation": "Radiographic inspection evaluates internal weld integrity without damaging or destroying the component[cite: 27]."
+  },
+  {
+    "number": 53,
+    "question": "To determine if an indication is acceptable or not:",
+    "options": {
+      "A": "The plant manager decides if the indication is a problem",
+      "B": "It is compared to a standard",
+      "C": "The inspector will check with the government",
+      "D": "All indications are not acceptable",
+      "E": "Inspectors must do destructive testing"
+    },
+    "correctAnswer": "B",
+    "explanation": "Discontinuity indications found during NDT are evaluated by comparing their size and type against established code acceptance standards[cite: 27]."
+  },
+  {
+    "number": 54,
+    "question": "A gas pocket caused by gas or moisture trapped in a weld is called:",
+    "options": {
+      "A": "A crater",
+      "B": "A blowhole",
+      "C": "Spatter",
+      "D": "Coalescence",
+      "E": "A box"
+    },
+    "correctAnswer": "B",
+    "explanation": "Trapped gas or moisture forms a cavity or large void in the weld bead known as a blowhole[cite: 27]."
+  },
+  {
+    "number": 55,
+    "question": "Slag inclusion results from:",
+    "options": {
+      "A": "Creation of a gas pocket due to trapped gases",
+      "B": "Stresses built up after the weld process",
+      "C": "Adding pieces of rod or metal as filler to the weld",
+      "D": "Solid non-metallic materials being trapped in the weld",
+      "E": "Metal particles being sprayed out during the weld process"
+    },
+    "correctAnswer": "D",
+    "explanation": "Slag inclusions occur when non-metallic flux residues fail to float to the surface and become trapped inside the solidifying weld metal[cite: 27]."
+  },
+  {
+    "number": 56,
+    "question": "Gas bubbles trapped within a weld is commonly called:",
+    "options": {
+      "A": "Porosity",
+      "B": "Flux",
+      "C": "Slugging",
+      "D": "Spatter",
+      "E": "Fusion"
+    },
+    "correctAnswer": "A",
+    "explanation": "Porosity refers to clusters of tiny gas cavities or bubbles trapped within the weld matrix[cite: 27]."
+  },
+  {
+    "number": 57,
+    "question": "Rules for uses of radiographic and ultrasonic inspection are covered in the:",
+    "options": {
+      "A": "Power Boiler Code Section I",
+      "B": "ASME Section IX Welding and Brazing Qualifications",
+      "C": "ASME Section II Materials Specification",
+      "D": "Canadian Standards B-51",
+      "E": "Rules for Care and Operation of Power Boilers Code"
+    },
+    "correctAnswer": "A",
+    "explanation": "Mandatory requirements and guidelines governing NDT examination methods for power boilers are outlined in ASME Section I[cite: 27]."
+  },
+  {
+    "number": 58,
+    "question": "The basic difference between fluorescent penetrant and dye penetrant is that dye penetrant:",
+    "options": {
+      "A": "Involves the use of a developer compound",
+      "B": "Uses less compounds than fluorescent",
+      "C": "Requires a \"black\" light to detect cracks",
+      "D": "Makes valuable use of penetrameters",
+      "E": "Cannot be reliable in locating porosity in a weld"
+    },
+    "correctAnswer": "B",
+    "explanation": "Standard visible dye penetrant inspection utilizes simplified color-contrast liquid applications compared to specialized fluorescent setups requiring darkrooms and UV light[cite: 27]."
+  },
+  {
+    "number": 59,
+    "question": "An ultraviolet light weld inspections uses the _____ testing method.",
+    "options": {
+      "A": "Fluorescent penetrant",
+      "B": "Ultrasonic",
+      "C": "Destructive",
+      "D": "Radiographic",
+      "E": "Dye penetrant"
+    },
+    "correctAnswer": "A",
+    "explanation": "Fluorescent penetrant inspection methods use ultraviolet (black) light to make penetrant trapped in surface cracks glow[cite: 27]."
+  },
+  {
+    "number": 60,
+    "question": "Ultrasonic inspection involves the use of:",
+    "options": {
+      "A": "Gamma rays",
+      "B": "Radiographic penetrameters",
+      "C": "Short wavelength radiation",
+      "D": "High frequency vibrations",
+      "E": "Fluorescent penetrant dye"
+    },
+    "correctAnswer": "D",
+    "explanation": "Ultrasonic testing relies on transmitting high-frequency sound wave vibrations through materials to detect internal flaws[cite: 27]."
+  },
+  {
+    "number": 61,
+    "question": "A method of testing a weld that is quick, easy and inexpensive is the _____ method.",
+    "options": {
+      "A": "Ultrasonic",
+      "B": "Visual",
+      "C": "Radiographic",
+      "D": "Dye penetrant",
+      "E": "Fluorescent penetrant"
+    },
+    "correctAnswer": "B",
+    "explanation": "Visual inspection is the most immediate, cost-effective, and primary method used for evaluating welds at all production stages[cite: 27]."
+  },
+  {
+    "number": 62,
+    "question": "When penetrameters are used for testing welds, the method being used is:",
+    "options": {
+      "A": "Fluorescent penetrant",
+      "B": "Ultrasonic",
+      "C": "Dye penetrant",
+      "D": "Radiographic",
+      "E": "Visual"
+    },
+    "correctAnswer": "D",
+    "explanation": "Penetrameters (image quality indicators) are standard calibration devices placed alongside welds during radiographic testing[cite: 27]."
+  },
+  {
+    "number": 63,
+    "question": "When using radiographic inspections, defects such as cracks and porosity show up as:",
+    "options": {
+      "A": "Lighter shadows on the penetrameter",
+      "B": "Wave signals on a small screen",
+      "C": "Lighter shadows on the photographic paper",
+      "D": "Darker shadows on the photographic paper",
+      "E": "Darker shadows on the penetrameter"
+    },
+    "correctAnswer": "D",
+    "explanation": "Areas of reduced material thickness or voids allow more radiation to pass, appearing as darker shadows or images on radiographic film[cite: 27]."
+  },
+  {
+    "number": 64,
+    "question": "The best method of weld inspection at all stages of production is:",
+    "options": {
+      "A": "Visual",
+      "B": "Dye penetrant",
+      "C": "Ultrasonic",
+      "D": "Radiographic",
+      "E": "Fluorescent penetrant"
+    },
+    "correctAnswer": "A",
+    "explanation": "Continuous visual inspection provides immediate feedback throughout fit-up, root pass, and final cap execution[cite: 27]."
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Cooling ponds are used to control:",
+    "options": {
+      "A": "Effluent PH",
+      "B": "Thermal pollution",
+      "C": "Entrained fine particulate",
+      "D": "Dissolved toxic gases",
+      "E": "Grease and oil"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 2,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "An effluent is:",
+    "options": {
+      "A": "Smog",
+      "B": "A substance that flows out of a process",
+      "C": "Caused by over production of flue gas",
+      "D": "The result of a weather inversion",
+      "E": "Always a pollutant"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 3,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Liquid pollutants emitted from power plants include:\n1. Water at elevated temperatures\n2. Waste water from flue gas scrubbing\n3. Waste water from water treatment processes\n4. Waste water from ash handling operations",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "2, 4",
+      "C": "2, 3, 4",
+      "D": "1, 4",
+      "E": "1, 2, 3, 4"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 4,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Hazardous material is not a problem unless:",
+    "options": {
+      "A": "A loss of product is experienced",
+      "B": "It is present in the environment",
+      "C": "It is present in the ecosystem",
+      "D": "It is noticed by operating personnel",
+      "E": "A loss of control is experienced"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 5,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Solid pollutants such as flyash are produced when burning:\n1. Natural gas\n2. Municipal Solid Waste\n3. Wood\n4. Coal",
+    "options": {
+      "A": "1, 4",
+      "B": "3, 4",
+      "C": "1, 2, 3, 4",
+      "D": "1, 2, 3",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 6,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Water that exists in the soil and rock formation is known as:",
+    "options": {
+      "A": "Tap water",
+      "B": "Soil water",
+      "C": "Surface water",
+      "D": "Contaminated water",
+      "E": "Ground water"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 7,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Hazardous liquids should be handled according to information supplied on:",
+    "options": {
+      "A": "Progress reports",
+      "B": "Occupational Health and Safety Regulations",
+      "C": "Plant operation manuals",
+      "D": "Material Safety Data Sheets",
+      "E": "General safety reports"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 8,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Settling ponds are used to remove:",
+    "options": {
+      "A": "Suspended particulate matter",
+      "B": "Dissolved gases",
+      "C": "Floating pollutants",
+      "D": "Emulsions",
+      "E": "Very fine colloidal particles"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 9,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Using centrifuges to treat liquid waste is a:",
+    "options": {
+      "A": "Physical treatment",
+      "B": "Chemical treatment",
+      "C": "Biological treatment",
+      "D": "Thermal treatment",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 10,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Most Flue Gas Desufurization byproducts are disposed of by:",
+    "options": {
+      "A": "Used by the landscaping industry",
+      "B": "Diverted to waste disposal",
+      "C": "Used by construction industry",
+      "D": "Used to build roads",
+      "E": "Used to produce sulfuric acid"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 11,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Solid pollutants emitted from coal power plants are:\n1. Slag\n2. Soot\n3. Flyash\n4. Carbon monoxide\n5. Sulphur dioxide\n6. Sulphuric acid",
+    "options": {
+      "A": "1, 2, 3, 6",
+      "B": "2, 4, 5",
+      "C": "2, 3, 6",
+      "D": "1, 2, 3",
+      "E": "1, 2, 3, 4, 5, 6"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 12,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Thermally separated layers in lakes are called:",
+    "options": {
+      "A": "Temperature layers",
+      "B": "Inclines",
+      "C": "Thermoclines",
+      "D": "Anticlines",
+      "E": "Temperature gradients"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 13,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Coagulants are substances used to:",
+    "options": {
+      "A": "Remove grease from water",
+      "B": "Remove small particles from water",
+      "C": "Remove dissolved solids from water",
+      "D": "Remove phosphate and nitrates from water",
+      "E": "Control the pH of effluent water"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 14,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Flyash is removed from bag filters by a system of:",
+    "options": {
+      "A": "Shakers",
+      "B": "Electrostatic precipitators",
+      "C": "Rollers",
+      "D": "Hammers",
+      "E": "Rappers"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 15,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "In an electrostatic precipitator, the:",
+    "options": {
+      "A": "Discharge electrode is positively charged",
+      "B": "Discharge electrode and the particles are positively charged",
+      "C": "Collector electrode is negatively charged",
+      "D": "Particles are positively charged",
+      "E": "Discharge electrode is negatively charged"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 16,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "The best way to destroy many organic materials is to:",
+    "options": {
+      "A": "Incinerate them at high temperature",
+      "B": "Put them in a landfill",
+      "C": "Encase them and bury then at sea",
+      "D": "Inject them down deep wells",
+      "E": "Encase them and bury them underground"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 17,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "The ability of water to dissolve oxygen:",
+    "options": {
+      "A": "Increases with the increase in water temperature",
+      "B": "Decreases with the decrease in water temperature",
+      "C": "Decreases with the increase in water temperature",
+      "D": "Does not change with temperature",
+      "E": "None of these are correct"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 18,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Mechanical centrifugal collectors are not suitable for the collection of:",
+    "options": {
+      "A": "Very fine particles",
+      "B": "Coarse particles",
+      "C": "Heavy particles",
+      "D": "Very coarse particles",
+      "E": "Rough particles"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 19,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Floatation Grease traps separate grease from water use the principle of:",
+    "options": {
+      "A": "Rotation filter cylinder",
+      "B": "Centrifugal separation",
+      "C": "Vacuum filters",
+      "D": "Settling pond",
+      "E": "Different density"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 20,
+    "heading": "Plant Waste Management and Pollution Control",
+    "question": "Mechanical centrifugal collectors remove particulates by means of:",
+    "options": {
+      "A": "Gravitational force",
+      "B": "Abrupt change in direction",
+      "C": "Impingement on Barriers",
+      "D": "Centrifugal force",
+      "E": "All these answers are correct"
+    },
+    "correctAnswer": "D"
+  }
+]

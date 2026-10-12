@@ -1,0 +1,782 @@
+[
+  {
+    "number": 1,
+    "question": "The advantage of a rising spindle steam stop valve is that:\n1. You can tell from a distance if the valve is open or closed\n2. It provides a place to install isolation tags\n3. It may be easily lubricated\n4. The threaded part is not exposed to corrosion by the high temperature steam",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "3, 4",
+      "C": "1, 2, 4",
+      "D": "1, 2, 3",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "A rising spindle valve provides visual position indication from a distance and keeps its threads isolated from internal process steam corrosion[cite: 28]."
+  },
+  {
+    "number": 2,
+    "question": "\"Valve trim\" consists of the following parts:\n1. Stuffing box\n2. Disc\n3. Seat ring\n4. Bonnet\n5. Valve stem\n6. Body\n7. Guide bushings",
+    "options": {
+      "A": "2, 3, 4, 5",
+      "B": "1, 2, 6, 7",
+      "C": "3, 4, 5, 6",
+      "D": "1, 2, 4, 6",
+      "E": "2, 3, 5, 7"
+    },
+    "correctAnswer": "E",
+    "explanation": "Valve trim generally comprises the internal wetted parts subject to fluid flow wear, including the disc, seat ring, stem, and guide bushings[cite: 28]."
+  },
+  {
+    "number": 3,
+    "question": "A valve having minimum wire drawing and seat erosion is the:",
+    "options": {
+      "A": "Gate valve",
+      "B": "Hand valve",
+      "C": "Wedge gate valve",
+      "D": "Globe valve",
+      "E": "Plug valve"
+    },
+    "correctAnswer": "D",
+    "explanation": "Globe valves are designed with plug-and-seat contours that minimize wire drawing and seat erosion during throttling service[cite: 28]."
+  },
+  {
+    "number": 4,
+    "question": "A gate valve:\n1. Has less restriction in a line than a globe valve\n2. Should be operated either fully open or fully closed\n3. Is used to throttle flow\n4. Is used for different applications than a globe valve",
+    "options": {
+      "A": "1, 2, 3, 4",
+      "B": "2, 4",
+      "C": "1, 3, 4",
+      "D": "1, 2, 4",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "D",
+    "explanation": "Gate valves provide straight-through flow with low pressure drop and are intended for fully open or fully closed service rather than throttling[cite: 28]."
+  },
+  {
+    "number": 5,
+    "question": "A check valve is a valve that:",
+    "options": {
+      "A": "Prevents reversal of flow",
+      "B": "Allows flow in two directions",
+      "C": "Has a locking spindle",
+      "D": "Allows flow at regular intervals",
+      "E": "Does not allow any flow at all"
+    },
+    "correctAnswer": "A",
+    "explanation": "Check valves operate automatically to permit flow in one direction while preventing backflow[cite: 28]."
+  },
+  {
+    "number": 6,
+    "question": "Increasing the spring tension of a pressure regulating valve will:",
+    "options": {
+      "A": "Close the valve tight",
+      "B": "Increase the regulated pressure downstream of the valve",
+      "C": "Reduce or minimize the cycling or \"hunting\" of the valve",
+      "D": "Cause the valve to go to the wide, open position",
+      "E": "Decrease the regulated pressure downstream of the valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "Tightening the adjustment spring increases the opposing force, resulting in a higher downstream set pressure[cite: 28]."
+  },
+  {
+    "number": 7,
+    "question": "A valve that often contains a dashpot to cushion the action of the valve is the:",
+    "options": {
+      "A": "Needle valve",
+      "B": "Swing check valve",
+      "C": "Pressure regulating valve",
+      "D": "Lift check valve",
+      "E": "Safety valve"
+    },
+    "correctAnswer": "D",
+    "explanation": "Lift check valves are frequently equipped with dashpots to dampen disc movement and prevent violent chattering[cite: 28]."
+  },
+  {
+    "number": 8,
+    "question": "Pressure and/or temperature rating of a valve is known as:",
+    "options": {
+      "A": "Material designation",
+      "B": "Manufacturer's trade mark",
+      "C": "Work requirement",
+      "D": "Thermal designation",
+      "E": "Service designation"
+    },
+    "correctAnswer": "E",
+    "explanation": "The service designation specifies the maximum pressure and temperature limits under which a valve may operate[cite: 28]."
+  },
+  {
+    "number": 9,
+    "question": "A globe valve:\n1. Has more restriction in a line than a gate valve\n2. Should be operated either fully open or fully closed\n3. Is used to throttle flow\n4. Is used for different applications than a gate valve",
+    "options": {
+      "A": "2, 4",
+      "B": "2, 3, 4",
+      "C": "1, 3, 4",
+      "D": "1, 2, 4",
+      "E": "1, 2, 3, 4"
+    },
+    "correctAnswer": "B",
+    "explanation": "Globe valves create higher fluid flow restriction than gate valves and are well-suited for flow throttling applications[cite: 28]."
+  },
+  {
+    "number": 10,
+    "question": "Relative to valves, a frequent cause of serious accidents is due to:",
+    "options": {
+      "A": "Wrong materials of construction",
+      "B": "Inadequate operational training",
+      "C": "A lack of valve maintenance",
+      "D": "Valves being of the wrong size",
+      "E": "Manufacturing defects"
+    },
+    "correctAnswer": "C",
+    "explanation": "Neglected maintenance on high-pressure valves frequently leads to catastrophic failures and serious plant accidents[cite: 28]."
+  },
+  {
+    "number": 11,
+    "question": "Material designation of a valve:",
+    "options": {
+      "A": "Is not required for low pressure steam service",
+      "B": "Tells what the material is suited for",
+      "C": "Tells what material makes up the valve",
+      "D": "Gives where the material is used",
+      "E": "Gives the temperature to which the valve can be subjected"
+    },
+    "correctAnswer": "C",
+    "explanation": "The material designation explicitly identifies the alloy or substance used to manufacture the valve body and components[cite: 28]."
+  },
+  {
+    "number": 12,
+    "question": "The purpose of the non-return valve is to:",
+    "options": {
+      "A": "Prevent water form entering the steam header",
+      "B": "Drain condensate from the main steam header",
+      "C": "Regulate the flow of steam from the boiler",
+      "D": "Prevent the back flow of steam",
+      "E": "Prevent the safety valve from popping"
+    },
+    "correctAnswer": "D",
+    "explanation": "Non-return valves act as automatic stop-check valves to prevent steam from flowing backward into a deactivated boiler[cite: 28]."
+  },
+  {
+    "number": 13,
+    "question": "The valve selected when precise flow control is required:",
+    "options": {
+      "A": "Gate valve",
+      "B": "Check valve",
+      "C": "Ball valve",
+      "D": "Non-return valve",
+      "E": "Needle valve"
+    },
+    "correctAnswer": "E",
+    "explanation": "Needle valves feature a long, tapered point that allows extremely fine and precise regulation of fluid flow rates[cite: 28]."
+  },
+  {
+    "number": 14,
+    "question": "In order to insure safe and continuous operation of a pressure, reducing valve, the valve station should have:",
+    "options": {
+      "A": "A \"Y\" strainer immediately after the valve",
+      "B": "A bypass loop, downstream safety valve and downstream pressure gauge",
+      "C": "A safety valve on the downstream side",
+      "D": "A metal rather than composite diaphragm",
+      "E": "The piping should be at least Schedule 80"
+    },
+    "correctAnswer": "B",
+    "explanation": "A complete pressure reducing station includes a bypass line for maintenance, a downstream pressure relief device, and local pressure monitoring gauges[cite: 28]."
+  },
+  {
+    "number": 15,
+    "question": "Valves must be identified with 3 items: Material designation, service designation and:",
+    "options": {
+      "A": "Pressure designation",
+      "B": "Temperature designation",
+      "C": "Weight designation",
+      "D": "Manufacturers name or trademark",
+      "E": "Color code"
+    },
+    "correctAnswer": "D",
+    "explanation": "Standard code requirements mandate that industrial valves display material designation, service rating, and the manufacturer's trademark[cite: 28]."
+  },
+  {
+    "number": 16,
+    "question": "Butterfly valves have several advantages such as they:\n1. Only require ¼ turn to open or close\n2. Are self cleaning\n3. Provide negligible pressure drop when fully open\n4. Can have the disc lubricated while in operation\n5. Are self adjusting so alignment is not required during installation",
+    "options": {
+      "A": "3, 4, 5",
+      "B": "1, 2, 3",
+      "C": "1, 3",
+      "D": "1, 2, 5",
+      "E": "2, 4"
+    },
+    "correctAnswer": "C",
+    "explanation": "Butterfly valves offer quick quarter-turn operation and minimal flow restriction when fully open[cite: 28]."
+  },
+  {
+    "number": 17,
+    "question": "Valve packing, depending on service, may be made from:\n1. Teflon\n2. Manila\n3. Teflon coated yarns\n4. Halon\n5. Semi-metallic material",
+    "options": {
+      "A": "3, 4, 5",
+      "B": "2, 3, 4",
+      "C": "1, 3, 5",
+      "D": "1, 2, 5",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "C",
+    "explanation": "Stuffing box packing for valves utilizes resilient, temperature-resistant materials like pure Teflon, coated yarns, and semi-metallic compounds[cite: 28]."
+  },
+  {
+    "number": 18,
+    "question": "The bypass around a regulating valve should contain a:",
+    "options": {
+      "A": "Rising stem globe valve",
+      "B": "Swing check valve",
+      "C": "Rising stem gate valve",
+      "D": "Lift type check valve",
+      "E": "Non-rising stem gate valve"
+    },
+    "correctAnswer": "A",
+    "explanation": "A rising stem globe valve is used on a regulator bypass loop to allow safe, controlled manual throttling during maintenance[cite: 28]."
+  },
+  {
+    "number": 19,
+    "question": "When two or more boilers are connected to a common header, they must have:",
+    "options": {
+      "A": "A stop valve and globe valve with a drain between them",
+      "B": "Check valves and pressure reducing station",
+      "C": "Two stop valves and a drain between",
+      "D": "Non-return valve and steam control valve",
+      "E": "Non-return valve on each boiler only"
+    },
+    "correctAnswer": "C",
+    "explanation": "Boiler safety regulations require two stop valves with an open-blow drain between them when isolating boilers from a common steam header[cite: 28]."
+  },
+  {
+    "number": 20,
+    "question": "Service designation of a valve indicates the:",
+    "options": {
+      "A": "Maximum velocity of the fluid",
+      "B": "Temperature-pressure rating of the valve",
+      "C": "Maximum pipe fluid flow velocity",
+      "D": "Type of gas used in the valve",
+      "E": "Type of liquid used in the valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "The service designation specifies the working pressure-temperature ratings authorized for the valve[cite: 28]."
+  },
+  {
+    "number": 21,
+    "question": "Since cast iron has a high resistance to corrosion and abrasion, it is used for:",
+    "options": {
+      "A": "Condensate lines",
+      "B": "Blow off piping",
+      "C": "High pressure service",
+      "D": "Ash handling systems",
+      "E": "Underground steam lines"
+    },
+    "correctAnswer": "D",
+    "explanation": "Cast iron's resistance to abrasive wear makes it suitable for ash handling pipeline systems[cite: 29]."
+  },
+  {
+    "number": 22,
+    "question": "Pipe nipples are _____ on both ends.",
+    "options": {
+      "A": "Heat treated",
+      "B": "Threaded",
+      "C": "Flanged",
+      "D": "Welded",
+      "E": "Closed"
+    },
+    "correctAnswer": "B",
+    "explanation": "Pipe nipples are short lengths of pipe that feature external threads on both ends[cite: 29]."
+  },
+  {
+    "number": 23,
+    "question": "A newer method used to designate pipe wall thickness is by:",
+    "options": {
+      "A": "Using schedule numbers",
+      "B": "Using a pipe gauge",
+      "C": "Measuring the thickness with calipers",
+      "D": "Using a comparator gauge",
+      "E": "Using a pipe graph comparator chart"
+    },
+    "correctAnswer": "A",
+    "explanation": "Standardized schedule numbers (such as Sch. 40 or Sch. 80) are used to designate pipe wall thickness relative to internal pressure[cite: 29]."
+  },
+  {
+    "number": 24,
+    "question": "As a piping and pipe fitting material, cast steel is used:",
+    "options": {
+      "A": "Primarily for special applications",
+      "B": "For construction of welded pipe",
+      "C": "Mainly for instrumentation and control piping",
+      "D": "Steam traps",
+      "E": "Extensively for fittings"
+    },
+    "correctAnswer": "E",
+    "explanation": "Cast steel materials are widely utilized in industrial systems for manufacturing robust pipe fittings[cite: 29]."
+  },
+  {
+    "number": 25,
+    "question": "Gaskets are used in pipe flange joints to:",
+    "options": {
+      "A": "Make up for misalignment of the pipe",
+      "B": "Prevent air ingress in high, pressure steam mains",
+      "C": "Prevent leakage because of small imperfections in the flange face",
+      "D": "Allow for pipe expansion between each flange joint",
+      "E": "Provide cushioning in the event of water hammer"
+    },
+    "correctAnswer": "C",
+    "explanation": "Compressible gaskets deform to fill microscopic surface imperfections between mating flange faces, preventing fluid leakage[cite: 29]."
+  },
+  {
+    "number": 26,
+    "question": "When tightening pipe flange bolts:",
+    "options": {
+      "A": "The gasket should be held in place by gasket glue",
+      "B": "Tighten them in sequence",
+      "C": "Tighten every second bolt first, then tighten the others",
+      "D": "The top bolts must be tightened first",
+      "E": "Use a cross over method or crisscross method of tightening"
+    },
+    "correctAnswer": "E",
+    "explanation": "Flange bolts must be tightened using a crisscross (diametrically opposite) pattern to ensure uniform gasket compression[cite: 29]."
+  },
+  {
+    "number": 27,
+    "question": "A mechanical steam trap:",
+    "options": {
+      "A": "Has a very low pressure range of operation",
+      "B": "May have a thermostatic air release",
+      "C": "Can be fitted in any position",
+      "D": "Has alcohol inside the float",
+      "E": "Should be fitted to the safety valve drain"
+    },
+    "correctAnswer": "B",
+    "explanation": "Mechanical float traps often include an integrated thermostatic air vent to purge non-condensable gases upon startup[cite: 29]."
+  },
+  {
+    "number": 28,
+    "question": "The three general types of flange connections are the screwed, the Van Stone and the _____ type.",
+    "options": {
+      "A": "Brazed",
+      "B": "Bolted",
+      "C": "Soldered",
+      "D": "Threaded",
+      "E": "Welded"
+    },
+    "correctAnswer": "E",
+    "explanation": "Standard flange joint attachment methods include screwed, Van Stone (lap joint), and welded designs[cite: 29]."
+  },
+  {
+    "number": 29,
+    "question": "Fittings used to connect a straight run of same size piping are:",
+    "options": {
+      "A": "Return bends",
+      "B": "Elbows",
+      "C": "Nipples",
+      "D": "Bushings",
+      "E": "Couplings"
+    },
+    "correctAnswer": "E",
+    "explanation": "Couplings are short internal pipe fittings used to connect two straight sections of matching pipe size[cite: 29]."
+  },
+  {
+    "number": 30,
+    "question": "The purpose of steam traps is to remove condensate and ____ from steam lines.",
+    "options": {
+      "A": "Oil",
+      "B": "Air",
+      "C": "Sludge",
+      "D": "Water",
+      "E": "Chemicals"
+    },
+    "correctAnswer": "B",
+    "explanation": "Steam traps function to automatically discharge accumulated condensate and entrained air from steam distribution lines[cite: 29]."
+  },
+  {
+    "number": 31,
+    "question": "Two main categories of steel piping manufactured are the:",
+    "options": {
+      "A": "Seamless or welded type",
+      "B": "Single or double walled",
+      "C": "Ferrous or copper type",
+      "D": "Plastic or steel type",
+      "E": "Thick or thin type"
+    },
+    "correctAnswer": "A",
+    "explanation": "Steel pipes are produced primarily in two structural categories: seamless or welded[cite: 29]."
+  },
+  {
+    "number": 32,
+    "question": "Standard commercial pipe nominal size is:",
+    "options": {
+      "A": "Equal to nominal inside pipe diameter",
+      "B": "Equal to nominal outside diameter up to 254 mm",
+      "C": "Equal to a nominal inside diameter up to DN 300",
+      "D": "Is no longer manufactured",
+      "E": "Equal to nominal outside pipe diameter"
+    },
+    "correctAnswer": "C",
+    "explanation": "Nominal pipe size closely approximates the internal diameter for pipe sizes up to DN 300 (12 inches)[cite: 29]."
+  },
+  {
+    "number": 33,
+    "question": "If a trap is defective, it will discharge:",
+    "options": {
+      "A": "Only steam",
+      "B": "Intermittent steam and condensate",
+      "C": "Hot condensate",
+      "D": "Air, condensate, some steam",
+      "E": "All of the answers are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "Depending on the failure mode, a defective steam trap can blow live steam, leak condensate, or become entirely plugged[cite: 29]."
+  },
+  {
+    "number": 34,
+    "question": "A slip type expansion joint:\n1. Is stronger than a bellows type\n2. Is actually a pipe within a pipe\n3. Can have packing added in service\n4. Has a lubrication fitting\n5. Is usually flame fitted to the pipe",
+    "options": {
+      "A": "1, 2, 5",
+      "B": "1, 3, 4, 5",
+      "C": "1, 2, 3, 4, 5",
+      "D": "2, 3, 5",
+      "E": "1, 2, 3, 4"
+    },
+    "correctAnswer": "E",
+    "explanation": "Slip expansion joints feature telescoping sleeve construction, packing glands that can be repacked under pressure, and lubrication provisions (items 1, 2, 3, and 4)[cite: 29]."
+  },
+  {
+    "number": 35,
+    "question": "Relative to pipe and fittings, an anchor chair is used to:",
+    "options": {
+      "A": "Support pipe",
+      "B": "Allow for expansion and contraction of pipe",
+      "C": "Install piping at considerable height",
+      "D": "Hold a large fitting in a piping run",
+      "E": "Anchor a slip type expansion joint"
+    },
+    "correctAnswer": "D",
+    "explanation": "Anchor chairs are structural support fittings designed to secure heavy inline equipment or large fittings rigidly in place[cite: 29]."
+  },
+  {
+    "number": 36,
+    "question": "A gray cast iron fitting is identified by:",
+    "options": {
+      "A": "The letters G.C.I.F.",
+      "B": "The letters G.C.I.",
+      "C": "Not being marked on the fittings",
+      "D": "The letters C.I.",
+      "E": "The letters G.C."
+    },
+    "correctAnswer": "D",
+    "explanation": "Gray cast iron fittings are standardly marked with the abbreviation 'C.I.'[cite: 29]."
+  },
+  {
+    "number": 37,
+    "question": "Steam traps should be installed below the _____ point in the system.",
+    "options": {
+      "A": "Lowest",
+      "B": "Last",
+      "C": "Hottest",
+      "D": "Highest",
+      "E": "Coldest"
+    },
+    "correctAnswer": "A",
+    "explanation": "Because condensate drains downward via gravity, steam traps must be located below the lowest drainage point of the system[cite: 29]."
+  },
+  {
+    "number": 38,
+    "question": "All classes of pipe of a given size have the same:",
+    "options": {
+      "A": "Outside diameter",
+      "B": "Mass per metre of length",
+      "C": "Length",
+      "D": "Inside diameter",
+      "E": "Expansion coefficient"
+    },
+    "correctAnswer": "A",
+    "explanation": "All schedule thicknesses of a given nominal pipe size share the exact same outside diameter to ensure standard threading and fitting compatibility[cite: 29]."
+  },
+  {
+    "number": 39,
+    "question": "The most frequently used material for piping is:",
+    "options": {
+      "A": "Pig iron",
+      "B": "Cast iron",
+      "C": "Nonferrous",
+      "D": "Plastic",
+      "E": "Steel"
+    },
+    "correctAnswer": "E",
+    "explanation": "Carbon steel is the most common and versatile material used for industrial piping systems[cite: 29]."
+  },
+  {
+    "number": 40,
+    "question": "In order to convey fluid from one storage tank to another:",
+    "options": {
+      "A": "Valves are required",
+      "B": "Valves are required",
+      "C": "Piping is required",
+      "D": "Pumps are necessary",
+      "E": "Drains are required"
+    },
+    "correctAnswer": "C",
+    "explanation": "Piping networks provide the physical pathway required to convey fluids between storage tanks[cite: 29]."
+  },
+  {
+    "number": 41,
+    "question": "Commercial pipe is made in standard sizes each having several different:\n1. Weights\n2. Colors\n3. Thicknesses\n4. Shapes\n5. Threads",
+    "options": {
+      "A": "4, 5",
+      "B": "2, 3, 5",
+      "C": "1, 5",
+      "D": "1, 3",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "D",
+    "explanation": "Standard commercial pipe sizes are manufactured in multiple wall thicknesses and corresponding weights (schedules)[cite: 29]."
+  },
+  {
+    "number": 42,
+    "question": "A disadvantage of using threads to join pipes and fittings is that it:",
+    "options": {
+      "A": "Does not allow for expansion",
+      "B": "Requires the services of a pipe fitter",
+      "C": "Weakens the pipe",
+      "D": "Cannot be repaired",
+      "E": "Is more costly"
+    },
+    "correctAnswer": "C",
+    "explanation": "Cutting pipe threads removes metal wall thickness, which weakens the cross-section of the pipe at the joint[cite: 29]."
+  },
+  {
+    "number": 43,
+    "question": "Loud and violent shocks within a piping system is:",
+    "options": {
+      "A": "Steam hammer",
+      "B": "Thermodynamic hammer",
+      "C": "Broken pipe",
+      "D": "Water hammer",
+      "E": "Damaged pump"
+    },
+    "correctAnswer": "D",
+    "explanation": "Water hammer creates violent hydraulic shockwaves and loud banging noises within piping systems[cite: 29]."
+  },
+  {
+    "number": 44,
+    "question": "Before admitting any steam to a steam piping system, it is imperative to first:",
+    "options": {
+      "A": "Crack open the steam valve",
+      "B": "Warm the line up properly",
+      "C": "Ensure the steam pressure is at maximum value allowed without the boiler safety valve opening",
+      "D": "Positively ensure that no water or condensate exist in the piping",
+      "E": "Ensure drain valves are closed"
+    },
+    "correctAnswer": "D",
+    "explanation": "Ensuring all accumulated condensate is completely drained prior to introducing steam is vital to prevent dangerous water hammer[cite: 29]."
+  },
+  {
+    "number": 45,
+    "question": "Ease of application and installation is a desirable property of:",
+    "options": {
+      "A": "Tubing",
+      "B": "Pipe insulation",
+      "C": "Piping",
+      "D": "Pipe fittings",
+      "E": "Asbestos insulation"
+    },
+    "correctAnswer": "B",
+    "explanation": "Ease of application and handling is a key factor when selecting thermal insulation materials for piping[cite: 29]."
+  },
+  {
+    "number": 46,
+    "question": "By using backing rings in butt, welded pipes, the backing ring serves to:",
+    "options": {
+      "A": "Support the pipe wall",
+      "B": "Align the pipe",
+      "C": "Reinforce the pipe because of beveling at the joint",
+      "D": "Reduce sludge flow",
+      "E": "Prevent welding gases from entering the pipe line"
+    },
+    "correctAnswer": "B",
+    "explanation": "Welding backing rings assist in properly aligning pipe ends and root gaps prior to welding[cite: 29]."
+  },
+  {
+    "number": 47,
+    "question": "The operation of a mechanical steam trap depends on the:",
+    "options": {
+      "A": "Difference in specific gravity between the steam and condensate",
+      "B": "Liquid level in the stream trap",
+      "C": "Difference in pressure between the steam and condensate",
+      "D": "Liquid level in the condensate tank",
+      "E": "Difference in temperature between the steam and condensate"
+    },
+    "correctAnswer": "A",
+    "explanation": "Mechanical steam traps operate using buoyancy differences between liquid condensate and steam[cite: 29]."
+  },
+  {
+    "number": 48,
+    "question": "The bellows element in a thermostatic trap contains:",
+    "options": {
+      "A": "Steam",
+      "B": "Air",
+      "C": "Copper",
+      "D": "Volatile fluid",
+      "E": "Condensate"
+    },
+    "correctAnswer": "D",
+    "explanation": "Thermostatic bellows elements are filled with a volatile liquid mixture that expands and contracts with temperature changes[cite: 29]."
+  },
+  {
+    "number": 49,
+    "question": "All markings on pipe and pipe fittings shall be:",
+    "options": {
+      "A": "Covered for protection",
+      "B": "Painted with black paint",
+      "C": "Made with capital letters",
+      "D": "Written vertically in capital letters",
+      "E": "Legible"
+    },
+    "correctAnswer": "E",
+    "explanation": "Manufacturer specifications and code markings stamped or printed on pipes and fittings must remain clear and legible[cite: 29]."
+  },
+  {
+    "number": 50,
+    "question": "An insulation suitable for temperatures up to 454°C is:",
+    "options": {
+      "A": "Glass fiber",
+      "B": "Asbestos",
+      "C": "Plastic foam",
+      "D": "Cellular glass",
+      "E": "Magnesia"
+    },
+    "correctAnswer": "E",
+    "explanation": "Magnesia-based thermal insulations are rated for high-temperature industrial piping services up to 454 °C[cite: 29]."
+  },
+  {
+    "number": 51,
+    "question": "As the wall thickness of a pipe increases, the:",
+    "options": {
+      "A": "Bore of the pipe increases",
+      "B": "Weight of the pipe decreases",
+      "C": "Pipe becomes less suitable for steam service",
+      "D": "Outside diameter increases",
+      "E": "Inside diameter is reduced"
+    },
+    "correctAnswer": "E",
+    "explanation": "Since the outside diameter remains constant for a given nominal pipe size, increasing wall thickness reduces the internal bore diameter[cite: 29]."
+  },
+  {
+    "number": 52,
+    "question": "The bimetal steam trap is:",
+    "options": {
+      "A": "Thermodynamic",
+      "B": "Impulse",
+      "C": "Thermostatic",
+      "D": "Mechanical",
+      "E": "Float operated"
+    },
+    "correctAnswer": "C",
+    "explanation": "Bimetallic steam traps operate based on the thermal deflection of dissimilar metal strips, classifying them as thermostatic traps[cite: 29]."
+  },
+  {
+    "number": 53,
+    "question": "A purpose of a steam trap is to:",
+    "options": {
+      "A": "Cause the water in steam lines to accumulate",
+      "B": "Hold back foreign particles from the steam line",
+      "C": "Prevent air from flowing in the steam line",
+      "D": "Prevent steam from flowing in the steam line",
+      "E": "Automatically drain condensate from steam lines"
+    },
+    "correctAnswer": "E",
+    "explanation": "Steam traps are automatic valves engineered to drain condensate continuously while blocking live steam escape[cite: 29]."
+  },
+  {
+    "number": 54,
+    "question": "Copper and copper alloy piping and tubing is not used in power plants when:",
+    "options": {
+      "A": "Pressure is a prime factor",
+      "B": "Temperature is a prime factor",
+      "C": "Instrumentation systems require tubing",
+      "D": "Chemicals are used in the applicable system",
+      "E": "Steam becomes corrosive"
+    },
+    "correctAnswer": "B",
+    "explanation": "Elevated temperatures limit the use of copper and copper alloy tubing in power plant steam service due to loss of mechanical strength[cite: 29]."
+  },
+  {
+    "number": 55,
+    "question": "When pipe is cut with a roller cutter the internal burr is removed with a:",
+    "options": {
+      "A": "Tap",
+      "B": "Reamer",
+      "C": "File",
+      "D": "Wire brush",
+      "E": "Pipe die"
+    },
+    "correctAnswer": "B",
+    "explanation": "A pipe reamer is used to clear out the restrictive internal burr created by wheel-type pipe cutters[cite: 29]."
+  },
+  {
+    "number": 56,
+    "question": "The mass of a 2 m length of schedule 40 pipe, nominal size 101.6 mm, is:",
+    "options": {
+      "A": "11.48 kg",
+      "B": "31.9 kg",
+      "C": "26.92 kg",
+      "D": "8 kg",
+      "E": "12.04 kg"
+    },
+    "correctAnswer": "A",
+    "explanation": "Based on standard engineering tables, a 2-meter length of 4-inch (101.6 mm) schedule 40 steel pipe has a mass of approximately 11.48 kg[cite: 29]."
+  },
+  {
+    "number": 57,
+    "question": "The purpose of a steam trap is to:",
+    "options": {
+      "A": "Reduce high, pressure steam to a lower pressure",
+      "B": "Collect steam for storage purposes",
+      "C": "Remove condensation from steam lines without allowing steam to escape",
+      "D": "Remove steam from a steam line without allowing water to pass",
+      "E": "Prevent sludge compounds from entering the steam line"
+    },
+    "correctAnswer": "C",
+    "explanation": "Steam traps discharge condensate effectively while retaining live steam inside the system[cite: 29]."
+  },
+  {
+    "number": 58,
+    "question": "Pipe fittings that are not clearly identified should be:",
+    "options": {
+      "A": "Tested and used",
+      "B": "Painted as required by the color code",
+      "C": "Used only with water systems",
+      "D": "Rejected",
+      "E": "Reported to the Boilers Branch"
+    },
+    "correctAnswer": "D",
+    "explanation": "Unidentified or uncertified pipe fittings must be rejected to ensure pressure boundary safety compliance[cite: 29]."
+  },
+  {
+    "number": 59,
+    "question": "Ring joint gaskets are:",
+    "options": {
+      "A": "Hexagonal in cross section",
+      "B": "Flat",
+      "C": "Square in cross section",
+      "D": "Oval in cross section",
+      "E": "Hollow"
+    },
+    "correctAnswer": "D",
+    "explanation": "Ring joint gaskets designed for high-pressure flanges feature an oval or octagonal cross-section[cite: 29]."
+  },
+  {
+    "number": 60,
+    "question": "The piping service symbols \"A\", \"G\", \"O\" stand for:",
+    "options": {
+      "A": "Aluminum, glass and octane",
+      "B": "Ammonia, gas and octane",
+      "C": "Ammonia, grease and oxygen",
+      "D": "Air, glycol and oil",
+      "E": "Air, gas and oil"
+    },
+    "correctAnswer": "E",
+    "explanation": "Standard industrial piping identification shorthand uses 'A' for air, 'G' for gas, and 'O' for oil[cite: 29]."
+  }
+]

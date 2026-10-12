@@ -1,0 +1,275 @@
+[
+  {
+    "number": 1,
+    "heading": "Work Permits and Safety",
+    "question": "A work permit identifies ___________ and ___________ to mitigate the hazards.",
+    "options": {
+      "A": "Risks, hazards",
+      "B": "Acts, codes",
+      "C": "Risks, controls",
+      "D": "Rules, regulations",
+      "E": "PPE, controls"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 2,
+    "heading": "Work Permits and Safety",
+    "question": "When isolating an electric motor driven pump, you should first:",
+    "options": {
+      "A": "Close the high pressure steam inlet valve",
+      "B": "Ensure the pump is drained",
+      "C": "Close the pump discharge valve",
+      "D": "Close the pump inlet valve",
+      "E": "Open the motor breaker"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 3,
+    "heading": "Work Permits and Safety",
+    "question": "The duties and responsibilities of the Workplace Health and Safety Committee is described in:",
+    "options": {
+      "A": "WHMIS",
+      "B": "ASME Code section 1",
+      "C": "Canadian Labour Code",
+      "D": "Pressure Equipment Safety Regulations",
+      "E": "CSA B51 Pressure equipment code"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 4,
+    "heading": "Work Permits and Safety",
+    "question": "Sour Gas (gas containing H2S) has a distinct smell of \"rotten eggs\" in low concentrations. Quality training and safe work practices are required to avoid:",
+    "options": {
+      "A": "Death",
+      "B": "Cough",
+      "C": "Dyslexia",
+      "D": "Sore eyes",
+      "E": "Allergies"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 5,
+    "heading": "Work Permits and Safety",
+    "question": "Ensuring the work area has been cleaned up is found in which part of a work permit:",
+    "options": {
+      "A": "Permit completion",
+      "B": "Safety precautions",
+      "C": "Work description",
+      "D": "Scope of work",
+      "E": "Potential hazards"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 6,
+    "heading": "Work Permits and Safety",
+    "question": "TDG acts and regulations require training and certification for:",
+    "options": {
+      "A": "Workers who ship or receive dangerous goods",
+      "B": "Workers who ship or receive non-hazardous or hazardous products",
+      "C": "Only for the supervisors of employees handling hazardous items",
+      "D": "Only for people who transport Dangerous goods",
+      "E": "Only for federal government employers and employees"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 7,
+    "heading": "Work Permits and Safety",
+    "question": "When a lockout requires modification, the operator follows:",
+    "options": {
+      "A": "Lockout deviation process",
+      "B": "Personal lockout procedure",
+      "C": "Lockout work permit",
+      "D": "Complex Lockout process",
+      "E": "Electrical isolation certificate"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 8,
+    "heading": "Work Permits and Safety",
+    "question": "In a safety lockout, all ________ that cause harm or damage must be controlled.",
+    "options": {
+      "A": "Level",
+      "B": "Temperature",
+      "C": "Equipment",
+      "D": "Energy",
+      "E": "Weather"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 9,
+    "heading": "Work Permits and Safety",
+    "question": "Emergency evacuation drills should be carried out:",
+    "options": {
+      "A": "Every 2 years",
+      "B": "At least once per year",
+      "C": "Every month",
+      "D": "Are not required",
+      "E": "At least 4 times per year"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 10,
+    "heading": "Work Permits and Safety",
+    "question": "Under federal jurisdiction, a workplace health and safety committee must be established when the number of employees is:",
+    "options": {
+      "A": "20",
+      "B": "1",
+      "C": "100",
+      "D": "50",
+      "E": "10"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 11,
+    "heading": "Work Permits and Safety",
+    "question": "The 2 types of lockouts are:",
+    "options": {
+      "A": "Group or personal",
+      "B": "Carseal or padlock",
+      "C": "Breakers or valves",
+      "D": "Blinds or blanks",
+      "E": "Group or lockbox"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 12,
+    "heading": "Work Permits and Safety",
+    "question": "A first aid attendant is required when there are:",
+    "options": {
+      "A": "Only workers are doing manual labour",
+      "B": "Only during day shift when supervisors are present",
+      "C": "6 or more employees",
+      "D": "Any number of employees",
+      "E": "6 site workers, but supervisors and managers are not counted"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 13,
+    "heading": "Work Permits and Safety",
+    "question": "A bump test is performed:",
+    "options": {
+      "A": "At the local on/off hand switch",
+      "B": "Only after the steam pressure is reduced to zero",
+      "C": "At the main breaker in the MCC",
+      "D": "To check the vibration switches",
+      "E": "Before opening the breaker"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 14,
+    "heading": "Work Permits and Safety",
+    "question": "Fall protection must be used when a worker is at risk of falling:",
+    "options": {
+      "A": "3 meters",
+      "B": "2 meters",
+      "C": "1 meter",
+      "D": "5 feet",
+      "E": "3 feet"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 15,
+    "heading": "Work Permits and Safety",
+    "question": "Emergency response plans include:",
+    "options": {
+      "A": "Emergency evacuation plan",
+      "B": "Location of muster areas",
+      "C": "Location of emergency equipment",
+      "D": "Training of designated emergency persons",
+      "E": "All of the above"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 16,
+    "heading": "Work Permits and Safety",
+    "question": "Requirements for entry into confined spaces are governed by the:",
+    "options": {
+      "A": "Boiler and pressure vessel regulation",
+      "B": "Provincial fireman's regulations",
+      "C": "Workers compensation act",
+      "D": "Occupational health and safety regulation",
+      "E": "Confined space entry regulation"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 17,
+    "heading": "Work Permits and Safety",
+    "question": "Confined space means any enclosed or partially enclosed space having:",
+    "options": {
+      "A": "Limited room for tools and equipment",
+      "B": "Harmful gases, vapours, mists, or dusts",
+      "C": "No way out",
+      "D": "Elevated air temperatures",
+      "E": "Restricted entry (access) and exit (egress)"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 18,
+    "heading": "Work Permits and Safety",
+    "question": "Asbestos is dangerous when it is:",
+    "options": {
+      "A": "Touched",
+      "B": "Rendered inert",
+      "C": "Undisturbed",
+      "D": "Sealed in",
+      "E": "Inhaled"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 19,
+    "heading": "Work Permits and Safety",
+    "question": "Group lockbox lockout procedures requires at least 2 people:",
+    "options": {
+      "A": "HSE worker and operator",
+      "B": "Operator and supervisor",
+      "C": "Electrician and mechanic",
+      "D": "Operator and electrician",
+      "E": "Installer and verifier"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 20,
+    "heading": "Work Permits and Safety",
+    "question": "Hydrogen Sulphide, H2S, is commonly found in:",
+    "options": {
+      "A": "Oil and gas production",
+      "B": "Municipal sewage treatment",
+      "C": "Mining industry",
+      "D": "Refineries and gas processing plants",
+      "E": "All of the above"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 21,
+    "heading": "Work Permits and Safety",
+    "question": "Using a non intrinsically safe camera in a natural gas area would require:",
+    "options": {
+      "A": "Cold work permit",
+      "B": "Working at heights permit",
+      "C": "Confined space entry permit",
+      "D": "Excavation permit",
+      "E": "Hot work permit"
+    },
+    "correctAnswer": "E"
+  }
+]

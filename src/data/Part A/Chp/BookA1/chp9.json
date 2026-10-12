@@ -1,0 +1,223 @@
+[
+  {
+    "number": 1,
+    "question": "Which of the following statements about belt drive systems is false?",
+    "options": {
+      "A": "Linear speed on a point of each pulley will be the same as the linear speed of the belt",
+      "B": "Belt driver pulleys move follower pulleys by means of frictional force between the belt and the pulleys",
+      "C": "Rotational speed will be equal if the pulley diameters are equal",
+      "D": "A belt system is 100% efficient if there is no slippage",
+      "E": "Tension in the bottom belt is always double that in the top belt"
+    },
+    "correctAnswer": "E",
+    "explanation": "Tension values depend on the tight and slack sides of the operating drive rather than a fixed rule about top and bottom positions [Mechanical Drives]."
+  },
+  {
+    "number": 2,
+    "question": "Which statement concerning belt trains is false?",
+    "options": {
+      "A": "Belt trains transmit less power than gear trains of comparable size",
+      "B": "Belt trains are used to change power transmissions of belts",
+      "C": "Trains are connected by a single belt",
+      "D": "Belt trains are used to change speeds of pulleys",
+      "E": "Pulleys in a train all rotate in the same direction"
+    },
+    "correctAnswer": "C",
+    "explanation": "Belt trains typically involve multiple pulleys and individual belts connected in series, rather than a single continuous belt spanning an entire train [Mechanical Drives]."
+  },
+  {
+    "number": 3,
+    "question": "Idlers gears:",
+    "options": {
+      "A": "Are stationary",
+      "B": "Cannot be larger than the driven gear",
+      "C": "Affect the speed of the driven gear",
+      "D": "Are not regarded as intermediate gears",
+      "E": "Are used to reverse rotation"
+    },
+    "correctAnswer": "E",
+    "explanation": "Idler gears are primarily inserted between driver and driven gears to reverse the rotational direction of the follower [Mechanical Drives]."
+  },
+  {
+    "number": 4,
+    "question": "Which of following statements about idler gears is true?",
+    "options": {
+      "A": "Reverse the gear wheel direction",
+      "B": "Creates slippage",
+      "C": "Changes the r/min of the driven gear",
+      "D": "Always results in increasing efficiency",
+      "E": "None of the above"
+    },
+    "correctAnswer": "A",
+    "explanation": "The inclusion of an idler gear reverses the rotational direction of the driven gear relative to the driver gear [Mechanical Drives]."
+  },
+  {
+    "number": 5,
+    "question": "In a belt drive system if the driver is smaller than the follower, the:",
+    "options": {
+      "A": "Follower will turn faster than the driver",
+      "B": "Both follower and driver will turn at the same speed",
+      "C": "Follower will turn at the same speed as the driver",
+      "D": "Follower will turn slower than the driver",
+      "E": "Driver will turn slower than the follower"
+    },
+    "correctAnswer": "D",
+    "explanation": "A smaller driver pulley driving a larger follower pulley results in a speed reduction, meaning the follower turns slower [Mechanical Drives]."
+  },
+  {
+    "number": 6,
+    "question": "A pulley of diameter 2.6 m rotates at 107 r/min and drives a follower pulley at 259 r/min. What is the diameter of the following pulley?",
+    "options": {
+      "A": "5.20 m",
+      "B": "1.07 m",
+      "C": "6.3 m",
+      "D": "0.93 m",
+      "E": "3.54 m"
+    },
+    "correctAnswer": "B",
+    "explanation": "Using $D_1 N_1 = D_2 N_2$: $(2.6 \\times 107) / 259 = 1.074\\text{ m} \\approx 1.07\\text{ m}$ [Mechanical Drives]."
+  },
+  {
+    "number": 7,
+    "question": "The input to a 93.33% efficient belt drive system is 75 kW. What is the output?",
+    "options": {
+      "A": "70 kW",
+      "B": "72.5 Watts",
+      "C": "75 kW",
+      "D": "72.5 kW",
+      "E": "80.36 kW"
+    },
+    "correctAnswer": "A",
+    "explanation": "Output = Input $\\times$ Efficiency = $75\\text{ kW} \\times 0.9333 = 70\\text{ kW}$ [Mechanical Drives]."
+  },
+  {
+    "number": 8,
+    "question": "A 28-tooth gear turns at 100 rpm and drives a 112-tooth gear. What is the speed of the follower gear?",
+    "options": {
+      "A": "25 rpm",
+      "B": "125.44 rpm",
+      "C": "400 rpm",
+      "D": "31.36 rpm",
+      "E": "4 rpm"
+    },
+    "correctAnswer": "A",
+    "explanation": "Using $T_1 N_1 = T_2 N_2$: $(28 \\times 100) / 112 = 25\\text{ rpm}$ [Mechanical Drives]."
+  },
+  {
+    "number": 9,
+    "question": "In a drive belt system the input to the driver pulley is 265 kW and the output is 211 kW. What is the efficiency?",
+    "options": {
+      "A": "93.3%",
+      "B": "121%",
+      "C": "75.8%",
+      "D": "79.6%",
+      "E": "82.4%"
+    },
+    "correctAnswer": "D",
+    "explanation": "Efficiency = Output / Input x 100 = (211 / 265) x 100 = 79.6%"
+  },
+  {
+    "number": 10,
+    "question": "Find the r/min of the 6.2 m diameter pulley in the diagram below. Assume there is no slippage.",
+    "options": {
+      "A": "466.63 r/min",
+      "B": "16.22 r/min",
+      "C": "1.83 r/min",
+      "D": "87 r/min",
+      "E": "52.68 r/min"
+    },
+    "correctAnswer": "E",
+    "explanation": "Derived from standard pulley speed ratio calculations based on connected driver dimensions [Mechanical Drives]."
+  },
+  {
+    "number": 11,
+    "question": "A pulley with a diameter of 50 cm is driven at 960 r/min. What will be the linear speed in m/s of a point on the rim of the pulley?",
+    "options": {
+      "A": "50.2 m/s",
+      "B": "25.2 m/s",
+      "C": "150.8 m/s",
+      "D": "2 500 m/s",
+      "E": "6.3 m/s"
+    },
+    "correctAnswer": "B",
+    "explanation": "v = pi D N / 60 = (3.14159 x 0.5 m x 960) / 60 = 25.13 m/s."
+  },
+  {
+    "number": 12,
+    "question": "An idler gear ________ the speed of the gear train.",
+    "options": {
+      "A": "Slows down",
+      "B": "Stops",
+      "C": "Speeds up",
+      "D": "Does not change",
+      "E": "Equalizes"
+    },
+    "correctAnswer": "D",
+    "explanation": "An idler gear changes rotational direction and spans distance, but does not alter the overall speed ratio between the driver and driven gears [Mechanical Drives]."
+  },
+  {
+    "number": 13,
+    "question": "The clearance that is necessary between teeth that have to mesh is called:",
+    "options": {
+      "A": "Backlash",
+      "B": "Gap",
+      "C": "Play",
+      "D": "Lashback",
+      "E": "Clearance"
+    },
+    "correctAnswer": "A",
+    "explanation": "Backlash is the clearance or spacing between mating gear teeth to prevent binding and ensure smooth operation [Mechanical Drives]."
+  },
+  {
+    "number": 14,
+    "question": "A gear wheel with 85 teeth rotates at 6 500 r/min and drives another gear at 9 866 r/min. How many teeth does the driven gear have?",
+    "options": {
+      "A": "85",
+      "B": "129",
+      "C": "63",
+      "D": "56",
+      "E": "76"
+    },
+    "correctAnswer": "D",
+    "explanation": "Using $T_1 N_1 = T_2 N_2$: $(85 \\times 6500) / 9866 = 552500 / 9866 = 56$ teeth [Mechanical Drives]."
+  },
+  {
+    "number": 15,
+    "question": "The tensions in the tight and slack side of a belt are 14 000 N and 900 N respectively. If the power transmission is 655 kW what is the speed of the belt if there is no slippage?",
+    "options": {
+      "A": "31.6 m/s",
+      "B": "50 m/s",
+      "C": "43.96 m/s",
+      "D": "131 m/s",
+      "E": "25.2 m/s"
+    },
+    "correctAnswer": "B",
+    "explanation": "Power $P = (T_1 - T_2) \\cdot v \\implies v = 655,000\\text{ W} / (14,000 - 900)\\text{ N} = 50\\text{ m/s}$ [Mechanical Drives]."
+  },
+  {
+    "number": 16,
+    "question": "If two pulleys of different diameters are connected by a belt, the larger diameter pulley will turn _____ the smaller diameter pulley.",
+    "options": {
+      "A": "The same speed as",
+      "B": "Faster than",
+      "C": "Slower than",
+      "D": "In the opposite direction to",
+      "E": "None of the above"
+    },
+    "correctAnswer": "C",
+    "explanation": "Larger pulleys rotate at lower speeds compared to smaller pulleys in a connected belt drive system [Mechanical Drives]."
+  },
+  {
+    "number": 17,
+    "question": "A chain drive system has a driver sprocket of 300 mm diameter and a driven sprocket of 1 000 mm diameter. If the driven shaft rotates at 276 rpm what will be the speed of the driving shaft?",
+    "options": {
+      "A": "920 rpm",
+      "B": "80.1 rpm",
+      "C": "801 rpm",
+      "D": "736 rpm",
+      "E": "89 rpm"
+    },
+    "correctAnswer": "A",
+    "explanation": "Using $D_1 N_1 = D_2 N_2$: $(1000 \\times 276) / 300 = 920\\text{ rpm}$ [Mechanical Drives]."
+  }
+]

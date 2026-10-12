@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "Wrought iron:",
+    "options": {
+      "A": "Is corrosion resistant",
+      "B": "Contains a high percentage of carbon",
+      "C": "Is produced by annealing",
+      "D": "Is a non-ferrous metal",
+      "E": "Is stronger than steel"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 2,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "The result of removing nearly all the impurities and carbon from pig iron is:",
+    "options": {
+      "A": "Wrought iron",
+      "B": "Low carbon steel",
+      "C": "Coke",
+      "D": "White cast iron",
+      "E": "Steel"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 3,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "Grey Cast Iron is used for:",
+    "options": {
+      "A": "Crusher jaws",
+      "B": "Aircraft frames",
+      "C": "Machinery bases",
+      "D": "Pipe fittings",
+      "E": "Boiler tunes"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 4,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "A material that can be drawn out or extended in length without breakage is said to be:",
+    "options": {
+      "A": "Ductile",
+      "B": "Chilled",
+      "C": "Hard",
+      "D": "Malleable",
+      "E": "Brittle"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 5,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "Which of the following metals is the most ductile?",
+    "options": {
+      "A": "Copper",
+      "B": "High speed steel",
+      "C": "Chilled cast iron",
+      "D": "High carbon steel",
+      "E": "White cast iron"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 6,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "Lead, Tin, Copper, Arsenic and Antimony are sometimes found in:",
+    "options": {
+      "A": "Chrome products",
+      "B": "Bearing metals",
+      "C": "Brass",
+      "D": "Bronze",
+      "E": "Copper"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 7,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "Brinell and Rockwell are:",
+    "options": {
+      "A": "Strength tests",
+      "B": "Ductility tests",
+      "C": "Brittleness tests",
+      "D": "Toughness tests",
+      "E": "Hardness tests"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 8,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "Babbitt or white metal:",
+    "options": {
+      "A": "Contains no lead",
+      "B": "Is used for electrical wiring",
+      "C": "Is composed of aluminium and nickel",
+      "D": "Is a hard material",
+      "E": "Is used for bearing metal"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 9,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "When nickel is added to steel, it:",
+    "options": {
+      "A": "Decreases hardness and brittleness",
+      "B": "Decreases toughness and corrosion resistance",
+      "C": "Improves hardness and brittleness",
+      "D": "Improves toughness and corrosion resistance",
+      "E": "Improves malleability"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 10,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "Tin based white metal (Babbitt) is composed of:",
+    "options": {
+      "A": "10% tin, 7% antimony, 75% lead and 7% copper",
+      "B": "75% tin, 15% lead, 10% copper and 5% silver",
+      "C": "89% lead, 7% tin, 3% copper and 1% antimony",
+      "D": "85% tin, 0.35% lead, 7% copper, 7% antimony",
+      "E": "75% lead, 9% tin, 10% antimony and 6% arsenic"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 11,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "When chromium is added to alloy steel, it produces:",
+    "options": {
+      "A": "Improved malleability",
+      "B": "Improved machinability",
+      "C": "Increased toughness",
+      "D": "Increased ductility",
+      "E": "Increased hardness"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 12,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "Stainless steel:",
+    "options": {
+      "A": "Contains a high percentage of chromium",
+      "B": "Has a high carbon content",
+      "C": "Has a high graphite content",
+      "D": "Is corrosion resistant",
+      "E": "Is not an alloy steel"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 13,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "Malleability of a metal:",
+    "options": {
+      "A": "Will usually decrease as the temperature rises",
+      "B": "Means the same as \"toughness\"",
+      "C": "Usually increases with the addition of heat",
+      "D": "Means it will crack when struck with a hammer",
+      "E": "Is checked using the Charpy tester"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 14,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "Copper alloys are:",
+    "options": {
+      "A": "Much lower in carbon content than copper",
+      "B": "Not as strong as copper itself",
+      "C": "Harder to machine than copper",
+      "D": "Easier to machine than copper itself",
+      "E": "Less resistant to corrosion than copper"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 15,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "In order to avoid residual stresses after welding, alloy steels:",
+    "options": {
+      "A": "Must contain copper",
+      "B": "Are not affected by carbon content",
+      "C": "Must be heated after welding",
+      "D": "Cannot contain any copper",
+      "E": "Should be heated before, during and after welding"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 16,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "Bearing metal:\n1. Is sometimes called Babbitt metal\n2. Is sometimes called white metal\n3. Can be heated to any temperature\n4. Can be made for different types of service",
+    "options": {
+      "A": "1, 2, 4",
+      "B": "1, 2, 3",
+      "C": "1, 3, 4",
+      "D": "2, 3, 4",
+      "E": "3, 4"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 17,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "Pig iron:",
+    "options": {
+      "A": "Is the raw material from which cast iron is made",
+      "B": "Contains at least 2% carbon",
+      "C": "Has a high percentage of graphite",
+      "D": "Is the raw material from which brass is made",
+      "E": "Has most of its carbon in a combined state"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 18,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "An element that reduces creep in metal is:",
+    "options": {
+      "A": "Nickel",
+      "B": "Vanadium",
+      "C": "Molybdenum",
+      "D": "Manganese",
+      "E": "Copper"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 19,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "Aluminium is produced from:",
+    "options": {
+      "A": "Babbitt",
+      "B": "Copper and zinc",
+      "C": "Aluminum ore",
+      "D": "Non-ferous ore",
+      "E": "Bauxite"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 20,
+    "heading": "Metallurgy and Materials Engineering",
+    "question": "Aluminium alloys are used in the construction of:",
+    "options": {
+      "A": "Motor casings",
+      "B": "Bearing shells",
+      "C": "Internal combustion engine parts",
+      "D": "Valves and piping",
+      "E": "Condenser tubes"
+    },
+    "correctAnswer": "C"
+  }
+]

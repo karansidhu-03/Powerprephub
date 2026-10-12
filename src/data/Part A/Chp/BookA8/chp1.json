@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "Voltage is a measure of:",
+    "options": {
+      "A": "The rate of ohm flow",
+      "B": "The rate of electron flow",
+      "C": "The rate of current flow",
+      "D": "Electromotive force",
+      "E": "Required for current resistance"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 2,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The unit of measure for electrical current flow is:",
+    "options": {
+      "A": "Electron",
+      "B": "Ohm",
+      "C": "Watt",
+      "D": "Volt",
+      "E": "Ampere"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 3,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The equivalent resistance of three loads of 10, 25, and 50 ohms connected in series is:",
+    "options": {
+      "A": "50 ohms",
+      "B": "95 ohms",
+      "C": "100 ohms",
+      "D": "85 ohms",
+      "E": "15 ohms"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 4,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The opposition, a device or material offers to the flow of electric current, is known as:",
+    "options": {
+      "A": "An insulator",
+      "B": "A short circuit",
+      "C": "Counter flow",
+      "D": "A voltage drop",
+      "E": "A resistance"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 5,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "A material that conducts electrical current is called:",
+    "options": {
+      "A": "A circuit",
+      "B": "A conductor",
+      "C": "A volt",
+      "D": "A conduit",
+      "E": "An electromotive force"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 6,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "A conductor's resistance is:",
+    "options": {
+      "A": "Not affected by the cross-sectional area",
+      "B": "Directly proportional to its diameter",
+      "C": "Directly proportional to its length",
+      "D": "Measured in micro-Newton",
+      "E": "Directly proportional to its cross-sectional area"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 7,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "An insulator is a material that will not _____ an electrical current.",
+    "options": {
+      "A": "Retard",
+      "B": "Conduct",
+      "C": "Reduce",
+      "D": "Resist",
+      "E": "Slow"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 8,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "In an equivalent circuit developed from a multi-resistor series circuit:",
+    "options": {
+      "A": "Original circuit resistances will each have to be the same as the equivalent resistance",
+      "B": "The resistance will be the reciprocal sum of the original resistance's",
+      "C": "Voltage drop will be the same as for each of the original resistance's",
+      "D": "Amperage flowing will be different than the original circuit amperage glowing through each resistance",
+      "E": "The sum of voltage drops across the original resistances will be equal to the voltage drop of the equivalent circuit"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 9,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The Kilowatt is an electrical unit of measure for:",
+    "options": {
+      "A": "Resistance",
+      "B": "Potential difference",
+      "C": "Current flow",
+      "D": "Magnetic flux strength",
+      "E": "Power"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 10,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "When a number of electrons pass a given point over a specific time period the energy may be referred to as:",
+    "options": {
+      "A": "Electromotive force",
+      "B": "Power or watts",
+      "C": "An ampere",
+      "D": "An ohm",
+      "E": "Voltage"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 11,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The power formula may be stated as:",
+    "options": {
+      "A": "P = I x R",
+      "B": "P = I x E",
+      "C": "P = E / R",
+      "D": "P = R / E",
+      "E": "P = I / R"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 12,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "An ampere is the _____ of current flow.",
+    "options": {
+      "A": "Resistance",
+      "B": "Measurement",
+      "C": "Cause",
+      "D": "Cause of increase",
+      "E": "Cause of reduction"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 13,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The voltage drop across a 20 ohm resistor with 10 amps flowing would be _____ volts.",
+    "options": {
+      "A": "200",
+      "B": "2",
+      "C": "20",
+      "D": "0.5",
+      "E": "150"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 14,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "If an electrical _____ is placed across a conductor, the electrons will flow from the negative end towards the positive end of the conductor, assuming the electron theory.",
+    "options": {
+      "A": "Potential",
+      "B": "Resistance",
+      "C": "Current",
+      "D": "Waire",
+      "E": "Meter"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 15,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The equivalent resistance of three resistances of 10 ohms, 25 ohms and 50 ohms connected in parallel is _____ ohms.",
+    "options": {
+      "A": "6.25",
+      "B": "85",
+      "C": "18.75",
+      "D": "8.5",
+      "E": "0.16"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 16,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The equivalent resistance of three resistors of 15, 15, and 15 ohms connected in parallel is:",
+    "options": {
+      "A": "45 ohms",
+      "B": "5 ohms",
+      "C": "15 ohms",
+      "D": "0.067 ohms",
+      "E": "0.2 ohms"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 17,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The basic unit of mechanical or electric power is the:",
+    "options": {
+      "A": "2 kilovolts",
+      "B": "50 kilovolts",
+      "C": "5 kilovolts",
+      "D": "Watts",
+      "E": "288 volts"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 18,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The flow of electrons in a uniform direction from atom to atom through a circuit is known as:",
+    "options": {
+      "A": "A short circuit",
+      "B": "Potential difference",
+      "C": "Electromotive force",
+      "D": "Current",
+      "E": "Voltage drop"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 19,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "A triple pole single throw switch is one that:",
+    "options": {
+      "A": "Has three magnetic poles",
+      "B": "Cannot operate manually",
+      "C": "Opens and closes three wires of an electrical circuit",
+      "D": "Requires three toggles",
+      "E": "Is used for three phase circuits only"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 20,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "In an atom, the electrons:",
+    "options": {
+      "A": "Are repelled by the neutrons",
+      "B": "Orbit only the neutrons",
+      "C": "Are attracted to the protons",
+      "D": "Are large in size when compared to the protons",
+      "E": "Orbit around each other"
+    },
+    "correctAnswer": "C"
+  }
+]

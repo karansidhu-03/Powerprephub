@@ -1,0 +1,509 @@
+[
+  {
+    "number": 1,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Almost all atmospheric water is contained in:",
+    "options": {
+      "A": "Exosphere",
+      "B": "Mesosphere",
+      "C": "Thermosphere",
+      "D": "Stratosphere",
+      "E": "Troposphere"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 2,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Incomplete combustion of fuel is responsible for the production of:",
+    "options": {
+      "A": "Carbon dioxide",
+      "B": "Sulphur dioxide",
+      "C": "Hydrogen sulphide",
+      "D": "Carbon monoxide",
+      "E": "Water vapor"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 3,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Which of the following does acid rain have the greatest effect on?",
+    "options": {
+      "A": "Roots",
+      "B": "Plant stems",
+      "C": "Plant reproductive systems",
+      "D": "Tree bark",
+      "E": "Leaves"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 4,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Choose all of the following statements that are true:\n1. Sound travels through vibrations in air pressure\n2. Sound waves are reflected, deflected and absorbed\n3. Sound is a form of energy\n4. Sound travels through a vacuum\n5. Sound always travels at a constant wave length",
+    "options": {
+      "A": "2, 3, 4, 5",
+      "B": "1, 2, 3",
+      "C": "1, 3, 5",
+      "D": "1, 2, 3, 4",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "To reduce nitrogen oxides in the flue gas, specially designed low NOx burners:",
+    "options": {
+      "A": "Reduces turbulence to delay combustion hence reducing temperatures",
+      "B": "Completes combustion in the burner tube before the furnace area",
+      "C": "Increases turbulence for most efficient combustion",
+      "D": "Supplies cooling air to reduce furnace temperature",
+      "E": "Uses maximum excess air for combustion high temperatures"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 6,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "When monitoring pollutants, the emissions that is not part of the Criteria Area Contaminants is:",
+    "options": {
+      "A": "Carbon Monoxide",
+      "B": "Nitrogen Oxides",
+      "C": "Carbon Dioxide",
+      "D": "Sulfur Oxides",
+      "E": "Ammonia"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 7,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "The gaseous pollutant that contributes to ozone depletion is:",
+    "options": {
+      "A": "Carbon monoxide",
+      "B": "Chlorofluorocarbons",
+      "C": "Sulphur oxide",
+      "D": "Carbon dioxide",
+      "E": "Methane"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 8,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Carbon monoxide is produced as a result of:",
+    "options": {
+      "A": "Too high a combustion temperature",
+      "B": "Slow movement of fuel through the furnace",
+      "C": "A shortage of oxygen in the furnace",
+      "D": "Excess air in the combustion chamber",
+      "E": "Too large a furnace"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 9,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "The greenhouse effect is responsible for:",
+    "options": {
+      "A": "Depleting the ozone layer",
+      "B": "Maintaining temperatures that support life",
+      "C": "Causing acid rain",
+      "D": "Increase in harmful UV radiation",
+      "E": "Noise pollution"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 10,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "The technique used to determine NOx in stack emissions is:",
+    "options": {
+      "A": "Non Dispersive Infrared Detection",
+      "B": "Forward Looking Infrared",
+      "C": "Chemiluminesence",
+      "D": "Pulsed Fluorescence",
+      "E": "Dipolar Photosynchronology"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 11,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Ozone is harmful at:",
+    "options": {
+      "A": "Lower levels in the atmosphere",
+      "B": "Sub-stratospheric levels in the atmosphere",
+      "C": "Stratospheric levels in the atmosphere",
+      "D": "All levels in the atmosphere",
+      "E": "Upper levels in the atmosphere"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 12,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "A sampling and analyzing train:",
+    "options": {
+      "A": "Cannot be operated automatically",
+      "B": "Measures the amounts of several types of emissions",
+      "C": "Monitors flue gas for one type of emission",
+      "D": "Cannot be used to obtain permanent records",
+      "E": "Measures the frequency composition of noise"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 13,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Loud noises may be controlled by:\n1. Building sound proof enclosures around equipment\n2. Running the equipment at high speeds\n3. Using silencers on the air intakes to forced draft fans\n4. Using mufflers on equipment exhausts\n5. Running noisy equipment at night when everyone is asleep",
+    "options": {
+      "A": "1, 2, 3, 4",
+      "B": "1, 3, 4",
+      "C": "1, 2, 4",
+      "D": "1, 3, 4, 5",
+      "E": "1, 2, 3, 4, 5"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 14,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "A device for measuring flue gas emissions is called:",
+    "options": {
+      "A": "CEMS",
+      "B": "PH analyser",
+      "C": "Gas tester",
+      "D": "Calorimeter",
+      "E": "Elevation meter"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 15,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Decibels are represented by a/an:",
+    "options": {
+      "A": "Reference scale",
+      "B": "Exponential scale",
+      "C": "Logarithmic scale",
+      "D": "Intensity scale",
+      "E": "Arithmetic scale"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 16,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Sound pressure level is expressed in:",
+    "options": {
+      "A": "Watts",
+      "B": "psi (pounds per square inch)",
+      "C": "Decibels",
+      "D": "kPa (kilopascals)",
+      "E": "Amps"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 17,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Hydrogen as an alternate fuel is considered ideal because:",
+    "options": {
+      "A": "It burns at low temperatures therefore minimizing NOx formation",
+      "B": "It has nearly the same heating value as carbon",
+      "C": "Water vapor is the only product of combustion",
+      "D": "It is safe and easy to store",
+      "E": "The cost of production is minimal"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 18,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Chlorofluorocarbons:",
+    "options": {
+      "A": "Break down and become harmless as they rise in the atmosphere",
+      "B": "Are the main heat trapping gases responsible for the greenhouse effect",
+      "C": "Destroy ozone after they reach the stratosphere",
+      "D": "Contribute to the acid rain problem",
+      "E": "Combine with ozone to produce toxins"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 19,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Noise pollution is caused by:\n1. High speed equipment\n2. Popping high pressure safety valves\n3. Chimneys\n4. Jack hammers\n5. Riveting operations",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "3, 4, 5",
+      "C": "2, 3, 4, 5",
+      "D": "1, 2, 4, 5",
+      "E": "1, 3, 4, 5"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 20,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Methane gas is sometimes produced by:",
+    "options": {
+      "A": "Discharging Halon fire extinguishers",
+      "B": "Insufficient combustion air",
+      "C": "The burning of plastics",
+      "D": "Decomposition of organic matter in a wetland",
+      "E": "High intensity sunlight acting on ozone"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 21,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Nitrogen oxides are referred to collectively as:",
+    "options": {
+      "A": "NO's",
+      "B": "N₂O₅",
+      "C": "NOx",
+      "D": "NO₂",
+      "E": "N₂O"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 22,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Greenhouse gases allow _____ radiation to reach the earth.",
+    "options": {
+      "A": "Low energy",
+      "B": "Short energy",
+      "C": "High energy",
+      "D": "Long energy",
+      "E": "All energy level"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 23,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "The acceptable design sound level heard at the nearest permanently or seasonally occupied dwelling would be stated in the:",
+    "options": {
+      "A": "Wildlife impact statement",
+      "B": "Air quality impact study",
+      "C": "Gas conservation study",
+      "D": "Soil impact study",
+      "E": "Noise impact statement"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 24,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Nitrogen oxides in flue gas may be reduced by:",
+    "options": {
+      "A": "Raising the furnace temperature",
+      "B": "Reducing the percentage of excess air",
+      "C": "Employing a dilute sulphuric acid scrubbing system",
+      "D": "Decreasing the size of the furnace",
+      "E": "Scrubbing the flue gas with lime"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 25,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Carbon dioxide is responsible for _____ of greenhouse gasses.",
+    "options": {
+      "A": "92%",
+      "B": "20%",
+      "C": "76%",
+      "D": "66%",
+      "E": "45%"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 26,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Systems designed to reduce SO2 are also effective in reducing the concentration of:",
+    "options": {
+      "A": "CO",
+      "B": "H₂O",
+      "C": "CO₂",
+      "D": "NOx",
+      "E": "SO₃"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 27,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Damaging sound pressure levels affecting plant personnel could not be reduced by:",
+    "options": {
+      "A": "Changing the frequency of the sound",
+      "B": "Wearing protective equipment",
+      "C": "Modifying the equipment operating conditions",
+      "D": "Enclosing the noise source",
+      "E": "Building a barrier"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 28,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "In order for acid rain to be formed:",
+    "options": {
+      "A": "Atmosphere temperatures must be correct",
+      "B": "Water vapors and cool temperatures must apply",
+      "C": "Sunlight must be present",
+      "D": "Water vapor and sunlight must be present",
+      "E": "Water vapor must be present"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 29,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Personal protective devices designed to protect power plant operators from gas and noise emissions, include the following equipment:\n1. Hard hats\n2. Ear muffs\n3. Soft toed shoes or boots\n4. Safety boots\n5. Dust masks\n6. Breathing air packs",
+    "options": {
+      "A": "1, 2, 3, 4, 5, 6",
+      "B": "1, 2, 5, 6",
+      "C": "1, 2, 4, 5",
+      "D": "3, 4, 6",
+      "E": "2, 5, 6"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 30,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Reducing the amount of Carbon Monoxide produced in a boiler can be achieved by:",
+    "options": {
+      "A": "All these are important to help reduce Carbon monoxide emissions",
+      "B": "Providing sufficient oxygen to fully convert CO to CO2",
+      "C": "Ensuring adequate turbulence to fully mix the fuel and air",
+      "D": "Providing sufficient time for complete combustion",
+      "E": "Ensuring the temperature is hot enough to support continuous complete combustion"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 31,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Methane has a global warming potential _____ times more than Carbon Dioxide.",
+    "options": {
+      "A": "250",
+      "B": "0.25",
+      "C": "2.5",
+      "D": "25",
+      "E": "2500"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 32,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Sulphur oxides in flue gas are undesirable because they:",
+    "options": {
+      "A": "Use up the sulphur in the fuel",
+      "B": "Reduce combustion efficiency",
+      "C": "Combine with sunlight to produce smog",
+      "D": "Contribute to acid rain",
+      "E": "Are an indicator of incomplete combustion in the furnace"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 33,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "A method proven to reduce emissions of sulphur oxides in the flue gas is to:",
+    "options": {
+      "A": "Increase the size of the furnace",
+      "B": "Use dilute sulphuric acid to scrub the flue gas",
+      "C": "Lower the furnace temperature",
+      "D": "Scrub the flue gas with lime or limestone",
+      "E": "Reduce the amount of excess air"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 34,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Converting carbon monoxide to carbon dioxide in the furnace may be accomplished by:\n1. Increasing the amount of combustion air\n2. Decreasing the time the fuel spends in the furnace\n3. Burning lime with the fuel\n4. Not overloading the boiler\n5. Ensuring a good fuel/air mixture",
+    "options": {
+      "A": "2, 4, 5",
+      "B": "2, 3, 4",
+      "C": "3, 4, 5",
+      "D": "1, 2, 4",
+      "E": "1, 4, 5"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 35,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "The upper level gas that shields the earth from ultraviolet radiation is:",
+    "options": {
+      "A": "Ozone",
+      "B": "Chlorofluorocarbons",
+      "C": "Nitrogen",
+      "D": "Methane",
+      "E": "Carbon dioxide"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 36,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Noise monitors (sound meters) measure the decibel rating and contain:",
+    "options": {
+      "A": "Weighting networks",
+      "B": "Sound dampers",
+      "C": "Acoustic eliminators",
+      "D": "Acoustic amplifiers",
+      "E": "Sound amplifiers"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 37,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Gaseous pollutants emitted from power plants are:",
+    "options": {
+      "A": "Carbon Monoxide, Sulphur Oxides",
+      "B": "Nitrogen, Natural gas",
+      "C": "Natural gas, Water",
+      "D": "Oxygen, Nitrogen",
+      "E": "Solid waste, Carbon Monoxide"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 38,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "Northern lights are located in:",
+    "options": {
+      "A": "Troposphere",
+      "B": "Stratosphere",
+      "C": "Exosphere",
+      "D": "Thermosphere",
+      "E": "Mesosphere"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 39,
+    "heading": "Atmospheric Emissions and Environmental Control",
+    "question": "The conversion of nitrogen to NOx occurs at temperatures above:",
+    "options": {
+      "A": "1 850ºC",
+      "B": "1 450ºC",
+      "C": "1 250ºC",
+      "D": "2 250ºC",
+      "E": "1 650ºC"
+    },
+    "correctAnswer": "E"
+  }
+]

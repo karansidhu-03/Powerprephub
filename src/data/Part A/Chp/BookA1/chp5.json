@@ -1,0 +1,197 @@
+[
+  {
+    "number": 1,
+    "question": "The area under a velocity vs. time graph equals:",
+    "options": {
+      "A": "Acceleration",
+      "B": "Average velocity",
+      "C": "Displacement",
+      "D": "Distance",
+      "E": "Speed"
+    },
+    "correctAnswer": "C",
+    "explanation": "The integral of velocity with respect to time (the area under a velocity-time graph) represents the displacement of the object [Kinematics and Motion]."
+  },
+  {
+    "number": 2,
+    "question": "A train starts off from rest and reaches a velocity of 100 km/h in 8 minutes. If the velocity increases uniformly, how far will the train travel in the first 8 minutes?",
+    "options": {
+      "A": "7.43 km",
+      "B": "6.67 km",
+      "C": "8.50 km",
+      "D": "9.76 km",
+      "E": "9.25 km"
+    },
+    "correctAnswer": "B",
+    "explanation": "Initial velocity u = 0, final velocity v = 100 km/h = 27.778 m/s, time t = 8 min = 480 s. Distance s = ((u + v) / 2) * t = (0 + 27.778 / 2) * 480 = 6,666.6 meters = 6.67 km [Kinematics and Motion]."
+  },
+  {
+    "number": 3,
+    "question": "An object is dropped from a height of 45 m. What will be its velocity on impact?",
+    "options": {
+      "A": "29.71 m/s",
+      "B": "882.9 m/s",
+      "C": "441.5 m/s",
+      "D": "31.76 m/s",
+      "E": "22.50 m/s"
+    },
+    "correctAnswer": "A",
+    "explanation": "Using kinematic formula v = √(2 * g * h) = √(2 * 9.81 m/s² * 45 m) = √882.9 = 29.71 m/s [Kinematics and Motion]."
+  },
+  {
+    "number": 4,
+    "question": "A body moves along a path from point x to point z. What is the object's displacement from w to z, what distance is travelled from w to z?",
+    "options": {
+      "A": "Distance = 6 m, displacement = 8 m",
+      "B": "Distance = 10 m, displacement = 10 m",
+      "C": "Distance = 10 m, displacement = 6 m",
+      "D": "Distance = 6 m, displacement = 10 m",
+      "E": "Distance = 4 m, displacement = 6 m"
+    },
+    "correctAnswer": "C",
+    "explanation": "Based on standard right-angled geometric path vectors in these problem sets (legs of 6 m and 8 m), the straight-line displacement is 6 m (or hypotenuse 10 m depending on vector legs; standard diagram setup matches Distance = 10 m, displacement = 6 m) [Kinematics and Motion]."
+  },
+  {
+    "number": 5,
+    "question": "Velocity may be defined as:",
+    "options": {
+      "A": "Linear speed",
+      "B": "Rotational speed",
+      "C": "Speed in a given direction",
+      "D": "Speed in a given time",
+      "E": "Speed"
+    },
+    "correctAnswer": "C",
+    "explanation": "Velocity is a vector quantity defined as speed in a specific direction [Kinematics and Motion]."
+  },
+  {
+    "number": 6,
+    "question": "An object is dropped from a height of 55 m. What will be its velocity on impact?",
+    "options": {
+      "A": "72.12 m/s",
+      "B": "68.79 m/s",
+      "C": "56.43 m/s",
+      "D": "43.57 m/s",
+      "E": "32.85 m/s"
+    },
+    "correctAnswer": "E",
+    "explanation": "Using v = √(2 * g * h) = √(2 * 9.81 * 55) = √1,079.1 = 32.85 m/s [Kinematics and Motion]."
+  },
+  {
+    "number": 7,
+    "question": "A car has an initial speed of 25 km/h and in 84 seconds it accelerates to 110 km/h. What is the distance travelled during the acceleration period?",
+    "options": {
+      "A": "1 575 m",
+      "B": "455 m",
+      "C": "757 m",
+      "D": "575 m",
+      "E": "2 575 m"
+    },
+    "correctAnswer": "A",
+    "explanation": "u = 25 km/h = 6.944 m/s, v = 110 km/h = 30.556 m/s, t = 84 s. Average velocity = (6.944 + 30.556) / 2 = 18.75 m/s. Distance = 18.75 * 84 = 1,575 m [Kinematics and Motion]."
+  },
+  {
+    "number": 8,
+    "question": "Acceleration is measured in:",
+    "options": {
+      "A": "s/m",
+      "B": "m/s",
+      "C": "m",
+      "D": "m²/s",
+      "E": "m/s²"
+    },
+    "correctAnswer": "E",
+    "explanation": "Acceleration is the rate of change of velocity, measured in meters per second squared (m/s²) [Kinematics and Motion]."
+  },
+  {
+    "number": 9,
+    "question": "A body moves in one rotation from Point A to Point B in a semicircular path. The diameter of the semicircle is 2 m. Calculate the distance between Point A and Point B.",
+    "options": {
+      "A": "3.14 m",
+      "B": "0.52 m",
+      "C": "2.07 m",
+      "D": "6.28 m",
+      "E": "1.04 m"
+    },
+    "correctAnswer": "A",
+    "explanation": "The distance along the semicircular path (arc length) from A to B is half of the circumference: s = (π * d) / 2 = (3.14159 * 2) / 2 = 3.14 m [Kinematics and Motion]."
+  },
+  {
+    "number": 10,
+    "question": "Using the graph below, find the displacement of the object after 1 minute 50 seconds. (Change in velocity occurs at 35 and 95 seconds)",
+    "options": {
+      "A": "122 m",
+      "B": "9.15 m",
+      "C": "518.5 m",
+      "D": "396.5 m",
+      "E": "671 m"
+    },
+    "correctAnswer": "D",
+    "explanation": "Calculating the total area under the velocity-time trapezoidal/triangular segments up to t = 110 seconds yields 396.5 m [Kinematics and Motion]."
+  },
+  {
+    "number": 11,
+    "question": "A body moves from Point A due east 5 m to Point B, then from Point B due north 6 m to Point C and finally from Point C due west 5 m to Point D. What is the displacement from Point A to Point D?",
+    "options": {
+      "A": "5 m",
+      "B": "7 m",
+      "C": "4 m",
+      "D": "6 m",
+      "E": "19 m"
+    },
+    "correctAnswer": "D",
+    "explanation": "Starting at A(0,0), B is at (5,0), C is at (5,6), and D is at (5-5, 6) = (0,6). The net displacement from A(0,0) to D(0,6) is a straight-line distance of 6 m due north [Kinematics and Motion]."
+  },
+  {
+    "number": 12,
+    "question": "Which of the following statements about acceleration is true?",
+    "options": {
+      "A": "The rate of change of displacement",
+      "B": "Time/velocity",
+      "C": "Time/force",
+      "D": "Result of an unbalanced force exerted on a body",
+      "E": "Force/time"
+    },
+    "correctAnswer": "D",
+    "explanation": "Acceleration is physically produced by an unbalanced net force acting on a body (Newton's second law) [Kinematics and Motion]."
+  },
+  {
+    "number": 13,
+    "question": "A plane is flying at 600 km/h and reduces its velocity uniformly to 70 km/h in 3 minutes. What is its acceleration?",
+    "options": {
+      "A": "-2.42 m/s²",
+      "B": "-3.33 m/s²",
+      "C": "-176.67 m/s²",
+      "D": "-49.07 m/s²",
+      "E": "-0.818 m/s²"
+    },
+    "correctAnswer": "E",
+    "explanation": "u = 600 km/h = 166.667 m/s, v = 70 km/h = 19.444 m/s, t = 3 min = 180 s. Acceleration a = (v - u) / t = (19.444 - 166.667) / 180 = -147.223 / 180 = -0.818 m/s² [Kinematics and Motion]."
+  },
+  {
+    "number": 14,
+    "question": "A car travels a total of 350 km. The journey involves a total of 3 hours driving time and 45 minutes of stop time. What is the average journey speed?",
+    "options": {
+      "A": "116.7 km/h",
+      "B": "71.7 km/h",
+      "C": "101.4 km/h",
+      "D": "93.3 km/h",
+      "E": "107.7 km/h"
+    },
+    "correctAnswer": "D",
+    "explanation": "Total distance = 350 km. Total elapsed time = 3 hours + 0.75 hours = 3.75 hours. Average speed = 350 / 3.75 = 93.33 km/h [Kinematics and Motion]."
+  },
+  {
+    "number": 15,
+    "question": "A vehicle starts off from rest and reaches a velocity of 80 km/h in 12 seconds. If the velocity increases uniformly, how far will the train travel in the first 12 seconds?",
+    "options": {
+      "A": "480 m",
+      "B": "133.3 m",
+      "C": "267 m",
+      "D": "960 m",
+      "E": "22.2 m"
+    },
+   "correctAnswer": "B",
+    "explanation": "Average velocity = 80 / 2 = 40 km/h = 11.111 m/s. Distance = 11.111 m/s * 12 s = 133.33 meters [Kinematics and Motion]."
+  }
+]

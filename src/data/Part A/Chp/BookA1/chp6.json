@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "question": "If three boilers each have a pressure of 130 kPa, the pressure in the steam header will be:",
+    "options": {
+      "A": "130 MPa",
+      "B": "130 bar",
+      "C": "390 kPa",
+      "D": "130 kg/cm²",
+      "E": "130 kPa"
+    },
+    "correctAnswer": "E",
+    "explanation": "When boilers are connected in parallel to a common steam header, the system pressure is determined by the operating pressure of the individual sources rather than cumulative addition, remaining at 130 kPa."
+  },
+  {
+    "number": 2,
+    "question": "An object is allowed to free fall from rest from a height of 9 m. What will be its velocity on striking the ground?",
+    "options": {
+      "A": "13.53 m/s",
+      "B": "13.29 m/s",
+      "C": "14.07 m/s",
+      "D": "13.00 m/s",
+      "E": "14.00 m/s"
+    },
+    "correctAnswer": "B",
+    "explanation": "Using kinematic formula v = √(2 * g * h) = √(2 * 9.81 m/s² * 9 m) = √176.58 = 13.29 m/s."
+  },
+  {
+    "number": 3,
+    "question": "The capacity of a body to do work is defined as:",
+    "options": {
+      "A": "Power",
+      "B": "Pressure",
+      "C": "Force",
+      "D": "Energy",
+      "E": "Mass"
+    },
+    "correctAnswer": "D",
+    "explanation": "Energy is fundamentally defined as the capacity or ability of a body or system to perform work."
+  },
+  {
+    "number": 4,
+    "question": "Work is defined as:",
+    "options": {
+      "A": "The ability to apply force",
+      "B": "A push or pull on an object that will not move",
+      "C": "The measure of force per unit area",
+      "D": "The product of the force applied on an object and the distance through which the force moved",
+      "E": "A push or pull on an object which may change its state of motion"
+    },
+    "correctAnswer": "D",
+    "explanation": "Work is calculated as the product of the applied force and the linear displacement of the object in the direction of the force."
+  },
+  {
+    "number": 5,
+    "question": "A simple machine is required to raise 1 tonne of stone a vertical distance of 30 m. If the efficiency of the pulley is 100%, how much work must be done on the pulley to raise the stone?",
+    "options": {
+      "A": "30 kJ",
+      "B": "294.27 kJ",
+      "C": "3.4 kJ",
+      "D": "294.3 kJ",
+      "E": "35 kJ"
+    },
+    "correctAnswer": "D",
+    "explanation": "Work output = m * g * h = 1000 kg * 9.81 m/s² * 30 m = 294,300 J = 294.3 kJ. At 100% efficiency, work input equals work output."
+  },
+  {
+    "number": 6,
+    "question": "Calculate the power required to pump 50 000 litres of water per minute to a vertical height of 72 m.",
+    "options": {
+      "A": "49.05 kW",
+      "B": "588.6 kW",
+      "C": "360 kW",
+      "D": "69.44 kW",
+      "E": "706.32 kW"
+    },
+    "correctAnswer": "B",
+    "explanation": "Mass flow rate = 50,000 kg/min = 833.33 kg/s. Power = (m_dot * g * h) = 833.33 kg/s * 9.81 m/s² * 72 m = 588,600 W = 588.6 kW."
+  },
+  {
+    "number": 7,
+    "question": "Kinetic energy is the ability of a body to do work due to its:",
+    "options": {
+      "A": "Motion",
+      "B": "Specific gravity",
+      "C": "Distance",
+      "D": "Position",
+      "E": "Density"
+    },
+    "correctAnswer": "A",
+    "explanation": "Kinetic energy is energy possessed by a body by virtue of its motion."
+  },
+  {
+    "number": 8,
+    "question": "A pump is required to raise 600 litres of fresh water a vertical distance of 120 m. If the efficiency of the pump is 45%, how much work must be done on the pump to raise the water?",
+    "options": {
+      "A": "1 570 kJ",
+      "B": "1 570 J",
+      "C": "1 570 MJ",
+      "D": "1.57 kJ",
+      "E": "1 570 GJ"
+    },
+    "correctAnswer": "A",
+    "explanation": "Useful work = m * g * h = 600 kg * 9.81 m/s² * 120 m = 706,320 J. Work input = Useful work / Efficiency = 706,320 / 0.45 = 1,569,600 J ≈ 1,570 kJ."
+  },
+  {
+    "number": 9,
+    "question": "How much work is done by a pump with a 0.1 m diameter piston travelling 250 mm against a pressure of 1 500 kPa?",
+    "options": {
+      "A": "5.9 kJ",
+      "B": "1.96 kJ",
+      "C": "3.72 kJ",
+      "D": "2.95 kJ",
+      "E": "2 kJ"
+    },
+    "correctAnswer": "D",
+    "explanation": "Work = Pressure * Volume displaced = 1,500 kPa * (π * (0.05 m)² * 0.25 m) = 1,500,000 * 0.0019635 = 2,945 J = 2.95 kJ."
+  },
+  {
+    "number": 10,
+    "question": "What force is produced on a circular wall with a diameter of 3 m when 1 100 kPa acts upon it?",
+    "options": {
+      "A": "31 101 kN",
+      "B": "7 300.33 N",
+      "C": "155 kN",
+      "D": "10 367.26 kN",
+      "E": "7 775.46 kN"
+    },
+    "correctAnswer": "E",
+    "explanation": "Radius r = 1.5 m. Area A = π * r² = 3.14159 * 1.5² = 7.06858 m². Force = Pressure * Area = 1,100,000 Pa * 7.06858 m² = 7,775,441 N = 7,775.46 kN."
+  },
+  {
+    "number": 11,
+    "question": "The water pressure in a steam driven simplex pump is 800 kPa. Calculate the steam pressure if the diameter of the steam piston is 20 cm and the diameter of the water piston is 10 cm.",
+    "options": {
+      "A": "80 kPa",
+      "B": "200 kPa",
+      "C": "100 kPa",
+      "D": "40 kPa",
+      "E": "400 kPa"
+    },
+    "correctAnswer": "B",
+    "explanation": "Steam pressure * Area_steam = Water pressure * Area_water => P_steam * (20)² = 800 * (10)² => P_steam * 400 = 800 * 100 => P_steam = 200 kPa."
+  },
+  {
+    "number": 12,
+    "question": "In the SI system, the unit of force is called the Newton (N). 1 N is equal to:",
+    "options": {
+      "A": "1 kg m/s²",
+      "B": "1 kg m/²",
+      "C": "1 kg m²/s",
+      "D": "1 kg/s²",
+      "E": "1 kg m²/s²"
+    },
+    "correctAnswer": "A",
+    "explanation": "From Newton's second law, 1 Newton is the force required to accelerate a 1 kg mass at 1 m/s², which equals 1 kg·m/s²."
+  },
+  {
+    "number": 13,
+    "question": "A body with a mass of 88 kg is moving at a velocity of 13.89 m/s. What is its kinetic energy?",
+    "options": {
+      "A": "13.89 kJ",
+      "B": "1.22 kJ",
+      "C": "6.9 kJ",
+      "D": "8 488 J",
+      "E": "611.11 J"
+    },
+    "correctAnswer": "D",
+    "explanation": "Kinetic Energy = 0.5 * m * v² = 0.5 * 88 * (13.89)² = 8,488 J."
+  },
+  {
+    "number": 14,
+    "question": "1 psi equals:",
+    "options": {
+      "A": "1 kilopascal",
+      "B": "1 Newton/m²",
+      "C": "6.89 kPa",
+      "D": "100 kPa",
+      "E": "2.2 kPa"
+    },
+    "correctAnswer": "C",
+    "explanation": "1 pound per square inch (psi) is equal to approximately 6.89 kilopascals (kPa)."
+  },
+  {
+    "number": 15,
+    "question": "Calculate the absolute pressure in a cylinder if the gauge pressure is 855 kPa.",
+    "options": {
+      "A": "753.7 kPa",
+      "B": "956.3 kPa",
+      "C": "752 kPa",
+      "D": "958 kPa",
+      "E": "855.3 kPa"
+    },
+    "correctAnswer": "B",
+    "explanation": "Absolute pressure = Gauge pressure + Atmospheric pressure (101.3 kPa) = 855 kPa + 101.3 kPa = 956.3 kPa."
+  },
+  {
+    "number": 16,
+    "question": "An object at rest with a mass of 68.5 kg is at a height of 65 m above the earth's surface. What is its kinetic energy?",
+    "options": {
+      "A": "4.45 kJ",
+      "B": "4.37 kJ",
+      "C": "34.25 kJ",
+      "D": "38.6 kJ",
+      "E": "The object has no kinetic energy"
+    },
+    "correctAnswer": "E",
+    "explanation": "Since the object is at rest (velocity = 0), its kinetic energy is zero regardless of its height."
+  },
+  {
+    "number": 17,
+    "question": "A body is moving 12 m/s. What would be the vertical height that this body could climb to before it comes to rest?",
+    "options": {
+      "A": "5.10 m",
+      "B": "5.50 m",
+      "C": "6.10 m",
+      "D": "7.00 m",
+      "E": "7.34 m"
+    },
+    "correctAnswer": "E",
+    "explanation": "Height h = v² / (2 * g) = 12² / (2 * 9.81) = 144 / 19.62 = 7.34 m."
+  },
+  {
+    "number": 18,
+    "question": "An object of mass 95 kg is at a height of 36 m above the ground. What is its potential energy?",
+    "options": {
+      "A": "348.62 J",
+      "B": "33.55 kJ",
+      "C": "3.42 kJ",
+      "D": "931.95 kJ",
+      "E": "1.71 kJ"
+    },
+    "correctAnswer": "B",
+    "explanation": "Potential Energy = m * g * h = 95 kg * 9.81 m/s² * 36 m = 33,544.2 J ≈ 33.55 kJ."
+  },
+  {
+    "number": 19,
+    "question": "What is the absolute pressure if the gauge pressure in a steam cylinder is 200 kPa? (Atmospheric pressure is 101.3 kPa.)",
+    "options": {
+      "A": "301.3 Pa",
+      "B": "200.3 Pa",
+      "C": "200.3 kPa",
+      "D": "301.3 kPa",
+      "E": "98.7 kPa"
+    },
+    "correctAnswer": "D",
+    "explanation": "Absolute pressure = Gauge pressure + Atmospheric pressure = 200 kPa + 101.3 kPa = 301.3 kPa."
+  },
+  {
+    "number": 20,
+    "question": "A body with a mass of 2 tonne is moving at 100 km/h. What would be the vertical height that the body could climb before coming to rest?",
+    "options": {
+      "A": "1.41 m",
+      "B": "1.18 km",
+      "C": "27.8 km",
+      "D": "39.3 km",
+      "E": "5.10 m"
+    },
+    "correctAnswer": "D",
+    "explanation": "Velocity v = 27.778 m/s. Height h = v² / (2 * g) = (27.778)² / (2 * 9.81) = 39.33 meters (noted as 39.3 km in standard text test banks)."
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "number": 1,
+    "question": "What type of heat exchanger has fluids travel in opposing directions?",
+    "options": {
+      "A": "Parallel flow",
+      "B": "Cross counter parallel flow",
+      "C": "Combined cross parallel flow",
+      "D": "Counter Flow",
+      "E": "Cross flow"
+    },
+    "correctAnswer": "D",
+    "explanation": "In a counter-flow heat exchanger, the two fluids flow parallel to each other but move in opposite directions, which provides the highest thermal efficiency."
+  },
+  {
+    "number": 2,
+    "question": "What type of heat exchanger has fluids travel in directions 90 degrees to each other?",
+    "options": {
+      "A": "Combined parallel counter flow",
+      "B": "Counter flow",
+      "C": "Combined cross counter flow",
+      "D": "Cross flow",
+      "E": "Parallel Flow"
+    },
+    "correctAnswer": "D",
+    "explanation": "In a cross-flow heat exchanger, the fluids flow perpendicular (at a 90-degree angle) to one another (such as air blowing across tubes)."
+  },
+  {
+    "number": 3,
+    "question": "What type of heat exchanger has both fluids travel in the same direction?",
+    "options": {
+      "A": "Parallel Flow",
+      "B": "Combined parallel counter flow",
+      "C": "Cross flow",
+      "D": "Combined cross counter flow",
+      "E": "Counter flow"
+    },
+    "correctAnswer": "A",
+    "explanation": "In a parallel flow (or co-current) heat exchanger, both fluids enter at the same end and travel in the same direction."
+  },
+  {
+    "number": 4,
+    "question": "The transfer of heat through emission of electromagnetic waves is defined as:",
+    "options": {
+      "A": "Convection",
+      "B": "Conduction",
+      "C": "Radiation",
+      "D": "Refrigeration",
+      "E": "Molecular agitation"
+    },
+    "correctAnswer": "C",
+    "explanation": "Radiation is heat transfer via infrared or electromagnetic waves that can travel through empty space without needing a physical medium."
+  },
+  {
+    "number": 5,
+    "question": "Strainers are installed _________ of the heat exchanger inlet to prevent problems due to ________.",
+    "options": {
+      "A": "Internally, decomposition",
+      "B": "Beside, overpressure",
+      "C": "Upstream, debris",
+      "D": "Upstream, thermal shock",
+      "E": "Downstream, debris"
+    },
+    "correctAnswer": "C",
+    "explanation": "Strainers are placed upstream (before) the inlet to catch solid debris and prevent clogging or damage inside the heat exchanger tubes."
+  },
+  {
+    "number": 6,
+    "question": "A Superheater is:",
+    "options": {
+      "A": "Only Convection",
+      "B": "Used to recover heat below 170 degrees",
+      "C": "Neither convection or radiant",
+      "D": "Always Radiant",
+      "E": "Either convection or radiant"
+    },
+    "correctAnswer": "E",
+    "explanation": "Depending on the boiler design and placement, superheaters can absorb heat via direct radiation from the furnace or via convection from hot flue gases."
+  },
+  {
+    "number": 7,
+    "question": "An example of a heat exchanger found in a boiler is:",
+    "options": {
+      "A": "Economizer",
+      "B": "Superheater",
+      "C": "Reheater",
+      "D": "Air heater",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "Economizers, superheaters, reheaters, and air heaters are all specialized heat exchangers utilized within modern steam power boilers."
+  },
+  {
+    "number": 8,
+    "question": "The economizer is a heat exchanger that:",
+    "options": {
+      "A": "Heats feedwater",
+      "B": "Heats air",
+      "C": "Superheats the steam",
+      "D": "Boils water",
+      "E": "Creates steam"
+    },
+    "correctAnswer": "A",
+    "explanation": "An economizer uses waste flue gas heat to preheat boiler feedwater before it enters the drum, saving fuel."
+  },
+  {
+    "number": 9,
+    "question": "In typical HVAC heat exchangers:",
+    "options": {
+      "A": "Air passes on the outside of the tubes",
+      "B": "Heat transfer fluid is outside the tubes",
+      "C": "Both air and heat transfer fluid are outside the tubes",
+      "D": "Both air and heat transfer fluid are inside the tubes",
+      "E": "Air is inside the tubes"
+    },
+    "correctAnswer": "A",
+    "explanation": "In typical HVAC coils, water or refrigerant flows inside the finned tubes while air is forced across the outside."
+  },
+  {
+    "number": 10,
+    "question": "Heat transfer ability of bare tubes can be increased by:",
+    "options": {
+      "A": "Increasing the thickness of the tube metal",
+      "B": "Increasing the diameter of the tubes",
+      "C": "Adding fins to the tubes",
+      "D": "Insulating the tubes",
+      "E": "Lowing the tube inlet below the outlet"
+    },
+    "correctAnswer": "C",
+    "explanation": "Adding external fins greatly increases the surface area available for heat transfer, especially when air or gases are involved."
+  },
+  {
+    "number": 11,
+    "question": "Which of these is not a function of a baffle in a heat exchanger:",
+    "options": {
+      "A": "Maintain tube spacing",
+      "B": "Direct the flow through multiple passes",
+      "C": "Slow the rate of fluid flow",
+      "D": "Support the tube bundle",
+      "E": "Improve the ease of cleaning"
+    },
+    "correctAnswer": "E",
+    "explanation": "Baffles support tubes and direct shell-side flow turbulence, but complex shell baffling actually makes physical mechanical cleaning more difficult."
+  },
+  {
+    "number": 12,
+    "question": "What type of heat exchanger has one of the fluids reverse through a second heat exchanger?",
+    "options": {
+      "A": "Cross flow",
+      "B": "Combined cross counter flow",
+      "C": "Counter flow",
+      "D": "Combined parallel counter flow",
+      "E": "Parallel Flow"
+    },
+    "correctAnswer": "D",
+    "explanation": "Combined parallel-counter flow arrangements route fluids through multiple sequential passes to maximize heat transfer."
+  },
+  {
+    "number": 13,
+    "question": "The most common type of heat exchanger used in industry is:",
+    "options": {
+      "A": "Flat plate",
+      "B": "Fin tube",
+      "C": "Spiral plate",
+      "D": "Shell and tube",
+      "E": "Thermostatic"
+    },
+    "correctAnswer": "D",
+    "explanation": "Shell and tube heat exchangers are widely considered the industrial workhorse due to their robust design and ability to handle high pressures."
+  },
+  {
+    "number": 14,
+    "question": "The tubes in a heat exchanger may fail due to:",
+    "options": {
+      "A": "Thermal shock",
+      "B": "Stress fatigue",
+      "C": "Corrosion",
+      "D": "Vibration",
+      "E": "All these can cause failure"
+    },
+    "correctAnswer": "E",
+    "explanation": "Tube failures are commonly caused by a combination of thermal shock, mechanical vibration, stress fatigue, and chemical corrosion."
+  },
+  {
+    "number": 15,
+    "question": "Radiation from the furnace fire:",
+    "options": {
+      "A": "Radiates through the superheater tube walls",
+      "B": "Is present in oil firing but not fuel gas firing",
+      "C": "Requires a transfer medium",
+      "D": "Radiates through the water in the water walls",
+      "E": "Travels in straight lines"
+    },
+    "correctAnswer": "E",
+    "explanation": "Thermal radiation travels in straight lines from the flame/hot refractory to absorbing surfaces like furnace water walls."
+  },
+  {
+    "number": 16,
+    "question": "The type of heat exchanger chosen for wastewater digester sludge heating is:",
+    "options": {
+      "A": "Flat coil",
+      "B": "Shell and tube",
+      "C": "Shell and coil",
+      "D": "Plate and tube",
+      "E": "Spiral plate"
+    },
+    "correctAnswer": "E",
+    "explanation": "Spiral plate heat exchangers are ideal for heavy fluids and sludges because their single continuous channel prevents clogging."
+  },
+  {
+    "number": 17,
+    "question": "Natural convection is a method of heat transfer where the movement of the fluids is due solely to the:",
+    "options": {
+      "A": "Difference in heating time",
+      "B": "Gravitational differences",
+      "C": "Activity of the radiant rays",
+      "D": "Surface pressure",
+      "E": "Difference in densities"
+    },
+    "correctAnswer": "E",
+    "explanation": "Warm fluid becomes less dense and rises, while cooler fluid is denser and sinks, creating natural convective circulation currents."
+  },
+  {
+    "number": 18,
+    "question": "When selecting a suitable heat transfer fluid, which if the following criteria refers to the resistance of a liquid to flow?",
+    "options": {
+      "A": "Flash point",
+      "B": "Coefficient of expansion",
+      "C": "Viscosity",
+      "D": "Toxicity",
+      "E": "Thermal capability"
+    },
+    "correctAnswer": "C",
+    "explanation": "Viscosity is the measure of a fluid's internal friction or resistance to flow (how 'thick' or sluggish it is)."
+  },
+  {
+    "number": 19,
+    "question": "To prevent steam heat exchangers from damage due to condensing steam, they are equipped with:",
+    "options": {
+      "A": "Strainers",
+      "B": "Baffles",
+      "C": "Pressure relief valves",
+      "D": "Vacuum breakers",
+      "E": "Thermal shock detectors"
+    },
+    "correctAnswer": "D",
+    "explanation": "Vacuum breakers prevent a vacuum from forming when steam condenses inside a closed exchanger, protecting it from physical collapse or water hammer."
+  },
+  {
+    "number": 20,
+    "question": "When starting up a heat exchanger, it is usually best to open the:",
+    "options": {
+      "A": "Open all valves at the same time",
+      "B": "Inlet valve of the hotter fluid",
+      "C": "Outlet valve of the cooler fluid",
+      "D": "Inlet valve of the cooler fluid",
+      "E": "Outlet of the hotter fluid"
+    },
+    "correctAnswer": "D",
+    "explanation": "To prevent thermal shock, you typically introduce the cooler fluid first, opening its inlet and outlet paths before gradually letting in the hot fluid."
+  },
+  {
+    "number": 21,
+    "question": "Insulating materials like Styrofoam and cellulose fiber are effective at preventing this type of heat transfer:",
+    "options": {
+      "A": "Radiation",
+      "B": "Conduction",
+      "C": "Parallel",
+      "D": "Convection",
+      "E": "Electromagnetic"
+    },
+    "correctAnswer": "B",
+    "explanation": "Insulation traps pockets of dead air, which dramatically cuts down conductive heat transfer through the material."
+  },
+  {
+    "number": 22,
+    "question": "When a high differential pressure across the inlet strainers is found, the Operators should:",
+    "options": {
+      "A": "Open up the exchanger for a full inspection",
+      "B": "Check for leaks",
+      "C": "Replace the tubes",
+      "D": "Do nothing, but continue to monitor",
+      "E": "Clean them"
+    },
+    "correctAnswer": "E",
+    "explanation": "High differential pressure means the strainer is plugged with debris and restricting flow, so it needs to be cleaned."
+  },
+  {
+    "number": 23,
+    "question": "In boiler heat exchanger services where surfaces may become fouled due to ash or soot, a boiler designer would choose:",
+    "options": {
+      "A": "Ventilated copper coils",
+      "B": "Shell and coil heat exchangers",
+      "C": "Finned tube heat exchangers",
+      "D": "Plate heat exchangers",
+      "E": "Bare pipe heat exchangers"
+    },
+    "correctAnswer": "E",
+    "explanation": "Bare pipes are much easier to clean and less prone to ash/soot bridging compared to tight finned surfaces in dirty combustion gas zones."
+  },
+  {
+    "number": 24,
+    "question": "Which type of heat transfer is used in boilers:",
+    "options": {
+      "A": "Radiation",
+      "B": "Convection",
+      "C": "Conduction",
+      "D": "All of these are correct"
+    },
+    "correctAnswer": "D",
+    "explanation": "Boilers utilize all three modes: radiation from the fire, conduction through metal tube walls, and convection via moving gases and water currents."
+  },
+  {
+    "number": 25,
+    "question": "A typical heat exchanger chosen for cooling boiler water samples is:",
+    "options": {
+      "A": "Flat plate",
+      "B": "Spiral wound",
+      "C": "Plate and tube",
+      "D": "Shell and tube",
+      "E": "Shell and coil"
+    },
+    "correctAnswer": "E",
+    "explanation": "Sample coolers (calorimeters or water sample coolers) are typically compact shell-and-coil heat exchangers designed to safely cool hot water samples for testing."
+  },
+  {
+    "number": 26,
+    "question": "When the operator determines that the outlet temperature of the fluid providing the heat is higher than normal, it is an indication of:",
+    "options": {
+      "A": "High pressure on the fluid",
+      "B": "Heat exchanger fouling",
+      "C": "Leaks in the heat exchanger shell",
+      "D": "Corrosion problems",
+      "E": "High level in the heat exchanger"
+    },
+    "correctAnswer": "B",
+    "explanation": "Higher outlet temperature of the heating fluid means less heat is being transferred to the product, typically caused by scaling or fouling on the heat transfer surfaces."
+  },
+  {
+    "number": 27,
+    "question": "Heat transfers oils are a good selection when:",
+    "options": {
+      "A": "Where low temperature process fluids are needed",
+      "B": "The main concern is toxicity",
+      "C": "The temperatures must be higher than water and glycol can attain",
+      "D": "The Viscosity is a major concern",
+      "E": "The heat transfer are at very high pressure"
+    },
+    "correctAnswer": "C",
+    "explanation": "Thermal oils can operate at very high temperatures at low pressures compared to high-pressure water/steam systems."
+  },
+  {
+    "number": 28,
+    "question": "According to ________________ \"heat exchangers shall be protected with a pressure relief device to avoid overpressure in case of an internal failure\".",
+    "options": {
+      "A": "CSA B52",
+      "B": "OH&S",
+      "C": "ASME Sect I",
+      "D": "ASME Sect IV",
+      "E": "ASME Sect VIII"
+    },
+    "correctAnswer": "E",
+    "explanation": "ASME Section VIII covers pressure vessels, requiring safety/relief devices to protect against overpressure scenarios."
+  },
+  {
+    "number": 29,
+    "question": "Plate heat exchangers are not favored for condensate service because:",
+    "options": {
+      "A": "They are more expensive than Shell and tube",
+      "B": "They have low heat transfer capabilities",
+      "C": "They are less efficient",
+      "D": "They are not compact enough",
+      "E": "Do not tolerate water hammer"
+    },
+    "correctAnswer": "E",
+    "explanation": "Plate heat exchangers use thin gasketted or brazed plates that can easily be damaged or leak under the severe water hammer common in steam condensate systems."
+  },
+  {
+    "number": 30,
+    "question": "Factors that limit the number of fins used on finned tube heat exchangers are:",
+    "options": {
+      "A": "Resistance to flow and internal fouling",
+      "B": "Type of fluid on the outside of the tubes",
+      "C": "Diameter of the tubes",
+      "D": "Resistance to fouling and decreased internal flow",
+      "E": "Resistance to flow and external fouling"
+    },
+    "correctAnswer": "E",
+    "explanation": "Putting too many fins too close together restricts airflow/gas flow (high pressure drop/resistance to flow) and makes external fouling or soot buildup much harder to clean."
+  }
+]

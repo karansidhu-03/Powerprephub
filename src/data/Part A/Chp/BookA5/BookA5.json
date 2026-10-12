@@ -1,0 +1,1185 @@
+[
+  {
+    "number": 1,
+    "question": "Which of the following created by operating facilities may have an adverse affect on the environment:",
+    "options": {
+      "A": "Noise generation",
+      "B": "Incomplete combustion",
+      "C": "Planned vapor release",
+      "D": "Solid non-toxic wastes",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "Operating facilities can negatively impact the environment through various mechanisms, including noise, emissions from incomplete combustion, vapor releases, and waste generation[cite: 22]."
+  },
+  {
+    "number": 2,
+    "question": "New facilities such as compressor stations require a:",
+    "options": {
+      "A": "Wildlife impact statement",
+      "B": "Noise impact statement",
+      "C": "Air quality impact study",
+      "D": "Gas conservation study",
+      "E": "Soil impact study"
+    },
+    "correctAnswer": "B",
+    "explanation": "New industrial installations like compressor stations are typically required to submit a noise impact statement to evaluate sound levels on surrounding communities[cite: 22]."
+  },
+  {
+    "number": 3,
+    "question": "An operating facility may adversely impact the environment as a result of:\n1. Incomplete combustion\n2. Vapor releases\n3. Noise generation\n4. Unsightly process vessels and buildings\n5. Unpleasant odors",
+    "options": {
+      "A": "1, 2, 3, 4",
+      "B": "2, 3, 4",
+      "C": "1, 2, 3, 5",
+      "D": "1, 2, 3",
+      "E": "1, 3, 4, 5"
+    },
+    "correctAnswer": "C",
+    "explanation": "Environmental impact factors include operational emissions, releases, noise, and odors, whereas aesthetic appearance (unsightly structures) is generally not classed as an adverse environmental pollutant[cite: 22]."
+  },
+  {
+    "number": 4,
+    "question": "Pulverized coal that is burning very hot will result in:",
+    "options": {
+      "A": "Ozone layer depletion",
+      "B": "Ground level ozone",
+      "C": "Excessive noise",
+      "D": "Contaminated stratosphere",
+      "E": "Unpleasant odours"
+    },
+    "correctAnswer": "B",
+    "explanation": "High combustion temperatures favor the thermal fixation of nitrogen into NOx, which reacts in the presence of sunlight to form ground-level ozone[cite: 22]."
+  },
+  {
+    "number": 5,
+    "question": "Energy in the food web:",
+    "options": {
+      "A": "Does not leave the web",
+      "B": "Is self sustaining within the food web",
+      "C": "Travels from the top of the web to the bottom",
+      "D": "Is passed through the food web by heat radiation",
+      "E": "Originates from the sun"
+    },
+    "correctAnswer": "E",
+    "explanation": "All biological energy within an ecosystem originates via solar radiation captured by green plants through photosynthesis[cite: 22]."
+  },
+  {
+    "number": 6,
+    "question": "Organic matter is primarily deposited on the landscape by:",
+    "options": {
+      "A": "Wind",
+      "B": "Glaciers",
+      "C": "Vegetation",
+      "D": "Gravity",
+      "E": "Water"
+    },
+    "correctAnswer": "C",
+    "explanation": "Vegetation provides the primary organic matter input onto land surfaces through growth, litter drop, and decomposition[cite: 22]."
+  },
+  {
+    "number": 7,
+    "question": "The three types of actions that can result when a problem area is identified are:",
+    "options": {
+      "A": "Immediate, medium range and long term actions",
+      "B": "Permanent, intermediate and adoptive actions",
+      "C": "Short term, adaptive and long term actions",
+      "D": "Permanent, interim and adaptive actions",
+      "E": "Permanent, intermediate and long term actions"
+    },
+    "correctAnswer": "D",
+    "explanation": "When addressing operational or environmental issues, standard mitigation strategies are grouped into permanent, interim, and adaptive actions[cite: 22]."
+  },
+  {
+    "number": 8,
+    "question": "Carbon is removed from the atmosphere via:",
+    "options": {
+      "A": "Photosynthesis",
+      "B": "Decomposition",
+      "C": "Condensation",
+      "D": "Adsorption",
+      "E": "Combustion"
+    },
+    "correctAnswer": "A",
+    "explanation": "Plants capture carbon dioxide from the atmosphere during photosynthesis to synthesize organic compounds[cite: 22]."
+  },
+  {
+    "number": 9,
+    "question": "To lessen an environmental incident, operating personnel should know:",
+    "options": {
+      "A": "The material they are dealing with",
+      "B": "The isolation points in the process",
+      "C": "What is required to contain a release",
+      "D": "The problems that an upset in a process may cause to the environment",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "Operators must understand process chemistry, isolation boundaries, containment methods, and potential environmental failure modes to effectively prevent or mitigate incidents[cite: 22]."
+  },
+  {
+    "number": 10,
+    "question": "The dispersal patterns for airbourne particulate matter is reported in:",
+    "options": {
+      "A": "Wildlife impact statement",
+      "B": "Gas conservation study",
+      "C": "Air quality impact study",
+      "D": "Soil impact study",
+      "E": "Plant permit to operate"
+    },
+    "correctAnswer": "C",
+    "explanation": "Dispersion modeling and environmental assessment of airborne emissions are documented within an air quality impact study[cite: 22]."
+  },
+  {
+    "number": 11,
+    "question": "Re-used water in a SAGD production facilities must be minimum:",
+    "options": {
+      "A": "100%",
+      "B": "10%",
+      "C": "50%",
+      "D": "5%",
+      "E": "95%"
+    },
+    "correctAnswer": "E",
+    "explanation": "Steam-Assisted Gravity Drainage (SAGD) thermal recovery operations target exceptionally high water recycle rates, requiring a minimum of 95% re-used water[cite: 22]."
+  },
+  {
+    "number": 12,
+    "question": "Energy plant project design applications must include:",
+    "options": {
+      "A": "Alternate industrial or agricultural uses for the land",
+      "B": "Current environmental condition at the proposed construction site",
+      "C": "Potential costs due to future \"carbon taxes\"",
+      "D": "The projected cost of operators and labour",
+      "E": "Other future projects in the area from other industries"
+    },
+    "correctAnswer": "B",
+    "explanation": "Regulatory design filings require baseline environmental assessments detailing the pre-construction conditions of the proposed site[cite: 22]."
+  },
+  {
+    "number": 13,
+    "question": "A valuable tool in recognition of an environmental problem is frequent and comprehensive:",
+    "options": {
+      "A": "Engineering reports",
+      "B": "Operator checks",
+      "C": "Regulatory updates",
+      "D": "Reports to Government agencies",
+      "E": "Incident reports"
+    },
+    "correctAnswer": "B",
+    "explanation": "Routine, vigilant operator rounds and equipment checks provide the earliest detection of abnormal conditions or minor leaks[cite: 22]."
+  },
+  {
+    "number": 14,
+    "question": "The first action of plant personnel upon finding a minor unplanned environmental excursion is to:",
+    "options": {
+      "A": "Report the incident to OH&S",
+      "B": "Report the incident to ERCB",
+      "C": "Alert the rest of the plant personnel",
+      "D": "Report the incident to Provincial Environmental Authorities",
+      "E": "Minimize and control the release"
+    },
+    "correctAnswer": "E",
+    "explanation": "Immediate containment and source reduction take priority upon discovering any unplanned environmental release[cite: 22]."
+  },
+  {
+    "number": 15,
+    "question": "When hazardous waste is transported, the main regulation is:",
+    "options": {
+      "A": "Transportation of Dangerous Goods legislation",
+      "B": "Highway safety act",
+      "C": "Hazardous materials shipping bill",
+      "D": "Transport Canada road safety regulation",
+      "E": "Environmental protection agency"
+    },
+    "correctAnswer": "A",
+    "explanation": "The movement and handling of hazardous waste shipments are governed by Transportation of Dangerous Goods (TDG) regulations[cite: 22]."
+  },
+  {
+    "number": 16,
+    "question": "In the ecosystem, green plants are considered to be:",
+    "options": {
+      "A": "Inorganic matter",
+      "B": "Consumers",
+      "C": "Inactive matter",
+      "D": "Decomposers",
+      "E": "Producers"
+    },
+    "correctAnswer": "E",
+    "explanation": "Green plants produce organic compounds from inorganic precursors via photosynthesis, making them the primary producers of the ecosystem[cite: 22]."
+  },
+  {
+    "number": 17,
+    "question": "Components of an ecosystem are:",
+    "options": {
+      "A": "Vertically ordered",
+      "B": "Interconnected and interdependent",
+      "C": "Independent of each other",
+      "D": "Ranked from top to bottom",
+      "E": "Unchangeable"
+    },
+    "correctAnswer": "B",
+    "explanation": "Biotic and abiotic components within an ecosystem form complex networks that are closely interconnected and interdependent[cite: 22]."
+  },
+  {
+    "number": 18,
+    "question": "Ground water and surface water originates from:",
+    "options": {
+      "A": "Aeration",
+      "B": "Filtration",
+      "C": "Evaporation",
+      "D": "Vegetation",
+      "E": "Precipitation"
+    },
+    "correctAnswer": "E",
+    "explanation": "All surface water and groundwater systems are continuously replenished by atmospheric precipitation (rain and snow)[cite: 22]."
+  },
+  {
+    "number": 19,
+    "question": "The process where an organism takes in oxygen and releases Carbon Dioxide is called:",
+    "options": {
+      "A": "Deposition",
+      "B": "Absorption",
+      "C": "Photosynthesis",
+      "D": "Decomposition",
+      "E": "Respiration"
+    },
+    "correctAnswer": "E",
+    "explanation": "Cellular respiration involves organisms consuming oxygen to metabolize nutrients, subsequently releasing carbon dioxide[cite: 22]."
+  },
+  {
+    "number": 20,
+    "question": "Parent material for soil formation:",
+    "options": {
+      "A": "Is only organic material",
+      "B": "Is the same throughout the world",
+      "C": "Is not necessary",
+      "D": "Has been mostly deposited by glaciers in North America",
+      "E": "Is only mineral material deposited by glaciers, wind and water"
+    },
+    "correctAnswer": "D",
+    "explanation": "Much of the parent geological material underlying North American soils was transported and deposited by glacial action[cite: 22]."
+  },
+  {
+    "number": 21,
+    "question": "The ability of operating personnel to deal with unplanned substance releases in a timely and efficient manner is facilitated by:",
+    "options": {
+      "A": "Adaptive actions",
+      "B": "Continuous action plans",
+      "C": "Emergency plans",
+      "D": "Permanent action plans",
+      "E": "Incident plans"
+    },
+    "correctAnswer": "C",
+    "explanation": "Pre-established emergency response plans ensure staff can coordinate swift and efficient containment of accidental releases[cite: 22]."
+  },
+  {
+    "number": 22,
+    "question": "The environment consists of:",
+    "options": {
+      "A": "Organic and natural elements",
+      "B": "Soil and water",
+      "C": "Living and non-living elements",
+      "D": "Air and water cycles",
+      "E": "Plant and animal life"
+    },
+    "correctAnswer": "C",
+    "explanation": "The environment encompasses the complete integration of living (biotic) and non-living (abiotic) elements[cite: 22]."
+  },
+  {
+    "number": 23,
+    "question": "When decommissioning and abandoning a processing site:",
+    "options": {
+      "A": "A company liability study must be done",
+      "B": "An ERCB approved plan must be implemented",
+      "C": "An environmental impact study and a remedial plan must be made",
+      "D": "An OH&S study must be done",
+      "E": "A site restoration proposal must be done"
+    },
+    "correctAnswer": "C",
+    "explanation": "Site abandonment requires comprehensive environmental impact assessments and structured remediation plans to restore the land[cite: 22]."
+  },
+  {
+    "number": 24,
+    "question": "Plant tissue that becomes trapped in sedimentary rock is the main source of:",
+    "options": {
+      "A": "Photosynthesis",
+      "B": "Hydrocarbons",
+      "C": "Groundwater",
+      "D": "Nitrogen",
+      "E": "Nutrients"
+    },
+    "correctAnswer": "B",
+    "explanation": "Buried ancient organic plant matter compressed within sedimentary strata over geological time forms fossil hydrocarbon deposits[cite: 22]."
+  },
+  {
+    "number": 25,
+    "question": "Herbivores and/or carnivores as they are seen in the ecosystem are considered:",
+    "options": {
+      "A": "Consumers",
+      "B": "Decomposers",
+      "C": "Producers",
+      "D": "Inorganic matter",
+      "E": "Inactive matter"
+    },
+    "correctAnswer": "A",
+    "explanation": "Animals that consume other organisms (plants or animals) occupy consumer trophic levels in the ecosystem[cite: 22]."
+  },
+  {
+    "number": 26,
+    "question": "Who provides the most effective means of problem recognition in a plant:",
+    "options": {
+      "A": "Occupational Health and Safety",
+      "B": "Cleaning staff",
+      "C": "Operating and maintenance personnel",
+      "D": "Plant superintendent",
+      "E": "Fire Marshall"
+    },
+    "correctAnswer": "C",
+    "explanation": "Plant operators and maintenance staff work closely with the physical equipment daily, making them the primary line of defense for problem identification[cite: 22]."
+  },
+  {
+    "number": 27,
+    "question": "The process whereby plants consume carbon dioxide, water, and the suns energy to make food is known as the:",
+    "options": {
+      "A": "Photosynthetic cycle",
+      "B": "Meteorological cycle",
+      "C": "Photoelectric cycle",
+      "D": "Hydrological cycle",
+      "E": "Hydrostatic cycle"
+    },
+    "correctAnswer": "A",
+    "explanation": "Photosynthesis is the biochemical process where plants convert solar energy, water, and CO2 into chemical energy[cite: 22]."
+  },
+  {
+    "number": 28,
+    "question": "Air is predominantly composed of:",
+    "options": {
+      "A": "O₂ and CO₂",
+      "B": "O₂, N₂ and CH₄",
+      "C": "O₂, CO₂ and CH₄",
+      "D": "O₂, CO₂ and H₂",
+      "E": "O₂ and N₂"
+    },
+    "correctAnswer": "E",
+    "explanation": "Dry air is primarily composed of nitrogen and oxygen, which account for roughly 99% of atmospheric volume[cite: 22]."
+  },
+  {
+    "number": 29,
+    "question": "The land area where water shares the spaces between soil particles with air is known as the:",
+    "options": {
+      "A": "Water table zone",
+      "B": "Aerated upper zone",
+    "C": "Saturation zone",
+    "D": "Zone of discharge",
+    "E": "Infiltration zone"
+  },
+    "correctAnswer": "B",
+    "explanation": "The unsaturated or aerated zone above the water table contains soil pores occupied by both air and water[cite: 22]."
+  },
+  {
+    "number": 30,
+    "question": "Dramatic changes in atmospheric CO2 concentration can be produced by:",
+    "options": {
+      "A": "Volcanic activity",
+      "B": "Drought",
+      "C": "Extensive floods",
+      "D": "Changes in Ice caps",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "Large-scale environmental events, geological processes, and climatic shifts all influence global atmospheric carbon dioxide balances[cite: 22]."
+  },
+  {
+    "number": 31,
+    "question": "The three major components in an ecosystem are:",
+    "options": {
+      "A": "Producers, consumers and sun's energy",
+      "B": "Producers, consumers and inactive organic matter",
+      "C": "Animals, plants and air",
+      "D": "Animals, plants and decomposers",
+      "E": "Producers, consumers and air"
+    },
+    "correctAnswer": "B",
+    "explanation": "Ecological functional models categorize components into producers, consumers, and inactive organic matter[cite: 22]."
+  },
+  {
+    "number": 32,
+    "question": "Inactive organic matter includes:",
+    "options": {
+      "A": "Fungi, inorganic materials",
+      "B": "Sediments, microbes",
+      "C": "Omnivores, nutrients in water",
+      "D": "Nutrients in water, sediments",
+      "E": "Consumers, producers"
+    },
+    "correctAnswer": "D",
+    "explanation": "Inactive organic matter comprises non-living organic reservoirs such as dissolved nutrients in water and organic sediments[cite: 22]."
+  },
+  {
+    "number": 33,
+    "question": "Almost all atmospheric water is contained in:",
+    "options": {
+      "A": "Exosphere",
+      "B": "Mesosphere",
+      "C": "Thermosphere",
+      "D": "Stratosphere",
+      "E": "Troposphere"
+    },
+    "correctAnswer": "E",
+    "explanation": "The troposphere holds the vast majority of atmospheric moisture and weather phenomena[cite: 23]."
+  },
+  {
+    "number": 34,
+    "question": "Incomplete combustion of fuel is responsible for the production of:",
+    "options": {
+      "A": "Carbon dioxide",
+      "B": "Sulphur dioxide",
+      "C": "Hydrogen sulphide",
+      "D": "Carbon monoxide",
+      "E": "Water vapor"
+    },
+    "correctAnswer": "D",
+    "explanation": "Carbon monoxide is generated when carbon-based fuels undergo partial or incomplete combustion due to insufficient oxygen[cite: 23]."
+  },
+  {
+    "number": 35,
+    "question": "Which of the following does acid rain have the greatest effect on?",
+    "options": {
+      "A": "Roots",
+      "B": "Plant stems",
+      "C": "Plant reproductive systems",
+      "D": "Tree bark",
+      "E": "Leaves"
+    },
+    "correctAnswer": "E",
+    "explanation": "Acid deposition directly damages foliage and leaf surfaces, impairing plant respiration and photosynthesis[cite: 23]."
+  },
+  {
+    "number": 36,
+    "question": "Choose all of the following statements that are true:\n1. Sound travels through vibrations in air pressure\n2. Sound waves are reflected, deflected and absorbed\n3. Sound is a form of energy\n4. Sound travels through a vacuum\n5. Sound always travels at a constant wave length",
+    "options": {
+      "A": "2, 3, 4, 5",
+      "B": "1, 2, 3",
+      "C": "1, 3, 5",
+      "D": "1, 2, 3, 4",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "B",
+    "explanation": "Sound requires a physical medium to propagate and cannot travel through a vacuum, making statements 1, 2, and 3 true[cite: 23]."
+  },
+  {
+    "number": 37,
+    "question": "To reduce nitrogen oxides in the flue gas, specially designed low NOx burners:",
+    "options": {
+      "A": "Reduces turbulence to delay combustion hence reducing temperatures",
+      "B": "Completes combustion in the burner tube before the furnace area",
+      "C": "Increases turbulence for most efficient combustion",
+      "D": "Supplies cooling air to reduce furnace temperature",
+      "E": "Uses maximum excess air for combustion high temperatures"
+    },
+    "correctAnswer": "A",
+    "explanation": "Low-NOx burners stage air and fuel mixing to lower peak flame temperatures and suppress thermal NOx formation[cite: 23]."
+  },
+  {
+    "number": 38,
+    "question": "When monitoring pollutants, the emissions that is not part of the Criteria Area Contaminants is:",
+    "options": {
+      "A": "Carbon Monoxide",
+      "B": "Nitrogen Oxides",
+      "C": "Carbon Dioxide",
+      "D": "Sulfur Oxides",
+      "E": "Ammonia"
+    },
+    "correctAnswer": "E",
+    "explanation": "Standard Criteria Area Contaminants (CACs) include CO, NOx, SOx, and particulates, whereas ammonia is tracked under separate chemical management frameworks[cite: 23]."
+  },
+  {
+    "number": 39,
+    "question": "The gaseous pollutant that contributes to ozone depletion is:",
+    "options": {
+      "A": "Carbon monoxide",
+      "B": "Chlorofluorocarbons",
+      "C": "Sulphur oxide",
+      "D": "Carbon dioxide",
+      "E": "Methane"
+    },
+    "correctAnswer": "B",
+    "explanation": "Chlorofluorocarbons (CFCs) migrate to the stratosphere, where they catalyze the destruction of ozone molecules[cite: 23]."
+  },
+  {
+    "number": 40,
+    "question": "Carbon monoxide is produced as a result of:",
+    "options": {
+      "A": "Too high a combustion temperature",
+      "B": "Slow movement of fuel through the furnace",
+      "C": "A shortage of oxygen in the furnace",
+      "D": "Excess air in the combustion chamber",
+      "E": "Too large a furnace"
+    },
+    "correctAnswer": "C",
+    "explanation": "A localized or overall deficiency of combustion air prevents carbon from fully oxidizing to CO2, resulting in carbon monoxide[cite: 23]."
+  },
+  {
+    "number": 41,
+    "question": "The greenhouse effect is responsible for:",
+    "options": {
+      "A": "Depleting the ozone layer",
+      "B": "Maintaining temperatures that support life",
+      "C": "Causing acid rain",
+      "D": "Increase in harmful UV radiation",
+      "E": "Noise pollution"
+    },
+    "correctAnswer": "B",
+    "explanation": "The natural greenhouse effect traps outgoing thermal radiation, maintaining planetary temperatures suitable for supporting life[cite: 23]."
+  },
+  {
+    "number": 42,
+    "question": "The technique used to determine NOx in stack emissions is:",
+    "options": {
+      "A": "Non Dispersive Infrared Detection",
+      "B": "Forward Looking Infrared",
+      "C": "Chemiluminesence",
+      "D": "Pulsed Fluorescence",
+      "E": "Dipolar Photosynchronology"
+    },
+    "correctAnswer": "C",
+    "explanation": "Chemiluminescence analyzers are standard continuous emission monitoring instruments used to measure nitric oxides precisely[cite: 23]."
+  },
+  {
+    "number": 43,
+    "question": "Ozone is harmful at:",
+    "options": {
+      "A": "Lower levels in the atmosphere",
+      "B": "Sub-stratospheric levels in the atmosphere",
+      "C": "Stratospheric levels in the atmosphere",
+      "D": "All levels in the atmosphere",
+      "E": "Upper levels in the atmosphere"
+    },
+    "correctAnswer": "A",
+    "explanation": "Ground-level (tropospheric) ozone acts as a harmful pollutant and respiratory irritant, unlike protective stratospheric ozone[cite: 23]."
+  },
+  {
+    "number": 44,
+    "question": "A sampling and analyzing train:",
+    "options": {
+      "A": "Cannot be operated automatically",
+      "B": "Measures the amounts of several types of emissions",
+      "C": "Monitors flue gas for one type of emission",
+      "D": "Cannot be used to obtain permanent records",
+      "E": "Measures the frequency composition of noise"
+    },
+    "correctAnswer": "B",
+    "explanation": "Emission sampling trains are configured to extract and measure multiple gaseous pollutant concentrations simultaneously[cite: 23]."
+  },
+  {
+    "number": 45,
+    "question": "Loud noises may be controlled by:\n1. Building sound proof enclosures around equipment\n2. Running the equipment at high speeds\n3. Using silencers on the air intakes to forced draft fans\n4. Using mufflers on equipment exhausts\n5. Running noisy equipment at night when everyone is asleep",
+    "options": {
+      "A": "1, 2, 3, 4",
+      "B": "1, 3, 4",
+      "C": "1, 2, 4",
+      "D": "1, 3, 4, 5",
+      "E": "1, 2, 3, 4, 5"
+    },
+    "correctAnswer": "B",
+    "explanation": "Effective engineering noise controls include acoustic enclosures, intake silencers, and exhaust mufflers (items 1, 3, and 4)[cite: 23]."
+  },
+  {
+    "number": 46,
+    "question": "A device for measuring flue gas emissions is called:",
+    "options": {
+      "A": "CEMS",
+      "B": "PH analyser",
+      "C": "Gas tester",
+      "D": "Calorimeter",
+      "E": "Elevation meter"
+    },
+    "correctAnswer": "A",
+    "explanation": "Continuous Emission Monitoring Systems (CEMS) are installed on industrial stacks to track pollutant levels in real time[cite: 23]."
+  },
+  {
+    "number": 47,
+    "question": "Decibels are represented by a/an:",
+    "options": {
+      "A": "Reference scale",
+      "B": "Exponential scale",
+      "C": "Logarithmic scale",
+      "D": "Intensity scale",
+      "E": "Arithmetic scale"
+    },
+    "correctAnswer": "C",
+    "explanation": "Sound levels are expressed in decibels using a logarithmic scale to accommodate the vast human auditory range[cite: 23]."
+  },
+  {
+    "number": 48,
+    "question": "Sound pressure level is expressed in:",
+    "options": {
+      "A": "Watts",
+      "B": "psi (pounds per square inch)",
+      "C": "Decibels",
+      "D": "kPa (kilopascals)",
+      "E": "Amps"
+    },
+    "correctAnswer": "C",
+    "explanation": "Acoustic intensity and sound pressure levels are universally quantified in decibels (dB)[cite: 23]."
+  },
+  {
+    "number": 49,
+    "question": "Hydrogen as an alternate fuel is considered ideal because:",
+    "options": {
+      "A": "It burns at low temperatures therefore minimizing NOx formation",
+      "B": "It has nearly the same heating value as carbon",
+      "C": "Water vapor is the only product of combustion",
+      "D": "It is safe and easy to store",
+      "E": "The cost of production is minimal"
+    },
+    "correctAnswer": "C",
+    "explanation": "Burning pure hydrogen produces water vapor as its sole combustion byproduct, eliminating carbon emissions entirely[cite: 23]."
+  },
+  {
+    "number": 50,
+    "question": "Chlorofluorocarbons:",
+    "options": {
+      "A": "Break down and become harmless as they rise in the atmosphere",
+      "B": "Are the main heat trapping gases responsible for the greenhouse effect",
+      "C": "Destroy ozone after they reach the stratosphere",
+      "D": "Contribute to the acid rain problem",
+      "E": "Combine with ozone to produce toxins"
+    },
+    "correctAnswer": "C",
+    "explanation": "CFCs drift upward into the stratosphere, where ultraviolet radiation releases chlorine atoms that break down ozone[cite: 23]."
+  },
+  {
+    "number": 51,
+    "question": "Noise pollution is caused by:\n1. High speed equipment\n2. Popping high pressure safety valves\n3. Chimneys\n4. Jack hammers\n5. Riveting operations",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "3, 4, 5",
+      "C": "2, 3, 4, 5",
+      "D": "1, 2, 4, 5",
+      "E": "1, 3, 4, 5"
+    },
+    "correctAnswer": "D",
+    "explanation": "High-speed machinery, safety valve lifts, jackhammers, and riveting generate intense industrial noise, whereas stationary chimneys do not[cite: 23]."
+  },
+  {
+    "number": 52,
+    "question": "Methane gas is sometimes produced by:",
+    "options": {
+      "A": "Discharging Halon fire extinguishers",
+      "B": "Insufficient combustion air",
+      "C": "The burning of plastics",
+      "D": "Decomposition of organic matter in a wetland",
+      "E": "High intensity sunlight acting on ozone"
+    },
+    "correctAnswer": "D",
+    "explanation": "Methanogenic bacteria decompose organic matter under anaerobic conditions in wetlands, landfills, and agricultural settings[cite: 23]."
+  },
+  {
+    "number": 53,
+    "question": "Nitrogen oxides are referred to collectively as:",
+    "options": {
+      "A": "NO's",
+      "B": "N₂O₅",
+      "C": "NOx",
+      "D": "NO₂",
+      "E": "N₂O"
+    },
+    "correctAnswer": "C",
+    "explanation": "Nitric oxide and nitrogen dioxide are collectively grouped and regulated under the chemical abbreviation NOx[cite: 23]."
+  },
+  {
+    "number": 54,
+    "question": "Greenhouse gases allow _____ radiation to reach the earth.",
+    "options": {
+      "A": "Low energy",
+      "B": "Short energy",
+      "C": "High energy",
+      "D": "Long energy",
+      "E": "All energy level"
+    },
+    "correctAnswer": "C",
+    "explanation": "Atmospheric greenhouse gases are transparent to incoming high-energy shortwave solar radiation, but absorb outgoing longwave radiation[cite: 23]."
+  },
+  {
+    "number": 55,
+    "question": "The acceptable design sound level heard at the nearest permanently or seasonally occupied dwelling would be stated in the:",
+    "options": {
+      "A": "Wildlife impact statement",
+      "B": "Air quality impact study",
+      "C": "Gas conservation study",
+      "D": "Soil impact study",
+      "E": "Noise impact statement"
+    },
+    "correctAnswer": "E",
+    "explanation": "Noise impact assessments establish permissible decibel limits at nearby residential receptors[cite: 23]."
+  },
+  {
+    "number": 56,
+    "question": "Nitrogen oxides in flue gas may be reduced by:",
+    "options": {
+      "A": "Raising the furnace temperature",
+      "B": "Reducing the percentage of excess air",
+      "C": "Employing a dilute sulphuric acid scrubbing system",
+      "D": "Decreasing the size of the furnace",
+      "E": "Scrubbing the flue gas with lime"
+    },
+    "correctAnswer": "B",
+    "explanation": "Operating with lower excess air limits available oxygen in high-temperature zones, thereby reducing NOx formation[cite: 23]."
+  },
+  {
+    "number": 57,
+    "question": "Carbon dioxide is responsible for _____ of greenhouse gasses.",
+    "options": {
+      "A": "92%",
+      "B": "20%",
+      "C": "76%",
+      "D": "66%",
+      "E": "45%"
+    },
+    "correctAnswer": "D",
+    "explanation": "Carbon dioxide constitutes approximately 66% of total anthropogenic greenhouse gas radiative forcing contributions[cite: 23]."
+  },
+  {
+    "number": 58,
+    "question": "Systems designed to reduce SO2 are also effective in reducing the concentration of:",
+    "options": {
+      "A": "CO",
+      "B": "H₂O",
+      "C": "CO₂",
+      "D": "NOx",
+      "E": "SO₃"
+    },
+    "correctAnswer": "D",
+    "explanation": "Certain flue gas desulfurization and scrubbing systems also achieve co-benefit reductions in nitrogen oxides[cite: 23]."
+  },
+  {
+    "number": 59,
+    "question": "Damaging sound pressure levels affecting plant personnel could not be reduced by:",
+    "options": {
+      "A": "Changing the frequency of the sound",
+      "B": "Wearing protective equipment",
+      "C": "Modifying the equipment operating conditions",
+      "D": "Enclosing the noise source",
+      "E": "Building a barrier"
+    },
+    "correctAnswer": "A",
+    "explanation": "Altering sound frequency does not reduce sound pressure energy levels; effective control requires PPE, source modification, enclosures, or barriers[cite: 23]."
+  },
+  {
+    "number": 60,
+    "question": "In order for acid rain to be formed:",
+    "options": {
+      "A": "Atmosphere temperatures must be correct",
+      "B": "Water vapors and cool temperatures must apply",
+      "C": "Sunlight must be present",
+      "D": "Water vapor and sunlight must be present",
+      "E": "Water vapor must be present"
+    },
+    "correctAnswer": "E",
+    "explanation": "Sulfur and nitrogen oxides require atmospheric moisture (water vapor) to react and precipitate as dilute acids[cite: 23]."
+  },
+  {
+    "number": 61,
+    "question": "Personal protective devices designed to protect power plant operators from gas and noise emissions, include the following equipment:\n1. Hard hats\n2. Ear muffs\n3. Soft toed shoes or boots\n4. Safety boots\n5. Dust masks\n6. Breathing air packs",
+    "options": {
+      "A": "1, 2, 3, 4, 5, 6",
+      "B": "1, 2, 5, 6",
+      "C": "1, 2, 4, 5",
+      "D": "3, 4, 6",
+      "E": "2, 5, 6"
+    },
+    "correctAnswer": "E",
+    "explanation": "Ear muffs (2), dust masks (5), and air packs (6) specifically protect workers against noise and airborne gas/dust hazards[cite: 23]."
+  },
+  {
+    "number": 62,
+    "question": "Reducing the amount of Carbon Monoxide produced in a boiler can be achieved by:",
+    "options": {
+      "A": "All these are important to help reduce Carbon monoxide emissions",
+      "B": "Providing sufficient oxygen to fully convert CO to CO2",
+      "C": "Ensuring adequate turbulence to fully mix the fuel and air",
+      "D": "Providing sufficient time for complete combustion",
+      "E": "Ensuring the temperature is hot enough to support continuous complete combustion"
+    },
+    "correctAnswer": "A",
+    "explanation": "Complete combustion relies on the fundamental '3 Ts'—time, temperature, and turbulence—along with adequate oxygen[cite: 23]."
+  },
+  {
+    "number": 63,
+    "question": "Methane has a global warming potential _____ times more than Carbon Dioxide.",
+    "options": {
+      "A": "250",
+      "B": "0.25",
+      "C": "2.5",
+      "D": "25",
+      "E": "2500"
+    },
+    "correctAnswer": "D",
+    "explanation": "Over a 100-year timescale, methane has a global warming potential roughly 25 times greater than carbon dioxide[cite: 23]."
+  },
+  {
+    "number": 64,
+    "question": "Sulphur oxides in flue gas are undesirable because they:",
+    "options": {
+      "A": "Use up the sulphur in the fuel",
+      "B": "Reduce combustion efficiency",
+      "C": "Combine with sunlight to produce smog",
+      "D": "Contribute to acid rain",
+      "E": "Are an indicator of incomplete combustion in the furnace"
+    },
+    "correctAnswer": "D",
+    "explanation": "Sulfur dioxide emissions react with atmospheric moisture to form sulfuric acid, which is a primary contributor to acid rain[cite: 23]."
+  },
+  {
+    "number": 65,
+    "question": "A method proven to reduce emissions of sulphur oxides in the flue gas is to:",
+    "options": {
+      "A": "Increase the size of the furnace",
+      "B": "Use dilute sulphuric acid to scrub the flue gas",
+      "C": "Lower the furnace temperature",
+      "D": "Scrub the flue gas with lime or limestone",
+      "E": "Reduce the amount of excess air"
+    },
+    "correctAnswer": "D",
+    "explanation": "Flue gas desulfurization (FGD) systems use alkaline sorbents like lime or limestone slurry to scrub SO2 from exhaust gases[cite: 23]."
+  },
+  {
+    "number": 66,
+    "question": "Converting carbon monoxide to carbon dioxide in the furnace may be accomplished by:\n1. Increasing the amount of combustion air\n2. Decreasing the time the fuel spends in the furnace\n3. Burning lime with the fuel\n4. Not overloading the boiler\n5. Ensuring a good fuel/air mixture",
+    "options": {
+      "A": "2, 4, 5",
+      "B": "2, 3, 4",
+      "C": "3, 4, 5",
+      "D": "1, 2, 4",
+      "E": "1, 4, 5"
+    },
+    "correctAnswer": "E",
+    "explanation": "Adequate combustion air, avoiding boiler overload, and proper fuel-air mixing ensure complete oxidation of CO to CO2 (items 1, 4, and 5)[cite: 23]."
+  },
+  {
+    "number": 67,
+    "question": "The upper level gas that shields the earth from ultraviolet radiation is:",
+    "options": {
+      "A": "Ozone",
+      "B": "Chlorofluorocarbons",
+      "C": "Nitrogen",
+      "D": "Methane",
+      "E": "Carbon dioxide"
+    },
+    "correctAnswer": "A",
+    "explanation": "Stratospheric ozone forms a protective layer that absorbs harmful solar ultraviolet radiation[cite: 23]."
+  },
+  {
+    "number": 68,
+    "question": "Noise monitors (sound meters) measure the decibel rating and contain:",
+    "options": {
+      "A": "Weighting networks",
+      "B": "Sound dampers",
+      "C": "Acoustic eliminators",
+      "D": "Acoustic amplifiers",
+      "E": "Sound amplifiers"
+    },
+    "correctAnswer": "A",
+    "explanation": "Sound level meters incorporate standardized frequency weighting networks (such as dBA) to match human hearing response[cite: 23]."
+  },
+  {
+    "number": 69,
+    "question": "Gaseous pollutants emitted from power plants are:",
+    "options": {
+      "A": "Carbon Monoxide, Sulphur Oxides",
+      "B": "Nitrogen, Natural gas",
+      "C": "Natural gas, Water",
+      "D": "Oxygen, Nitrogen",
+      "E": "Solid waste, Carbon Monoxide"
+    },
+    "correctAnswer": "A",
+    "explanation": "Typical gaseous combustion pollutants include carbon monoxide and sulfur oxides[cite: 23]."
+  },
+  {
+    "number": 70,
+    "question": "Northern lights are located in:",
+    "options": {
+      "A": "Troposphere",
+      "B": "Stratosphere",
+      "C": "Exosphere",
+      "D": "Thermosphere",
+      "E": "Mesosphere"
+    },
+    "correctAnswer": "D",
+    "explanation": "Auroras (Northern Lights) occur due to energetic particle collisions in the thermosphere[cite: 23]."
+  },
+  {
+    "number": 71,
+    "question": "The conversion of nitrogen to NOx occurs at temperatures above:",
+    "options": {
+      "A": "1 850ºC",
+      "B": "1 450ºC",
+      "C": "1 250ºC",
+      "D": "2 250ºC",
+      "E": "1 650ºC"
+    },
+    "correctAnswer": "E",
+    "explanation": "Thermal NOx formation accelerates significantly when combustion temperatures exceed approximately 1,650 °C[cite: 23]."
+  },
+  {
+    "number": 72,
+    "question": "Cooling ponds are used to control:",
+    "options": {
+      "A": "Effluent PH",
+      "B": "Thermal pollution",
+      "C": "Entrained fine particulate",
+      "D": "Dissolved toxic gases",
+      "E": "Grease and oil"
+    },
+    "correctAnswer": "B",
+    "explanation": "Cooling ponds allow industrial discharge water to dissipate waste heat into the atmosphere before returning to natural water bodies, preventing thermal pollution[cite: 24]."
+  },
+  {
+    "number": 73,
+    "question": "An effluent is:",
+    "options": {
+      "A": "Smog",
+      "B": "A substance that flows out of a process",
+      "C": "Caused by over production of flue gas",
+      "D": "The result of a weather inversion",
+      "E": "Always a pollutant"
+    },
+    "correctAnswer": "B",
+    "explanation": "An effluent is defined as treated or untreated liquid waste material that flows out of an industrial facility or process[cite: 24]."
+  },
+  {
+    "number": 74,
+    "question": "Liquid pollutants emitted from power plants include:\n1. Water at elevated temperatures\n2. Waste water from flue gas scrubbing\n3. Waste water from water treatment processes\n4. Waste water from ash handling operations",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "2, 4",
+      "C": "2, 3, 4",
+      "D": "1, 4",
+      "E": "1, 2, 3, 4"
+    },
+    "correctAnswer": "E",
+    "explanation": "All listed sources—heated cooling water, scrubber blowdown, water treatment regenerant waste, and ash transport water—constitute power plant liquid effluent streams[cite: 24]."
+  },
+  {
+    "number": 75,
+    "question": "Hazardous material is not a problem unless:",
+    "options": {
+      "A": "A loss of product is experienced",
+      "B": "It is present in the environment",
+      "C": "It is present in the ecosystem",
+      "D": "It is noticed by operating personnel",
+      "E": "A loss of control is experienced"
+    },
+    "correctAnswer": "E",
+    "explanation": "Hazardous materials remain manageable when safely contained; environmental risk arises primarily upon a loss of containment or operational control[cite: 24]."
+  },
+  {
+    "number": 76,
+    "question": "Solid pollutants such as flyash are produced when burning:\n1. Natural gas\n2. Municipal Solid Waste\n3. Wood\n4. Coal",
+    "options": {
+      "A": "1, 4",
+      "B": "3, 4",
+      "C": "1, 2, 3, 4",
+      "D": "1, 2, 3",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "E",
+    "explanation": "Burning solid and waste fuels like municipal solid waste, wood, and coal generates ash particulates, whereas clean natural gas combustion does not[cite: 24]."
+  },
+  {
+    "number": 77,
+    "question": "Water that exists in the soil and rock formation is known as:",
+    "options": {
+      "A": "Tap water",
+      "B": "Soil water",
+      "C": "Surface water",
+      "D": "Contaminated water",
+      "E": "Ground water"
+    },
+    "correctAnswer": "E",
+    "explanation": "Water occupying saturated pore spaces in underground geological strata and soil is classified as groundwater[cite: 24]."
+  },
+  {
+    "number": 78,
+    "question": "Hazardous liquids should be handled according to information supplied on:",
+    "options": {
+      "A": "Progress reports",
+      "B": "Occupational Health and Safety Regulations",
+      "C": "Plant operation manuals",
+      "D": "Material Safety Data Sheets",
+      "E": "General safety reports"
+    },
+    "correctAnswer": "D",
+    "explanation": "Safety Data Sheets (MSDS/SDS) provide specific handling, personal protective equipment, and spill response guidelines for hazardous liquids[cite: 24]."
+  },
+  {
+    "number": 79,
+    "question": "Settling ponds are used to remove:",
+    "options": {
+      "A": "Suspended particulate matter",
+      "B": "Dissolved gases",
+      "C": "Floating pollutants",
+      "D": "Emulsions",
+      "E": "Very fine colloidal particles"
+    },
+    "correctAnswer": "A",
+    "explanation": "Settling basins utilize gravity to allow suspended solid particulates to drop out of wastewater streams[cite: 24]."
+  },
+  {
+    "number": 80,
+    "question": "Using centrifuges to treat liquid waste is a:",
+    "options": {
+      "A": "Physical treatment",
+      "B": "Chemical treatment",
+      "C": "Biological treatment",
+      "D": "Thermal treatment",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "A",
+    "explanation": "Centrifugal separation relies on rotational mechanical force, classifying it as a physical wastewater treatment method[cite: 24]."
+  },
+  {
+    "number": 81,
+    "question": "Most Flue Gas Desufurization byproducts are disposed of by:",
+    "options": {
+      "A": "Used by the landscaping industry",
+      "B": "Diverted to waste disposal",
+      "C": "Used by construction industry",
+      "D": "Used to build roads",
+      "E": "Used to produce sulfuric acid"
+    },
+    "correctAnswer": "B",
+    "explanation": "While some gypsum is recycled, the majority of flue gas desulfurization (FGD) solid byproducts are directed to engineered waste disposal landfills[cite: 24]."
+  },
+  {
+    "number": 82,
+    "question": "Solid pollutants emitted from coal power plants are:\n1. Slag\n2. Soot\n3. Flyash\n4. Carbon monoxide\n5. Sulphur dioxide\n6. Sulphuric acid",
+    "options": {
+      "A": "1, 2, 3, 6",
+      "B": "2, 4, 5",
+      "C": "2, 3, 6",
+      "D": "1, 2, 3",
+      "E": "1, 2, 3, 4, 5, 6"
+    },
+    "correctAnswer": "D",
+    "explanation": "Slag, soot, and flyash represent solid particulate byproducts of coal combustion, whereas CO, SO2, and H2SO4 are gaseous or chemical compounds[cite: 24]."
+  },
+  {
+    "number": 83,
+    "question": "Thermally separated layers in lakes are called:",
+    "options": {
+      "A": "Temperature layers",
+      "B": "Inclines",
+      "C": "Thermoclines",
+      "D": "Anticlines",
+      "E": "Temperature gradients"
+    },
+    "correctAnswer": "C",
+    "explanation": "A thermocline is the distinct transition layer in a body of water where temperature changes more rapidly with depth than the layers above or below[cite: 24]."
+  },
+  {
+    "number": 84,
+    "question": "Coagulants are substances used to:",
+    "options": {
+      "A": "Remove grease from water",
+      "B": "Remove small particles from water",
+      "C": "Remove dissolved solids from water",
+      "D": "Remove phosphate and nitrates from water",
+      "E": "Control the pH of effluent water"
+    },
+    "correctAnswer": "B",
+    "explanation": "Coagulant chemicals neutralize electrical charges on tiny suspended particles, allowing them to clump together and settle out of water[cite: 24]."
+  },
+  {
+    "number": 85,
+    "question": "Flyash is removed from bag filters by a system of:",
+    "options": {
+      "A": "Shakers",
+      "B": "Electrostatic precipitators",
+      "C": "Rollers",
+      "D": "Hammers",
+      "E": "Rappers"
+    },
+    "correctAnswer": "E",
+    "explanation": "Fabric filter baghouses typically employ mechanical cleaning mechanisms or compressed air pulses and rappers to dislodge accumulated fly ash cake[cite: 24]."
+  },
+  {
+    "number": 86,
+    "question": "In an electrostatic precipitator, the:",
+    "options": {
+      "A": "Discharge electrode is positively charged",
+      "B": "Discharge electrode and the particles are positively charged",
+      "C": "Collector electrode is negatively charged",
+      "D": "Particles are positively charged",
+      "E": "Discharge electrode is negatively charged"
+    },
+    "correctAnswer": "E",
+    "explanation": "Electrostatic precipitators charge fly ash particles negatively by maintaining a high-voltage negative charge on the discharge electrodes[cite: 24]."
+  },
+  {
+    "number": 87,
+    "question": "The best way to destroy many organic materials is to:",
+    "options": {
+      "A": "Incinerate them at high temperature",
+      "B": "Put them in a landfill",
+      "C": "Encaps them and bury then at sea",
+      "D": "Inject them down deep wells",
+      "E": "Encapsulate them and bury them underground"
+    },
+    "correctAnswer": "A",
+    "explanation": "High-temperature thermal incineration effectively destroys hazardous organic compounds by breaking down their molecular structures[cite: 24]."
+  },
+  {
+    "number": 88,
+    "question": "The ability of water to dissolve oxygen:",
+    "options": {
+      "A": "Increases with the increase in water temperature",
+      "B": "Decreases with the decrease in water temperature",
+      "C": "Decreases with the increase in water temperature",
+      "D": "Does not change with temperature",
+      "E": "None of these are correct"
+    },
+    "correctAnswer": "C",
+    "explanation": "The solubility of dissolved oxygen in water decreases as water temperature rises, which exacerbates thermal pollution impacts[cite: 24]."
+  },
+  {
+    "number": 89,
+    "question": "Mechanical centrifugal collectors are not suitable for the collection of:",
+    "options": {
+      "A": "Very fine particles",
+      "B": "Coarse particles",
+      "C": "Heavy particles",
+      "D": "Very coarse particles",
+      "E": "Rough particles"
+    },
+    "correctAnswer": "A",
+    "explanation": "Cyclones and mechanical centrifugal collectors rely on inertia and are inefficient at capturing extremely fine, lightweight particulate matter[cite: 24]."
+  },
+  {
+    "number": 90,
+    "question": "Floatation Grease traps separate grease from water use the principle of:",
+    "options": {
+      "A": "Rotation filter cylinder",
+      "B": "Centrifugal separation",
+      "C": "Vacuum filters",
+      "D": "Settling pond",
+      "E": "Different density"
+    },
+    "correctAnswer": "E",
+    "explanation": "Grease and oil flotation separators operate by exploiting density differences between hydrocarbons and water, allowing lighter fats to float to the surface[cite: 24]."
+  },
+  {
+    "number": 91,
+    "question": "Mechanical centrifugal collectors remove particulates by means of:",
+    "options": {
+      "A": "Gravitational force",
+      "B": "Abrupt change in direction",
+      "C": "Impingement on Barriers",
+      "D": "Centrifugal force",
+      "E": "All these answers are correct"
+    },
+    "correctAnswer": "D",
+    "explanation": "Centrifugal collectors utilize cyclonic spin to throw particulate matter outward via centrifugal force against collection walls[cite: 24]."
+  }
+]

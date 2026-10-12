@@ -1,0 +1,132 @@
+[
+  {
+    "number": 1,
+    "question": "Vectors whose lines of action meet at one point are called:",
+    "options": {
+      "A": "Coplanar",
+      "B": "Resiltant",
+      "C": "Concurrent",
+      "D": "Convergent",
+      "E": "Constant"
+    },
+    "correctAnswer": "C",
+    "explanation": "Concurrent vectors are those whose lines of action all intersect at a single common point [Vectors and Scalars]."
+  },
+  {
+    "number": 2,
+    "question": "Concurrent vectors all meet at the same:",
+    "options": {
+      "A": "Magnitude",
+      "B": "Velocity",
+      "C": "Direction",
+      "D": "Plane",
+      "E": "Place"
+    },
+    "correctAnswer": "E",
+    "explanation": "By definition, concurrent vectors intersect or meet at the same place or point [Vectors and Scalars]."
+  },
+  {
+    "number": 3,
+    "question": "A scalar quantity has:",
+    "options": {
+      "A": "Numerical size of the quantity only",
+      "B": "Necessary units only",
+      "C": "Both direction and numerical size of the quantity",
+      "D": "Magnitude only",
+      "E": "Both magnitude and necessary units"
+    },
+    "correctAnswer": "D",
+    "explanation": "Scalar quantities are fully described by magnitude (size) alone without any directional component [Vectors and Scalars]."
+  },
+  {
+    "number": 4,
+    "question": "Find the magnitude and direction of 3 coplanar forces of:\n1. 40 N 45° east of south\n2. 10 N west\n3. 70 N 35° east of north",
+    "options": {
+      "A": "35 N 35º east of south",
+      "B": "100 N 25º east of south",
+      "C": "55 N 45º west of south",
+      "D": "65 N 60º east of north",
+      "E": "120 N west"
+    },
+    "correctAnswer": "D",
+    "explanation": "Summing horizontal (X) and vertical (Y) components yields $\\Sigma X = 58.43$ N and $\\Sigma Y = 29.06$ N. The resultant magnitude is $\\sqrt{58.43^2 + 29.06^2} \\approx 65$ N directed approximately 60° east of north [Vectors and Scalars]."
+  },
+  {
+    "number": 5,
+    "question": "A vector quantity has:",
+    "options": {
+      "A": "Both direction and necessary units of the quantity",
+      "B": "Magnitude and necessary units of the quantity",
+      "C": "Both numerical size and the necessary units of the quantity",
+      "D": "Magnitude only",
+      "E": "Direction, magnitude, and necessary units of the quantity"
+    },
+    "correctAnswer": "E",
+    "explanation": "A vector quantity is completely specified by its magnitude, direction, and appropriate units [Vectors and Scalars]."
+  },
+  {
+    "number": 6,
+    "question": "Coplanar vectors all occur in the same:",
+    "options": {
+      "A": "Direction",
+      "B": "Place",
+      "C": "Velocity",
+      "D": "Plane",
+      "E": "Magnitude"
+    },
+    "correctAnswer": "D",
+    "explanation": "Coplanar vectors lie within the exact same two-dimensional plane [Vectors and Scalars]."
+  },
+  {
+    "number": 7,
+    "question": "Find the magnitude and direction of 4 concurrent coplanar forces:\n\n1. 10 N 32° east of north\n2. 35 N 50° east of north\n3. 25 N 72° east of north\n4. 85 N 40° east of south",
+    "options": {
+      "A": "45 N 44º east of north",
+      "B": "70 N 56º east of north",
+      "C": "196 N 87º east of south",
+      "D": "114 N 77º east of south",
+      "E": "30 N 72º east of south"
+    },
+    "correctAnswer": "D",
+    "explanation": "Resolving all forces into X and Y axes gives $\\Sigma X = 110.53$ N and $\\Sigma Y = -26.42$ N. The resultant magnitude is $\\sqrt{110.53^2 + (-26.42)^2} \\approx 114$ N at an angle of 77° east of south [Vectors and Scalars]."
+  },
+  {
+    "number": 8,
+    "question": "With reference to scalars and vectors, a space diagram:",
+    "options": {
+      "A": "Illustrates a system of vectors",
+      "B": "Illustrates the position of the planets and stars",
+      "C": "Shows the relationship of the scalar to the vector",
+      "D": "Illustrates a system of scalars",
+      "E": "Shows the relationship of time to the vector"
+    },
+    "correctAnswer": "A",
+    "explanation": "A space diagram visually represents physical bodies and the system of vectors acting upon them in space [Vectors and Scalars]."
+  },
+  {
+    "number": 9,
+    "question": "The resultant of a system of vectors is:",
+    "options": {
+      "A": "Equal to the smallest vector in the system",
+      "B": "The single vector that can replace the system of vectors",
+      "C": "The sum of the magnitudes of the system vectors",
+      "D": "Equal to the largest vector in the system",
+      "E": "The single vector that can replace the system of vectors and have the same effect"
+    },
+    "correctAnswer": "E",
+    "explanation": "The resultant vector is a single vector that produces exactly the same overall effect on a body as the original system of vectors combined [Vectors and Scalars]."
+  },
+  {
+    "number": 10,
+    "question": "Displacement is:",
+    "options": {
+      "A": "A vector quantity",
+      "B": "Distanced divided by time",
+      "C": "A scalar quantity",
+      "D": "Measured by the actual path the object travels",
+      "E": "How far an object has moved"
+    },
+    "correctAnswer": "A",
+    "explanation": "Displacement has both magnitude (straight-line distance) and a specific direction from start to finish, making it a vector quantity [Vectors and Scalars]."
+  }
+]

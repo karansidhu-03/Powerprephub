@@ -1,0 +1,392 @@
+[
+  {
+    "number": 1,
+    "heading": "Legislation and Regulation",
+    "question": "Expected conduct during an examination for a certificate of competency is stated in:",
+    "options": {
+      "A": "Alberta's Safety Codes Act",
+      "B": "NFPA",
+      "C": "CSA B-51",
+      "D": "Engineers' Regulations of Alberta",
+      "E": "CSA B-52"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 2,
+    "heading": "Legislation and Regulation",
+    "question": "After taking over the shift in a high, pressure boiler plant, the boilers may be left unattended for:",
+    "options": {
+      "A": "No period of time",
+      "B": "Long enough to visit the river intake station",
+      "C": "1 h our",
+      "D": "2 hours",
+      "E": "1 hour, with the chief engineer's permission"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 3,
+    "heading": "Legislation and Regulation",
+    "question": "The final approval of Power Engineering syllabi and curriculum changes comes from:",
+    "options": {
+      "A": "ACI - Association of Chief Inspectors",
+      "B": "CSA",
+      "C": "SOPEEC",
+      "D": "ASME",
+      "E": "IPEEC"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 4,
+    "heading": "Legislation and Regulation",
+    "question": "An exam candidate who fails 3 paper of any examination may be disqualified from writing another examination for a period not exceeding:",
+    "options": {
+      "A": "3 years",
+      "B": "1 month",
+      "C": "3 months",
+      "D": "12 months",
+      "E": "6 months"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 5,
+    "heading": "Legislation and Regulation",
+    "question": "Explanation of the different competency requirements for power engineers is typically found in:",
+    "options": {
+      "A": "CSA B52",
+      "B": "Power Engineers Regulation",
+      "C": "ASME section I",
+      "D": "Federal Gazette",
+      "E": "ASME sect VIII"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 6,
+    "heading": "Legislation and Regulation",
+    "question": "Definitions for Shift Engineer and Chief Engineer are found in:",
+    "options": {
+      "A": "CSA B51",
+      "B": "CSA B52",
+      "C": "ASME section I",
+      "D": "ASME sect VIII",
+      "E": "Power Engineers Regulation"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 7,
+    "heading": "Legislation and Regulation",
+    "question": "It is ________ for an unqualified person to weld on a boiler, pressure vessel, or pressure piping system.",
+    "options": {
+      "A": "Allowed",
+      "B": "Useful",
+      "C": "Expediant",
+      "D": "Illegal",
+      "E": "Okay"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 8,
+    "heading": "Legislation and Regulation",
+    "question": "Committees that establish power engineering standards are composed primarily of which of the following elements?",
+    "options": {
+      "A": "Experts from the industry, professional and insurance groups and all levels of government",
+      "B": "One independent safety and standardisation board",
+      "C": "One government appointed standards board",
+      "D": "Only multi-National power corporations",
+      "E": "Only experts from the industry and government"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 9,
+    "heading": "Legislation and Regulation",
+    "question": "The holder of a Certificate of Competency, the classification of which authorises him or her to act as an engineer, may sketch, construct, install, operate, repair, and give advice on all things pertaining to any _____ in which that person is given the responsibility to operate, maintain, or supervise.",
+    "options": {
+      "A": "Hydro plant",
+      "B": "Welding shop",
+      "C": "Manufacturing plant",
+      "D": "Automotive shop",
+      "E": "Power plant"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 10,
+    "heading": "Legislation and Regulation",
+    "question": "The requirements of a regulation ______ those of an International standard.",
+    "options": {
+      "A": "Are the same as",
+      "B": "Overrule",
+      "C": "Are less than",
+      "D": "Rewritten by",
+      "E": "Can be ignored compared to"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 11,
+    "heading": "Legislation and Regulation",
+    "question": "A Fourth Class Power Engineer's certificate of competency qualifies the holder to take charge of a shift in a power plant consisting of one or more coil type drumless boilers having an aggregate capacity of not more than _____ kW, when used for the sole purpose of underground thermal flooding in oil fields, as shift engineer.",
+    "options": {
+      "A": "30 000",
+      "B": "20 000",
+      "C": "40 000",
+      "D": "10 000",
+      "E": "50 000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 12,
+    "heading": "Legislation and Regulation",
+    "question": "According to jurisdictional regulations, all fittings constructed or brought into that jurisdiction must be:",
+    "options": {
+      "A": "Designed and manufactured within the jurisdiction",
+      "B": "Warranted to last at least 25 years",
+      "C": "Made of the same material as the boiler they will be attached to",
+      "D": "Certified by the federal government",
+      "E": "Registered in the same way as boilers and pressure vessels"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 13,
+    "heading": "Legislation and Regulation",
+    "question": "A Fourth Class Power Engineer's certificate of competency qualifies the holder to take charge of the general care and operation of a power plant having a capacity of not more than _____ kW as chief steam engineer, and to supervise the engineers in that plant.",
+    "options": {
+      "A": "4000",
+      "B": "5000",
+      "C": "3000",
+      "D": "2000",
+      "E": "1000"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 14,
+    "heading": "Legislation and Regulation",
+    "question": "A Fourth Class Power Engineer's certificate of competency qualifies the holder to take charge of a shift in a power plant having a capacity of not more than _____ kW, as a shift engineer.",
+    "options": {
+      "A": "8000",
+      "B": "9000",
+      "C": "5000",
+      "D": "7000",
+      "E": "6000"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 15,
+    "heading": "Legislation and Regulation",
+    "question": "To qualify for a 4th Class power Engineering certificate of competency, a candidate must:",
+    "options": {
+      "A": "Pass a 4th Class course",
+      "B": "Obtain 65% in Part A exam",
+      "C": "Have been employed for 6 months as an operator in a plant over 250 kW",
+      "D": "Obtain 65% of total marks allocated for part B exam",
+      "E": "All of these are required"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 16,
+    "heading": "Legislation and Regulation",
+    "question": "The purpose of the Safety Codes Act and Regulations is to:",
+    "options": {
+      "A": "Protect the boiler",
+      "B": "Make rules for plant operations",
+      "C": "Enforce rules for building operators",
+      "D": "Ensure the safe operation of the plant",
+      "E": "Set exam standards for operators"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 17,
+    "heading": "Legislation and Regulation",
+    "question": "The Act, Pressure Equipment Safety Regulation and Power Engineers Regulations do not apply to a:",
+    "options": {
+      "A": "Heating plant having a boiler rating of 30 kW or less",
+      "B": "Heating plant having a rating of 25 kW or more",
+      "C": "Power plant having a boiler rating of 20 kW or less",
+      "D": "Heating plant having a boiler rating of 20 kW or more",
+      "E": "Power plant having a boiler rating of 10 kW or less"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 18,
+    "heading": "Legislation and Regulation",
+    "question": "In most jurisdictions in Canada the profession of Power Engineering is regulated by:",
+    "options": {
+      "A": "Industrial trades regulation",
+      "B": "ASME codes",
+      "C": "SOPEEC",
+      "D": "Power Engineers regulation",
+      "E": "Apprenticeship board"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 19,
+    "heading": "Legislation and Regulation",
+    "question": "The principle reason you should keep a boiler plant logbook or log sheet is to:",
+    "options": {
+      "A": "Satisfy the boiler inspector",
+      "B": "Provide the operator with an alibi when an accident occurs",
+      "C": "Provide proof that the operator visited the boiler room at the time stated",
+      "D": "Satisfy the chief engineer",
+      "E": "Provide a record of boiler operation, maintenance, testing, servicing"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 20,
+    "heading": "Legislation and Regulation",
+    "question": "Regulations under the \"Act\" are written to provide guidance on:",
+    "options": {
+      "A": "Interpretation, application, and enforcement",
+      "B": "How the elected members of parliament will design boilers",
+      "C": "How to debate the rules in the legislature",
+      "D": "What new acts are required",
+      "E": "Federal enforcement of the act"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 21,
+    "heading": "Legislation and Regulation",
+    "question": "To pass a welder performance qualification test the candidate must:",
+    "options": {
+      "A": "Pass a theoretical exam",
+      "B": "Receive an approval letter from the Human Resources department",
+      "C": "Obtain permission from the federal government",
+      "D": "Prove they have minimum 1 year experience",
+      "E": "Pass a practical exam"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 22,
+    "heading": "Legislation and Regulation",
+    "question": "Which of the following duties is a holder of a Fourth Class Engineer's Certificate of Competency not qualified to perform?",
+    "options": {
+      "A": "Take charge of the general care and operation of a power plant having a capacity of not more than 1 000 kW, as a chief steam engineer, and to supervise the engineers in that plant",
+      "B": "Take charge of the general care and operation of a power plant consisting of one or more coil type drumless boilers having an aggregate capacity not over 5 000 kW, when only in use for the purpose of subterranean thermal flooding in oil fields, as a chief engineer",
+      "C": "Take charge of a shift in a power plant having a capacity of more than 10 000 kW, as a shift engineer",
+      "D": "Take charge of a shift in a power plant having a capacity of not more than 5 000 kW, as a shift engineer",
+      "E": "Take charge of a shift in a power plant consisting of one or more coil type drumless boilers having an aggregate capacity of not more than 10 000 kW, when used only for underground thermal flooding in oil fields, as a shift engineer"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 23,
+    "heading": "Legislation and Regulation",
+    "question": "Power engineers need to obtain their updated legislation for their own particular jurisdiction from:",
+    "options": {
+      "A": "Jurisdictional \"Queen's Printer\" or online",
+      "B": "Federal Government",
+      "C": "CSA",
+      "D": "Gazette",
+      "E": "Local library"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 24,
+    "heading": "Legislation and Regulation",
+    "question": "A fitting, as defined in the \"Act\", means a:",
+    "options": {
+      "A": "Pump",
+      "B": "Fan",
+      "C": "Stack",
+      "D": "Recorder",
+      "E": "Gauge glass"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 25,
+    "heading": "Legislation and Regulation",
+    "question": "In the event of an accident concerning a pressure vessel or pressure piping, you are required by the act to:",
+    "options": {
+      "A": "Give First Aid to the injured then find the cause of the explosion",
+      "B": "Notify the owner and \"the Administrator\" of the accident including all details as soon as is practical",
+      "C": "Isolate the affected area and keep the plant operating",
+      "D": "Shut off the boiler fuel system and inform your employer",
+      "E": "Shut off the boiler fuel system and call the police"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 26,
+    "heading": "Legislation and Regulation",
+    "question": "The power engineering certificate exams in Canada are produced by:",
+    "options": {
+      "A": "CSA",
+      "B": "ACI - Association of Chief Inspectors",
+      "C": "SOPEEC",
+      "D": "IPEEC",
+      "E": "ASME"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 27,
+    "heading": "Legislation and Regulation",
+    "question": "When codes and standards such as ASME, API, CSA are adopted in the regulations:",
+    "options": {
+      "A": "They are enforceable under the Act",
+      "B": "They are not legally enforceable",
+      "C": "They must be approved in the Federal parliament",
+      "D": "Only Canadian codes are included by law",
+      "E": "They are only suggestions"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 28,
+    "heading": "Legislation and Regulation",
+    "question": "The chief inspector has the authority to conduct investigations to:",
+    "options": {
+      "A": "Identify unsafe issues",
+      "B": "Determine the causes of accidents",
+      "C": "Develop recommendations for accident prevention",
+      "D": "Develop recommendations to prevent reoccurrence of accidents",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 29,
+    "heading": "Legislation and Regulation",
+    "question": "Informational found in the Power engineering regulations section that discusses qualifications and examinations will include:",
+    "options": {
+      "A": "Credit for successfully completing relevant, approved training courses",
+      "B": "Stamping of identification numbers",
+      "C": "Registration of fittings",
+      "D": "CSA requirements for operators",
+      "E": "References to federal labor legislation"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 30,
+    "heading": "Legislation and Regulation",
+    "question": "Heating boiler means a boiler:",
+    "options": {
+      "A": "Where water is heated to a pressure exceeding 1 100 kPa and a temperature of 121ºC",
+      "B": "Which does not require a sight glass",
+      "C": "Where steam is produced at a pressure of 103 kPa or less",
+      "D": "In which only hot water is produced",
+      "E": "Where steam is produced at a pressure greater than 103 kPa"
+    },
+    "correctAnswer": "C"
+  }
+]

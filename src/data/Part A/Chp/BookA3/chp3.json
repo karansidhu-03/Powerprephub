@@ -1,0 +1,327 @@
+[
+  {
+    "number": 1,
+    "heading": "ASME and CSA Codes",
+    "question": "A body which was formed in 1911 to establish rules for the design, construction, installation and inspection of boilers and pressure vessels was the:",
+    "options": {
+      "A": "ASME",
+      "B": "NFPA",
+      "C": "CSA",
+      "D": "Underwriter Laboratories Canada",
+      "E": "ASME Boiler and Pressure Vessel Committee"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 2,
+    "heading": "ASME and CSA Codes",
+    "question": "ASME Section VIII covers?",
+    "options": {
+      "A": "Rules for construction of Portable Water Boilers",
+      "B": "Rules for construction of Power Boilers",
+      "C": "Rules for construction of High Temperature Water Boilers",
+      "D": "Rules for construction of Heating Boilers",
+      "E": "Rules for construction of Pressure Vessels"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 3,
+    "heading": "ASME and CSA Codes",
+    "question": "Specific rules for design and construction of firetube boilers is found in ASME sect I:",
+    "options": {
+      "A": "HC",
+      "B": "PVG",
+      "C": "PWT",
+      "D": "PFT",
+      "E": "HLW"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 4,
+    "heading": "ASME and CSA Codes",
+    "question": "Recommended rules covering control of internal chemical conditions in power boilers are covered in:",
+    "options": {
+      "A": "ASME Section IV",
+      "B": "ASME Section I",
+      "C": "ASME Section VI",
+      "D": "ASME Section IX",
+      "E": "ASME Section VII"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 5,
+    "heading": "ASME and CSA Codes",
+    "question": "Section IV of the ASME code covers:",
+    "options": {
+      "A": "Rules for care and operation of heating boilers",
+      "B": "Rules for care of power boilers",
+      "C": "Construction of heating boilers",
+      "D": "Power boilers",
+      "E": "Construction of power boilers"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 6,
+    "heading": "ASME and CSA Codes",
+    "question": "Which of the following is not done by ASME:",
+    "options": {
+      "A": "Determine a safety margin for in service equipment deterioration",
+      "B": "Establish minimum standards for all jurisdictions",
+      "C": "Approve, certify or endorse any item",
+      "D": "Establish rules for fabrication and inspection of boilers",
+      "E": "Establish rules of safety for design and construction of boilers"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 7,
+    "heading": "ASME and CSA Codes",
+    "question": "CSA B51 section 5 covers:",
+    "options": {
+      "A": "Installation",
+      "B": "Design and construction",
+      "C": "Piping and fittings",
+      "D": "Name plate and stamping requirements",
+      "E": "Refrigeration equipment"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 8,
+    "heading": "ASME and CSA Codes",
+    "question": "CSA B52 Code was produced to cover:",
+    "options": {
+      "A": "Heating plants",
+      "B": "Refrigeration plants",
+      "C": "Natural gas plants",
+      "D": "Boiler and pressure piping",
+      "E": "Gas plants"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 9,
+    "heading": "ASME and CSA Codes",
+    "question": "Which of the following sections of ASME code governs the design and constructions of an air compression system receiver?",
+    "options": {
+      "A": "Section I",
+      "B": "Section IV",
+      "C": "Section VIII",
+      "D": "Section VI",
+      "E": "Section VII"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 10,
+    "heading": "ASME and CSA Codes",
+    "question": "Which of the following sections of ASME code governs the Pressure Relief Valve requirements for Power Boilers?",
+    "options": {
+      "A": "Section VIII",
+      "B": "Section VI",
+      "C": "Section IV",
+      "D": "Section VII",
+      "E": "Section I"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 11,
+    "heading": "ASME and CSA Codes",
+    "question": "In Canada, CSA B149.3 takes precedent over:",
+    "options": {
+      "A": "ASME sect VIII",
+      "B": "ASME CSD-1",
+      "C": "ASME Sect 1",
+      "D": "CSA B52",
+      "E": "CSA B51"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 12,
+    "heading": "ASME and CSA Codes",
+    "question": "Rules covering water treatment in heating boilers are covered in:",
+    "options": {
+      "A": "ASME Section IV",
+      "B": "ASME Section I",
+      "C": "ASME Section VII",
+      "D": "ASME Section VI",
+      "E": "ASME Section IX"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 13,
+    "heading": "ASME and CSA Codes",
+    "question": "The Canadian Standards Association is a non profit organization independent from the government that consists of:",
+    "options": {
+      "A": "Scientists, engineers, consumers",
+      "B": "Lawyers, senators, accountants",
+      "C": "Government officials, ASME, Professors",
+      "D": "Special interest groups, politicians, consumers",
+      "E": "Human resources department, scientists, elected officials"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 14,
+    "heading": "ASME and CSA Codes",
+    "question": "Section VI of the ASME Boiler and Pressure Vessel Code is titled:",
+    "options": {
+      "A": "Recommended rules for the care and operation of heating boilers",
+      "B": "Recommended guidelines for the care of power boilers",
+      "C": "Pressure vessels",
+      "D": "Heating boilers",
+      "E": "Power boilers"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 15,
+    "heading": "ASME and CSA Codes",
+    "question": "Which of the following ASME Codes is used by an operator to care for and operate a low pressure heating boiler correctly?",
+    "options": {
+      "A": "Section XI",
+      "B": "Section IV",
+      "C": "Section II",
+      "D": "Section IX",
+      "E": "Section VI"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 16,
+    "heading": "ASME and CSA Codes",
+    "question": "ASME section I - PG2.1 applies to the following services:",
+    "options": {
+      "A": "Power boilers above 15psig (100kPa), and water boilers above 250F (120C)",
+      "B": "Power boilers below 15psig (100kPa), and water boilers above 250F (120C)",
+      "C": "Power boilers above 15psig (100kPa), and water boilers below 250F (120C)",
+      "D": "Power boilers below 15psig (100kPa), and water boilers below 250F (120C)",
+      "E": "All boilers"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 17,
+    "heading": "ASME and CSA Codes",
+    "question": "CSA B52 Clause 7 describes:",
+    "options": {
+      "A": "Refrigeration system overpressure protection",
+      "B": "Boiler overpressure protection",
+      "C": "Design of non fired vessels such as air receivers",
+      "D": "Emergency burner shutdown systems",
+      "E": "Refrigerant classification"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 18,
+    "heading": "ASME and CSA Codes",
+    "question": "Design and construction of Refrigeration systems is found in:",
+    "options": {
+      "A": "CSA B52 clause 7",
+      "B": "CSA B52 clause 5",
+      "C": "CSA B51 clause 5",
+      "D": "ASME I PG",
+      "E": "ASME sect 5"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 19,
+    "heading": "ASME and CSA Codes",
+    "question": "Basic design procedure with formula for calculating all parts of a portable water heater is covered by Section IV part:",
+    "options": {
+      "A": "HC",
+      "B": "Appendix",
+      "C": "HLW",
+      "D": "HW",
+      "E": "HG"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 20,
+    "heading": "ASME and CSA Codes",
+    "question": "CSA B51 Code was produced to cover:",
+    "options": {
+      "A": "Natural gas piping",
+      "B": "All aspects of a power plant",
+      "C": "Refrigeration plants",
+      "D": "Fish packing plants",
+      "E": "Boilers and pressure pipng"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 21,
+    "heading": "ASME and CSA Codes",
+    "question": "ASME CSD-1 does not apply to boilers over:",
+    "options": {
+      "A": "300 boiler horsepower",
+      "B": "120 horsepower",
+      "C": "100 kpa",
+      "D": "120 C",
+      "E": "100 horsepower"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 22,
+    "heading": "ASME and CSA Codes",
+    "question": "The Canadian standard that discusses Low water fuel cutoffs, Fusible plugs, water gauges for power boilers:",
+    "options": {
+      "A": "ASME section VIII",
+      "B": "B51",
+      "C": "ASME section VI",
+      "D": "B52",
+      "E": "ASME section IX"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 23,
+    "heading": "ASME and CSA Codes",
+    "question": "The Canadian entity that provides minimum standards for protection to the public and operators working with pressure vessels and refrigeration equipment:",
+    "options": {
+      "A": "CBC",
+      "B": "DOT",
+      "C": "Federal Government",
+      "D": "ASME",
+      "E": "CSA"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 24,
+    "heading": "ASME and CSA Codes",
+    "question": "CSA B52 Code:\n1. Regulates all gas compression and storage equipment\n2. Provides for safe design of refrigeration systems\n3. Provides for safe installation of refrigeration and air conditioning systems\n4. Provides for safe repair of hot oil systems\n5. Provides for the safe maintenance of refrigeration systems",
+    "options": {
+      "A": "3, 4, 5",
+      "B": "2, 3, 4",
+      "C": "1, 3, 5",
+      "D": "2, 3, 5",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 25,
+    "heading": "ASME and CSA Codes",
+    "question": "The CSA B52 code is the code for:",
+    "options": {
+      "A": "Oil burning boilers",
+      "B": "Engineer's regulations",
+      "C": "Gas burning appliances",
+      "D": "Mechanical refrigeration",
+      "E": "Construction and inspection of low pressure heating boilers"
+    },
+    "correctAnswer": "D"
+  }
+]

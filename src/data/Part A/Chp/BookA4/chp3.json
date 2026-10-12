@@ -1,0 +1,249 @@
+[
+  {
+    "number": 1,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "The flash point of a liquid is the temperature which:",
+    "options": {
+      "A": "Spontaneous combustion will occur",
+      "B": "It will form a gas and burn",
+      "C": "All molecular vibration will cease",
+      "D": "The liquid will burn",
+      "E": "The vapors become inert"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 2,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "Under WHMIS rules, what must an employer do?",
+    "options": {
+      "A": "Protect themselves and their coworkers",
+      "B": "Train workers about the hazardous materials on the worksite",
+      "C": "Provide supplier labels",
+      "D": "Provide MSDS sheets to their customers",
+      "E": "Classify products by labelling"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 3,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "The ignition temperature of an air/fuel mixture is the:",
+    "options": {
+      "A": "Temperature at which the mixture is above the boiling point",
+      "B": "Maximum temperature before the fuel turns to vapor",
+      "C": "Temperature at which it is said to have lean mixture",
+      "D": "Temperature at which the fuel will gel",
+      "E": "Lowest temperature at which it will burn"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 4,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "The purpose of WHMIS is:",
+    "options": {
+      "A": "Provide suppliers with a method to avoid liability",
+      "B": "Provide a legal framework for OH & S enforcement",
+      "C": "Provide workers with information to safely use hazardous materials",
+      "D": "Provide management with information to purchase hazardous materials",
+      "E": "Provide hazardous material information to homeowners"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 5,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "When pouring or transferring hydrocarbon solvents used for cleaning:",
+    "options": {
+      "A": "Only do this work outside",
+      "B": "Training is not required for this task",
+      "C": "Only maintenance staff do this work",
+      "D": "It is not allowed to transfer from the supplier containers to smaller ones",
+      "E": "Wear appropriate PPE"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 6,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "All gas cylinders must be kept:",
+    "options": {
+      "A": "In their shipping crates",
+      "B": "Closed",
+      "C": "Upright",
+      "D": "Flat",
+      "E": "Open"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 7,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "Which WHMIS document contains the most comprehensive information?",
+    "options": {
+      "A": "SDS/MSDS",
+      "B": "Supplier label",
+      "C": "Shipping manifest",
+      "D": "Workplace label",
+      "E": "Product sales brochure"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 8,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "In order for hydrocarbons to burn, the:",
+    "options": {
+      "A": "Fuel must be vaporized",
+      "B": "Air/fuel mixture should be above the upper flammable limit",
+      "C": "Temperature must be below the boiling point",
+      "D": "Fuel/air mixture must be rich",
+      "E": "Mixture must be lean"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 9,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "Acetylene and Oxygen cylinders should be stored:",
+    "options": {
+      "A": "1 meter apart when empty",
+      "B": "At least 6 m apart",
+      "C": "Only outside",
+      "D": "On their sides",
+      "E": "Together to shorten hose length"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 10,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "Proper storage for lubricating oils and grease is:",
+    "options": {
+      "A": "In the original supplier containers",
+      "B": "In a flammable material storage cabinet",
+      "C": "Only outside of the building",
+      "D": "At least 6 m apart",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 11,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "For WHMIS, the employer must:",
+    "options": {
+      "A": "Not use hazardous materials",
+      "B": "Verify that employees have been successfully trained",
+      "C": "Use substances that are non hazardous",
+      "D": "Provide Ecological information",
+      "E": "Provide the supplier labels"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 12,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "The workplace label is completed at the worksite:",
+    "options": {
+      "A": "Is identical to the supplier label",
+      "B": "Only when stored inside a building",
+      "C": "Is not required at an outside jobsite",
+      "D": "If the supplier label is damaged",
+      "E": "For non hazardous materials"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 13,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "The Safety Data Sheet (SDS or MSDS) is supplied by the:",
+    "options": {
+      "A": "Federal government",
+      "B": "Plant supervisor",
+      "C": "Occupational health and safety committee",
+      "D": "Person using the controlled product",
+      "E": "Supplier of the controlled product"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 14,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "If a supplier label is not on a product that comes to the worksite:",
+    "options": {
+      "A": "The supervisor can write up a temporary one",
+      "B": "It cannot be used until one is supplied",
+      "C": "Workers can attach the MSDS to the product and continue to use it",
+      "D": "A workplace label can be used instead",
+      "E": "Supplier labels are not really required"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 15,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "When receiving gas cylinders, you should inspect them for:",
+    "options": {
+      "A": "Damage due to nicks or scrapes",
+      "B": "Check pressure",
+      "C": "Correct gas type or mixture",
+      "D": "Damage due to dents",
+      "E": "All of the above"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 16,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "WHMIS contains 4 basic components:\na. Employee training\nb. Hazard Identification and classification\nc. Confidentiality of information\nd. Supplier and workplace labels\ne. Material safety data sheets",
+    "options": {
+      "A": "a, b, c, d",
+      "B": "a, c, d, e",
+      "C": "a, b, d, e",
+      "D": "b, c, d, e",
+      "E": "a, b, c, e"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 17,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "What is the purpose of the inert, slightly pressurized blanket gas on a tank?",
+    "options": {
+      "A": "To ensure air does not get into the tank",
+      "B": "To make the fuel mixture lean",
+      "C": "To provide additional head for the transfer pump",
+      "D": "To increase the boiling temperature",
+      "E": "To prevent corrosion in the tank"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 18,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "If the fuel amount is below the lower flammable limit, the mixture:",
+    "options": {
+      "A": "Must have a source of ignition",
+      "B": "Is explosive",
+      "C": "Is said to be lean",
+      "D": "Can be called rich",
+      "E": "Will not burn rapidly"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 19,
+    "heading": "WHMIS, Gases, and Flammability",
+    "question": "The duties of a power engineer responsible for loading, unloading, pumping, transferring hydrocarbon liquids includes the regular monitoring of:",
+    "options": {
+      "A": "Tank levels",
+      "B": "Vapor space",
+      "C": "Draining water from tanks",
+      "D": "Checking temperatures and pressures",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  }
+]

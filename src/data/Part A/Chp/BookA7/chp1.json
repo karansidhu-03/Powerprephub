@@ -1,0 +1,522 @@
+[
+  {
+    "number": 1,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Since cast iron has a high resistance to corrosion and abrasion, it is used for:",
+    "options": {
+      "A": "Condensate lines",
+      "B": "Blow off piping",
+      "C": "High pressure service",
+      "D": "Ash handling systems",
+      "E": "Underground steam lines"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 2,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Pipe nipples are _____ on both ends.",
+    "options": {
+      "A": "Heat treated",
+      "B": "Threaded",
+      "C": "Flanged",
+      "D": "Welded",
+      "E": "Closed"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 3,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "A newer method used to designate pipe wall thickness is by:",
+    "options": {
+      "A": "Using schedule numbers",
+      "B": "Using a pipe gauge",
+      "C": "Measuring the thickness with calipers",
+      "D": "Using a comparator gauge",
+      "E": "Using a pipe graph comparator chart"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 4,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "As a piping and pipe fitting material, cast steel is used:",
+    "options": {
+      "A": "Primarily for special applications",
+      "B": "For construction of welded pipe",
+      "C": "Mainly for instrumentation and control piping",
+      "D": "Steam traps",
+      "E": "Extensively for fittings"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 5,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Gaskets are used in pipe flange joints to:",
+    "options": {
+      "A": "Make up for misalignment of the pipe",
+      "B": "Prevent air ingress in high, pressure steam mains",
+      "C": "Prevent leakage because of small imperfections in the flange face",
+      "D": "Allow for pipe expansion between each flange joint",
+      "E": "Provide cushioning in the event of water hammer"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 6,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "When tightening pipe flange bolts:",
+    "options": {
+      "A": "The gasket should be held in place by gasket glue",
+      "B": "Tighten them in sequence",
+      "C": "Tighten every second bolt first, then tighten the others",
+      "D": "The top bolts must be tightened first",
+      "E": "Use a cross over method or crisscross method of tightening"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 7,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "A mechanical steam trap:",
+    "options": {
+      "A": "Has a very low pressure range of operation",
+      "B": "May have a thermostatic air release",
+      "C": "Can be fitted in any position",
+      "D": "Has alcohol inside the float",
+      "E": "Should be fitted to the safety valve drain"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 8,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "The three general types of flange connections are the screwed, the Van Stone and the _____ type.",
+    "options": {
+      "A": "Brazed",
+      "B": "Bolted",
+      "C": "Soldered",
+      "D": "Threaded",
+      "E": "Welded"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 9,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Fittings used to connect a straight run of same size piping are:",
+    "options": {
+      "A": "Return bends",
+      "B": "Elbows",
+      "C": "Nipples",
+      "D": "Bushings",
+      "E": "Couplings"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 10,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "The purpose of steam traps is to remove condensate and ____ from steam lines.",
+    "options": {
+      "A": "Oil",
+      "B": "Air",
+      "C": "Sludge",
+      "D": "Water",
+      "E": "Chemicals"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 11,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Two main categories of steel piping manufactured are the:",
+    "options": {
+      "A": "Seamless or welded type",
+      "B": "Single or double walled",
+      "C": "Ferrous or copper type",
+      "D": "Plastic or steel type",
+      "E": "Thick or thin type"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 12,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Standard commercial pipe nominal size is:",
+    "options": {
+      "A": "Equal to nominal inside pipe diameter",
+      "B": "Equal to nominal outside diameter up to 254 mm",
+      "C": "Equal to a nominal inside diameter up to DN 300",
+      "D": "Is no longer manufactured",
+      "E": "Equal to nominal outside pipe diameter"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 13,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "If a trap is defective, it will discharge:",
+    "options": {
+      "A": "Only steam",
+      "B": "Intermittent steam and condensate",
+      "C": "Hot condensate",
+      "D": "Air, condensate, some steam",
+      "E": "All of the answers are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 14,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "A slip type expansion joint:\n1. Is stronger than a bellows type\n2. Is actually a pipe within a pipe\n3. Can have packing added in service\n4. Has a lubrication fitting\n5. Is usually flame fitted to the pipe",
+    "options": {
+      "A": "1, 2, 5",
+      "B": "1, 3, 4, 5",
+      "C": "1, 2, 3, 4, 5",
+      "D": "2, 3, 5",
+      "E": "1, 2, 3, 4"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 15,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Relative to pipe and fittings, an anchor chair is used to:",
+    "options": {
+      "A": "Support pipe",
+      "B": "Allow for expansion and contraction of pipe",
+      "C": "Install piping at considerable height",
+      "D": "Hold a large fitting in a piping run",
+      "E": "Anchor a slip type expansion joint"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 16,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "A gray cast iron fitting is identified by:",
+    "options": {
+      "A": "The letters G.C.I.F.",
+      "B": "The letters G.C.I.",
+      "C": "Not being marked on the fittings",
+      "D": "The letters C.I.",
+      "E": "The letters G.C."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 17,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Steam traps should be installed below the _____ point in the system.",
+    "options": {
+      "A": "Lowest",
+      "B": "Last",
+      "C": "Hottest",
+      "D": "Highest",
+      "E": "Coldest"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 18,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "All classes of pipe of a given size have the same:",
+    "options": {
+      "A": "Outside diameter",
+      "B": "Mass per metre of length",
+      "C": "Length",
+      "D": "Inside diameter",
+      "E": "Expansion coefficient"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 19,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "The most frequently used material for piping is:",
+    "options": {
+      "A": "Pig iron",
+      "B": "Cast iron",
+      "C": "Nonferrous",
+      "D": "Plastic",
+      "E": "Steel"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 20,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "In order to convey fluid from one storage tank to another:",
+    "options": {
+      "A": "Valves are required",
+      "B": "Valves are required",
+      "C": "Piping is required",
+      "D": "Pumps are necessary",
+      "E": "Drains are required"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 21,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Commercial pipe is made in standard sizes each having several different:\n1. Weights\n2. Colors\n3. Thicknesses\n4. Shapes\n5. Threads",
+    "options": {
+      "A": "4, 5",
+      "B": "2, 3, 5",
+      "C": "1, 5",
+      "D": "1, 3",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 22,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "A disadvantage of using threads to join pipes and fittings is that it:",
+    "options": {
+      "A": "Does not allow for expansion",
+      "B": "Requires the services of a pipe fitter",
+      "C": "Weakens the pipe",
+      "D": "Cannot be repaired",
+      "E": "Is more costly"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 23,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Loud and violent shocks within a piping system is:",
+    "options": {
+      "A": "Steam hammer",
+      "B": "Thermodynamic hammer",
+      "C": "Broken pipe",
+      "D": "Water hammer",
+      "E": "Damaged pump"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 24,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Before admitting any steam to a steam piping system, it is imperative to first:",
+    "options": {
+      "A": "Crack open the steam valve",
+      "B": "Warm the line up properly",
+      "C": "Ensure the steam pressure is at maximum value allowed without the boiler safety valve opening",
+      "D": "Positively ensure that no water or condensate exist in the piping",
+      "E": "Ensure drain valves are closed"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 25,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Ease of application and installation is a desirable property of:",
+    "options": {
+      "A": "Tubing",
+      "B": "Pipe insulation",
+      "C": "Piping",
+      "D": "Pipe fittings",
+      "E": "Asbestos insulation"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 26,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "By using backing rings in butt, welded pipes, the backing ring serves to:",
+    "options": {
+      "A": "Support the pipe wall",
+      "B": "Align the pipe",
+      "C": "Reinforce the pipe because of beveling at the joint",
+      "D": "Reduce sludge flow",
+      "E": "Prevent welding gases from entering the pipe line"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 27,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "The operation of a mechanical steam trap depends on the:",
+    "options": {
+      "A": "Difference in specific gravity between the steam and condensate",
+      "B": "Liquid level in the stream trap",
+      "C": "Difference in pressure between the steam and condensate",
+      "D": "Liquid level in the condensate tank",
+      "E": "Difference in temperature between the steam and condensate"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 28,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "The bellows element in a thermostatic trap contains:",
+    "options": {
+      "A": "Steam",
+      "B": "Air",
+      "C": "Copper",
+      "D": "Volatile fluid",
+      "E": "Condensate"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 29,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "All markings on pipe and pipe fittings shall be:",
+    "options": {
+      "A": "Covered for protection",
+      "B": "Painted with black paint",
+      "C": "Made with capital letters",
+      "D": "Written vertically in capital letters",
+      "E": "Legible"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 30,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "An insulation suitable for temperatures up to 454°C is:",
+    "options": {
+      "A": "Glass fiber",
+      "B": "Asbestos",
+      "C": "Plastic foam",
+      "D": "Cellular glass",
+      "E": "Magnesia"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 31,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "As the wall thickness of a pipe increases, the:",
+    "options": {
+      "A": "Bore of the pipe increases",
+      "B": "Weight of the pipe decreases",
+      "C": "Pipe becomes less suitable for steam service",
+      "D": "Outside diameter increases",
+      "E": "Inside diameter is reduced"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 32,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "The bimetal steam trap is:",
+    "options": {
+      "A": "Thermodynamic",
+      "B": "Impulse",
+      "C": "Thermostatic",
+      "D": "Mechanical",
+      "E": "Float operated"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 33,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "A purpose of a steam trap is to:",
+    "options": {
+      "A": "Cause the water in steam lines to accumulate",
+      "B": "Hold back foreign particles from the steam line",
+      "C": "Prevent air from flowing in the steam line",
+      "D": "Prevent steam from flowing in the steam line",
+      "E": "Automatically drain condensate from steam lines"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 34,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Copper and copper alloy piping and tubing is not used in power plants when:",
+    "options": {
+      "A": "Pressure is a prime factor",
+      "B": "Temperature is a prime factor",
+      "C": "Instrumentation systems require tubing",
+      "D": "Chemicals are used in the applicable system",
+      "E": "Steam becomes corrosive"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 35,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "When pipe is cut with a roller cutter the internal burr is removed with a:",
+    "options": {
+      "A": "Tap",
+      "B": "Reamer",
+      "C": "File",
+      "D": "Wire brush",
+      "E": "Pipe die"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 36,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "The mass of a 2 m length of schedule 40 pipe, nominal size 101.6 mm, is:",
+    "options": {
+      "A": "11.48 kg",
+      "B": "31.9 kg",
+      "C": "26.92 kg",
+      "D": "8 kg",
+      "E": "12.04 kg"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 37,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "The purpose of a steam trap is to:",
+    "options": {
+      "A": "Reduce high, pressure steam to a lower pressure",
+      "B": "Collect steam for storage purposes",
+      "C": "Remove condensation from steam lines without allowing steam to escape",
+      "D": "Remove steam from a steam line without allowing water to pass",
+      "E": "Prevent sludge compounds from entering the steam line"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 38,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Pipe fittings that are not clearly identified should be:",
+    "options": {
+      "A": "Tested and used",
+      "B": "Painted as required by the color code",
+      "C": "Used only with water systems",
+      "D": "Rejected",
+      "E": "Reported to the Boilers Branch"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 39,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "Ring joint gaskets are:",
+    "options": {
+      "A": "Hexagonal in cross section",
+      "B": "Flat",
+      "C": "Square in cross section",
+      "D": "Oval in cross section",
+      "E": "Hollow"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 40,
+    "heading": "Piping, Pipe Fittings, and Steam Traps",
+    "question": "The piping service symbols \"A\", \"G\", \"O\" stand for:",
+    "options": {
+      "A": "Aluminum, glass and octane",
+      "B": "Ammonia, gas and octane",
+      "C": "Ammonia, grease and oxygen",
+      "D": "Air, glycol and oil",
+      "E": "Air, gas and oil"
+    },
+    "correctAnswer": "E"
+  }
+]

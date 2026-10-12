@@ -1,0 +1,339 @@
+
+
+[
+  {
+    "number": 1,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "When additional heat energy is added to the steam to superheat it, the temperature can be:",
+    "options": {
+      "A": "20000C",
+      "B": "500 C",
+      "C": "100 C",
+      "D": "16000 C",
+      "E": "10000 C"
+    },
+    "correctAnswer": "B",
+    "explanation": "Superheated steam temperatures in industrial boilers commonly reach around 500 °C depending on the design and application."
+  },
+  {
+    "number": 2,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "Power engineers can usually expect to work:",
+    "options": {
+      "A": "Straight 8 hour night shifts",
+      "B": "Straight 12 hour day shifts",
+      "C": "Straight 8 hour day shifts",
+      "D": "Rotating shifts",
+      "E": "Straight 12 hour night shifts"
+    },
+    "correctAnswer": "D",
+    "explanation": "Because continuous-process power plants operate 24/7, power engineers typically work rotating shift schedules to cover all hours."
+  },
+  {
+    "number": 3,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "Early government involvement in certification of power engineers became more important for the following reason:",
+    "options": {
+      "A": "Safety",
+      "B": "Pollution",
+      "C": "Efficiency",
+      "D": "Technological advancements",
+      "E": "Labour mobility"
+    },
+    "correctAnswer": "A",
+    "explanation": "Governments stepped in to establish mandatory certification and inspection primarily to protect public and workplace safety following catastrophic boiler explosions."
+  },
+  {
+    "number": 4,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "In the early history of boilers, the following two agencies got involved in the certification of both power plant operators and equipment due to the many accidents that were caused by employing unqualified operators and improper use of equipment in power plants:",
+    "options": {
+      "A": "Owners and governments",
+      "B": "Owners and insurance underwriters",
+      "C": "Governments and educational institutions",
+      "D": "Educational institutions and owners",
+      "E": "Insurance underwriters and governments"
+    },
+    "correctAnswer": "E",
+    "explanation": "Insurance underwriters (who faced massive payouts from boiler failures) and government regulators partnered to mandate inspections and operator certifications."
+  },
+  {
+    "number": 5,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "Power engineers are:",
+    "options": {
+      "A": "Qualified to perform any electrical jobs is a power plant",
+      "B": "Safety code officers in a power plant automatically",
+      "C": "Qualified to perform any welding jobs in a power plant",
+      "D": "Qualified to make design changes in a power plant",
+      "E": "Skilled workers who operate and maintain the equipment in a power plant"
+    },
+    "correctAnswer": "E",
+    "explanation": "Power engineers are certified skilled professionals responsible for the safe and efficient operation and maintenance of power and pressure plant equipment."
+  },
+  {
+    "number": 6,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "The correct methods and practices used for operating, testing, maintaining and repairing the equipment and systems in your facility are set out in:",
+    "options": {
+      "A": "Federal government employment rules",
+      "B": "Occupational Health and Safety Manual",
+      "C": "Site specific policies and procedures manual",
+      "D": "Human resources manual",
+      "E": "ASME Code"
+    },
+    "correctAnswer": "C",
+    "explanation": "Every plant maintains specific standard operating procedures (SOPs) and safety manuals tailored to its unique equipment and processes."
+  },
+  {
+    "number": 7,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "Which of the following is not a common work schedule for power engineers?",
+    "options": {
+      "A": "Working weekends, Holidays",
+      "B": "Twelve hour days",
+      "C": "Seasonal lay-offs",
+      "D": "Eight hour days",
+      "E": "Rotating day and night shifts"
+    },
+    "correctAnswer": "C",
+    "explanation": "Continuous operations mean power engineering jobs are stable year-round, so seasonal lay-offs are not a standard feature of the profession."
+  },
+  {
+    "number": 8,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "Which of these is not a typical duty of a Power Engineer:",
+    "options": {
+      "A": "Maintain high voltage equipment",
+      "B": "Troubleshoot causes of failure",
+      "C": "Identify faulty equipment",
+      "D": "Diagnose process abnormalities",
+      "E": "Issue work orders"
+    },
+    "correctAnswer": "A",
+    "explanation": "While power engineers operate plant systems, specialized high-voltage electrical distribution maintenance is typically handled by certified high-voltage electricians."
+  },
+  {
+    "number": 9,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "Water - steam is an ideal heat transfer fluid because:",
+    "options": {
+      "A": "It is non toxic and can transfer a lot of heat for its mass",
+      "B": "It boils with minimum heat input and is light weight",
+      "C": "It is non toxic and environmentally friendly",
+      "D": "It contains a large amount of heat molecules and is non toxic",
+      "E": "It can transfer a lot of heat for its mass and is free"
+    },
+    "correctAnswer": "A",
+    "explanation": "Water has an exceptionally high latent heat of vaporization and specific heat capacity, allowing it to transport massive quantities of thermal energy efficiently while being non-toxic."
+  },
+  {
+    "number": 10,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "Due to the volume expansion of water to steam of up to 1600 times, this large expansion:",
+    "options": {
+      "A": "Fills the pipes fully with steam",
+      "B": "Is used for cleaning pipes",
+      "C": "Creates a large pressure difference",
+      "D": "Can do useful work",
+      "E": "Ensures no air can get into the steam systems"
+    },
+    "correctAnswer": "D",
+    "explanation": "The massive volumetric expansion when water turns to steam generates high pressures that drive turbines and equipment to perform mechanical work."
+  },
+  {
+    "number": 11,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "To help promote an accident free workplace:",
+    "options": {
+      "A": "Work Areas are kept clean and well lighted",
+      "B": "Managers award workers",
+      "C": "Supervisors must discipline workers",
+      "D": "Managers let the employees decide"
+    },
+    "correctAnswer": "A",
+    "explanation": "Good housekeeping, proper lighting, and clean workspaces are fundamental safety baselines for preventing slips, trips, and operational hazards."
+  },
+  {
+    "number": 12,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "Unqualified individuals operating a power plant or pressure plant risk the _____ of the plant and the general public.",
+    "options": {
+      "A": "Resources",
+      "B": "Health",
+      "C": "Economy",
+      "D": "Comfort",
+      "E": "Safety"
+    },
+    "correctAnswer": "E",
+    "explanation": "Pressure equipment contains immense stored energy; improper operation by unqualified personnel poses an immediate threat to life and plant safety."
+  },
+  {
+    "number": 13,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "Power Engineers should understand that when eventually competent and certified they could:",
+    "options": {
+      "A": "Be promoted to senior chemical process design engineer",
+      "B": "Avoid responsibility for safe and efficient operations",
+      "C": "Be asked to repair instrumentation and control systems for equipment in their plant",
+      "D": "Take total responsibility for the safe and efficient functioning of their facility",
+      "E": "Be responsible for welding high pressure piping"
+    },
+    "correctAnswer": "D",
+    "explanation": "Certified power engineers hold ultimate operational responsibility for running their facilities safely, reliably, and efficiently."
+  },
+  {
+    "number": 14,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "An additional benefit of improved energy conversion efficiency is:",
+    "options": {
+      "A": "Increased stack emissions",
+      "B": "Increased environmental benefits",
+      "C": "Increased fuel delivery activities",
+      "D": "Increased upstream processing",
+      "E": "Increased chemical consumption"
+    },
+    "correctAnswer": "B",
+    "explanation": "Burning less fuel to produce the same output directly lowers greenhouse gas emissions and environmental footprints."
+  },
+  {
+    "number": 15,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "Most facilities that require power engineers are in operation:",
+    "options": {
+      "A": "40 hours per week, but shut down on weekends and holidays",
+      "B": "Everyday except national holidays",
+      "C": "Regular 8 hours work days, with weekends off",
+      "D": "24 hours per day, 7 days per week, 365 days per year",
+      "E": "Only power plants run constantly, heating plants are shutdown at night"
+    },
+    "correctAnswer": "D",
+    "explanation": "Industrial power plants, utilities, and processing facilities typically run continuous 24/7/365 operations."
+  },
+  {
+    "number": 16,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "In Canada, the power engineering profession:",
+    "options": {
+      "A": "Is unregulated",
+      "B": "Is regulated by law",
+      "C": "Reports to the company safety department",
+      "D": "Is considered an apprenticeship trade",
+      "E": "Is not required on most boilers"
+    },
+    "correctAnswer": "B",
+    "explanation": "Power engineering is strictly regulated by provincial and territorial safety legislation and boiler safety acts."
+  },
+  {
+    "number": 17,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "In the early days, owners of power plants hired _____ helpers, who started out doing manual labour and through acquired experience they were progressed to jobs with gradually increasing levels of skill.",
+    "options": {
+      "A": "College trained",
+      "B": "Highly educated",
+      "C": "Unskilled",
+      "D": "Qualified",
+      "E": "Trained"
+    },
+    "correctAnswer": "C",
+    "explanation": "Historically, plants relied on hiring unskilled helpers who learned on the job, which eventually proved unsafe and led to formal certification systems."
+  },
+  {
+    "number": 18,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "Steam is used in many industries, including:",
+    "options": {
+      "A": "Natural Gas Processing Plants, Thermal Power Generation",
+      "B": "Refining, Building Heating Systems",
+      "C": "Heavy Oil Production, Pulp and Paper",
+      "D": "Petrochemical, Mining and metal industries",
+      "E": "All these answer are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "Steam is a versatile industrial utility used across power generation, oil and gas, refining, pulp and paper, petrochemicals, and district heating."
+  },
+  {
+    "number": 19,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "In Canada, approximately what percent of the population is in some form of shift work?",
+    "options": {
+      "A": "50%",
+      "B": "30%",
+      "C": "66%",
+      "D": "20%",
+      "E": "10%"
+    },
+    "correctAnswer": "B",
+    "explanation": "Statistical studies on Canadian labor force demographics indicate that roughly 30% of workers engage in non-standard or shift schedules."
+  },
+  {
+    "number": 20,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "Steam condensate is reused in the steam cycle because:",
+    "options": {
+      "A": "It is cold and safe to handle",
+      "B": "It will create corrosion in the boiler",
+      "C": "It is pure and still contains heat",
+      "D": "It is expensive to dispose of in the sewer",
+      "E": "It is always at full boiler pressure"
+    },
+    "correctAnswer": "C",
+    "explanation": "Condensate is distilled-quality pure water that retains sensible heat, making its recovery crucial for thermal efficiency and water treatment savings."
+  },
+  {
+    "number": 21,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "In order to produce greater efficiency, higher boiler pressures were used and this led to _____ due to employing of unqualified operators in a power plant.",
+    "options": {
+      "A": "Economic gains",
+      "B": "Safer working conditions",
+      "C": "Less labour disputes",
+      "D": "Serious accidents",
+      "E": "Higher efficiency"
+    },
+    "correctAnswer": "D",
+    "explanation": "As operating pressures increased in pursuit of efficiency, the risk and severity of explosions grew dramatically when operated by untrained staff."
+  },
+  {
+    "number": 22,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "Power engineers must understand equipment operations, process design requirements and design limitations:",
+    "options": {
+      "A": "To ensure the least amount of work for the maintenance workers",
+      "B": "To make the equipment and systems function safely and economically",
+      "C": "To develop modifications to increase the pressure",
+      "D": "To make the most profit for the company owner",
+      "E": "To be able to operate as cheaply as possible"
+    },
+    "correctAnswer": "B",
+    "explanation": "Operating within safe design limits ensures that plant equipment functions reliably, avoiding costly downtime or catastrophic failures."
+  },
+  {
+    "number": 23,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "By reducing the overall plant energy and production costs, the Power Engineer:",
+    "options": {
+      "A": "Increases the cost of power",
+      "B": "Lowers the safety standards",
+      "C": "Creates an energy surplus",
+      "D": "Improves the plant profitability",
+      "E": "Decreases energy efficiency"
+    },
+    "correctAnswer": "D",
+    "explanation": "Optimizing thermal efficiency and minimizing fuel and utility waste directly enhances the financial profitability of the industrial facility."
+  },
+  {
+    "number": 24,
+    "heading": "A3 Ch1 - Intro to Power Eng.",
+    "question": "In the daily routine activities, a power engineer:",
+    "options": {
+      "A": "Is not expected check the equipment more than once per day",
+      "B": "Has lots of time to ignore the facilities while checking facebook",
+      "C": "Is not responsible for equipment other than the boiler",
+      "D": "Continually monitors trends and anticipates problems",
+      "E": "Watches the computer screen without checking the real equipment"
+    },
+    "correctAnswer": "D",
+    "explanation": "Proactive monitoring of operational trends, parameters, and physical plant conditions allows power engineers to catch and resolve issues before they escalate."
+  }
+]

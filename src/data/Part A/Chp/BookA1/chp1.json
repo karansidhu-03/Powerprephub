@@ -1,0 +1,197 @@
+[
+  {
+    "number": 1,
+    "question": "A body moves in a straight line at 20 m/s, 6 seconds later it is moving at 35 m/s. What is the acceleration of the body?",
+    "options": {
+      "A": "9.167 m/s²",
+      "B": "2.5 m/s",
+      "C": "9.167 m/s",
+      "D": "0.4 m/s²",
+      "E": "2.5 m/s²"
+    },
+    "correctAnswer": "E",
+    "explanation": "Acceleration a = (v_final - v_initial) / t = (35 - 20) / 6 = 15 / 6 = 2.5 m/s² [Mechanics and Dynamics]."
+  },
+  {
+    "number": 2,
+    "question": "The unit of measure of work as used in the SI system is:",
+    "options": {
+      "A": "Kilowatts",
+      "B": "Joules",
+      "C": "Foot pounds",
+      "D": "Joule meter",
+      "E": "Newton's"
+    },
+    "correctAnswer": "B",
+    "explanation": "The standard SI unit for work and energy is the Joule [Mechanics and Dynamics]."
+  },
+  {
+    "number": 3,
+    "question": "The unit of measure of energy used in the SI system is:",
+    "options": {
+      "A": "Newton",
+      "B": "Joule",
+      "C": "Kilowatt",
+      "D": "Work",
+      "E": "Torque"
+    },
+    "correctAnswer": "B",
+    "explanation": "Energy is measured in Joules in the SI system [Mechanics and Dynamics]."
+  },
+  {
+    "number": 4,
+    "question": "The unit of acceleration in the SI system is:",
+    "options": {
+      "A": "km/s",
+      "B": "m/s²",
+      "C": "m/h",
+      "D": "m/s",
+      "E": "m²/s"
+    },
+    "correctAnswer": "B",
+    "explanation": "Acceleration is expressed in meters per second squared (m/s²) in the SI system [Mechanics and Dynamics]."
+  },
+  {
+    "number": 5,
+    "question": "Mass may be measured in:",
+    "options": {
+      "A": "kJ/kg",
+      "B": "Kelvin",
+      "C": "N/m",
+      "D": "kJ",
+      "E": "kg"
+    },
+    "correctAnswer": "E",
+    "explanation": "Mass is fundamentally measured in kilograms (kg) [Mechanics and Dynamics]."
+  },
+  {
+    "number": 6,
+    "question": "Six kilograms would be a measure of an object's:",
+    "options": {
+      "A": "Length",
+      "B": "Weight",
+      "C": "Mass",
+      "D": "Volume",
+      "E": "Time"
+    },
+    "correctAnswer": "C",
+    "explanation": "Kilograms represent a measure of mass, not weight (which is a force measured in Newtons) [Mechanics and Dynamics]."
+  },
+  {
+    "number": 7,
+    "question": "The SI unit for pressure is:",
+    "options": {
+      "A": "kN",
+      "B": "kPa",
+      "C": "kN/m",
+      "D": "kNm",
+      "E": "kN/m³"
+    },
+    "correctAnswer": "B",
+    "explanation": "Pressure is force per unit area, measured in Pascals (Pa) or kilopascals (kPa) in the SI system [Mechanics and Dynamics]."
+  },
+  {
+    "number": 8,
+    "question": "Potential energy is the ability of a body to do work by virtue of its:",
+    "options": {
+      "A": "Acceleration",
+      "B": "Velocity",
+      "C": "Force",
+      "D": "Density",
+      "E": "Position"
+    },
+    "correctAnswer": "E",
+    "explanation": "Potential energy depends on the position or state of a body (e.g., height above ground) [Mechanics and Dynamics]."
+  },
+  {
+    "number": 9,
+    "question": "In the SI system, the unit of force is the:",
+    "options": {
+      "A": "MJ",
+      "B": "kg force",
+      "C": "Newton",
+      "D": "Nm",
+      "E": "work done in J/s"
+    },
+    "correctAnswer": "C",
+    "explanation": "Force is measured in Newtons (N) in the SI system [Mechanics and Dynamics]."
+  },
+  {
+    "number": 10,
+    "question": "A Hydraulic plunger has an area of 0.10 m² and a force of 200 N acts on it. What is the pressure exerted on the plunger?",
+    "options": {
+      "A": "4 kPa",
+      "B": "1.84 kPa",
+      "C": "750 Pa",
+      "D": "1.64 kPa",
+      "E": "2 kPa"
+    },
+    "correctAnswer": "E",
+    "explanation": "Pressure P = F / A = 200 N / 0.10 m² = 2000 Pa = 2.0 kPa [Mechanics and Dynamics]."
+  },
+  {
+    "number": 11,
+    "question": "m × g × h is the equation for _____ energy.",
+    "options": {
+      "A": "Kinetic",
+      "B": "Basic",
+      "C": "Potential",
+      "D": "Minimum",
+      "E": "Maximum"
+    },
+    "correctAnswer": "C",
+    "explanation": "Gravitational potential energy is calculated using mass (m) times acceleration due to gravity (g) times height (h) [Mechanics and Dynamics]."
+  },
+  {
+    "number": 12,
+    "question": "A mass of 600 kg is moved a horizontal distance of 40 m due to a force of 400 N. The amount of work done is:",
+    "options": {
+      "A": "240 000 J",
+      "B": "16 000 J",
+      "C": "24 000 kJ",
+      "D": "1 600 MJ",
+      "E": "160 MJ"
+    },
+    "correctAnswer": "B",
+    "explanation": "Work = Force × distance = 400 N × 40 m = 16,000 J (Note: mass is extra data not needed for work when force is given) [Mechanics and Dynamics]."
+  },
+  {
+    "number": 13,
+    "question": "A mass of 250 kg is accelerated at 17 m/s². What force is required to achieve this acceleration?",
+    "options": {
+      "A": "425 N",
+      "B": "4.25 kN",
+      "C": "42.5 kN",
+      "D": "4.25 N",
+      "E": "34.2 kN"
+    },
+    "correctAnswer": "B",
+    "explanation": "Force F = m × a = 250 kg × 17 m/s² = 4,250 N = 4.25 kN [Mechanics and Dynamics]."
+  },
+  {
+    "number": 14,
+    "question": "Any action on a body that tends to change its size, shape or its state of motion is defined as:",
+    "options": {
+      "A": "Displacement",
+      "B": "Mass",
+      "C": "Force",
+      "D": "Acceleration",
+      "E": "Volume"
+    },
+    "correctAnswer": "C",
+    "explanation": "Force is defined as a push or pull that can alter a body's state of motion or deform its shape [Mechanics and Dynamics]."
+  },
+  {
+    "number": 15,
+    "question": "Rate of doing work is defined as:",
+    "options": {
+      "A": "Potential energy",
+      "B": "Kinetic energy",
+      "C": "Any energy",
+      "D": "Work",
+      "E": "Power"
+    },
+    "correctAnswer": "E",
+    "explanation": "Power is defined as the rate at which work is done or energy is transferred [Mechanics and Dynamics]."
+  }
+]

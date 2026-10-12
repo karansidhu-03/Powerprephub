@@ -1,0 +1,973 @@
+[
+  {
+    "number": 1,
+    "question": "When additional heat energy is added to the steam to superheat it, the temperature can be:",
+    "options": {
+      "A": "20000C",
+      "B": "500 C",
+      "C": "100 C",
+      "D": "16000 C",
+      "E": "10000 C"
+    },
+    "correctAnswer": "B",
+    "explanation": "Superheated steam temperatures in industrial boilers commonly reach around 500 °C depending on the design and application[cite: 14]."
+  },
+  {
+    "number": 2,
+    "question": "Power engineers can usually expect to work:",
+    "options": {
+      "A": "Straight 8 hour night shifts",
+      "B": "Straight 12 hour day shifts",
+      "C": "Straight 8 hour day shifts",
+      "D": "Rotating shifts",
+      "E": "Straight 12 hour night shifts"
+    },
+    "correctAnswer": "D",
+    "explanation": "Because continuous-process power plants operate 24/7, power engineers typically work rotating shift schedules to cover all hours[cite: 14]."
+  },
+  {
+    "number": 3,
+    "question": "Early government involvement in certification of power engineers became more important for the following reason:",
+    "options": {
+      "A": "Safety",
+      "B": "Pollution",
+      "C": "Efficiency",
+      "D": "Technological advancements",
+      "E": "Labour mobility"
+    },
+    "correctAnswer": "A",
+    "explanation": "Governments stepped in to establish mandatory certification and inspection primarily to protect public and workplace safety following catastrophic boiler explosions[cite: 14]."
+  },
+  {
+    "number": 4,
+    "question": "In the early history of boilers, the following two agencies got involved in the certification of both power plant operators and equipment due to the many accidents that were caused by employing unqualified operators and improper use of equipment in power plants:",
+    "options": {
+      "A": "Owners and governments",
+      "B": "Owners and insurance underwriters",
+      "C": "Governments and educational institutions",
+      "D": "Educational institutions and owners",
+      "E": "Insurance underwriters and governments"
+    },
+    "correctAnswer": "E",
+    "explanation": "Insurance underwriters (who faced massive payouts from boiler failures) and government regulators partnered to mandate inspections and operator certifications[cite: 14]."
+  },
+  {
+    "number": 5,
+    "question": "Power engineers are:",
+    "options": {
+      "A": "Qualified to perform any electrical jobs is a power plant",
+      "B": "Safety code officers in a power plant automatically",
+      "C": "Qualified to perform any welding jobs in a power plant",
+      "D": "Qualified to make design changes in a power plant",
+      "E": "Skilled workers who operate and maintain the equipment in a power plant"
+    },
+    "correctAnswer": "E",
+    "explanation": "Power engineers are certified skilled professionals responsible for the safe and efficient operation and maintenance of power and pressure plant equipment[cite: 14]."
+  },
+  {
+    "number": 6,
+    "question": "The correct methods and practices used for operating, testing, maintaining and repairing the equipment and systems in your facility are set out in:",
+    "options": {
+      "A": "Federal government employment rules",
+      "B": "Occupational Health and Safety Manual",
+      "C": "Site specific policies and procedures manual",
+      "D": "Human resources manual",
+      "E": "ASME Code"
+    },
+    "correctAnswer": "C",
+    "explanation": "Every plant maintains specific standard operating procedures (SOPs) and safety manuals tailored to its unique equipment and processes[cite: 14]."
+  },
+  {
+    "number": 7,
+    "question": "Which of the following is not a common work schedule for power engineers?",
+    "options": {
+      "A": "Working weekends, Holidays",
+      "B": "Twelve hour days",
+      "C": "Seasonal lay-offs",
+      "D": "Eight hour days",
+      "E": "Rotating day and night shifts"
+    },
+    "correctAnswer": "C",
+    "explanation": "Continuous operations mean power engineering jobs are stable year-round, so seasonal lay-offs are not a standard feature of the profession[cite: 14]."
+  },
+  {
+    "number": 8,
+    "question": "Which of these is not a typical duty of a Power Engineer:",
+    "options": {
+      "A": "Maintain high voltage equipment",
+      "B": "Troubleshoot causes of failure",
+      "C": "Identify faulty equipment",
+      "D": "Diagnose process abnormalities",
+      "E": "Issue work orders"
+    },
+    "correctAnswer": "A",
+    "explanation": "While power engineers operate plant systems, specialized high-voltage electrical distribution maintenance is typically handled by certified high-voltage electricians[cite: 14]."
+  },
+  {
+    "number": 9,
+    "question": "Water - steam is an ideal heat transfer fluid because:",
+    "options": {
+      "A": "It is non toxic and can transfer a lot of heat for its mass",
+      "B": "It boils with minimum heat input and is light weight",
+      "C": "It is non toxic and environmentally friendly",
+      "D": "It contains a large amount of heat molecules and is non toxic",
+      "E": "It can transfer a lot of heat for its mass and is free"
+    },
+    "correctAnswer": "A",
+    "explanation": "Water has an exceptionally high latent heat of vaporization and specific heat capacity, allowing it to transport massive quantities of thermal energy efficiently while being non-toxic[cite: 14]."
+  },
+  {
+    "number": 10,
+    "question": "Due to the volume expansion of water to steam of up to 1600 times, this large expansion:",
+    "options": {
+      "A": "Fills the pipes fully with steam",
+      "B": "Is used for cleaning pipes",
+      "C": "Creates a large pressure difference",
+      "D": "Can do useful work",
+      "E": "Ensures no air can get into the steam systems"
+    },
+    "correctAnswer": "D",
+    "explanation": "The massive volumetric expansion when water turns to steam generates high pressures that drive turbines and equipment to perform mechanical work[cite: 14]."
+  },
+  {
+    "number": 11,
+    "question": "To help promote an accident free workplace:",
+    "options": {
+      "A": "Work Areas are kept clean and well lighted",
+      "B": "Managers award workers",
+      "C": "Supervisors must discipline workers",
+      "D": "Managers let the employees decide"
+    },
+    "correctAnswer": "A",
+    "explanation": "Good housekeeping, proper lighting, and clean workspaces are fundamental safety baselines for preventing slips, trips, and operational hazards[cite: 14]."
+  },
+  {
+    "number": 12,
+    "question": "Unqualified individuals operating a power plant or pressure plant risk the _____ of the plant and the general public.",
+    "options": {
+      "A": "Resources",
+      "B": "Health",
+      "C": "Economy",
+      "D": "Comfort",
+      "E": "Safety"
+    },
+    "correctAnswer": "E",
+    "explanation": "Pressure equipment contains immense stored energy; improper operation by unqualified personnel poses an immediate threat to life and plant safety[cite: 14]."
+  },
+  {
+    "number": 13,
+    "question": "Power Engineers should understand that when eventually competent and certified they could:",
+    "options": {
+      "A": "Be promoted to senior chemical process design engineer",
+      "B": "Avoid responsibility for safe and efficient operations",
+      "C": "Be asked to repair instrumentation and control systems for equipment in their plant",
+      "D": "Take total responsibility for the safe and efficient functioning of their facility",
+      "E": "Be responsible for welding high pressure piping"
+    },
+    "correctAnswer": "D",
+    "explanation": "Certified power engineers hold ultimate operational responsibility for running their facilities safely, reliably, and efficiently[cite: 14]."
+  },
+  {
+    "number": 14,
+    "question": "An additional benefit of improved energy conversion efficiency is:",
+    "options": {
+      "A": "Increased stack emissions",
+      "B": "Increased environmental benefits",
+      "C": "Increased fuel delivery activities",
+      "D": "Increased upstream processing",
+      "E": "Increased chemical consumption"
+    },
+    "correctAnswer": "B",
+    "explanation": "Burning less fuel to produce the same output directly lowers greenhouse gas emissions and environmental footprints[cite: 14]."
+  },
+  {
+    "number": 15,
+    "question": "Most facilities that require power engineers are in operation:",
+    "options": {
+      "A": "40 hours per week, but shut down on weekends and holidays",
+      "B": "Everyday except national holidays",
+      "C": "Regular 8 hours work days, with weekends off",
+      "D": "24 hours per day, 7 days per week, 365 days per year",
+      "E": "Only power plants run constantly, heating plants are shutdown at night"
+    },
+    "correctAnswer": "D",
+    "explanation": "Industrial power plants, utilities, and processing facilities typically run continuous 24/7/365 operations[cite: 14]."
+  },
+  {
+    "number": 16,
+    "question": "In Canada, the power engineering profession:",
+    "options": {
+      "A": "Is unregulated",
+      "B": "Is regulated by law",
+      "C": "Reports to the company safety department",
+      "D": "Is considered an apprenticeship trade",
+      "E": "Is not required on most boilers"
+    },
+    "correctAnswer": "B",
+    "explanation": "Power engineering is strictly regulated by provincial and territorial safety legislation and boiler safety acts[cite: 14]."
+  },
+  {
+    "number": 17,
+    "question": "In the early days, owners of power plants hired _____ helpers, who started out doing manual labour and through acquired experience they were progressed to jobs with gradually increasing levels of skill.",
+    "options": {
+      "A": "College trained",
+      "B": "Highly educated",
+      "C": "Unskilled",
+      "D": "Qualified",
+      "E": "Trained"
+    },
+    "correctAnswer": "C",
+    "explanation": "Historically, plants relied on hiring unskilled helpers who learned on the job, which eventually proved unsafe and led to formal certification systems[cite: 14]."
+  },
+  {
+    "number": 18,
+    "question": "Steam is used in many industries, including:",
+    "options": {
+      "A": "Natural Gas Processing Plants, Thermal Power Generation",
+      "B": "Refining, Building Heating Systems",
+      "C": "Heavy Oil Production, Pulp and Paper",
+      "D": "Petrochemical, Mining and metal industries",
+      "E": "All these answer are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "Steam is a versatile industrial utility used across power generation, oil and gas, refining, pulp and paper, petrochemicals, and district heating[cite: 14]."
+  },
+  {
+    "number": 19,
+    "question": "In Canada, approximately what percent of the population is in some form of shift work?",
+    "options": {
+      "A": "50%",
+      "B": "30%",
+      "C": "66%",
+      "D": "20%",
+      "E": "10%"
+    },
+    "correctAnswer": "B",
+    "explanation": "Statistical studies on Canadian labor force demographics indicate that roughly 30% of workers engage in non-standard or shift schedules[cite: 14]."
+  },
+  {
+    "number": 20,
+    "question": "Steam condensate is reused in the steam cycle because:",
+    "options": {
+      "A": "It is cold and safe to handle",
+      "B": "It will create corrosion in the boiler",
+      "C": "It is pure and still contains heat",
+      "D": "It is expensive to dispose of in the sewer",
+      "E": "It is always at full boiler pressure"
+    },
+    "correctAnswer": "C",
+    "explanation": "Condensate is distilled-quality pure water that retains sensible heat, making its recovery crucial for thermal efficiency and water treatment savings[cite: 14]."
+  },
+  {
+    "number": 21,
+    "question": "In order to produce greater efficiency, higher boiler pressures were used and this led to _____ due to employing of unqualified operators in a power plant.",
+    "options": {
+      "A": "Economic gains",
+      "B": "Safer working conditions",
+      "C": "Less labour disputes",
+      "D": "Serious accidents",
+      "E": "Higher efficiency"
+    },
+    "correctAnswer": "D",
+    "explanation": "As operating pressures increased in pursuit of efficiency, the risk and severity of explosions grew dramatically when operated by untrained staff[cite: 14]."
+  },
+  {
+    "number": 22,
+    "question": "Power engineers must understand equipment operations, process design requirements and design limitations:",
+    "options": {
+      "A": "To ensure the least amount of work for the maintenance workers",
+      "B": "To make the equipment and systems function safely and economically",
+      "C": "To develop modifications to increase the pressure",
+      "D": "To make the most profit for the company owner",
+      "E": "To be able to operate as cheaply as possible"
+    },
+    "correctAnswer": "B",
+    "explanation": "Operating within safe design limits ensures that plant equipment functions reliably, avoiding costly downtime or catastrophic failures[cite: 14]."
+  },
+  {
+    "number": 23,
+    "question": "By reducing the overall plant energy and production costs, the Power Engineer:",
+    "options": {
+      "A": "Increases the cost of power",
+      "B": "Lowers the safety standards",
+      "C": "Creates an energy surplus",
+      "D": "Improves the plant profitability",
+      "E": "Decreases energy efficiency"
+    },
+    "correctAnswer": "D",
+    "explanation": "Optimizing thermal efficiency and minimizing fuel and utility waste directly enhances the financial profitability of the industrial facility[cite: 14]."
+  },
+  {
+    "number": 24,
+    "question": "In the daily routine activities, a power engineer:",
+    "options": {
+      "A": "Is not expected check the equipment more than once per day",
+      "B": "Has lots of time to ignore the facilities while checking facebook",
+      "C": "Is not responsible for equipment other than the boiler",
+      "D": "Continually monitors trends and anticipates problems",
+      "E": "Watches the computer screen without checking the real equipment"
+    },
+    "correctAnswer": "D",
+    "explanation": "Proactive monitoring of operational trends, parameters, and physical plant conditions allows power engineers to catch and resolve issues before they escalate[cite: 14]."
+  },
+  {
+    "number": 25,
+    "question": "Expected conduct during an examination for a certificate of competency is stated in:",
+    "options": {
+      "A": "Alberta's Safety Codes Act",
+      "B": "NFPA",
+      "C": "CSA B-51",
+      "D": "Engineers' Regulations of Alberta",
+      "E": "CSA B-52"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 26,
+    "question": "After taking over the shift in a high, pressure boiler plant, the boilers may be left unattended for:",
+    "options": {
+      "A": "No period of time",
+      "B": "Long enough to visit the river intake station",
+      "C": "1 h our",
+      "D": "2 hours",
+      "E": "1 hour, with the chief engineer's permission"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 27,
+    "question": "The final approval of Power Engineering syllabi and curriculum changes comes from:",
+    "options": {
+      "A": "ACI - Association of Chief Inspectors",
+      "B": "CSA",
+      "C": "SOPEEC",
+      "D": "ASME",
+      "E": "IPEEC"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 28,
+    "question": "An exam candidate who fails 3 paper of any examination may be disqualified from writing another examination for a period not exceeding:",
+    "options": {
+      "A": "3 years",
+      "B": "1 month",
+      "C": "3 months",
+      "D": "12 months",
+      "E": "6 months"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 29,
+    "question": "Explanation of the different competency requirements for power engineers is typically found in:",
+    "options": {
+      "A": "CSA B52",
+      "B": "Power Engineers Regulation",
+      "C": "ASME section I",
+      "D": "Federal Gazette",
+      "E": "ASME sect VIII"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 30,
+    "question": "Definitions for Shift Engineer and Chief Engineer are found in:",
+    "options": {
+      "A": "CSA B51",
+      "B": "CSA B52",
+      "C": "ASME section I",
+      "D": "ASME sect VIII",
+      "E": "Power Engineers Regulation"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 31,
+    "question": "It is ________ for an unqualified person to weld on a boiler, pressure vessel, or pressure piping system.",
+    "options": {
+      "A": "Allowed",
+      "B": "Useful",
+      "C": "Expediant",
+      "D": "Illegal",
+      "E": "Okay"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 32,
+    "question": "Committees that establish power engineering standards are composed primarily of which of the following elements?",
+    "options": {
+      "A": "Experts from the industry, professional and insurance groups and all levels of government",
+      "B": "One independent safety and standardisation board",
+      "C": "One government appointed standards board",
+      "D": "Only multi-National power corporations",
+      "E": "Only experts from the industry and government"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 33,
+    "question": "The holder of a Certificate of Competency, the classification of which authorises him or her to act as an engineer, may sketch, construct, install, operate, repair, and give advice on all things pertaining to any _____ in which that person is given the responsibility to operate, maintain, or supervise.",
+    "options": {
+      "A": "Hydro plant",
+      "B": "Welding shop",
+      "C": "Manufacturing plant",
+      "D": "Automotive shop",
+      "E": "Power plant"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 34,
+    "question": "The requirements of a regulation ______ those of an International standard.",
+    "options": {
+      "A": "Are the same as",
+      "B": "Overrule",
+      "C": "Are less than",
+      "D": "Rewritten by",
+      "E": "Can be ignored compared to"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 35,
+    "question": "A Fourth Class Power Engineer's certificate of competency qualifies the holder to take charge of a shift in a power plant consisting of one or more coil type drumless boilers having an aggregate capacity of not more than _____ kW, when used for the sole purpose of underground thermal flooding in oil fields, as shift engineer.",
+    "options": {
+      "A": "30 000",
+      "B": "20 000",
+      "C": "40 000",
+      "D": "10 000",
+      "E": "50 000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 36,
+    "question": "According to jurisdictional regulations, all fittings constructed or brought into that jurisdiction must be:",
+    "options": {
+      "A": "Designed and manufactured within the jurisdiction",
+      "B": "Warranted to last at least 25 years",
+      "C": "Made of the same material as the boiler they will be attached to",
+      "D": "Certified by the federal government",
+      "E": "Registered in the same way as boilers and pressure vessels"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 37,
+    "question": "A Fourth Class Power Engineer's certificate of competency qualifies the holder to take charge of the general care and operation of a power plant having a capacity of not more than _____ kW as chief steam engineer, and to supervise the engineers in that plant.",
+    "options": {
+      "A": "4000",
+      "B": "5000",
+      "C": "3000",
+      "D": "2000",
+      "E": "1000"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 38,
+    "question": "A Fourth Class Power Engineer's certificate of competency qualifies the holder to take charge of a shift in a power plant having a capacity of not more than _____ kW, as a shift engineer.",
+    "options": {
+      "A": "8000",
+      "B": "9000",
+      "C": "5000",
+      "D": "7000",
+      "E": "6000"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 39,
+    "question": "To qualify for a 4th Class power Engineering certificate of competency, a candidate must:",
+    "options": {
+      "A": "Pass a 4th Class course",
+      "B": "Obtain 65% in Part A exam",
+      "C": "Have been employed for 6 months as an operator in a plant over 250 kW",
+      "D": "Obtain 65% of total marks allocated for part B exam",
+      "E": "All of these are required"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 40,
+    "question": "The purpose of the Safety Codes Act and Regulations is to:",
+    "options": {
+      "A": "Protect the boiler",
+      "B": "Make rules for plant operations",
+      "C": "Enforce rules for building operators",
+      "D": "Ensure the safe operation of the plant",
+      "E": "Set exam standards for operators"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 41,
+    "question": "The Act, Pressure Equipment Safety Regulation and Power Engineers Regulations do not apply to a:",
+    "options": {
+      "A": "Heating plant having a boiler rating of 30 kW or less",
+      "B": "Heating plant having a rating of 25 kW or more",
+      "C": "Power plant having a boiler rating of 20 kW or less",
+      "D": "Heating plant having a boiler rating of 20 kW or more",
+      "E": "Power plant having a boiler rating of 10 kW or less"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 42,
+    "question": "In most jurisdictions in Canada the profession of Power Engineering is regulated by:",
+    "options": {
+      "A": "Industrial trades regulation",
+      "B": "ASME codes",
+      "C": "SOPEEC",
+      "D": "Power Engineers regulation",
+      "E": "Apprenticeship board"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 43,
+    "question": "The principle reason you should keep a boiler plant logbook or log sheet is to:",
+    "options": {
+      "A": "Satisfy the boiler inspector",
+      "B": "Provide the operator with an alibi when an accident occurs",
+      "C": "Provide proof that the operator visited the boiler room at the time stated",
+      "D": "Satisfy the chief engineer",
+      "E": "Provide a record of boiler operation, maintenance, testing, servicing"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 44,
+    "question": "Regulations under the \"Act\" are written to provide guidance on:",
+    "options": {
+      "A": "Interpretation, application, and enforcement",
+      "B": "How the elected members of parliament will design boilers",
+      "C": "How to debate the rules in the legislature",
+      "D": "What new acts are required",
+      "E": "Federal enforcement of the act"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 45,
+    "question": "To pass a welder performance qualification test the candidate must:",
+    "options": {
+      "A": "Pass a theoretical exam",
+      "B": "Receive an approval letter from the Human Resources department",
+      "C": "Obtain permission from the federal government",
+      "D": "Prove they have minimum 1 year experience",
+      "E": "Pass a practical exam"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 46,
+    "question": "Which of the following duties is a holder of a Fourth Class Engineer's Certificate of Competency not qualified to perform?",
+    "options": {
+      "A": "Take charge of the general care and operation of a power plant having a capacity of not more than 1 000 kW, as a chief steam engineer, and to supervise the engineers in that plant",
+      "B": "Take charge of the general care and operation of a power plant consisting of one or more coil type drumless boilers having an aggregate capacity not over 5 000 kW, when only in use for the purpose of subterranean thermal flooding in oil fields, as a chief engineer",
+      "C": "Take charge of a shift in a power plant having a capacity of more than 10 000 kW, as a shift engineer",
+      "D": "Take charge of a shift in a power plant having a capacity of not more than 5 000 kW, as a shift engineer",
+      "E": "Take charge of a shift in a power plant consisting of one or more coil type drumless boilers having an aggregate capacity of not more than 10 000 kW, when used only for underground thermal flooding in oil fields, as a shift engineer"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 47,
+    "question": "Power engineers need to obtain their updated legislation for their own particular jurisdiction from:",
+    "options": {
+      "A": "Jurisdictional \"Queen's Printer\" or online",
+      "B": "Federal Government",
+      "C": "CSA",
+      "D": "Gazette",
+      "E": "Local library"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 48,
+    "question": "A fitting, as defined in the \"Act\", means a:",
+    "options": {
+      "A": "Pump",
+      "B": "Fan",
+      "C": "Stack",
+      "D": "Recorder",
+      "E": "Gauge glass"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 49,
+    "question": "In the event of an accident concerning a pressure vessel or pressure piping, you are required by the act to:",
+    "options": {
+      "A": "Give First Aid to the injured then find the cause of the explosion",
+      "B": "Notify the owner and \"the Administrator\" of the accident including all details as soon as is practical",
+      "C": "Isolate the affected area and keep the plant operating",
+      "D": "Shut off the boiler fuel system and inform your employer",
+      "E": "Shut off the boiler fuel system and call the police"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 50,
+    "question": "The power engineering certificate exams in Canada are produced by:",
+    "options": {
+      "A": "CSA",
+      "B": "ACI - Association of Chief Inspectors",
+      "C": "SOPEEC",
+      "D": "IPEEC",
+      "E": "ASME"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 51,
+    "question": "When codes and standards such as ASME, API, CSA are adopted in the regulations:",
+    "options": {
+      "A": "They are enforceable under the Act",
+      "B": "They are not legally enforceable",
+      "C": "They must be approved in the Federal parliament",
+      "D": "Only Canadian codes are included by law",
+      "E": "They are only suggestions"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 52,
+    "question": "The chief inspector has the authority to conduct investigations to:",
+    "options": {
+      "A": "Identify unsafe issues",
+      "B": "Determine the causes of accidents",
+      "C": "Develop recommendations for accident prevention",
+      "D": "Develop recommendations to prevent reoccurrence of accidents",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 53,
+    "question": "Informational found in the Power engineering regulations section that discusses qualifications and examinations will include:",
+    "options": {
+      "A": "Credit for successfully completing relevant, approved training courses",
+      "B": "Stamping of identification numbers",
+      "C": "Registration of fittings",
+      "D": "CSA requirements for operators",
+      "E": "References to federal labor legislation"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 54,
+    "question": "Heating boiler means a boiler:",
+    "options": {
+      "A": "Where water is heated to a pressure exceeding 1 100 kPa and a temperature of 121ºC",
+      "B": "Which does not require a sight glass",
+      "C": "Where steam is produced at a pressure of 103 kPa or less",
+      "D": "In which only hot water is produced",
+      "E": "Where steam is produced at a pressure greater than 103 kPa"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 55,
+    "question": "A body which was formed in 1911 to establish rules for the design, construction, installation and inspection of boilers and pressure vessels was the:",
+    "options": {
+      "A": "ASME",
+      "B": "NFPA",
+      "C": "CSA",
+      "D": "Underwriter Laboratories Canada",
+      "E": "ASME Boiler and Pressure Vessel Committee"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 56,
+    "question": "ASME Section VIII covers?",
+    "options": {
+      "A": "Rules for construction of Portable Water Boilers",
+      "B": "Rules for construction of Power Boilers",
+      "C": "Rules for construction of High Temperature Water Boilers",
+      "D": "Rules for construction of Heating Boilers",
+      "E": "Rules for construction of Pressure Vessels"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 57,
+    "question": "Specific rules for design and construction of firetube boilers is found in ASME sect I:",
+    "options": {
+      "A": "HC",
+      "B": "PVG",
+      "C": "PWT",
+      "D": "PFT",
+      "E": "HLW"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 58,
+    "question": "Recommended rules covering control of internal chemical conditions in power boilers are covered in:",
+    "options": {
+      "A": "ASME Section IV",
+      "B": "ASME Section I",
+      "C": "ASME Section VI",
+      "D": "ASME Section IX",
+      "E": "ASME Section VII"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 59,
+    "question": "Section IV of the ASME code covers:",
+    "options": {
+      "A": "Rules for care and operation of heating boilers",
+      "B": "Rules for care of power boilers",
+      "C": "Construction of heating boilers",
+      "D": "Power boilers",
+      "E": "Construction of power boilers"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 60,
+    "question": "Which of the following is not done by ASME:",
+    "options": {
+      "A": "Determine a safety margin for in service equipment deterioration",
+      "B": "Establish minimum standards for all jurisdictions",
+      "C": "Approve, certify or endorse any item",
+      "D": "Establish rules for fabrication and inspection of boilers",
+      "E": "Establish rules of safety for design and construction of boilers"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 61,
+    "question": "CSA B51 section 5 covers:",
+    "options": {
+      "A": "Installation",
+      "B": "Design and construction",
+      "C": "Piping and fittings",
+      "D": "Name plate and stamping requirements",
+      "E": "Refrigeration equipment"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 62,
+    "question": "CSA B52 Code was produced to cover:",
+    "options": {
+      "A": "Heating plants",
+      "B": "Refrigeration plants",
+      "C": "Natural gas plants",
+      "D": "Boiler and pressure piping",
+      "E": "Gas plants"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 63,
+    "question": "Which of the following sections of ASME code governs the design and constructions of an air compression system receiver?",
+    "options": {
+      "A": "Section I",
+      "B": "Section IV",
+      "C": "Section VIII",
+      "D": "Section VI",
+      "E": "Section VII"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 64,
+    "question": "Which of the following sections of ASME code governs the Pressure Relief Valve requirements for Power Boilers?",
+    "options": {
+      "A": "Section VIII",
+      "B": "Section VI",
+      "C": "Section IV",
+      "D": "Section VII",
+      "E": "Section I"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 65,
+    "question": "In Canada, CSA B149.3 takes precedent over:",
+    "options": {
+      "A": "ASME sect VIII",
+      "B": "ASME CSD-1",
+      "C": "ASME Sect 1",
+      "D": "CSA B52",
+      "E": "CSA B51"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 66,
+    "question": "Rules covering water treatment in heating boilers are covered in:",
+    "options": {
+      "A": "ASME Section IV",
+      "B": "ASME Section I",
+      "C": "ASME Section VII",
+      "D": "ASME Section VI",
+      "E": "ASME Section IX"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 67,
+    "question": "The Canadian Standards Association is a non profit organization independent from the government that consists of:",
+    "options": {
+      "A": "Scientists, engineers, consumers",
+      "B": "Lawyers, senators, accountants",
+      "C": "Government officials, ASME, Professors",
+      "D": "Special interest groups, politicians, consumers",
+      "E": "Human resources department, scientists, elected officials"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 68,
+    "question": "Section VI of the ASME Boiler and Pressure Vessel Code is titled:",
+    "options": {
+      "A": "Recommended rules for the care and operation of heating boilers",
+      "B": "Recommended guidelines for the care of power boilers",
+      "C": "Pressure vessels",
+      "D": "Heating boilers",
+      "E": "Power boilers"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 69,
+    "question": "Which of the following ASME Codes is used by an operator to care for and operate a low pressure heating boiler correctly?",
+    "options": {
+      "A": "Section XI",
+      "B": "Section IV",
+      "C": "Section II",
+      "D": "Section IX",
+      "E": "Section VI"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 70,
+    "question": "ASME section I - PG2.1 applies to the following services:",
+    "options": {
+      "A": "Power boilers above 15psig (100kPa), and water boilers above 250F (120C)",
+      "B": "Power boilers below 15psig (100kPa), and water boilers above 250F (120C)",
+      "C": "Power boilers above 15psig (100kPa), and water boilers below 250F (120C)",
+      "D": "Power boilers below 15psig (100kPa), and water boilers below 250F (120C)",
+      "E": "All boilers"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 71,
+    "question": "CSA B52 Clause 7 describes:",
+    "options": {
+      "A": "Refrigeration system overpressure protection",
+      "B": "Boiler overpressure protection",
+      "C": "Design of non fired vessels such as air receivers",
+      "D": "Emergency burner shutdown systems",
+      "E": "Refrigerant classification"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 72,
+    "question": "Design and construction of Refrigeration systems is found in:",
+    "options": {
+      "A": "CSA B52 clause 7",
+      "B": "CSA B52 clause 5",
+      "C": "CSA B51 clause 5",
+      "D": "ASME I PG",
+      "E": "ASME sect 5"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 73,
+    "question": "Basic design procedure with formula for calculating all parts of a portable water heater is covered by Section IV part:",
+    "options": {
+      "A": "HC",
+      "B": "Appendix",
+      "C": "HLW",
+      "D": "HW",
+      "E": "HG"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 74,
+    "question": "CSA B51 Code was produced to cover:",
+    "options": {
+      "A": "Natural gas piping",
+      "B": "All aspects of a power plant",
+      "C": "Refrigeration plants",
+      "D": "Fish packing plants",
+      "E": "Boilers and pressure pipng"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 75,
+    "question": "ASME CSD-1 does not apply to boilers over:",
+    "options": {
+      "A": "300 boiler horsepower",
+      "B": "120 horsepower",
+      "C": "100 kpa",
+      "D": "120 C",
+      "E": "100 horsepower"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 76,
+    "question": "The Canadian standard that discusses Low water fuel cutoffs, Fusible plugs, water gauges for power boilers:",
+    "options": {
+      "A": "ASME section VIII",
+      "B": "B51",
+      "C": "ASME section VI",
+      "D": "B52",
+      "E": "ASME section IX"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 77,
+    "question": "The Canadian entity that provides minimum standards for protection to the public and operators working with pressure vessels and refrigeration equipment:",
+    "options": {
+      "A": "CBC",
+      "B": "DOT",
+      "C": "Federal Government",
+      "D": "ASME",
+      "E": "CSA"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 78,
+    "question": "CSA B52 Code:\n1. Regulates all gas compression and storage equipment\n2. Provides for safe design of refrigeration systems\n3. Provides for safe installation of refrigeration and air conditioning systems\n4. Provides for safe repair of hot oil systems\n5. Provides for the safe maintenance of refrigeration systems",
+    "options": {
+      "A": "3, 4, 5",
+      "B": "2, 3, 4",
+      "C": "1, 3, 5",
+      "D": "2, 3, 5",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 79,
+    "question": "The CSA B52 code is the code for:",
+    "options": {
+      "A": "Oil burning boilers",
+      "B": "Engineer's regulations",
+      "C": "Gas burning appliances",
+      "D": "Mechanical refrigeration",
+      "E": "Construction and inspection of low pressure heating boilers"
+    },
+    "correctAnswer": "D"
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "number": 1,
+    "heading": "Fire Safety and Prevention",
+    "question": "You should check your standpipe and sprinkler systems to ensure there is no restriction to access:",
+    "options": {
+      "A": "Twice per year",
+      "B": "It is the fire department's responsibility",
+      "C": "At least every 3 years",
+      "D": "At least weekly",
+      "E": "At least monthly"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 2,
+    "heading": "Fire Safety and Prevention",
+    "question": "Which is the most common sprinkler system?",
+    "options": {
+      "A": "Dry pipe",
+      "B": "Wet pipe",
+      "C": "Deluge",
+      "D": "Preactive",
+      "E": "Combined"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 3,
+    "heading": "Fire Safety and Prevention",
+    "question": "The most basic instruction to remember for using a handheld fire extinguisher is PASS:",
+    "options": {
+      "A": "Preactive, Aim, Spray, Sweep",
+      "B": "Pick up, Activate, Signal, Spray",
+      "C": "Pull, Aim, Squeeze, Sweep",
+      "D": "Pull, Activate, Squeeze, Shoot",
+      "E": "Pull, Assess, Signal, Spray"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 4,
+    "heading": "Fire Safety and Prevention",
+    "question": "One type of extinguisher that is suitable for all five classes of fire is the:",
+    "options": {
+      "A": "Halon",
+      "B": "Foam",
+      "C": "Dry chemical",
+      "D": "Carbon Dioxide",
+      "E": "None of these is suitable for all types of fire"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 5,
+    "heading": "Fire Safety and Prevention",
+    "question": "For flammable liquid fires, foam type extinguishers can achieve best results by:",
+    "options": {
+      "A": "Lobbing the foam over top the fire",
+      "B": "Bouncing the foam off the floor just in front of the burning area",
+      "C": "Splashing the agent into the burning pool",
+      "D": "Discharging the agent with a sweeping movement",
+      "E": "Discharging the agent at the base of the pool"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 6,
+    "heading": "Fire Safety and Prevention",
+    "question": "The responsibility to inspect and maintain fire extinguishers is:",
+    "options": {
+      "A": "Owner",
+      "B": "Supplier",
+      "C": "Manufacturer",
+      "D": "Fire department",
+      "E": "Government inspector"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 7,
+    "heading": "Fire Safety and Prevention",
+    "question": "Checks that should be done when the pump is not running includes:",
+    "options": {
+      "A": "Engine coolant temperature",
+      "B": "Engine RPM",
+      "C": "Oil pressure",
+      "D": "Verify that the inlet and outlet valves are locked open",
+      "E": "Bearing vibration"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 8,
+    "heading": "Fire Safety and Prevention",
+    "question": "To ensure the engine, engine oil, coolant, bearings are all running well at operating temperatures the fire pump tests usually last for at least:",
+    "options": {
+      "A": "7 minutes",
+      "B": "1 hour",
+      "C": "24 hours",
+      "D": "1 minute",
+      "E": "7 hours"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 9,
+    "heading": "Fire Safety and Prevention",
+    "question": "You should check the fire pump engine oil level:",
+    "options": {
+      "A": "Annually",
+      "B": "The fire department checks oil levels",
+      "C": "While the engine is running",
+      "D": "Before the engine is running",
+      "E": "Only when there is a noisy bearing"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 10,
+    "heading": "Fire Safety and Prevention",
+    "question": "The standpipe system that contains water, but is not hooked up to a permanent water supply is:",
+    "options": {
+      "A": "Wet standpipe system",
+      "B": "Automatic wet standpipe",
+      "C": "Semi-automatic dry standpipe",
+      "D": "Manual wet pipe system",
+      "E": "Combined standpipe system"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 11,
+    "heading": "Fire Safety and Prevention",
+    "question": "To prevent accidental discharge, fire extinguishers are usually:",
+    "options": {
+      "A": "Stored upside down",
+      "B": "They are kept in locked cabinets",
+      "C": "Equipped with Ring pins",
+      "D": "Protected by Locking covers",
+      "E": "They are discharged when stored"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 12,
+    "heading": "Fire Safety and Prevention",
+    "question": "An advantage of the Halotron I extinguisher is:",
+    "options": {
+      "A": "It is non corrosive, environmentally acceptable",
+      "B": "Greater distance of travel",
+      "C": "Higher boiling temperature",
+      "D": "Non conductive",
+      "E": "All these answers are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 13,
+    "heading": "Fire Safety and Prevention",
+    "question": "Gas turbine engine enclosures use CO2 to fill the cabinet:",
+    "options": {
+      "A": "To cool the turbine engine",
+      "B": "To prevent corrosion",
+      "C": "To set off the fire detection system",
+      "D": "To smother the fire",
+      "E": "To provide less oxygen to the engine"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 14,
+    "heading": "Fire Safety and Prevention",
+    "question": "Hydrostatic testing of sprinklers and standpipes should be done:",
+    "options": {
+      "A": "Anually",
+      "B": "Monthly",
+      "C": "Weekly",
+      "D": "Daily",
+      "E": "None of these answers is correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 15,
+    "heading": "Fire Safety and Prevention",
+    "question": "Which type of sprinkler system has heads that are not heat activated and always fully open?",
+    "options": {
+      "A": "Dry pipe system",
+      "B": "Deluge systems",
+      "C": "Thermal glass bulb",
+      "D": "Wet pipe system",
+      "E": "Fusible link"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 16,
+    "heading": "Fire Safety and Prevention",
+    "question": "Portable fire extinguishers are grouped by this type of operation:",
+    "options": {
+      "A": "Chemical action",
+      "B": "Mechanical action",
+      "C": "Weight of chemical inside them",
+      "D": "Thermochemical properties",
+      "E": "Hydrodynamic action"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 17,
+    "heading": "Fire Safety and Prevention",
+    "question": "Sprinkler systems in computer rooms and telecommunications facilities typically install:",
+    "options": {
+      "A": "Automatic wet systems",
+      "B": "Dry pipe systems",
+      "C": "Wet pipe systems",
+      "D": "Preactive systems",
+      "E": "Deluge systems"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 18,
+    "heading": "Fire Safety and Prevention",
+    "question": "All maintenance work done on portable fire extinguishers is required to be:",
+    "options": {
+      "A": "Performed on an \"as needed\" basis",
+      "B": "Supervised by a National Fire Protection Association employee",
+      "C": "Completed in all extinguishers in the plant at the same time",
+      "D": "Performed by certified agencies",
+      "E": "Performed at the work site in case they are required in an emergency"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 19,
+    "heading": "Fire Safety and Prevention",
+    "question": "A major disadvantage of a floor standing pump extinguisher over a packpack unit is:",
+    "options": {
+      "A": "The floor unit is too difficult to move",
+      "B": "The packpack unit has twice the range",
+      "C": "The floor unit has only half the capacity",
+      "D": "Pumping must stop for relocation",
+      "E": "The floor unit pump is single acting"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 20,
+    "heading": "Fire Safety and Prevention",
+    "question": "The stored pressure extinguisher is charged with pressure up to:",
+    "options": {
+      "A": "190 kPa",
+      "B": "900 kPa",
+      "C": "900 Mpa",
+      "D": "100 kPa",
+      "E": "9000 kPa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 21,
+    "heading": "Fire Safety and Prevention",
+    "question": "Fire pumps are usually started automatically when:",
+    "options": {
+      "A": "When the standpipe pressure increases",
+      "B": "The pressure in the system drops",
+      "C": "When the fire alarm is sounded",
+      "D": "Remotely by the building owner",
+      "E": "When the jockey pump stops"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 22,
+    "heading": "Fire Safety and Prevention",
+    "question": "The type of extinguisher that requires an Air Aspirating nozzle:",
+    "options": {
+      "A": "AFFF",
+      "B": "CO₂",
+      "C": "Water pump",
+      "D": "Halon",
+      "E": "Dry Chemical"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 23,
+    "heading": "Fire Safety and Prevention",
+    "question": "During inspection, an acceptable way to determine if the extinguisher is full is:",
+    "options": {
+      "A": "Check the ring pin",
+      "B": "Ensure it is easy to access",
+      "C": "Check the temperature",
+      "D": "Weigh it",
+      "E": "Check the hoses are in good condition"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 24,
+    "heading": "Fire Safety and Prevention",
+    "question": "Jockey pumps are sized to have:",
+    "options": {
+      "A": "Enough capacity to fight small fires",
+      "B": "Enough flow to circulate the whole fire standpipe system",
+      "C": "Enough power to prevent pipeline freezing",
+      "D": "Enough capacity to pressurize the standpipe",
+      "E": "Enough pressure to reach 3 story fires"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 25,
+    "heading": "Fire Safety and Prevention",
+    "question": "Standpipe systems are used in buildings over three stories because:",
+    "options": {
+      "A": "Fourteen meters is the limit for dragging fire hoses up the stairwells",
+      "B": "Fire hoses can only spray water up three stories",
+      "C": "Fire trucks can't reach over three stories",
+      "D": "Fire hoses are only fourteen meters long",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 26,
+    "heading": "Fire Safety and Prevention",
+    "question": "The use, occupancy, and construction of a building determines:",
+    "options": {
+      "A": "The class of the standpipe system used",
+      "B": "The size of hose and hose connections to be used",
+      "C": "The number of fire zones for standpipes",
+      "D": "The number and location of standpipes",
+      "E": "Frequency of maintenance by the fire department"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 27,
+    "heading": "Fire Safety and Prevention",
+    "question": "When the conditions might result in freezing temperatures, the preferred sprinkler system is:",
+    "options": {
+      "A": "Heated",
+      "B": "Deluge",
+      "C": "Dry pipe",
+      "D": "Antifreeze",
+      "E": "Nitrogen gas"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 28,
+    "heading": "Fire Safety and Prevention",
+    "question": "Carbon Dioxide (CO2) extinguishers:",
+    "options": {
+      "A": "Are the best for Class A fires",
+      "B": "Are self expelling",
+      "C": "Are the quietest in operation",
+      "D": "Present no hazards during use",
+      "E": "Are the most difficult to use"
+    },
+    "correctAnswer": "B"
+  }
+]

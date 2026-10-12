@@ -1,0 +1,418 @@
+[
+  {
+    "number": 1,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Which of the following created by operating facilities may have an adverse affect on the environment:",
+    "options": {
+      "A": "Noise generation",
+      "B": "Incomplete combustion",
+      "C": "Planned vapor release",
+      "D": "Solid non-toxic wastes",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 2,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "New facilities such as compressor stations require a:",
+    "options": {
+      "A": "Wildlife impact statement",
+      "B": "Noise impact statement",
+      "C": "Air quality impact study",
+      "D": "Gas conservation study",
+      "E": "Soil impact study"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 3,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "An operating facility may adversely impact the environment as a result of:\n1. Incomplete combustion\n2. Vapor releases\n3. Noise generation\n4. Unsightly process vessels and buildings\n5. Unpleasant odors",
+    "options": {
+      "A": "1, 2, 3, 4",
+      "B": "2, 3, 4",
+      "C": "1, 2, 3, 5",
+      "D": "1, 2, 3",
+      "E": "1, 3, 4, 5"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 4,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Pulverized coal that is burning very hot will result in:",
+    "options": {
+      "A": "Ozone layer depletion",
+      "B": "Ground level ozone",
+      "C": "Excessive noise",
+      "D": "Contaminated stratosphere",
+      "E": "Unpleasant odours"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Energy in the food web:",
+    "options": {
+      "A": "Does not leave the web",
+      "B": "Is self sustaining within the food web",
+      "C": "Travels from the top of the web to the bottom",
+      "D": "Is passed through the food web by heat radiation",
+      "E": "Originates from the sun"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 6,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Organic matter is primarily deposited on the landscape by:",
+    "options": {
+      "A": "Wind",
+      "B": "Glaciers",
+      "C": "Vegetation",
+      "D": "Gravity",
+      "E": "Water"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 7,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "The three types of actions that can result when a problem area is identified are:",
+    "options": {
+      "A": "Immediate, medium range and long term actions",
+      "B": "Permanent, intermediate and adoptive actions",
+      "C": "Short term, adaptive and long term actions",
+      "D": "Permanent, interim and adaptive actions",
+      "E": "Permanent, intermediate and long term actions"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 8,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Carbon is removed from the atmosphere via:",
+    "options": {
+      "A": "Photosynthesis",
+      "B": "Decomposition",
+      "C": "Condensation",
+      "D": "Adsorption",
+      "E": "Combustion"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 9,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "To lessen an environmental incident, operating personnel should know:",
+    "options": {
+      "A": "The material they are dealing with",
+      "B": "The isolation points in the process",
+      "C": "What is required to contain a release",
+      "D": "The problems that an upset in a process may cause to the environment",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 10,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "The dispersal patterns for airbourne particulate matter is reported in:",
+    "options": {
+      "A": "Wildlife impact statement",
+      "B": "Gas conservation study",
+      "C": "Air quality impact study",
+      "D": "Soil impact study",
+      "E": "Plant permit to operate"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 11,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Re-used water in a SAGD production facilities must be minimum:",
+    "options": {
+      "A": "100%",
+      "B": "10%",
+      "C": "50%",
+      "D": "5%",
+      "E": "95%"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 12,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Energy plant project design applications must include:",
+    "options": {
+      "A": "Alternate industrial or agricultural uses for the land",
+      "B": "Current environmental condition at the proposed construction site",
+      "C": "Potential costs due to future \"carbon taxes\"",
+      "D": "The projected cost of operators and labour",
+      "E": "Other future projects in the area from other industries"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 13,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "A valuable tool in recognition of an environmental problem is frequent and comprehensive:",
+    "options": {
+      "A": "Engineering reports",
+      "B": "Operator checks",
+      "C": "Regulatory updates",
+      "D": "Reports to Government agencies",
+      "E": "Incident reports"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 14,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "The first action of plant personnel upon finding a minor unplanned environmental excursion is to:",
+    "options": {
+      "A": "Report the incident to OH&S",
+      "B": "Report the incident to ERCB",
+      "C": "Alert the rest of the plant personnel",
+      "D": "Report the incident to Provincial Environmental Authorities",
+      "E": "Minimize and control the release"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 15,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "When hazardous waste is transported, the main regulation is:",
+    "options": {
+      "A": "Transportation of Dangerous Goods legislation",
+      "B": "Highway safety act",
+      "C": "Hazardous materials shipping bill",
+      "D": "Transport Canada road safety regulation",
+      "E": "Environmental protection agency"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 16,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "In the ecosystem, green plants are considered to be:",
+    "options": {
+      "A": "Inorganic matter",
+      "B": "Consumers",
+      "C": "Inactive matter",
+      "D": "Decomposers",
+      "E": "Producers"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 17,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Components of an ecosystem are:",
+    "options": {
+      "A": "Vertically ordered",
+      "B": "Interconnected and interdependent",
+      "C": "Independent of each other",
+      "D": "Ranked from top to bottom",
+      "E": "Unchangeable"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 18,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Ground water and surface water originates from:",
+    "options": {
+      "A": "Aeration",
+      "B": "Filtration",
+      "C": "Evaporation",
+      "D": "Vegetation",
+      "E": "Precipitation"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 19,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "The process where an organism takes in oxygen and releases Carbon Dioxide is called:",
+    "options": {
+      "A": "Deposition",
+      "B": "Absorption",
+      "C": "Photosynthesis",
+      "D": "Decomposition",
+      "E": "Respiration"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 20,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Parent material for soil formation:",
+    "options": {
+      "A": "Is only organic material",
+      "B": "Is the same throughout the world",
+      "C": "Is not necessary",
+      "D": "Has been mostly deposited by glaciers in North America",
+      "E": "Is only mineral material deposited by glaciers, wind and water"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 21,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "The ability of operating personnel to deal with unplanned substance releases in a timely and efficient manner is facilitated by:",
+    "options": {
+      "A": "Adaptive actions",
+      "B": "Continuous action plans",
+      "C": "Emergency plans",
+      "D": "Permanent action plans",
+      "E": "Incident plans"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 22,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "The environment consists of:",
+    "options": {
+      "A": "Organic and natural elements",
+      "B": "Soil and water",
+      "C": "Living and non-living elements",
+      "D": "Air and water cycles",
+      "E": "Plant and animal life"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 23,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "When decommissioning and abandoning a processing site:",
+    "options": {
+      "A": "A company liability study must be done",
+      "B": "An ERCB approved plan must be implemented",
+      "C": "An environmental impact study and a remedial plan must be made",
+      "D": "An OH&S study must be done",
+      "E": "A site restoration proposal must be done"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 24,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Plant tissue that becomes trapped in sedimentary rock is the main source of:",
+    "options": {
+      "A": "Photosynthesis",
+      "B": "Hydrocarbons",
+      "C": "Groundwater",
+      "D": "Nitrogen",
+      "E": "Nutrients"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 25,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Herbivores and/or carnivores as they are seen in the ecosystem are considered:",
+    "options": {
+      "A": "Consumers",
+      "B": "Decomposers",
+      "C": "Producers",
+      "D": "Inorganic matter",
+      "E": "Inactive matter"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 26,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Who provides the most effective means of problem recognition in a plant:",
+    "options": {
+      "A": "Occupational Health and Safety",
+      "B": "Cleaning staff",
+      "C": "Operating and maintenance personnel",
+      "D": "Plant superintendent",
+      "E": "Fire Marshall"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 27,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "The process whereby plants consume carbon dioxide, water, and the suns energy to make food is known as the:",
+    "options": {
+      "A": "Photosynthetic cycle",
+      "B": "Meteorological cycle",
+      "C": "Photoelectric cycle",
+      "D": "Hydrological cycle",
+      "E": "Hydrostatic cycle"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 28,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Air is predominantly composed of:",
+    "options": {
+      "A": "O₂ and CO₂",
+      "B": "O₂, N₂ and CH₄",
+      "C": "O₂, CO₂ and CH₄",
+      "D": "O₂, CO₂ and H₂",
+      "E": "O₂ and N₂"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 29,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "The land area where water shares the spaces between soil particles with air is known as the:",
+    "options": {
+      "A": "Water table zone",
+      "B": "Aerated upper zone",
+      "C": "Saturation zone",
+      "D": "Zone of discharge",
+      "E": "Infiltration zone"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 30,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Dramatic changes in atmospheric CO2 concentration can be produced by:",
+    "options": {
+      "A": "Volcanic activity",
+      "B": "Drought",
+      "C": "Extensive floods",
+      "D": "Changes in Ice caps",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 31,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "The three major components in an ecosystem are:",
+    "options": {
+      "A": "Producers, consumers and sun's energy",
+      "B": "Producers, consumers and inactive organic matter",
+      "C": "Animals, plants and air",
+      "D": "Animals, plants and decomposers",
+      "E": "Producers, consumers and air"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 32,
+    "heading": "Environmental Science and Plant Operations",
+    "question": "Inactive organic matter includes:",
+    "options": {
+      "A": "Fungi, inorganic materials",
+      "B": "Sediments, microbes",
+      "C": "Omnivores, nutrients in water",
+      "D": "Nutrients in water, sediments",
+      "E": "Consumers, producers"
+    },
+    "correctAnswer": "D"
+  }
+]

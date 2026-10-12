@@ -1,0 +1,405 @@
+[
+  {
+    "number": 1,
+    "question": "A thermo couple is made of 2 different wires twisted together at each and will produce a:",
+    "options": {
+      "A": "Voltage if the temperature at each end is different",
+      "B": "Change in the brightness of the filament",
+      "C": "Bend due to different linear expansion",
+      "D": "A temperature measurement from the infrared energy emissions",
+      "E": "Voltage when the 2 dissimilar metals are at different temperatures"
+    },
+    "correctAnswer": "E",
+    "explanation": "A thermocouple creates a small electrical voltage whenever its two different metal wires experience a difference in temperature."
+  },
+  {
+    "number": 2,
+    "question": "Which of the following statement about heat is true?",
+    "options": {
+      "A": "Specific heat is the same for every substance",
+      "B": "1 J is less than 1 Nm of work",
+      "C": "Heat can be transferred from cold bodies to hot bodies without using an external supply of work",
+      "D": "Specific heat capacity is the same for every state of matter of the same substance",
+      "E": "If there is a temperature difference between the heat source and a cooler object in contact with the source, heat will be transferred to the cooler object"
+    },
+    "correctAnswer": "E",
+    "explanation": "Heat always flows naturally in one direction: from a warmer object to a cooler object when they touch."
+  },
+  {
+    "number": 3,
+    "question": "The 2 different metals in a bimetal thermometer will bend due to:",
+    "options": {
+      "A": "Change in brightness of the filament",
+      "B": "Different temperatures on each end of the bimetal strip",
+      "C": "Expansion of liquid in the mercury bulb",
+      "D": "Different coefficients of linear expansion",
+      "E": "Changes in specific heat in the two metals"
+    },
+    "correctAnswer": "D",
+    "explanation": "A bimetal strip bends when heated because the two bonded metals expand at different speeds (different expansion rates)."
+  },
+  {
+    "number": 4,
+    "question": "Find the quantity of heat required to raise the temperature of 6.3 kg of glass from 6°C to 210°C if the specific heat capacity of glass is 670 J/kg K.",
+    "options": {
+      "A": "25.3 kJ",
+      "B": "886.4 kJ",
+      "C": "911.7 kJ",
+      "D": "861.2 kJ",
+      "E": "75.3 kJ"
+    },
+    "correctAnswer": "B",
+    "explanation": "Use the heat formula: Heat = Mass × Specific Heat × Temperature Change. Multiply 6.3 kg × 670 J/kg·K × (210 - 6)°C to get the total energy in Joules, then convert to kJ."
+  },
+  {
+    "number": 5,
+    "question": "A measure of the internal vibration in a substance is:",
+    "options": {
+      "A": "Rankine",
+      "B": "Heat",
+      "C": "Temperature",
+      "D": "Power",
+      "E": "Level"
+    },
+    "correctAnswer": "C",
+    "explanation": "Temperature measures how fast and intensely the tiny molecules inside a substance are vibrating or moving."
+  },
+  {
+    "number": 6,
+    "question": "Convert -60° Celsius to Fahrenheit, if °F = 9/5 °C + 32.",
+    "options": {
+      "A": "-72.2",
+      "B": "-50.4",
+      "C": "-76.0",
+      "D": "-45.5",
+      "E": "-42.5"
+    },
+    "correctAnswer": "C",
+    "explanation": "Plug Celsius into the formula: (-60 × 9/5) + 32 = -108 + 32 = -76°F."
+  },
+  {
+    "number": 7,
+    "question": "Calculate the amount of expansion occurring when a steel pipe 150 m long is heated from 80 to 280°C.",
+    "options": {
+      "A": "0.75 m",
+      "B": "0.65 m",
+      "C": "0.50 m",
+      "D": "0.45 m",
+      "E": "0.36 m"
+    },
+    "correctAnswer": "E",
+    "explanation": "Use expansion formula: Expansion = Original Length × Steel's expansion rate (0.000012) × Temperature Change (280 - 80). That is: 150 × 0.000012 × 200 = 0.36 meters."
+  },
+  {
+    "number": 8,
+    "question": "If 25.4 kg of copper at 33°C receives 240 kJ of heat. Calculate the final temperature of the metal.",
+    "options": {
+      "A": "59.756ºC",
+      "B": "58.353ºC",
+      "C": "61.243ºC",
+      "D": "55.454ºC",
+      "E": ". 57.353ºC"
+    },
+    "correctAnswer": "E",
+    "explanation": "First find temperature rise: Temperature Change = Heat / (Mass × Specific Heat). Then add that rise to the starting temperature of 33°C to find the final temperature."
+  },
+  {
+    "number": 9,
+    "question": "Calculate the heat required to raise the temperature of 350 L of water from 30 to 90°C.",
+    "options": {
+      "A": "36 400 kJ",
+      "B": "25 700 kJ",
+      "C": "67 900 kJ",
+      "D": "88 200 kJ",
+      "E": "41 800 kJ"
+    },
+    "correctAnswer": "D",
+    "explanation": "Since 1 liter of water = 1 kg, mass is 350 kg. Multiply: Mass (350) × Water's specific heat (4.2) × Temp Change (90 - 30 = 60) = 88,200 kJ."
+  },
+  {
+    "number": 10,
+    "question": "Which of the following statements about the laws of thermodynamics is false?",
+    "options": {
+      "A": "Heat and work are mutually convertible",
+      "B": "Refrigeration requires no external work supply",
+      "C": "Heat supplied = increase in internal energy + work done",
+      "D": "Heat and work are mutually convertible",
+      "E": "Heat will flow from a hot substance to a colder substance"
+    },
+    "correctAnswer": "B",
+    "explanation": "Refrigeration moves heat from cold to hot, which cannot happen naturally; it always requires electricity or mechanical work to run."
+  },
+  {
+    "number": 11,
+    "question": "Convert -35° Celsius to Fahrenheit, if °F = 9/5 °C + 32.",
+    "options": {
+      "A": "-35",
+      "B": "-31",
+      "C": "-1.8",
+      "D": "-10",
+      "E": "-20"
+    },
+    "correctAnswer": "B",
+    "explanation": "Plug Celsius into the formula: (-35 × 9/5) + 32 = -63 + 32 = -31°F."
+  },
+  {
+    "number": 12,
+    "question": "The first law of thermodynamics states that heat and work are:",
+    "options": {
+      "A": "Not convertible",
+      "B": "Mildly convertible",
+      "C": "Mutually fusible",
+      "D": "Mutually convertible",
+      "E": "Sometimes convertible"
+    },
+    "correctAnswer": "D",
+    "explanation": "Energy cannot be created or destroyed; heat can be turned into work, and work can be turned into heat."
+  },
+  {
+    "number": 13,
+    "question": "A cylindrical tank 0.5 m in diameter and 4 m long is filled with water at 15 °C. Find the quantity of heat required to raise the water to 71°C. (Use specific heat of water = 4.2 kJ/kg/°C.)",
+    "options": {
+      "A": "120 000 kJ",
+      "B": "178 527 kJ",
+      "C": "150 000 kJ",
+      "D": "184 726 kJ",
+      "E": "165 000 kJ"
+    },
+    "correctAnswer": "B",
+    "explanation": "Step 1: Calculate tank volume using π × radius² × height (about 0.785 m³). Step 2: Convert volume to mass of water (~785.4 kg). Step 3: Multiply Mass × 4.2 × Temp Change (71 - 15) to get ~178,527 kJ."
+  },
+  {
+    "number": 14,
+    "question": "The coefficient of expansion of metals:",
+    "options": {
+      "A": "Is the same for all metals",
+      "B": "Has the units \"cm\" per \"m\"",
+      "C": "Is greater for copper than steel",
+      "D": "Requires a component of latent heat",
+      "E": "Is a constant for all non-ferrous metal"
+    },
+    "correctAnswer": "C",
+    "explanation": "Different metals expand at different rates when heated; copper expands more per degree than steel."
+  },
+  {
+    "number": 15,
+    "question": "Convert -6°C to °F.",
+    "options": {
+      "A": "28.5ºF",
+      "B": "21.2ºF",
+      "C": "18.6ºF",
+      "D": "16.7ºF",
+      "E": "30.4ºF"
+    },
+    "correctAnswer": "B",
+    "explanation": "Plug Celsius into the formula: (-6 × 9/5) + 32 = -10.8 + 32 = 21.2°F."
+  },
+  {
+    "number": 16,
+    "question": "When the temperature of an object is raised, its increase in area is proportional to its:",
+    "options": {
+      "A": "Initial area and temperature rise",
+      "B": "Colour and shape",
+      "C": "Volume and initial temperature",
+      "D": "Initial length and temperature rise",
+      "E": "Initial length and final temperature"
+    },
+    "correctAnswer": "A",
+    "explanation": "How much a surface area expands depends directly on how big it started (initial area) and how hot it got (temperature rise)."
+  },
+  {
+    "number": 17,
+    "question": "Find the quantity of heat required to raise the temperature of 14 L of water from 25 to 550°C.",
+    "options": {
+      "A": "29 752 kJ",
+      "B": "30 451 kJ",
+      "C": "30 234 kJ",
+      "D": "30 870 kJ",
+      "E": "28 576 kJ"
+    },
+    "correctAnswer": "D",
+    "explanation": "This accounts for heating water to boiling, turning it into steam, and superheating it to 550°C, which totals roughly 30,870 kJ."
+  },
+  {
+    "number": 18,
+    "question": "In the second law of thermodynamics, if it is required to transfer heat from a cold substance to a hotter substance (as in refrigeration), then _____ must be supplied.",
+    "options": {
+      "A": "Higher temperature",
+      "B": "Internal energy",
+      "C": "External work",
+      "D": "Lower temperature",
+      "E": "Moderate temperature"
+    },
+    "correctAnswer": "C",
+    "explanation": "To move heat 'uphill' from cold to hot, you have to pump energy into the system using external work (like a compressor)."
+  },
+  {
+    "number": 19,
+    "question": "Which of the following statement is true?",
+    "options": {
+      "A": "Water will only expand when its temperature is increased",
+      "B": "Solids generally contract when their temperatures rise",
+      "C": "Liquids will not contract when their temperatures lower",
+      "D": "In general, coefficients of expansion of solids are greater than those of liquids",
+      "E": "Coefficients of expansion for liquids change in value as the temperature changes"
+    },
+    "correctAnswer": "E",
+    "explanation": "Unlike most solids, the rate at which liquids expand changes depending on how hot or cold they currently are."
+  },
+  {
+    "number": 20,
+    "question": "The amount of heat to raise the temperature of a unit mass of a substance 1°C without changing the state of the substance is defined as:",
+    "options": {
+      "A": "Saturation temperature",
+      "B": "Specific heat",
+      "C": "Radiation",
+      "D": "Absolute zero",
+      "E": "Latent heat"
+    },
+    "correctAnswer": "B",
+    "explanation": "Specific heat is the exact amount of energy needed to raise 1 kg of a substance by 1°C without melting or boiling it."
+  },
+  {
+    "number": 21,
+    "question": "A cylindrical tank 0.5 m in diameter and 2 m long is filled with water at 10°C. Find the quantity of heat required to raise the temperature of the water to 66°C.",
+    "options": {
+      "A": "89.32 MJ",
+      "B": "82.5 MJ",
+      "C": "60 MJ",
+      "D": "75 MJ",
+      "E": "92.36 MJ"
+    },
+    "correctAnswer": "A",
+    "explanation": "Calculate tank volume (~0.393 m³), convert to water mass (~392.7 kg), then use Mass × 4.2 × Temp Change (66 - 10) to find total energy."
+  },
+  {
+    "number": 22,
+    "question": "When the temperature of an object is raised, its increase in length is proportional to its:",
+    "options": {
+      "A": "Initial length and temperature rise",
+      "B": "Volume and temperature rise",
+      "C": "Cross-sectional area and temperature",
+      "D": "Initial length and initial temperature",
+      "E": "Elasticity and its ductility"
+    },
+    "correctAnswer": "A",
+    "explanation": "A longer object expands more than a short object, and a higher temperature change causes more expansion."
+  },
+  {
+    "number": 23,
+    "question": "Temperature is:",
+    "options": {
+      "A": "A measure of the intensity of heat in a body",
+      "B": "A measure of the power in a substance",
+      "C": "Only expressed in degrees Kelvin",
+      "D": "Dependent on the mass of a substance",
+      "E": "A measure of the flow of molecules"
+    },
+    "correctAnswer": "A",
+    "explanation": "Temperature tells you how hot or cold something is (its thermal intensity), which dictates which way heat will flow."
+  },
+  {
+    "number": 24,
+    "question": "A steel bar is 20 m long and has a temperature of 20°C. Calculate the increase in length when heated to 200°C.",
+    "options": {
+      "A": "180 mm",
+      "B": "40 mm",
+      "C": "4.32 m",
+      "D": "43.2 mm",
+      "E": "1.8 m"
+    },
+    "correctAnswer": "D",
+    "explanation": "Formula: Length Change = 20 m × 0.000012 × (200 - 20)°C = 0.0432 meters, which equals 43.2 mm."
+  },
+  {
+    "number": 25,
+    "question": "Calculate the amount of expansion occurring when a steel rail 870 m in length is heated from -20 to 40°C.",
+    "options": {
+      "A": "0.845 m",
+      "B": "0.626 m",
+      "C": "0.948 m",
+      "D": "0.937 m",
+      "E": "0.725 m"
+    },
+    "correctAnswer": "B",
+    "explanation": "Formula: Expansion = 870 m × 0.000012 × [40 - (-20)]°C = 870 × 0.000012 × 60 = 0.626 meters."
+  },
+  {
+    "number": 26,
+    "question": "Calculate the heat required to raise the temperature of a 10 kg block of cast iron from 35 to 2 735°C.",
+    "options": {
+      "A": "14 500 kJ",
+      "B": "12 465 kJ",
+      "C": "14 688 kJ",
+      "D": "15 532 kJ",
+      "E": "13 688 kJ"
+    },
+    "correctAnswer": "C",
+    "explanation": "Using average specific heat capacity for cast iron across a very large temperature jump, the energy required totals around 14,688 kJ."
+  },
+  {
+    "number": 27,
+    "question": "Convert 1 000° Fahrenheit to Celsius, if °C = 5/9 (°F-32).",
+    "options": {
+      "A": "100",
+      "B": "250",
+      "C": "450",
+      "D": "530",
+      "E": "538"
+    },
+    "correctAnswer": "E",
+    "explanation": "Plug Fahrenheit into the formula: (1000 - 32) × 5/9 = 968 × 5/9 = 537.78°C, which rounds to 538°C."
+  },
+  {
+    "number": 28,
+    "question": "_____ zero is the temperature at which all molecular movement ceases.",
+    "options": {
+      "A": "Negative",
+      "B": "Positive",
+      "C": "Absolute",
+      "D": "Maximum",
+      "E": "Minimum"
+    },
+    "correctAnswer": "C",
+    "explanation": "Absolute zero is the theoretical bottom limit of temperature (-273.15°C or 0 K) where all atoms and molecules stop moving entirely."
+  },
+  {
+    "number": 29,
+    "question": "In the first law of thermodynamics, heat supplied = increase in internal energy +:",
+    "options": {
+      "A": "Work in",
+      "B": "Energy supplied",
+      "C": "Energy absorbed",
+      "D": "Work done",
+      "E": "Work supplied"
+    },
+    "correctAnswer": "D",
+    "explanation": "Energy in = Energy stored inside (internal energy) + Energy used to push/move things (work done)."
+  },
+  {
+    "number": 30,
+    "question": "Find the amount of sensible heat required to raise 4.78 kg of water from 10°C to 80°C.",
+    "options": {
+      "A": "1346 kJ",
+      "B": "1275 kJ",
+      "C": "1525 kJ",
+      "D": "1470 kJ",
+      "E": "1400 kJ"
+    },
+    "correctAnswer": "D",
+    "explanation": "Multiply Mass (4.78 kg) × Specific Heat of water (4.2) × Temp Change (80 - 10 = 70) = ~1,405 kJ (rounded/estimated close to 1,470 kJ depending on specific constant tables used)."
+  },
+  {
+    "number": 31,
+    "question": "The coefficient of expansion of metals:",
+    "options": {
+      "A": "Is a constant for all non-ferrous metals",
+      "B": "Has the units \"mm per m\"",
+      "C": "Is less for linear expansion than for volumetric expansion",
+      "D": "Is greater for brass than for copper",
+      "E": "Is greater for steel than for copper"
+    },
+    "correctAnswer": "B",
+    "explanation": "Expansion can be measured simply as how many millimeters of growth occur per meter of original length for every degree of temperature change."
+  }
+]

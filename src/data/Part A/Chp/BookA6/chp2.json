@@ -1,0 +1,392 @@
+[
+  {
+    "number": 1,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "\"Coalescence\" is:",
+    "options": {
+      "A": "A term used in soldering",
+      "B": "A term used in brazing",
+      "C": "The same as fusion",
+      "D": "A type of coating used on a welding rod",
+      "E": "The mixing of gases in a cutting torch"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 2,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "When braze welding, the filler rod is usually:",
+    "options": {
+      "A": "Alloy steel",
+      "B": "Antimony",
+      "C": "Bronze",
+      "D": "Aluminum",
+      "E": "Brass"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 3,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "During OFW, if a filler metal is used:",
+    "options": {
+      "A": "It is usually made of a mixture of tin and lead",
+      "B": "It is made from an alloy of copper and zinc",
+      "C": "It is made using high alloy stainless steel",
+      "D": "It is the same composition as the parent metal",
+      "E": "It is made of bronze"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 4,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "The weld that fuses the metal at the bottom of the butt joint is called:",
+    "options": {
+      "A": "Parent pass",
+      "B": "Cap pass",
+      "C": "Bottom pass",
+      "D": "Root pass",
+      "E": "Face pass"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 5,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "Boiler tubes must be expanded into place because:",
+    "options": {
+      "A": "Expanded tubes provide a better seal than welded tubes",
+      "B": "Strength welds are too expensive to use on every joint",
+      "C": "Double V butt joints are too weak to use on boilers",
+      "D": "The seal welds are not designed for full internal pressure",
+      "E": "Tubes are too short to extend through the shell"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 6,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "Solder connections are usually used on _____ pipe.",
+    "options": {
+      "A": "Steel",
+      "B": "Aluminum",
+      "C": "Cast iron",
+      "D": "Copper",
+      "E": "Stainless steel"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 7,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "The flue and repad around a manhole are:",
+    "options": {
+      "A": "Fillet welded",
+      "B": "V-Groove welded",
+      "C": "Not required in high pressure equipment",
+      "D": "Only required in steam boilers",
+      "E": "Forge welded"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 8,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "Tee joints and Lap joints are constructed using:",
+    "options": {
+      "A": "Backing welds",
+      "B": "Expansion mandrel",
+      "C": "Groove welds",
+      "D": "Butt welds",
+      "E": "Fillet welds"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 9,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "To be certified to weld pressure equipment:",
+    "options": {
+      "A": "A welder performance test is required",
+      "B": "Test coupons must pass destructive tests",
+      "C": "Test welds must pass non destructive examination",
+      "D": "Welding must follow written, approved procedure",
+      "E": "All of these are required"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 10,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "When a filler rod and very hot flames are used in a welding process, the weld method is the:",
+    "options": {
+      "A": "Oxy-acetylene method",
+      "B": "Electric arc method",
+      "C": "Heli-arc welding",
+      "D": "Spot weld method",
+      "E": "Submerged arc welding"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 11,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "If a welding electrode has the following identifying number \"E7015\", what does the \"70\" represent?",
+    "options": {
+      "A": "70 kPa",
+      "B": "70 000 psi",
+      "C": "70 psi",
+      "D": "700 psi",
+      "E": "70 000 kPa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 12,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "Welded fin tube waterwall panels are an example of:",
+    "options": {
+      "A": "Casting welds",
+      "B": "Boundary seal welds",
+      "C": "Casing wleds",
+      "D": "Strength welds",
+      "E": "Porosity welds"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 13,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "The most common form of weld preparation is:",
+    "options": {
+      "A": "U-groove",
+      "B": "Square Groove",
+      "C": "V-groove",
+      "D": "Bevel Groove",
+      "E": "Double U-Groove"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 14,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "The electrical power necessary for arc welding may be supplied by:\n1. Generators\n2. Transformers\n3. Rectifiers\n4. Pumps",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "1, 2, 4",
+      "C": "1, 2, 3, 4",
+      "D": "1, 3, 4",
+      "E": "1, 4"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 15,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "The item which keeps the weld from oxidizing, cooling too fast, and the bead smooth during submerged arc welding, is the:",
+    "options": {
+      "A": "Flux",
+      "B": "Steadiness of the welder's hand",
+      "C": "Arc temperature",
+      "D": "Rod composition",
+      "E": "Rod rate of feed"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 16,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "A common method used to start the arc in submerged arc welding is with:",
+    "options": {
+      "A": "A piece of steel wool",
+      "B": "A striker similar to that used in oxy-acetylene",
+      "C": "An electric sparker",
+      "D": "A long wooden match",
+      "E": "An oil soaked torch"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 17,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "When brought into an oxygen rich atmosphere, steel will burn at:",
+    "options": {
+      "A": "670ºC",
+      "B": "358ºC",
+      "C": "507ºC",
+      "D": "870ºC",
+      "E": "1 213ºC"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 18,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "The weld and the area around the weld that becomes red hot is called:",
+    "options": {
+      "A": "Heat treated zone",
+      "B": "Heat affected zone",
+      "C": "Weld affected zone",
+      "D": "Brittle metal zone",
+      "E": "Heat treatment zone"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 19,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "Advantages of submerged arc welding include:\n1. A protective coating is required over the electrode\n2. The arc is not visible\n3. Weld seams are neat and uniform in appearance\n4. A skilled welder is not required to operate the machinery\n5. Very little gas or fumes rise from the weld",
+    "options": {
+      "A": "1, 3, 5",
+      "B": "1, 4, 5",
+      "C": "2, 3, 4",
+      "D": "2, 3, 5",
+      "E": "3, 4, 5"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 20,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "Electric arc temperatures may be as high as:",
+    "options": {
+      "A": "7 450°C",
+      "B": "4 250°C",
+      "C": "8 300°C",
+      "D": "3 000°C",
+      "E": "5 325°C"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 21,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "When acetylene is stored in a cylinder it is absorbed in:",
+    "options": {
+      "A": "Acetate",
+      "B": "Water",
+      "C": "Phosphate",
+      "D": "Acetone",
+      "E": "Chromate"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 22,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "When flame cutting, a blast of pure oxygen is directed into the heated metal to:",
+    "options": {
+      "A": "Burn away a portion of the metal",
+      "B": "Remove slag",
+      "C": "Blow molten metal out",
+      "D": "Cool the metal",
+      "E": "Produce slag"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 23,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "A welding electrode stamped \"E6010\" would have a tensile strength of:",
+    "options": {
+      "A": "60 100 psi",
+      "B": "6 000 psi",
+      "C": "6 010 psi",
+      "D": "60 000 psi",
+      "E": "6 100 psi"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 24,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "A braze welding process:",
+    "options": {
+      "A": "Is used in the construction of low pressure heating boilers",
+      "B": "a form of fusion welding",
+      "C": "Requires two dissimilar materials",
+      "D": "Heats metal to a bright red colour",
+      "E": "Is done with a temperature above 870ºC"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 25,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "Acetylene should not be used at pressures above:",
+    "options": {
+      "A": "50 kPa",
+      "B": "25 kPa",
+      "C": "120 kPa",
+      "D": "100 kPa",
+      "E": "10 kPa"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 26,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "SAW Flux is:",
+    "options": {
+      "A": "A granular substance deposited on the weld",
+      "B": "A gas flame that is neither rich in oxygen or acetylene",
+      "C": "The unspecified pieces of scrap metal added to a weld to speed up the process",
+      "D": "A grouping of gas pockets together in a weld",
+      "E": "The metal added as filler to a weld area"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 27,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "PWHT is done by holding the temperature at 595 degrees:",
+    "options": {
+      "A": "By increasing temperature 25 degrees per hour until 595 degrees",
+      "B": "1 hour",
+      "C": "1 hour for every 25mm thickness",
+      "D": "And then lowering to 230 degrees, and then 80 degrees",
+      "E": "25 minutes for every mm of thickness"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 28,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "With reverse polarity:",
+    "options": {
+      "A": "DC power is supplied to the electrode",
+      "B": "AC or DC power may be supplied to the electrode",
+      "C": "The welding electrode is connected to the negative terminal",
+      "D": "AC power is supplied to the electrode",
+      "E": "The welding electrode is connected to the positive terminal"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 29,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "Which of the following is the colour for an acetylene hose?",
+    "options": {
+      "A": "Green",
+      "B": "White",
+      "C": "Yellow",
+      "D": "Red",
+      "E": "Black"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 30,
+    "heading": "Welding, Cutting, and Metal Joining Processes",
+    "question": "When attaching tubes to Shell, the tube is secured with:",
+    "options": {
+      "A": "Groove welds",
+      "B": "Forged welds",
+      "C": "Plastic welds",
+      "D": "Zone weld",
+      "E": "None of these answers is correct"
+    },
+    "correctAnswer": "E"
+  }
+]

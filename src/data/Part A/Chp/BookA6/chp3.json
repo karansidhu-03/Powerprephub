@@ -1,0 +1,184 @@
+[
+  {
+    "number": 1,
+    "heading": "Non-Destructive Testing and Weld Inspection",
+    "question": "Liquid penetrant testing is chosen to:",
+    "options": {
+      "A": "Highlight surface indication",
+      "B": "Highlight interior indications",
+      "C": "Determine thickness of parent material",
+      "D": "Identify porosity",
+      "E": "Find cracks in cast iron"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 2,
+    "heading": "Non-Destructive Testing and Weld Inspection",
+    "question": "An example of Non-destructive testing of a weld:",
+    "options": {
+      "A": "Thermal shocking a vessel to the point of fracture",
+      "B": "Subjecting the weld to a radiographic inspection",
+      "C": "Testing the weld by means of chemical analysis",
+      "D": "Mechanical testing of a sample or small portion of a weld",
+      "E": "Raising the hydrostatic pressure on a vessel to the point of rupture"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 3,
+    "heading": "Non-Destructive Testing and Weld Inspection",
+    "question": "To determine if an indication is acceptable or not:",
+    "options": {
+      "A": "The plant manager decides if the indication is a problem",
+      "B": "It is compared to a standard",
+      "C": "The inspector will check with the government",
+      "D": "All indications are not acceptable",
+      "E": "Inspectors must do destructive testing"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 4,
+    "heading": "Non-Destructive Testing and Weld Inspection",
+    "question": "A gas pocket caused by gas or moisture trapped in a weld is called:",
+    "options": {
+      "A": "A crater",
+      "B": "A blowhole",
+      "C": "Spatter",
+      "D": "Coalescence",
+      "E": "A box"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "heading": "Non-Destructive Testing and Weld Inspection",
+    "question": "Slag inclusion results from:",
+    "options": {
+      "A": "Creation of a gas pocket due to trapped gases",
+      "B": "Stresses built up after the weld process",
+      "C": "Adding pieces of rod or metal as filler to the weld",
+      "D": "Solid non-metallic materials being trapped in the weld",
+      "E": "Metal particles being sprayed out during the weld process"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 6,
+    "heading": "Non-Destructive Testing and Weld Inspection",
+    "question": "Gas bubbles trapped within a weld is commonly called:",
+    "options": {
+      "A": "Porosity",
+      "B": "Flux",
+      "C": "Slugging",
+      "D": "Spatter",
+      "E": "Fusion"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 7,
+    "heading": "Non-Destructive Testing and Weld Inspection",
+    "question": "Rules for uses of radiographic and ultrasonic inspection are covered in the:",
+    "options": {
+      "A": "Power Boiler Code Section I",
+      "B": "ASME Section IX Welding and Brazing Qualifications",
+      "C": "ASME Section II Materials Specification",
+      "D": "Canadian Standards B-51",
+      "E": "Rules for Care and Operation of Power Boilers Code"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 8,
+    "heading": "Non-Destructive Testing and Weld Inspection",
+    "question": "The basic difference between fluorescent penetrant and dye penetrant is that dye penetrant:",
+    "options": {
+      "A": "Involves the use of a developer compound",
+      "B": "Uses less compounds than fluorescent",
+      "C": "Requires a \"black\" light to detect cracks",
+      "D": "Makes valuable use of penetrameters",
+      "E": "Cannot be reliable in locating porosity in a weld"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 9,
+    "heading": "Non-Destructive Testing and Weld Inspection",
+    "question": "An ultraviolet light weld inspections uses the _____ testing method.",
+    "options": {
+      "A": "Fluorescent penetrant",
+      "B": "Ultrasonic",
+      "C": "Destructive",
+      "D": "Radiographic",
+      "E": "Dye penetrant"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 10,
+    "heading": "Non-Destructive Testing and Weld Inspection",
+    "question": "Ultrasonic inspection involves the use of:",
+    "options": {
+      "A": "Gamma rays",
+      "B": "Radiographic penetrameters",
+      "C": "Short wavelength radiation",
+      "D": "High frequency vibrations",
+      "E": "Fluorescent penetrant dye"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 11,
+    "heading": "Non-Destructive Testing and Weld Inspection",
+    "question": "A method of testing a weld that is quick, easy and inexpensive is the _____ method.",
+    "options": {
+      "A": "Ultrasonic",
+      "B": "Visual",
+      "C": "Radiographic",
+      "D": "Dye penetrant",
+      "E": "Fluorescent penetrant"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 12,
+    "heading": "Non-Destructive Testing and Weld Inspection",
+    "question": "When penetrameters are used for testing welds, the method being used is:",
+    "options": {
+      "A": "Fluorescent penetrant",
+      "B": "Ultrasonic",
+      "C": "Dye penetrant",
+      "D": "Radiographic",
+      "E": "Visual"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 13,
+    "heading": "Non-Destructive Testing and Weld Inspection",
+    "question": "When using radiographic inspections, defects such as cracks and porosity show up as:",
+    "options": {
+      "A": "Lighter shadows on the penetrameter",
+      "B": "Wave signals on a small screen",
+      "C": "Lighter shadows on the photographic paper",
+      "D": "Darker shadows on the photographic paper",
+      "E": "Darker shadows on the penetrameter"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 14,
+    "heading": "Non-Destructive Testing and Weld Inspection",
+    "question": "The best method of weld inspection at all stages of production is:",
+    "options": {
+      "A": "Visual",
+      "B": "Dye penetrant",
+      "C": "Ultrasonic",
+      "D": "Radiographic",
+      "E": "Fluorescent penetrant"
+    },
+    "correctAnswer": "A"
+  }
+]
