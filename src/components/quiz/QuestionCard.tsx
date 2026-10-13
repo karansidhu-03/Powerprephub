@@ -125,9 +125,11 @@ export function QuestionCard({
             the answer is {LETTERS[question.correctAnswer]}.{" "}
             {question.options[question.correctAnswer]}
           </p>
-          <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
-            {question.explanation}
-          </p>
+          {question.explanation && (
+            <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+              {question.explanation}
+            </p>
+          )}
         </div>
       )}
     </article>

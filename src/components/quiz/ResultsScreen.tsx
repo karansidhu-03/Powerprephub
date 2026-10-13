@@ -217,9 +217,11 @@ export function ResultsScreen({
                       Correct: {LETTERS[q.correctAnswer]} —{" "}
                       {q.options[q.correctAnswer]}
                     </span>
-                    <span className="mt-1 block text-xs leading-relaxed text-muted-foreground/80">
-                      {q.explanation}
-                    </span>
+                    {q.explanation && (
+                      <span className="mt-1 block text-xs leading-relaxed text-muted-foreground/80">
+                        {q.explanation}
+                      </span>
+                    )}
                   </span>
                 </button>
               </li>
