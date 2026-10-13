@@ -104,7 +104,12 @@ interface RawTextAnswerQuestion {
 }
 
 const LETTER_TO_INDEX: Record<string, number> = {
-  A: 0, B: 1, C: 2, D: 3, E: 4, F: 5,
+  A: 0,
+  B: 1,
+  C: 2,
+  D: 3,
+  E: 4,
+  F: 5,
 };
 
 type RawAny = RawNumberQuestion | RawStringIdQuestion | RawTextAnswerQuestion;
@@ -133,23 +138,45 @@ function toQuestions(raw: RawAny[], fallbackTopic?: string): Question[] {
       };
     }
     if (isStringIdQ(q)) {
-      const idx = q.options.indexOf(q.correctAnswer);
+      const options = Array.isArray(q.options)
+        ? q.options
+        : Object.values(q.options ?? {});
+
+      const answer = q.correctAnswer;
+      const idx =
+        typeof answer === "number"
+          ? answer
+          : options.indexOf(answer) >= 0
+            ? options.indexOf(answer)
+            : (LETTER_TO_INDEX[answer.toUpperCase()] ?? 0);
+
       return {
         id: q.id,
         question: q.question,
-        options: q.options,
-        correctAnswer: idx >= 0 ? idx : 0,
+        options,
+        correctAnswer: idx,
         explanation: q.explanation || undefined,
         topic: q.chapter || fallbackTopic,
       };
     }
     // RawTextAnswerQuestion
-    const idx = q.options.indexOf(q.answer);
+    const options = Array.isArray(q.options)
+      ? q.options
+      : Object.values(q.options ?? {});
+
+    const answer = q.answer;
+
+    const idx =
+      typeof answer === "number"
+        ? answer
+        : options.indexOf(answer) >= 0
+          ? options.indexOf(answer)
+          : (LETTER_TO_INDEX[String(answer).toUpperCase()] ?? 0);
     const topicMatch = q.explanation?.match(/\[([^\]]+)\]\s*\.?$/);
     return {
       id: q.id,
       question: q.question,
-      options: q.options,
+      options,
       correctAnswer: idx >= 0 ? idx : 0,
       explanation: q.explanation,
       topic: topicMatch ? topicMatch[1] : fallbackTopic,
@@ -202,11 +229,7 @@ const placeholderPapers = (from: number, to: number): Paper[] =>
     questions: null,
   }));
 
-function makePaper(
-  id: string,
-  label: string,
-  questions: Question[],
-): Paper {
+function makePaper(id: string, label: string, questions: Question[]): Paper {
   return {
     id,
     label,
@@ -217,66 +240,255 @@ function makePaper(
 
 // Build chapter groups
 const prepChapters: Paper[] = [
-  makePaper("prep-chp1", "SI Units", toQuestions(prepChp1 as unknown as RawStringIdQuestion[])),
-  makePaper("prep-chp2", "Elementary Mechanics & Dynamics", toQuestions(prepChp2 as unknown as RawNumberQuestion[], "Elementary mechanics & dynamics")),
-  makePaper("prep-chp3", "Fractions, Decimals & Percentages", toQuestions(prepChp3 as unknown as RawNumberQuestion[], "Fractions, decimals and percentages")),
-  makePaper("prep-chp4", "Fractions, Decimals & Percentages II", toQuestions(prepChp4 as unknown as RawNumberQuestion[], "Fractions, decimals and percentages")),
-  makePaper("prep-chp5", "Basic Algebra", toQuestions(prepChp5 as unknown as RawNumberQuestion[], "Basic algebra")),
-  makePaper("prep-chp6", "Geometry & Mensuration", toQuestions(prepChp6 as unknown as RawNumberQuestion[], "Geometry and Mensuration")),
-  makePaper("prep-chp7", "Mensuration & Geometry II", toQuestions(prepChp7 as unknown as RawNumberQuestion[], "Mensuration and Geometry")),
+  makePaper(
+    "prep-chp1",
+    "SI Units",
+    toQuestions(prepChp1 as unknown as RawStringIdQuestion[]),
+  ),
+  makePaper(
+    "prep-chp2",
+    "Elementary Mechanics & Dynamics",
+    toQuestions(
+      prepChp2 as unknown as RawNumberQuestion[],
+      "Elementary mechanics & dynamics",
+    ),
+  ),
+  makePaper(
+    "prep-chp3",
+    "Fractions, Decimals & Percentages",
+    toQuestions(
+      prepChp3 as unknown as RawNumberQuestion[],
+      "Fractions, decimals and percentages",
+    ),
+  ),
+  makePaper(
+    "prep-chp4",
+    "Fractions, Decimals & Percentages II",
+    toQuestions(
+      prepChp4 as unknown as RawNumberQuestion[],
+      "Fractions, decimals and percentages",
+    ),
+  ),
+  makePaper(
+    "prep-chp5",
+    "Basic Algebra",
+    toQuestions(prepChp5 as unknown as RawNumberQuestion[], "Basic algebra"),
+  ),
+  makePaper(
+    "prep-chp6",
+    "Geometry & Mensuration",
+    toQuestions(
+      prepChp6 as unknown as RawNumberQuestion[],
+      "Geometry and Mensuration",
+    ),
+  ),
+  makePaper(
+    "prep-chp7",
+    "Mensuration & Geometry II",
+    toQuestions(
+      prepChp7 as unknown as RawNumberQuestion[],
+      "Mensuration and Geometry",
+    ),
+  ),
 ];
 
 const bookA1Chapters: Paper[] = [
-  makePaper("a1-chp1", "Mechanics & Dynamics", toQuestions(a1chp1 as unknown as RawNumberQuestion[], "Mechanics and Dynamics")),
-  makePaper("a1-chp2", "Statics & Moments", toQuestions(a1chp2 as unknown as RawNumberQuestion[], "Statics and Moments")),
-  makePaper("a1-chp3", "Machines & Mechanical Advantage", toQuestions(a1chp3 as unknown as RawNumberQuestion[], "Machines and Mechanical Advantage")),
-  makePaper("a1-chp4", "Vectors & Scalars", toQuestions(a1chp4 as unknown as RawNumberQuestion[], "Vectors and Scalars")),
-  makePaper("a1-chp5", "Kinematics & Motion", toQuestions(a1chp5 as unknown as RawNumberQuestion[], "Kinematics and Motion")),
-  makePaper("a1-chp6", "Energy, Work & Pressure", toQuestions(a1chp6 as unknown as RawNumberQuestion[], "Energy, Work & Pressure")),
-  makePaper("a1-chp7", "Friction Fundamentals", toQuestions(a1chp7 as unknown as RawNumberQuestion[], "Friction Fundamentals")),
-  makePaper("a1-chp8", "Strength of Materials", toQuestions(a1chp8 as unknown as RawNumberQuestion[], "Strength of Materials")),
-  makePaper("a1-chp9", "Mechanical Drives", toQuestions(a1chp9 as unknown as RawNumberQuestion[], "Mechanical Drives")),
+  makePaper(
+    "a1-chp1",
+    "Mechanics & Dynamics",
+    toQuestions(
+      a1chp1 as unknown as RawNumberQuestion[],
+      "Mechanics and Dynamics",
+    ),
+  ),
+  makePaper(
+    "a1-chp2",
+    "Statics & Moments",
+    toQuestions(
+      a1chp2 as unknown as RawNumberQuestion[],
+      "Statics and Moments",
+    ),
+  ),
+  makePaper(
+    "a1-chp3",
+    "Machines & Mechanical Advantage",
+    toQuestions(
+      a1chp3 as unknown as RawNumberQuestion[],
+      "Machines and Mechanical Advantage",
+    ),
+  ),
+  makePaper(
+    "a1-chp4",
+    "Vectors & Scalars",
+    toQuestions(
+      a1chp4 as unknown as RawNumberQuestion[],
+      "Vectors and Scalars",
+    ),
+  ),
+  makePaper(
+    "a1-chp5",
+    "Kinematics & Motion",
+    toQuestions(
+      a1chp5 as unknown as RawNumberQuestion[],
+      "Kinematics and Motion",
+    ),
+  ),
+  makePaper(
+    "a1-chp6",
+    "Energy, Work & Pressure",
+    toQuestions(
+      a1chp6 as unknown as RawNumberQuestion[],
+      "Energy, Work & Pressure",
+    ),
+  ),
+  makePaper(
+    "a1-chp7",
+    "Friction Fundamentals",
+    toQuestions(
+      a1chp7 as unknown as RawNumberQuestion[],
+      "Friction Fundamentals",
+    ),
+  ),
+  makePaper(
+    "a1-chp8",
+    "Strength of Materials",
+    toQuestions(
+      a1chp8 as unknown as RawNumberQuestion[],
+      "Strength of Materials",
+    ),
+  ),
+  makePaper(
+    "a1-chp9",
+    "Mechanical Drives",
+    toQuestions(a1chp9 as unknown as RawNumberQuestion[], "Mechanical Drives"),
+  ),
 ];
 
 const bookA2Chapters: Paper[] = [
-  makePaper("a2-chp1", "Chemistry Fundamentals", toQuestions(a2chp1 as unknown as RawNumberQuestion[], "Chemistry Fundamentals")),
-  makePaper("a2-chp2", "Thermodynamics & Heat", toQuestions(a2chp2 as unknown as RawNumberQuestion[], "Thermodynamics & Heat")),
-  makePaper("a2-chp3", "Heat Transfer", toQuestions(a2chp3 as unknown as RawNumberQuestion[], "Heat Transfer")),
+  makePaper(
+    "a2-chp1",
+    "Chemistry Fundamentals",
+    toQuestions(
+      a2chp1 as unknown as RawNumberQuestion[],
+      "Chemistry Fundamentals",
+    ),
+  ),
+  makePaper(
+    "a2-chp2",
+    "Thermodynamics & Heat",
+    toQuestions(
+      a2chp2 as unknown as RawNumberQuestion[],
+      "Thermodynamics & Heat",
+    ),
+  ),
+  makePaper(
+    "a2-chp3",
+    "Heat Transfer",
+    toQuestions(a2chp3 as unknown as RawNumberQuestion[], "Heat Transfer"),
+  ),
 ];
 
 const bookA3Chapters: Paper[] = [
-  makePaper("a3-chp1", "Intro to Power Engineering", toQuestions(a3chp1 as unknown as RawNumberQuestion[])),
-  makePaper("a3-chp2", "Legislation & Regulation", toQuestions(a3chp2 as unknown as RawNumberQuestion[])),
-  makePaper("a3-chp3", "ASME & CSA Codes", toQuestions(a3chp3 as unknown as RawNumberQuestion[])),
+  makePaper(
+    "a3-chp1",
+    "Intro to Power Engineering",
+    toQuestions(a3chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a3-chp2",
+    "Legislation & Regulation",
+    toQuestions(a3chp2 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a3-chp3",
+    "ASME & CSA Codes",
+    toQuestions(a3chp3 as unknown as RawNumberQuestion[]),
+  ),
 ];
 
 const bookA4Chapters: Paper[] = [
-  makePaper("a4-chp1", "Work Permits & Safety", toQuestions(a4chp1 as unknown as RawNumberQuestion[])),
-  makePaper("a4-chp2", "Work Permits & Safety II", toQuestions(a4chp2 as unknown as RawNumberQuestion[])),
-  makePaper("a4-chp3", "WHMIS, Gases & Flammability", toQuestions(a4chp3 as unknown as RawNumberQuestion[])),
-  makePaper("a4-chp4", "Fire Safety & Prevention", toQuestions(a4chp4 as unknown as RawNumberQuestion[])),
-  makePaper("a4-chp5", "Fire Safety & Prevention II", toQuestions(a4chp5 as unknown as RawNumberQuestion[])),
+  makePaper(
+    "a4-chp1",
+    "Work Permits & Safety",
+    toQuestions(a4chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a4-chp2",
+    "Work Permits & Safety II",
+    toQuestions(a4chp2 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a4-chp3",
+    "WHMIS, Gases & Flammability",
+    toQuestions(a4chp3 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a4-chp4",
+    "Fire Safety & Prevention",
+    toQuestions(a4chp4 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a4-chp5",
+    "Fire Safety & Prevention II",
+    toQuestions(a4chp5 as unknown as RawNumberQuestion[]),
+  ),
 ];
 
 const bookA5Chapters: Paper[] = [
-  makePaper("a5-chp1", "Environmental Science & Plant Ops", toQuestions(a5chp1 as unknown as RawNumberQuestion[])),
-  makePaper("a5-chp2", "Atmospheric Emissions & Control", toQuestions(a5chp2 as unknown as RawNumberQuestion[])),
-  makePaper("a5-chp3", "Plant Waste Management & Pollution", toQuestions(a5chp3 as unknown as RawNumberQuestion[])),
+  makePaper(
+    "a5-chp1",
+    "Environmental Science & Plant Ops",
+    toQuestions(a5chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a5-chp2",
+    "Atmospheric Emissions & Control",
+    toQuestions(a5chp2 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a5-chp3",
+    "Plant Waste Management & Pollution",
+    toQuestions(a5chp3 as unknown as RawNumberQuestion[]),
+  ),
 ];
 
 const bookA6Chapters: Paper[] = [
-  makePaper("a6-chp1", "Metallurgy & Materials Engineering", toQuestions(a6chp1 as unknown as RawNumberQuestion[])),
-  makePaper("a6-chp2", "Welding, Cutting & Metal Joining", toQuestions(a6chp2 as unknown as RawNumberQuestion[])),
-  makePaper("a6-chp3", "Non-Destructive Testing & Weld Inspection", toQuestions(a6chp3 as unknown as RawNumberQuestion[])),
+  makePaper(
+    "a6-chp1",
+    "Metallurgy & Materials Engineering",
+    toQuestions(a6chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a6-chp2",
+    "Welding, Cutting & Metal Joining",
+    toQuestions(a6chp2 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a6-chp3",
+    "Non-Destructive Testing & Weld Inspection",
+    toQuestions(a6chp3 as unknown as RawNumberQuestion[]),
+  ),
 ];
 
 const bookA7Chapters: Paper[] = [
-  makePaper("a7-chp1", "Piping, Pipe Fittings & Steam Traps", toQuestions(a7chp1 as unknown as RawNumberQuestion[])),
-  makePaper("a7-chp2", "Valves & Valve Operation", toQuestions(a7chp2 as unknown as RawNumberQuestion[])),
+  makePaper(
+    "a7-chp1",
+    "Piping, Pipe Fittings & Steam Traps",
+    toQuestions(a7chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a7-chp2",
+    "Valves & Valve Operation",
+    toQuestions(a7chp2 as unknown as RawNumberQuestion[]),
+  ),
 ];
 
 const bookA8Chapters: Paper[] = [
-  makePaper("a8-chp1", "Basic Electricity & Circuit Fundamentals", toQuestions(a8chp1 as unknown as RawNumberQuestion[])),
+  makePaper(
+    "a8-chp1",
+    "Basic Electricity & Circuit Fundamentals",
+    toQuestions(a8chp1 as unknown as RawNumberQuestion[]),
+  ),
 ];
 
 function chapterCount(papers: Paper[]): number {
