@@ -8,7 +8,8 @@ import paper7Raw from "./Part A/papers/partapaper7.json";
 import paper8Raw from "./Part A/papers/partapaper8.json";
 import paper9Raw from "./Part A/papers/partapaper9.json";
 
-// Book A1 chapters
+// Book A1 full book + chapters
+import bookA1 from "./Part A/Chp/BookA1/BookA1.json";
 import a1chp1 from "./Part A/Chp/BookA1/chp1.json";
 import a1chp2 from "./Part A/Chp/BookA1/chp2.json";
 import a1chp3 from "./Part A/Chp/BookA1/chp3.json";
@@ -19,41 +20,48 @@ import a1chp7 from "./Part A/Chp/BookA1/chp7.json";
 import a1chp8 from "./Part A/Chp/BookA1/chp8.json";
 import a1chp9 from "./Part A/Chp/BookA1/chp9.json";
 
-// Book A2 chapters
+// Book A2 full book + chapters
+import bookA2 from "./Part A/Chp/BookA2/BookA2.json";
 import a2chp1 from "./Part A/Chp/BookA2/chp1.json";
 import a2chp2 from "./Part A/Chp/BookA2/chp2.json";
 import a2chp3 from "./Part A/Chp/BookA2/chp3.json";
 
-// Book A3 chapters
+// Book A3 full book + chapters
+import bookA3 from "./Part A/Chp/BookA3/BookA3.json";
 import a3chp1 from "./Part A/Chp/BookA3/chp1.json";
 import a3chp2 from "./Part A/Chp/BookA3/chp2.json";
 import a3chp3 from "./Part A/Chp/BookA3/chp3.json";
 
-// Book A4 chapters
+// Book A4 full book + chapters
+import bookA4 from "./Part A/Chp/BookA4/BookA4.json";
 import a4chp1 from "./Part A/Chp/BookA4/chp1.json";
 import a4chp2 from "./Part A/Chp/BookA4/chp2.json";
 import a4chp3 from "./Part A/Chp/BookA4/chp3.json";
 import a4chp4 from "./Part A/Chp/BookA4/chp4.json";
 import a4chp5 from "./Part A/Chp/BookA4/chp5.json";
 
-// Book A5 chapters
+// Book A5 full book + chapters
+import bookA5 from "./Part A/Chp/BookA5/BookA5.json";
 import a5chp1 from "./Part A/Chp/BookA5/chp1.json";
 import a5chp2 from "./Part A/Chp/BookA5/chp2.json";
 import a5chp3 from "./Part A/Chp/BookA5/chp3.json";
 
-// Book A6 chapters
+// Book A6 full book + chapters
+import bookA6 from "./Part A/Chp/BookA6/BookA6.json";
 import a6chp1 from "./Part A/Chp/BookA6/chp1.json";
 import a6chp2 from "./Part A/Chp/BookA6/chp2.json";
 import a6chp3 from "./Part A/Chp/BookA6/chp3.json";
 
-// Book A7 chapters
+// Book A7 full book + chapters
+import bookA7 from "./Part A/Chp/BookA7/BookA7.json";
 import a7chp1 from "./Part A/Chp/BookA7/chp1.json";
 import a7chp2 from "./Part A/Chp/BookA7/chp2.json";
 
 // Book A8 chapters
 import a8chp1 from "./Part A/Chp/BookA8/chp1.json";
 
-// Book A10 chapters
+// Book A10 full book + chapters
+import bookA10 from "./Part A/Chp/BookA10/BookA10.json";
 import a10chp1 from "./Part A/Chp/BookA10/chp1.json";
 import a10chp2 from "./Part A/Chp/BookA10/chp2.json";
 import a10chp3 from "./Part A/Chp/BookA10/chp3.json";
@@ -299,6 +307,11 @@ const prepChapters: Paper[] = [
 
 const bookA1Chapters: Paper[] = [
   makePaper(
+    "a1-fullbook",
+    "Full Book A1 Exam",
+    toQuestions(bookA1 as unknown as RawNumberQuestion[], "Book A1 — Applied Mechanics"),
+  ),
+  makePaper(
     "a1-chp1",
     "Mechanics & Dynamics",
     toQuestions(
@@ -371,6 +384,11 @@ const bookA1Chapters: Paper[] = [
 
 const bookA2Chapters: Paper[] = [
   makePaper(
+    "a2-fullbook",
+    "Full Book A2 Exam",
+    toQuestions(bookA2 as unknown as RawNumberQuestion[], "Book A2 — Applied Chemistry & Heat"),
+  ),
+  makePaper(
     "a2-chp1",
     "Chemistry Fundamentals",
     toQuestions(
@@ -395,6 +413,11 @@ const bookA2Chapters: Paper[] = [
 
 const bookA3Chapters: Paper[] = [
   makePaper(
+    "a3-fullbook",
+    "Full Book A3 Exam",
+    toQuestions(bookA3 as unknown as RawNumberQuestion[], "Book A3 — Power Engineering Intro & Codes"),
+  ),
+  makePaper(
     "a3-chp1",
     "Intro to Power Engineering",
     toQuestions(a3chp1 as unknown as RawNumberQuestion[]),
@@ -412,6 +435,11 @@ const bookA3Chapters: Paper[] = [
 ];
 
 const bookA4Chapters: Paper[] = [
+  makePaper(
+    "a4-fullbook",
+    "Full Book A4 Exam",
+    toQuestions(bookA4 as unknown as RawNumberQuestion[], "Book A4 — Safety, WHMIS & Fire Prevention"),
+  ),
   makePaper(
     "a4-chp1",
     "Work Permits & Safety",
@@ -441,6 +469,11 @@ const bookA4Chapters: Paper[] = [
 
 const bookA5Chapters: Paper[] = [
   makePaper(
+    "a5-fullbook",
+    "Full Book A5 Exam",
+    toQuestions(bookA5 as unknown as RawNumberQuestion[], "Book A5 — Environmental & Plant Operations"),
+  ),
+  makePaper(
     "a5-chp1",
     "Environmental Science & Plant Ops",
     toQuestions(a5chp1 as unknown as RawNumberQuestion[]),
@@ -459,6 +492,11 @@ const bookA5Chapters: Paper[] = [
 
 const bookA6Chapters: Paper[] = [
   makePaper(
+    "a6-fullbook",
+    "Full Book A6 Exam",
+    toQuestions(bookA6 as unknown as RawNumberQuestion[], "Book A6 — Metallurgy, Welding & NDT"),
+  ),
+  makePaper(
     "a6-chp1",
     "Metallurgy & Materials Engineering",
     toQuestions(a6chp1 as unknown as RawNumberQuestion[]),
@@ -476,6 +514,11 @@ const bookA6Chapters: Paper[] = [
 ];
 
 const bookA7Chapters: Paper[] = [
+  makePaper(
+    "a7-fullbook",
+    "Full Book A7 Exam",
+    toQuestions(bookA7 as unknown as RawNumberQuestion[], "Book A7 — Piping, Valves & Steam Traps"),
+  ),
   makePaper(
     "a7-chp1",
     "Piping, Pipe Fittings & Steam Traps",
@@ -497,6 +540,11 @@ const bookA8Chapters: Paper[] = [
 ];
 
 const bookA10Chapters: Paper[] = [
+  makePaper(
+    "a10-fullbook",
+    "Full Book A10 Exam",
+    toQuestions(bookA10 as unknown as RawNumberQuestion[], "Book A10 — Plant Sketching & Communications"),
+  ),
   makePaper(
     "a10-chp1",
     "Energy Plant Sketching",
