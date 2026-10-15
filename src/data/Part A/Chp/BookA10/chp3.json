@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "heading": "Plant Communications - Results",
+    "question": "A well developed maintenance management system (MMS) includes:",
+    "options": {
+      "A": "Inventory management",
+      "B": "Document control",
+      "C": "Work planning and management",
+      "D": "Budget creation and control",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 2,
+    "heading": "Plant Communications - Results",
+    "question": "Work requests can be created only by:",
+    "options": {
+      "A": "Operators",
+      "B": "Maintenance",
+      "C": "Safety department",
+      "D": "Plant managers",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 3,
+    "heading": "Plant Communications - Results",
+    "question": "Operator log books can be deleted and disposed of after:",
+    "options": {
+      "A": "After 1 week they are no longer useful",
+      "B": "Daily after the next shift starts",
+      "C": "Several years according to legal requirements",
+      "D": "After 1 year to clear up space",
+      "E": "After 1 month if the engineers haven't asked for them"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 4,
+    "heading": "Plant Communications - Results",
+    "question": "In the log book, Operators should not:",
+    "options": {
+      "A": "Write legibly",
+      "B": "Erase entries or remove pages",
+      "C": "Write only facts",
+      "D": "Record the time of events",
+      "E": "Indicate operating concerns"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "heading": "Plant Communications - Results",
+    "question": "The master sets of plant PID's , electronic, print, and hard copy should be updated:",
+    "options": {
+      "A": "After every shutdown",
+      "B": "Every year",
+      "C": "Every 10 years",
+      "D": "Simultaneously",
+      "E": "In sequence one year apart"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 6,
+    "heading": "Plant Communications - Results",
+    "question": "The final operator activity in the log book each shift is:",
+    "options": {
+      "A": "Delete anything that is no longer important",
+      "B": "Enter opinions about plant engineering activities",
+      "C": "Erase anything controversial",
+      "D": "Create a financial prediction for tomorrow's operation",
+      "E": "Sign and date"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 7,
+    "heading": "Plant Communications - Results",
+    "question": "Use of company email is not allowed for:",
+    "options": {
+      "A": "Distribution of safety bulletins within the plant",
+      "B": "Sharing process information with operators within the plant",
+      "C": "Personal email",
+      "D": "Sending daily operating logs to plant supervisors",
+      "E": "Sending daily reports to the plant manager"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 8,
+    "heading": "Plant Communications - Results",
+    "question": "A major limitation of a two way radio is:",
+    "options": {
+      "A": "It can only hear",
+      "B": "It can only transmit",
+      "C": "It cannot transmit and receive at the same time",
+      "D": "It is too heavy to carry around all day",
+      "E": "It doesn't work inside the plant"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 9,
+    "heading": "Plant Communications - Results",
+    "question": "The first and most important thing when using a two way radio in the plant:",
+    "options": {
+      "A": "Turn the power on and ensure the battery is fully charged",
+      "B": "Check the radio warranty",
+      "C": "Check to see if the facetime app is up to date",
+      "D": "Shut it off when you are not talking",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 10,
+    "heading": "Plant Communications - Results",
+    "question": "Instructions to manage consistency in routine operating tasks is documented in:",
+    "options": {
+      "A": "MOC management of change",
+      "B": "WPS work permitting system",
+      "C": "MMS maintenance management system",
+      "D": "IMS information management system",
+      "E": "SOP Standard Operating Procedures"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 11,
+    "heading": "Plant Communications - Results",
+    "question": "SOP's, Standard Operating procedures, sometimes called safe operating procedures, are developed by operations, maintenance and:",
+    "options": {
+      "A": "University professors",
+      "B": "Human resources",
+      "C": "Plant safety persons",
+      "D": "Government officials",
+      "E": "Design engineers"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 12,
+    "heading": "Plant Communications - Results",
+    "question": "SOP revision requires companies to replace revised documents with the new ones and:",
+    "options": {
+      "A": "Attach the update to the old copy",
+      "B": "Keep both copies in circulation in case the new one doesn't work",
+      "C": "Destroy outdated copies",
+      "D": "Only use the new revised version after the old one is finally lost",
+      "E": "Put the old version in the back of the SOP book for safe keeping"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 13,
+    "heading": "Plant Communications - Results",
+    "question": "The operators shift log book must indicate equipment started and stopped, and:",
+    "options": {
+      "A": "Timing of all activities",
+      "B": "Maintenance performed",
+      "C": "Tests completed",
+      "D": "Abnormal process conditions",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 14,
+    "heading": "Plant Communications - Results",
+    "question": "The NATO phonetic alphabet spelling for SAIT is:",
+    "options": {
+      "A": "Sulu Alphabet Indigo Tada",
+      "B": "Sweet All Is Terrific",
+      "C": "Sierra Alpha India Tango",
+      "D": "Sierra Anglo Indian Targa",
+      "E": "Susan Alfred Ian Tanya"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 15,
+    "heading": "Plant Communications - Results",
+    "question": "The preferred form of communication when a permanent record is required is:",
+    "options": {
+      "A": "PowerPoint",
+      "B": "Twitter",
+      "C": "Radio",
+      "D": "Written",
+      "E": "Verbal"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 16,
+    "heading": "Plant Communications - Results",
+    "question": "Which of these is not initiated when a work request is submitted?",
+    "options": {
+      "A": "An external technical audit",
+      "B": "Work prioritization",
+      "C": "Warehouse activities",
+      "D": "Scheduling",
+      "E": "Determination of costs"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 17,
+    "heading": "Plant Communications - Results",
+    "question": "For effective verbal communication, both of these are equally important:",
+    "options": {
+      "A": "Speaking and writing",
+      "B": "Email and twitter",
+      "C": "Speaking and listening",
+      "D": "Reading and writing",
+      "E": "Speaking and talking"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 18,
+    "heading": "Plant Communications - Results",
+    "question": "Substitution of parts or equipment, or changes in design must go through a ______ process.",
+    "options": {
+      "A": "PID",
+      "B": "PFD",
+      "C": "MOC",
+      "D": "MMS",
+      "E": "HRD"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 19,
+    "heading": "Plant Communications - Results",
+    "question": "When plant PID's are updated, the ____ should be reviewed and possibly also updated accordingly.",
+    "options": {
+      "A": "FBI",
+      "B": "SOP",
+      "C": "DCS",
+      "D": "CRA",
+      "E": "ASME"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 20,
+    "heading": "Plant Communications - Results",
+    "question": "When all other planning and approvals have been obtained, before proceeding with a maintenance job, the operations department must issue a:",
+    "options": {
+      "A": "Letter to the plant manager",
+      "B": "Management of change certificate",
+      "C": "Maintenance request",
+      "D": "Work permit",
+      "E": "Engineering report"
+    },
+    "correctAnswer": "D"
+  }
+]
