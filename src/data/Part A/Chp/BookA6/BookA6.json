@@ -412,8 +412,8 @@
       "D": "Strength welds",
       "E": "Porosity welds"
     },
-    "correctAnswer": "D",
-    "explanation": "Fin tubes welded into boiler waterwall panels perform a structural load-bearing and heat-transfer function under pressure, classified as strength welds[cite: 26]."
+    "correctAnswer": "B",
+    "explanation": "Welded fin-tube waterwall panels act as gas-tight boundary and seal welds in boiler furnaces by combining two main functions:Pressure Boundary and Seal Weld/Barrier."
   },
   {
     "number": 33,
@@ -542,7 +542,7 @@
       "D": "Cool the metal",
       "E": "Produce slag"
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "The high-pressure cutting oxygen jet physically blows the oxidized molten metal out of the kerf to cleanly sever the plate[cite: 26]."
   },
   {

@@ -87,7 +87,7 @@
       "D": "Complex Lockout process",
       "E": "Electrical isolation certificate"
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "Complex lockout procedures are instituted when dealing with multi-source energies or situations requiring modifications to standard isolations[cite: 17]."
   },
   {
@@ -165,7 +165,7 @@
       "D": "To check the vibration switches",
       "E": "Before opening the breaker"
     },
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "explanation": "A bump test is performed on electrical breakers or motor controls to verify that the correct equipment has been de-energized before opening or working on it[cite: 17]."
   },
   {
@@ -697,7 +697,7 @@
       "D": "A water based fire extinguisher should be near by",
       "E": "Signage should be in place to indicate what is being stored and what can't be stored with it"
     },
-    "correctAnswer": "A",
+    "correctAnswer": "E",
     "explanation": "Alkali and reactive metals like sodium or potassium react violently with moisture and air, requiring immersion in mineral oil or hermetic sealing[cite: 20]."
   },
   {

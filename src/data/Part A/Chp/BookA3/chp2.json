@@ -36,7 +36,7 @@
       "D": "ASME",
       "E": "IPEEC"
     },
-    "correctAnswer": "C"
+    "correctAnswer": "A"
   },
   {
     "number": 4,
@@ -140,7 +140,7 @@
       "D": "10 000",
       "E": "50 000"
     },
-    "correctAnswer": "A"
+    "correctAnswer": "D"
   },
   {
     "number": 12,
@@ -218,7 +218,7 @@
       "D": "Heating plant having a boiler rating of 20 kW or more",
       "E": "Power plant having a boiler rating of 10 kW or less"
     },
-    "correctAnswer": "A"
+    "correctAnswer": "E"
   },
   {
     "number": 18,

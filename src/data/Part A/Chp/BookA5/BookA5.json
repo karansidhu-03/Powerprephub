@@ -451,7 +451,7 @@
       "D": "Tree bark",
       "E": "Leaves"
     },
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "explanation": "Acid deposition directly damages foliage and leaf surfaces, impairing plant respiration and photosynthesis[cite: 23]."
   },
   {
@@ -976,7 +976,7 @@
   },
   {
     "number": 76,
-    "question": "Solid pollutants such as flyash are produced when burning:\n1. Natural gas\n2. Municipal Solid Waste\n3. Wood\n4. Coal",
+    "question": "Solid pollutants such as fly ash are produced when burning:\n1. Natural gas\n2. Municipal Solid Waste\n3. Wood\n4. Coal",
     "options": {
       "A": "1, 4",
       "B": "3, 4",
@@ -1054,7 +1054,7 @@
   },
   {
     "number": 82,
-    "question": "Solid pollutants emitted from coal power plants are:\n1. Slag\n2. Soot\n3. Flyash\n4. Carbon monoxide\n5. Sulphur dioxide\n6. Sulphuric acid",
+    "question": "Solid pollutants emitted from coal power plants are:\n1. Slag\n2. Soot\n3. Fly ash\n4. Carbon monoxide\n5. Sulphur dioxide\n6. Sulphuric acid",
     "options": {
       "A": "1, 2, 3, 6",
       "B": "2, 4, 5",
@@ -1063,7 +1063,7 @@
       "E": "1, 2, 3, 4, 5, 6"
     },
     "correctAnswer": "D",
-    "explanation": "Slag, soot, and flyash represent solid particulate byproducts of coal combustion, whereas CO, SO2, and H2SO4 are gaseous or chemical compounds[cite: 24]."
+    "explanation": "Slag, soot, and fly ash represent solid particulate byproducts of coal combustion, whereas CO, SO2, and H2SO4 are gaseous or chemical compounds[cite: 24]."
   },
   {
     "number": 83,
