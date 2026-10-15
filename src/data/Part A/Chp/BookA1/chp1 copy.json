@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "heading": "Energy Plant Sketching",
+    "question": "Relative to sketching detail we should:",
+    "options": {
+      "A": "Show as many views as possible",
+      "B": "Use as much detail as possible",
+      "C": "Show details in color wherever possible",
+      "D": "Use as little detail as possible",
+      "E": "Use at least three views of any object"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 2,
+    "heading": "Energy Plant Sketching",
+    "question": "For all sketches you draw the most important lines first to:",
+    "options": {
+      "A": "Ensure all lines are parallel",
+      "B": "Create a 3D image",
+      "C": "Ensure you have adequate sized paper",
+      "D": "Prevent forgetting some lines",
+      "E": "Establish and enable proportioning"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 3,
+    "heading": "Energy Plant Sketching",
+    "question": "When making sketches it is important to make them large to:",
+    "options": {
+      "A": "Encourage poor eyesight",
+      "B": "Insert photographs",
+      "C": "Allow for use of colours",
+      "D": "Show details more clearly",
+      "E": "Use all of the paper available"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 4,
+    "heading": "Energy Plant Sketching",
+    "question": "To show materials of construction in a sketch we can use:",
+    "options": {
+      "A": "Section lining",
+      "B": "ASME color coding",
+      "C": "Cross-hatching but not hatching",
+      "D": "Color coding as per NFPA",
+      "E": "Shading"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 5,
+    "heading": "Energy Plant Sketching",
+    "question": "Section lines used to indicate specific construction material should generally be drawn at an angle of:",
+    "options": {
+      "A": "15°",
+      "B": "60°",
+      "C": "45°",
+      "D": "30°",
+      "E": "90°"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 6,
+    "heading": "Energy Plant Sketching",
+    "question": "In order to show all sides of a complex object being sketched the number of views required is:",
+    "options": {
+      "A": "Eight",
+      "B": "Three",
+      "C": "One",
+      "D": "Two",
+      "E": "Six"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 7,
+    "heading": "Energy Plant Sketching",
+    "question": "A flow diagram uses ______ to represent equipment.",
+    "options": {
+      "A": "Thin lines",
+      "B": "Pictures",
+      "C": "Colored dots",
+      "D": "Symbols",
+      "E": "Broken lines"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 8,
+    "heading": "Energy Plant Sketching",
+    "question": "The three most commonly used views in a drawing are the front:",
+    "options": {
+      "A": "Plan, side",
+      "B": "Plan, bottom",
+      "C": "Back, side",
+      "D": "Back, bottom",
+      "E": "Bottom, side"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 9,
+    "heading": "Energy Plant Sketching",
+    "question": "Lines used to indicate distance between two points on a sketch are called:",
+    "options": {
+      "A": "Dimension lines",
+      "B": "Centre lines",
+      "C": "Extension lines",
+      "D": "Hidden lines",
+      "E": "Object lines"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 10,
+    "heading": "Energy Plant Sketching",
+    "question": "When projecting views of an object, the key view is the _____ view.",
+    "options": {
+      "A": "Left",
+      "B": "Right side",
+      "C": "Bottom",
+      "D": "Front",
+      "E": "Plan"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 11,
+    "heading": "Energy Plant Sketching",
+    "question": "A process signal line that is a solid line with double backslashes represents:",
+    "options": {
+      "A": "Pneumatic binary",
+      "B": "Electrical binary",
+      "C": "Pneumatic tubing",
+      "D": "Hydraulic tubing",
+      "E": "Capillary tubing"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 12,
+    "heading": "Energy Plant Sketching",
+    "question": "Simple parts like threaded screws or rods require at least _____ views in a drawing.",
+    "options": {
+      "A": "6",
+      "B": "0",
+      "C": "1",
+      "D": "4",
+      "E": "3"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 13,
+    "heading": "Energy Plant Sketching",
+    "question": "The most commonly used format in a standard plant drawing is:",
+    "options": {
+      "A": "6 view drawing",
+      "B": "3 view drawing",
+      "C": "Isometric diagram",
+      "D": "Single line diagram",
+      "E": "3D drawing"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 14,
+    "heading": "Energy Plant Sketching",
+    "question": "In order for a sketch to look like the object it represents, we:",
+    "options": {
+      "A": "Use as much detail as possible",
+      "B": "Use colours throughout the sketch",
+      "C": "Use a number of different views",
+      "D": "Make the sketch in proportion",
+      "E": "Draw the sketch to scale"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 15,
+    "heading": "Energy Plant Sketching",
+    "question": "During competency assessments, it is usually expected for a trainee operator to:",
+    "options": {
+      "A": "Refer to instructions in the Human Resources manual",
+      "B": "Re-create all drawings using computer drafting software",
+      "C": "Understand the economic and financial codes of practice",
+      "D": "Explain the plant operation in their area of responsibility using a hand drawn sketch",
+      "E": "Refer to the original design manuals to explain current operations"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 16,
+    "heading": "Energy Plant Sketching",
+    "question": "The plan view of an object is actually the ____ view.",
+    "options": {
+      "A": "Right side",
+      "B": "Front",
+      "C": "Top",
+      "D": "Left",
+      "E": "Bottom"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 17,
+    "heading": "Energy Plant Sketching",
+    "question": "The association responsible for standardizing symbols used to indicate materials of construction in a sketch is the:",
+    "options": {
+      "A": "ASME",
+      "B": "ISO",
+      "C": "Canadian standards association",
+      "D": "ANSI",
+      "E": "American standards association"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 18,
+    "heading": "Energy Plant Sketching",
+    "question": "A sketch section is used to show:",
+    "options": {
+      "A": "The material of construction",
+      "B": "A necessary detail",
+      "C": "A particular view of an object",
+      "D": "The scale of the sketch",
+      "E": "An actual dimension of a sketch"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 19,
+    "heading": "Energy Plant Sketching",
+    "question": "In a piping layout, _________ line sketches are used.",
+    "options": {
+      "A": "Thick",
+      "B": "Light",
+      "C": "Colored",
+      "D": "Broken",
+      "E": "Single"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 20,
+    "heading": "Energy Plant Sketching",
+    "question": "The equipment symbol for a closed gate valve is:",
+    "options": {
+      "A": "3 triangles at right angles",
+      "B": "4 triangles at right angles to each other",
+      "C": "Open opposing triangles",
+      "D": "Triangle circle triangle",
+      "E": "Filled in opposing triangles"
+    },
+    "correctAnswer": "E"
+  }
+]
