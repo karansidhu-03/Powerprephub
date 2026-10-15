@@ -75,7 +75,7 @@ function PapersPage() {
 
             <Accordion
               type="multiple"
-              defaultValue={exam.chapterGroups.map((g) => g.id)}
+              defaultValue={[]}
               className="mt-6 space-y-3"
             >
               {exam.chapterGroups.map((group) => (
