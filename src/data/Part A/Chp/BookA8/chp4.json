@@ -1,0 +1,522 @@
+[
+  {
+    "number": 1,
+    "heading": "Motors & Generators",
+    "question": "Alternating current:",
+    "options": {
+      "A": "Changes ohms to amperage",
+      "B": "Changes the current from one conductor to another",
+      "C": "Reverses direction at regular intervals",
+      "D": "Changes voltage to resistance",
+      "E": "Reverses once every second"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 2,
+    "heading": "Motors & Generators",
+    "question": "Alternators are constructed to use slip rings made of brass or:",
+    "options": {
+      "A": "Steel",
+      "B": "Silicon",
+      "C": "Copper",
+      "D": "Carbon",
+      "E": "Mica"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 3,
+    "heading": "Motors & Generators",
+    "question": "Synchronous motors have construction that is identical to:",
+    "options": {
+      "A": "Reciprocating equipment",
+      "B": "Air driven motors",
+      "C": "Gas turbines",
+      "D": "Centrifugal fans",
+      "E": "Alternators"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 4,
+    "heading": "Motors & Generators",
+    "question": "The three main types of DC motors and generators are the:\n\n1. Compound wound\n2. Parallel wound\n3. Series wound\n4. Reverse wound\n5. Shunt wound",
+    "options": {
+      "A": "2, 3, 5",
+      "B": "1, 3, 5",
+      "C": "2, 4, 5",
+      "D": "1, 2, 4",
+      "E": "3, 4, 5"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "heading": "Motors & Generators",
+    "question": "The coils or windings on a DC machine armature are placed in _____ cut in the face of the armature.",
+    "options": {
+      "A": "Bars",
+      "B": "Sequence",
+      "C": "Pairs",
+      "D": "Holes",
+      "E": "Slots"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 6,
+    "heading": "Motors & Generators",
+    "question": "Heat buildup due to failing to do cleaning during regular maintenance can lead to:",
+    "options": {
+      "A": "Failure of insulation on the motor windings",
+      "B": "Excess voltage buildup",
+      "C": "High back EMF",
+      "D": "Noisy brushes",
+      "E": "Low speeds"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 7,
+    "heading": "Motors & Generators",
+    "question": "Three factors which control the electromotive force developed by a DC generator are the:\n1. Size of the frame\n2. Speed with which conductors cut the magnetic lines of force\n3. Number of conductors cutting the magnetic lines of force\n4. Diameter of the conductors\n5. Strength of the magnetic flux\n6. Diameter of the armature",
+    "options": {
+      "A": "1, 3, 6",
+      "B": "3, 4, 6",
+      "C": "1, 4, 6",
+      "D": "2, 3, 5",
+      "E": "2, 5, 6"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 8,
+    "heading": "Motors & Generators",
+    "question": "A rheostat or \"voltage regulator\" of a DC shunt wound generator is used to:",
+    "options": {
+      "A": "Regulate the speed of the generator",
+      "B": "Regulate the strength of the electromagnetic field",
+      "C": "Change the unit into a DC motor",
+      "D": "Regulate the current to the load",
+      "E": "Change the AC to DC"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 9,
+    "heading": "Motors & Generators",
+    "question": "The stator of an alternator is built of _____ mounted in a frame.",
+    "options": {
+      "A": "Asbestos impregnated silver",
+      "B": "Silicon steel",
+      "C": "Copper alloys",
+      "D": "Carbon ring",
+      "E": "Non-metallic materials"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 10,
+    "heading": "Motors & Generators",
+    "question": "Permanent magnets are used for:",
+    "options": {
+      "A": "Ensuring less maintenance",
+      "B": "Constant speed alternators",
+      "C": "The smallest DC motors and generators",
+      "D": "Variable speed alternators",
+      "E": "The largest DC motors and generators"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 11,
+    "heading": "Motors & Generators",
+    "question": "Motor starting devices for DC motors and some AC motors are designed to limit the starting _____ to a safe value.",
+    "options": {
+      "A": "Voltage",
+      "B": "Current",
+      "C": "Speed",
+      "D": "Resistance",
+      "E": "Torque"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 12,
+    "heading": "Motors & Generators",
+    "question": "The _____ of a DC machine is built up of laminated steel plates mounted on a shaft. The coils are connected to a commutator mounted on one end of the rotor shaft.",
+    "options": {
+      "A": "Rheostat",
+      "B": "Coils",
+      "C": "Yoke",
+      "D": "Armature",
+      "E": "Bearings"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 13,
+    "heading": "Motors & Generators",
+    "question": "An AC motor which will drop out of synchronism and simply trip when overloaded is the:",
+    "options": {
+      "A": "Slip-ring induction motor",
+      "B": "Induction motor",
+      "C": "Single phase motor",
+      "D": "Synchronous motor",
+      "E": "Wound rotor induction motor"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 14,
+    "heading": "Motors & Generators",
+    "question": "There are three main types of DC generators; series, shunt, and compound wound. Each is:",
+    "options": {
+      "A": "Capable of constant voltage regardless of load",
+      "B": "Supplied with DC from batteries",
+      "C": "Self-excited",
+      "D": "Not excited by load current",
+      "E": "Separately excited"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 15,
+    "heading": "Motors & Generators",
+    "question": "An electric motor converts _____ energy into mechanical energy.",
+    "options": {
+      "A": "Physical",
+      "B": "Heat",
+      "C": "Electrical",
+      "D": "Reciprocating",
+      "E": "Potential"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 16,
+    "heading": "Motors & Generators",
+    "question": "Brush gear for DC machines have brushes made from carbon because they:\n1. Are softer\n2. Wear to a smooth finish\n3. Are low cost\n4. Can produce large quantities of heat\n5. Have a low coefficient of friction",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "3, 4, 5",
+      "C": "1, 2, 5",
+      "D": "2, 3, 5",
+      "E": "2, 4, 5"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 17,
+    "heading": "Motors & Generators",
+    "question": "Alternators must run at constant speed in order to maintain:",
+    "options": {
+      "A": "Resistance",
+      "B": "Current",
+      "C": "Portable drills",
+      "D": "Frequency",
+      "E": "Power"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 18,
+    "heading": "Motors & Generators",
+    "question": "A common solution to armature reaction involves:",
+    "options": {
+      "A": "Decrease amperage",
+      "B": "Decrease the number of poles",
+      "C": "Increase the number of windings on the field poles",
+      "D": "Installation of interpoles",
+      "E": "Slow the motor"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 19,
+    "heading": "Motors & Generators",
+    "question": "The yoke that supports the main components of the DC machine is frequently made of materials with high magnetic permeability like:",
+    "options": {
+      "A": "Copper or brass",
+      "B": "Copper and carbon",
+      "C": "Mica and carbon",
+      "D": "Cast steel or iron",
+      "E": "Aluminum"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 20,
+    "heading": "Motors & Generators",
+    "question": "DC motors can handle short periods of overspeed, up to:",
+    "options": {
+      "A": "10%",
+      "B": "200%",
+      "C": "25%",
+      "D": "50%",
+      "E": "100%"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 21,
+    "heading": "Motors & Generators",
+    "question": "Shunt wound DC motors are common where speed must remain constant regardless of load such as on:",
+    "options": {
+      "A": "Traction engines",
+      "B": "Automobile starters",
+      "C": "Machinist lathes",
+      "D": "Grinders",
+      "E": "Portable drills"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 22,
+    "heading": "Motors & Generators",
+    "question": "The field strength of an alternator can be adjusted by varying the amplitude of the DC power supply to the:",
+    "options": {
+      "A": "Rotating field",
+      "B": "Stator windings",
+      "C": "Shaft",
+      "D": "Rotating stator",
+      "E": "Alternator frame"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 23,
+    "heading": "Motors & Generators",
+    "question": "Which of the following in not found on the motor nameplate?",
+    "options": {
+      "A": "Direction of rotation",
+      "B": "Volts and full load current",
+      "C": "Power",
+      "D": "Full load speed",
+      "E": "Manufacturers name"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 24,
+    "heading": "Motors & Generators",
+    "question": "The strength of the magnetic field produced in a shunt wound generator:",
+    "options": {
+      "A": "Is fairly constant",
+      "B": "Is regulated by an external AC supply",
+      "C": "Is weak",
+      "D": "Fluctuates",
+      "E": "Cannot be varied"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 25,
+    "heading": "Motors & Generators",
+    "question": "In a series wound DC generator:",
+    "options": {
+      "A": "Load current passes through the field windings",
+      "B": "There are no field poles",
+      "C": "Brushes do not change AC to DC",
+      "D": "The shunt winding taps in before the series winding",
+      "E": "The shunt winding taps in after the series winding"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 26,
+    "heading": "Motors & Generators",
+    "question": "The armature of a DC machine is built up of:",
+    "options": {
+      "A": "Steel laminations",
+      "B": "Copper bars",
+      "C": "Reinforced carbon plates",
+      "D": "Mica sheets",
+      "E": "Electromagnets"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 27,
+    "heading": "Motors & Generators",
+    "question": "To transfer the power to or from the rotor of alternators or some AC motors:",
+    "options": {
+      "A": "Slip rings are employed",
+      "B": "A commutator is used",
+      "C": "Rheostats are used",
+      "D": "Field poles are employed",
+      "E": "Antifriction bearings are employed"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 28,
+    "heading": "Motors & Generators",
+    "question": "The electromagnetic field for a DC machine is produced by the:",
+    "options": {
+      "A": "Brush gear",
+      "B": "Yoke",
+      "C": "Field poles",
+      "D": "Commutator",
+      "E": "Armature"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 29,
+    "heading": "Motors & Generators",
+    "question": "The magnetic field in a DC machine may be supplied by permanent magnets in small units. Large DC machines use field poles that are essentially:",
+    "options": {
+      "A": "Non-magnetic",
+      "B": "Electromagnets",
+      "C": "Resistors",
+      "D": "Flux resistant",
+      "E": "Insulators"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 30,
+    "heading": "Motors & Generators",
+    "question": "Apparent power is the power:",
+    "options": {
+      "A": "Resulting from system inductance",
+      "B": "Supplied by the utility",
+      "C": "Caused by system capacitance",
+      "D": "Generated by rotating equipment",
+      "E": "Used for the actual work"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 31,
+    "heading": "Motors & Generators",
+    "question": "A compound wound DC generator may have three characteristics which are a:\n1. Decreasing output voltage verses load\n2. No amperage requirement\n3. Constant output voltage\n4. Supplementary AC requirement\n5. Rising output voltage versus load",
+    "options": {
+      "A": "1, 4, 5",
+      "B": "2, 3, 5",
+      "C": "2, 3, 4",
+      "D": "1, 2, 4",
+      "E": "1, 3, 5"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 32,
+    "heading": "Motors & Generators",
+    "question": "In order to produce the strength of magnetic flux required in larger DC machines:",
+    "options": {
+      "A": "The field windings are double-wound",
+      "B": "Copper switches are used",
+      "C": "Permanent magnets are used",
+      "D": "Electro magnets are used",
+      "E": "Booster transformers are used"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 33,
+    "heading": "Motors & Generators",
+    "question": "The output voltage rises sharply from minimum load to full load conditions for DC wound generators, if constructed with one of the following systems:",
+    "options": {
+      "A": "Parallel",
+      "B": "Compound",
+      "C": "Series",
+      "D": "Anti-friction bearing",
+      "E": "Shunt"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 34,
+    "heading": "Motors & Generators",
+    "question": "A common use for a DC generator is:",
+    "options": {
+      "A": "An automobile alternator",
+      "B": "Computer room power supply",
+      "C": "Power supply for an elevator",
+      "D": "Power factor correction",
+      "E": "Power supply for a machinist lathe"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 35,
+    "heading": "Motors & Generators",
+    "question": "A rheostat is used to _____ the field strength in a DC machine.",
+    "options": {
+      "A": "Stop",
+      "B": "Make",
+      "C": "Heat",
+      "D": "Vary",
+      "E": "Remove"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 36,
+    "heading": "Motors & Generators",
+    "question": "When synchronizing an alternator; voltage, phase and frequency must all be the same as well as the:",
+    "options": {
+      "A": "Power",
+      "B": "Phase sequence",
+      "C": "Current",
+      "D": "Speed",
+      "E": "Capacity"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 37,
+    "heading": "Motors & Generators",
+    "question": "A compound wound DC generator has a combination of shunt and _____ characteristics, depending on the predominance of each type of winding.",
+    "options": {
+      "A": "Resistive",
+      "B": "Parallel",
+      "C": "AC",
+      "D": "Reverse wound",
+      "E": "Series"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 38,
+    "heading": "Motors & Generators",
+    "question": "A shunt type DC generator has _____ output voltage.",
+    "options": {
+      "A": "Erratic",
+      "B": "Very low",
+      "C": "Nearly consistent",
+      "D": "Smooth",
+      "E": "Very high"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 39,
+    "heading": "Motors & Generators",
+    "question": "The main components of a DC machine are the yoke or frame that supports the _____ and the rotor which is called an armature.",
+    "options": {
+      "A": "Fuse box",
+      "B": "Field poles",
+      "C": "Generator",
+      "D": "Rheostat",
+      "E": "Wiring"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 40,
+    "heading": "Motors & Generators",
+    "question": "One means of creating a rotating magnetic field to start an AC motor is to use:",
+    "options": {
+      "A": "A rheostat",
+      "B": "A capacitor",
+      "C": "Solar energy",
+      "D": "An alternator",
+      "E": "An exciter"
+    },
+    "correctAnswer": "B"
+  }
+]

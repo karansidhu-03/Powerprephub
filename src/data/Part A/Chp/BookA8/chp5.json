@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "heading": " Electrical Transformers",
+    "question": "The capacity of a transformer can be increased by:\n\n1. Submerging the core and windings in a tank of oil\n2. Submerging the core and windings in a tank of water\n3. Forced air cooling the oil in a heat exchanger\n4. Wrapping the core with a thermal insulation\n5. Forced air cooling of the core",
+    "options": {
+      "A": "2, 3, 4, 5",
+      "B": "1, 3, 5",
+      "C": "2, 3, 4",
+      "D": "2, 4, 5",
+      "E": "1, 4, 5"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 2,
+    "heading": " Electrical Transformers",
+    "question": "An important maintenance check for non- ventilated dry-type transformers is:",
+    "options": {
+      "A": "Check for oil leaks",
+      "B": "Compare temp of air inlet and outlet",
+      "C": "Test oil for acidity",
+      "D": "Check oil level",
+      "E": "Check oil temperature"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 3,
+    "heading": " Electrical Transformers",
+    "question": "Transformers are cooled by:\n\n1. Spraying water over the coils\n2. Placing the core in an oil filled tank\n3. Forced cooling by fans\n4. Using pyrene as a coolant",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "2, 3, 4",
+      "C": "1, 2, 3, 4",
+      "D": "2, 3",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 4,
+    "heading": " Electrical Transformers",
+    "question": "Transformer cooling oil has:",
+    "options": {
+      "A": "A very low safety hazard",
+      "B": "A very high fire point",
+      "C": "A very high specific heat",
+      "D": "No factors that necessitate better wire insulation",
+      "E": "A poorer insulating characteristic than air"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 5,
+    "heading": " Electrical Transformers",
+    "question": "A transformer has a primary voltage of 500 volts and 20 turns on the primary winding. If the secondary winding has 5 turns, the voltage of the secondary is:",
+    "options": {
+      "A": "100 volts",
+      "B": "2 000 volts",
+      "C": "125 volts",
+      "D": "2 500 volts",
+      "E": "4 volts"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 6,
+    "heading": " Electrical Transformers",
+    "question": "An instrument transformer used to measure voltage is called a:",
+    "options": {
+      "A": "Potential transformer",
+      "B": "Step down transformer",
+      "C": "Step up transformer",
+      "D": "Resistance indicator",
+      "E": "Current transformer"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 7,
+    "heading": " Electrical Transformers",
+    "question": "Transformers are rated in terms of:\n\n1. Volt-amperes\n2. Kilowatts\n3. Kilovolt-amperes\n4. Ohms",
+    "options": {
+      "A": "2, 4",
+      "B": "3, 4",
+      "C": "1, 3",
+      "D": "2, 3",
+      "E": "1, 2"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 8,
+    "heading": " Electrical Transformers",
+    "question": "When working with high voltage systems, the minimum distance of approach should be:",
+    "options": {
+      "A": "1 m",
+      "B": "5 m",
+      "C": "3 m",
+      "D": "0.5 m",
+      "E": "2 m"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 9,
+    "heading": " Electrical Transformers",
+    "question": "Current transformers step down the current rather than the:",
+    "options": {
+      "A": "Number of poles",
+      "B": "Conductance",
+      "C": "Voltage",
+      "D": "Flux strength",
+      "E": "Resistance"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 10,
+    "heading": " Electrical Transformers",
+    "question": "When a counter voltage, E, produces opposition to the flow of current in a coil it is termed:",
+    "options": {
+      "A": "Self inductance",
+      "B": "Electromagnetic induction",
+      "C": "Capacitance",
+      "D": "Hysteresis",
+      "E": "Current generation"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 11,
+    "heading": " Electrical Transformers",
+    "question": "Transformers should be inspected at least:",
+    "options": {
+      "A": "Quarterly",
+      "B": "Tri-annually",
+      "C": "Daily",
+      "D": "Annually",
+      "E": "Monthly"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 12,
+    "heading": " Electrical Transformers",
+    "question": "Transformers function on the principle of:",
+    "options": {
+      "A": "Conductance",
+      "B": "Interaction of residual magnetism",
+      "C": "Mutual conductance",
+      "D": "Mutual inductance",
+      "E": "High resistance to DC current"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 13,
+    "heading": " Electrical Transformers",
+    "question": "Auto-transformers:",
+    "options": {
+      "A": "Have an equal ratio of transformation",
+      "B": "Use more copper",
+      "C": "Have large ratios of transformation",
+      "D": "Can use less copper",
+      "E": "Use two windings for primary and secondary circuits"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 14,
+    "heading": " Electrical Transformers",
+    "question": "When magnetic flux produced by one coil induces an EMF in a second coil, it is called:",
+    "options": {
+      "A": "Mutual inductance",
+      "B": "Electromagnetic induction",
+      "C": "Self inductance",
+      "D": "Capacitive reactance",
+      "E": "Inductive reactance"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 15,
+    "heading": " Electrical Transformers",
+    "question": "The voltage induced in the secondary windings of the transformer is _____ the turns ratio of the transformer.",
+    "options": {
+      "A": "Repelled by",
+      "B": "Reversed to",
+      "C": "Produced with",
+      "D": "Independent from",
+      "E": "Proportional to"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 16,
+    "heading": " Electrical Transformers",
+    "question": "Transformers require:",
+    "options": {
+      "A": "Less maintenance than most other electric machinery",
+      "B": "Inspection every three years",
+      "C": "No maintenance",
+      "D": "More maintenance than other electric machinery",
+      "E": "Inspection every month"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 17,
+    "heading": " Electrical Transformers",
+    "question": "A transformer works on the principle of:",
+    "options": {
+      "A": "Reverse polarity",
+      "B": "Straight polarity",
+      "C": "DC power flowing in one direction",
+      "D": "Magnetic induction",
+      "E": "Automatic induction"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 18,
+    "heading": " Electrical Transformers",
+    "question": "An active current transformer should never:",
+    "options": {
+      "A": "Be inspected until properly grounded",
+      "B": "Have its secondary circuit opened first",
+      "C": "Have its secondary connected to a meter",
+      "D": "Produce excessively high voltages",
+      "E": "Have its primary circuit opened"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 19,
+    "heading": " Electrical Transformers",
+    "question": "Current transformers convert larger primary ______ into smaller secondary ______.",
+    "options": {
+      "A": "Watts, Joules",
+      "B": "Voltage, voltage",
+      "C": "Current, current",
+      "D": "Volts, Current",
+      "E": "Current, Voltage"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 20,
+    "heading": " Electrical Transformers",
+    "question": "Three major losses which occur in a transformer are iron losses, copper losses, and:",
+    "options": {
+      "A": "Flux leakage",
+      "B": "Heat losses",
+      "C": "Cooling losses",
+      "D": "Capacitive losses",
+      "E": "Inductive losses"
+    },
+    "correctAnswer": "A"
+  }
+]

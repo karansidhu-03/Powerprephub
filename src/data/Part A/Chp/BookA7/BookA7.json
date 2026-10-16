@@ -113,7 +113,7 @@
       "D": "1, 2, 4",
       "E": "1, 2, 3, 4"
     },
-    "correctAnswer": "B",
+    "correctAnswer": "C",
     "explanation": "Globe valves create higher fluid flow restriction than gate valves and are well-suited for flow throttling applications[cite: 28]."
   },
   {
@@ -646,7 +646,7 @@
       "D": "Cellular glass",
       "E": "Magnesia"
     },
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "explanation": "Magnesia-based thermal insulations are rated for high-temperature industrial piping services up to 454 °C[cite: 29]."
   },
   {

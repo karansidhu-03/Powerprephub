@@ -1,0 +1,1822 @@
+[
+  {
+    "number": 1,
+    "heading": " Electrical Transformers",
+    "question": "The capacity of a transformer can be increased by:\n\n1. Submerging the core and windings in a tank of oil\n2. Submerging the core and windings in a tank of water\n3. Forced air cooling the oil in a heat exchanger\n4. Wrapping the core with a thermal insulation\n5. Forced air cooling of the core",
+    "options": {
+      "A": "2, 3, 4, 5",
+      "B": "1, 3, 5",
+      "C": "2, 3, 4",
+      "D": "2, 4, 5",
+      "E": "1, 4, 5"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 2,
+    "heading": " Electrical Transformers",
+    "question": "An important maintenance check for non- ventilated dry-type transformers is:",
+    "options": {
+      "A": "Check for oil leaks",
+      "B": "Compare temp of air inlet and outlet",
+      "C": "Test oil for acidity",
+      "D": "Check oil level",
+      "E": "Check oil temperature"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 3,
+    "heading": " Electrical Transformers",
+    "question": "Transformers are cooled by:\n\n1. Spraying water over the coils\n2. Placing the core in an oil filled tank\n3. Forced cooling by fans\n4. Using pyrene as a coolant",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "2, 3, 4",
+      "C": "1, 2, 3, 4",
+      "D": "2, 3",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 4,
+    "heading": " Electrical Transformers",
+    "question": "Transformer cooling oil has:",
+    "options": {
+      "A": "A very low safety hazard",
+      "B": "A very high fire point",
+      "C": "A very high specific heat",
+      "D": "No factors that necessitate better wire insulation",
+      "E": "A poorer insulating characteristic than air"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 5,
+    "heading": " Electrical Transformers",
+    "question": "A transformer has a primary voltage of 500 volts and 20 turns on the primary winding. If the secondary winding has 5 turns, the voltage of the secondary is:",
+    "options": {
+      "A": "100 volts",
+      "B": "2 000 volts",
+      "C": "125 volts",
+      "D": "2 500 volts",
+      "E": "4 volts"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 6,
+    "heading": " Electrical Transformers",
+    "question": "An instrument transformer used to measure voltage is called a:",
+    "options": {
+      "A": "Potential transformer",
+      "B": "Step down transformer",
+      "C": "Step up transformer",
+      "D": "Resistance indicator",
+      "E": "Current transformer"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 7,
+    "heading": " Electrical Transformers",
+    "question": "Transformers are rated in terms of:\n\n1. Volt-amperes\n2. Kilowatts\n3. Kilovolt-amperes\n4. Ohms",
+    "options": {
+      "A": "2, 4",
+      "B": "3, 4",
+      "C": "1, 3",
+      "D": "2, 3",
+      "E": "1, 2"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 8,
+    "heading": " Electrical Transformers",
+    "question": "When working with high voltage systems, the minimum distance of approach should be:",
+    "options": {
+      "A": "1 m",
+      "B": "5 m",
+      "C": "3 m",
+      "D": "0.5 m",
+      "E": "2 m"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 9,
+    "heading": " Electrical Transformers",
+    "question": "Current transformers step down the current rather than the:",
+    "options": {
+      "A": "Number of poles",
+      "B": "Conductance",
+      "C": "Voltage",
+      "D": "Flux strength",
+      "E": "Resistance"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 10,
+    "heading": " Electrical Transformers",
+    "question": "When a counter voltage, E, produces opposition to the flow of current in a coil it is termed:",
+    "options": {
+      "A": "Self inductance",
+      "B": "Electromagnetic induction",
+      "C": "Capacitance",
+      "D": "Hysteresis",
+      "E": "Current generation"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 11,
+    "heading": " Electrical Transformers",
+    "question": "Transformers should be inspected at least:",
+    "options": {
+      "A": "Quarterly",
+      "B": "Tri-annually",
+      "C": "Daily",
+      "D": "Annually",
+      "E": "Monthly"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 12,
+    "heading": " Electrical Transformers",
+    "question": "Transformers function on the principle of:",
+    "options": {
+      "A": "Conductance",
+      "B": "Interaction of residual magnetism",
+      "C": "Mutual conductance",
+      "D": "Mutual inductance",
+      "E": "High resistance to DC current"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 13,
+    "heading": " Electrical Transformers",
+    "question": "Auto-transformers:",
+    "options": {
+      "A": "Have an equal ratio of transformation",
+      "B": "Use more copper",
+      "C": "Have large ratios of transformation",
+      "D": "Can use less copper",
+      "E": "Use two windings for primary and secondary circuits"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 14,
+    "heading": " Electrical Transformers",
+    "question": "When magnetic flux produced by one coil induces an EMF in a second coil, it is called:",
+    "options": {
+      "A": "Mutual inductance",
+      "B": "Electromagnetic induction",
+      "C": "Self inductance",
+      "D": "Capacitive reactance",
+      "E": "Inductive reactance"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 15,
+    "heading": " Electrical Transformers",
+    "question": "The voltage induced in the secondary windings of the transformer is _____ the turns ratio of the transformer.",
+    "options": {
+      "A": "Repelled by",
+      "B": "Reversed to",
+      "C": "Produced with",
+      "D": "Independent from",
+      "E": "Proportional to"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 16,
+    "heading": " Electrical Transformers",
+    "question": "Transformers require:",
+    "options": {
+      "A": "Less maintenance than most other electric machinery",
+      "B": "Inspection every three years",
+      "C": "No maintenance",
+      "D": "More maintenance than other electric machinery",
+      "E": "Inspection every month"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 17,
+    "heading": " Electrical Transformers",
+    "question": "A transformer works on the principle of:",
+    "options": {
+      "A": "Reverse polarity",
+      "B": "Straight polarity",
+      "C": "DC power flowing in one direction",
+      "D": "Magnetic induction",
+      "E": "Automatic induction"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 18,
+    "heading": " Electrical Transformers",
+    "question": "An active current transformer should never:",
+    "options": {
+      "A": "Be inspected until properly grounded",
+      "B": "Have its secondary circuit opened first",
+      "C": "Have its secondary connected to a meter",
+      "D": "Produce excessively high voltages",
+      "E": "Have its primary circuit opened"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 19,
+    "heading": " Electrical Transformers",
+    "question": "Current transformers convert larger primary ______ into smaller secondary ______.",
+    "options": {
+      "A": "Watts, Joules",
+      "B": "Voltage, voltage",
+      "C": "Current, current",
+      "D": "Volts, Current",
+      "E": "Current, Voltage"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 20,
+    "heading": " Electrical Transformers",
+    "question": "Three major losses which occur in a transformer are iron losses, copper losses, and:",
+    "options": {
+      "A": "Flux leakage",
+      "B": "Heat losses",
+      "C": "Cooling losses",
+      "D": "Capacitive losses",
+      "E": "Inductive losses"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 21,
+    "heading": " Electrical Distribution Systems",
+    "question": "Low voltages include all voltages between _____ volts.",
+    "options": {
+      "A": "100 and 750",
+      "B": "0 and 30",
+      "C": "30 and 110",
+      "D": "30 and 750",
+      "E": "30 and 220"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 22,
+    "heading": " Electrical Distribution Systems",
+    "question": "The utility's responsibility will not go beyond the:",
+    "options": {
+      "A": "Primary transformer",
+      "B": "First branch line",
+      "C": "Motor control center",
+      "D": "First circuit breaker",
+      "E": "First trunk circuit"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 23,
+    "heading": " Electrical Distribution Systems",
+    "question": "Any leakage of _____ from electrical equipment is run to ground directly through the grounding system, rather than through other equipment, or through a person that touches the equipment.",
+    "options": {
+      "A": "Voltage",
+      "B": "Protons",
+      "C": "Resistance",
+      "D": "Current",
+      "E": "Magnetic flux"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 24,
+    "heading": " Electrical Distribution Systems",
+    "question": "Most breaker cubicles and motor starter cubicles are operated so that:",
+    "options": {
+      "A": "They will not allow the contents to be overheated",
+      "B": "The breaker or disconnect switch must be tripped to its open position before the door is opened",
+      "C": "The contents are easily visible",
+      "D": "The door opens to the left",
+      "E": "The door cannot be opened from the outside"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 25,
+    "heading": " Electrical Distribution Systems",
+    "question": "Extra low voltages include all voltages below _____ volts.",
+    "options": {
+      "A": "220",
+      "B": "50",
+      "C": "440",
+      "D": "110",
+      "E": "30"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 26,
+    "heading": " Electrical Distribution Systems",
+    "question": "When working with high voltages the following precautions should be observed.\n\n1. Access should be locked allowing only authorized personnel to enter\n2. The equipment should be kept clean and dry\n3. Cross-connect and ground the lines before beginning work\n4. Provide clearly marked \"Danger High Voltage\" signs\n5. Properly ground, yourself before approaching a live circuit",
+    "options": {
+      "A": "1, 2, 4, 5",
+      "B": "1, 3, 4, 5",
+      "C": "1, 2, 3, 4",
+      "D": "2, 3, 4, 5",
+      "E": "1, 2, 3, 4, 5"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 27,
+    "heading": " Electrical Distribution Systems",
+    "question": "DC power to maintain the UPS batteries is provided from:",
+    "options": {
+      "A": "Rectifier",
+      "B": "Transformer",
+      "C": "Circuit breaker",
+      "D": "Inverter",
+      "E": "Batteries"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 28,
+    "heading": " Electrical Distribution Systems",
+    "question": "An ATS will transfer from one source to another when the ____ drops below a set percent.",
+    "options": {
+      "A": "Resistance",
+      "B": "Amperage",
+      "C": "Temperature",
+      "D": "Voltage",
+      "E": "Power"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 29,
+    "heading": " Electrical Distribution Systems",
+    "question": "A fuse can carry the rated amperage ____ but will ____ when a larger amperage flows through it.",
+    "options": {
+      "A": "Indefinitely, melt",
+      "B": "Indefinitely, short circuit",
+      "C": "Shortly, cool",
+      "D": "Forever, maintain integrity",
+      "E": "Quickly, slow"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 30,
+    "heading": " Electrical Distribution Systems",
+    "question": "Safety switches should not be operated under load since they are known to:",
+    "options": {
+      "A": "Fail to operate",
+      "B": "Explode",
+      "C": "Get stuck",
+      "D": "Be locked by the electrician",
+      "E": "Cause a voltage increase"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 31,
+    "heading": " Electrical Distribution Systems",
+    "question": "For plant systems that cannot tolerate even a momentary loss of power, a _____ is installed.",
+    "options": {
+      "A": "Alarm",
+      "B": "GPS",
+      "C": "Backup generator",
+      "D": "Tie Breaker",
+      "E": "UPS"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 32,
+    "heading": " Electrical Distribution Systems",
+    "question": "If the inverter in a UPS fails, the transfer switch automatically goes to normal AC power within:",
+    "options": {
+      "A": "5 seconds",
+      "B": "1/240 seconds",
+      "C": "240 seconds",
+      "D": "1/10 second",
+      "E": "120 seconds"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 33,
+    "heading": " Electrical Distribution Systems",
+    "question": "Tie circuit breakers are used to:",
+    "options": {
+      "A": "Protect the transformer from the power source",
+      "B": "Connect the plant load to the power source",
+      "C": "Allow the interconnection of two power sources without placing them in parallel",
+      "D": "Protect the plant service bus from the power source",
+      "E": "Break the circuit in case of overload"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 34,
+    "heading": " Electrical Distribution Systems",
+    "question": "An electrical distribution system is composed of service, feeders and:",
+    "options": {
+      "A": "Branch circuits",
+      "B": "Trunk circuits",
+      "C": "Tertiary circuits",
+      "D": "Secondary circuits",
+      "E": "Primary circuits"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 35,
+    "heading": " Electrical Distribution Systems",
+    "question": "The best type of diagram for showing supply and distribution system is the _____ diagram.",
+    "options": {
+      "A": "Single-line",
+      "B": "Elementary",
+      "C": "Connection",
+      "D": "Terminal and connection",
+      "E": "Riser"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 36,
+    "heading": " Electrical Distribution Systems",
+    "question": "High voltages include all voltages above _____ volts.",
+    "options": {
+      "A": "750",
+      "B": "72,000",
+      "C": "220",
+      "D": "15,000",
+      "E": "1000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 37,
+    "heading": " Electrical Distribution Systems",
+    "question": "The electrical schematic or elementary diagram shows:",
+    "options": {
+      "A": "A one line diagram where each line represents all of the conductors in the circuit",
+      "B": "The location, markings and interconnection of each terminal",
+      "C": "By means of graphical symbols the function, sequence, connection and electrical relationship of each circuit",
+      "D": "By means of single lines and simplified symbols the electrical distribution system in a multistoried building",
+      "E": "The relative physical arrangement of components including all wiring and connections"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 38,
+    "heading": " Electrical Distribution Systems",
+    "question": "A typical extra low voltage device would be a:",
+    "options": {
+      "A": "Door bell",
+      "B": "Dry cell battery charger",
+      "C": "Night light",
+      "D": "Set of tree lights",
+      "E": "Toaster"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 39,
+    "heading": " Electrical Distribution Systems",
+    "question": "Any device that limits the amperage to a predetermined flow is called:",
+    "options": {
+      "A": "Overcurrent device",
+      "B": "Undercurrent device",
+      "C": "Grounding conductor",
+      "D": "Megger",
+      "E": "Voltage limiter"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 40,
+    "heading": " Electrical Distribution Systems",
+    "question": "A prime factor in determining the degree of access to electrical equipment is:",
+    "options": {
+      "A": "Voltage of the installation",
+      "B": "The number of motors involved",
+      "C": "Peak demands",
+      "D": "The resistance of the circuit",
+      "E": "Transformer capacity"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 41,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "Current flow direction and intensity will:",
+    "options": {
+      "A": "Not affect electromagnetic field intensity",
+      "B": "Affect the resistance of a circuit",
+      "C": "Affect the voltage",
+      "D": "Affect magnetic field direction and intensity",
+      "E": "Not affect electromagnetic field direction"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 42,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "The property of good conductivity of magnetic flux is called:",
+    "options": {
+      "A": "Fluctuation",
+      "B": "Magnetism",
+      "C": "Permeability",
+      "D": "Conductivity",
+      "E": "Capacitance"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 43,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "When like poles of a magnet are placed adjacent to each other they will:",
+    "options": {
+      "A": "Have no reaction",
+      "B": "Be attracted to each other",
+      "C": "Increase in temperature",
+      "D": "Bend",
+      "E": "Repel each other"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 44,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "If the current in a current carrying conductor in a magnetic field is reversed, the direction of the force tending to move the conductor will:",
+    "options": {
+      "A": "Reverse",
+      "B": "Tend to accelerate",
+      "C": "Be tangential",
+      "D": "Remain constant",
+      "E": "Be displaced"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 45,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "The total number of lines of force per square metre in a magnetic field is:",
+    "options": {
+      "A": "Known as the EMF",
+      "B": "Called the magnetic flux",
+      "C": "Depends on the force of gravity",
+      "D": "Determined by the north magnetic pole",
+      "E": "Controlled by varying the temperature"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 46,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "Commutation is the process of converting AC to _____ in a DC generator.",
+    "options": {
+      "A": "Direct current",
+      "B": "Heat",
+      "C": "Voltage",
+      "D": "Resistance",
+      "E": "Power"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 47,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "Magnetite is also known as:",
+    "options": {
+      "A": "Iron ore",
+      "B": "Limestone",
+      "C": "Soapstone",
+      "D": "Non ferrous metal",
+      "E": "Lodestone"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 48,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "The maximum voltage generated by a single loop DC generator occurs, when the conductor is cutting the magnetic lines of force at an angle of:",
+    "options": {
+      "A": "120°",
+      "B": "180°",
+      "C": "45°",
+      "D": "0°",
+      "E": "90°"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 49,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "The direction of the _____ due to motor action may be determined using Fleming's Left Hand Rule.",
+    "options": {
+      "A": "Resistance",
+      "B": "Applied voltage",
+      "C": "Force",
+      "D": "Current",
+      "E": "Rotation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 50,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "Faraday discovered:",
+    "options": {
+      "A": "The Left Hand Rule for motors",
+      "B": "That current flows from positive to negative",
+      "C": "That a conductor will have a voltage induced if it cuts magnetic flux",
+      "D": "The Right Hand Rule for generators",
+      "E": "The Right Hand Rule for conductors"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 51,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "If the direction of the magnetic field is reversed, the force on a/an _____ carrying conductor placed within that field will be reversed.",
+    "options": {
+      "A": "Insulated ground",
+      "B": "Voltage",
+      "C": "Resistance",
+      "D": "Magnetic",
+      "E": "Conductivity"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 52,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "When magnetic flux lines travel and meet in opposing directions the result can be:",
+    "options": {
+      "A": "Motor action",
+      "B": "Reluctance",
+      "C": "Generator action",
+      "D": "Solenoid action",
+      "E": "Electromagnetism"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 53,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "If two unlike poles are placed adjacent to each other there is a:",
+    "options": {
+      "A": "Force of repulsion between the magnets",
+      "B": "Reversal of the north and south poles of each magnet",
+      "C": "Product of AC power",
+      "D": "Development of iron filings between the magnets",
+      "E": "Force of attraction between the magnets"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 54,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "If a few turns of wire are wrapped around a core of soft iron and a current of electricity passed through the wire, you will have:",
+    "options": {
+      "A": "A commutator",
+      "B": "A circuit breaker",
+      "C": "A generator",
+      "D": "An electro-magnet",
+      "E": "A transformer"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 55,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "Iron and steel may be magnetized by rubbing the metal with a:",
+    "options": {
+      "A": "Brass rod",
+      "B": "Magnet",
+      "C": "Steel wool",
+      "D": "Stainless steel",
+      "E": "An iron filing compound"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 56,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "The right hand rule for generators is used to:",
+    "options": {
+      "A": "Indicate the speed of a rotor",
+      "B": "Determine the frequency of an alternator",
+      "C": "Determine direction of motor rotation",
+      "D": "Determine direction of induced current flow",
+      "E": "Determine magnetic flux rotation"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 57,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "The property of resistance to conducting magnetic lines of force is known as:",
+    "options": {
+      "A": "Impedance",
+      "B": "Reluctance",
+      "C": "Voltage drop",
+      "D": "Resistance",
+      "E": "Repulsion"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 58,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "The space or zone around a magnet through which lines of force travel is termed:",
+    "options": {
+      "A": "Permeability",
+      "B": "Magnetic flux",
+      "C": "Magnetic strength",
+      "D": "Magnetic field",
+      "E": "Reluctance"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 59,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "The property that determines whether or not a material will be easily magnetized or not is called:",
+    "options": {
+      "A": "Conductivity",
+      "B": "Magnetism",
+      "C": "Fluctuation",
+      "D": "Reaction",
+      "E": "Permeability"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 60,
+    "heading": "Magnetism & Electromagnetism",
+    "question": "A current carrying conductor being moved by a magnetic field is the principle known as:",
+    "options": {
+      "A": "Hydro-electrics",
+      "B": "Electrolysis",
+      "C": "Motor action",
+      "D": "Magnetic flux",
+      "E": "Generator action"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 61,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "When using an electrical meter to check that a circuit is safe to work on, it is important to verify the proper scale and/or current is being used because:\n\n1. It may appear that no voltage or current is present therefore safe\n2. Electrical wiring will be damaged by fire or overheating\n3. The user will be subjecting him/herself to danger\n4. The main high voltage transformer circuit will be opened\n5. The meter will be damaged",
+    "options": {
+      "A": "1, 3, 5",
+      "B": "1, 2, 3, 5",
+      "C": "1, 2, 3",
+      "D": "2, 3, 4",
+      "E": "2, 3, 5"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 62,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "Utility companies have a surcharge to their customers based on:",
+    "options": {
+      "A": "The maximum amperage used",
+      "B": "Peak demand",
+      "C": "System capacitance",
+      "D": "Transformer efficiency",
+      "E": "The maximum voltage used"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 63,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "Ohmmeters are zeroed before use by:",
+    "options": {
+      "A": "Setting the voltage to zero",
+      "B": "Joining the test leads together",
+      "C": "Removing the battery",
+      "D": "Disconnecting all electricity",
+      "E": "None of these answers is correct"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 64,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "Whenever voltmeters are connected to a direct current the:",
+    "options": {
+      "A": "Positive lead must be disconnected from the circuit",
+      "B": "Positive lead must be connected to the neutral point in the circuit",
+      "C": "Negative lead must be disconnected from the circuit",
+      "D": "Positive lead must be connected to the negative point in the circuit",
+      "E": "Positive lead must be connected to the positive point of the circuit"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 65,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "When using a multi-meter for voltage:",
+    "options": {
+      "A": "Turn off all power to protect the meter",
+      "B": "Always run your red lead to the positive pole",
+      "C": "Always test your meter on a 120 volt circuit so that you know that it works",
+      "D": "Start testing at the highest setting and work your way down to where there is a mid-scale reading",
+      "E": "Always run your black lead to ground"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 66,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "The instrument used to measure electrical power used in a period of time, is the:",
+    "options": {
+      "A": "Ohm meter",
+      "B": "Milliamp meter",
+      "C": "Voltmeter",
+      "D": "Kilowatt hour meter",
+      "E": "Oscilloscope"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 67,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "Clamp-on ammeter readings may be inaccurate if:",
+    "options": {
+      "A": "Circuit resistance is too low",
+      "B": "Jaws are dirty or misaligned",
+      "C": "Circuit power is too high",
+      "D": "Conductor insulation is too thick",
+      "E": "Circuit voltage is too high"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 68,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "Clamp-On meters are used to measure:",
+    "options": {
+      "A": "Resistence",
+      "B": "Capacitance",
+      "C": "Wattage",
+      "D": "Voltage",
+      "E": "Amperage"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 69,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "The type of meter that can read phase unbalances and harmonics is:",
+    "options": {
+      "A": "Non contact Voltage detector",
+      "B": "Clamp on meter",
+      "C": "Digital kilowatt hour meter",
+      "D": "Demand meter",
+      "E": "Digital Multi Meter"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 70,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "A power meter:",
+    "options": {
+      "A": "Does not take into account the system voltage",
+      "B": "Does not require a multiplying factor",
+      "C": "Reads the actual power consumed",
+      "D": "Will calculate the actual cost of the power",
+      "E": "Reads only a small percentage of the actual load"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 71,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "The black demand pointer of a power meter:",
+    "options": {
+      "A": "Moves the red pointer",
+      "B": "Must be manually reset",
+      "C": "Indicates the amperage being drawn",
+      "D": "Always reads the current demand",
+      "E": "Resets automatically"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 72,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "A kilowatt-hour meter has a small motor which:",
+    "options": {
+      "A": "Has a speed proportional to power consumption",
+      "B": "Moves the meter demand pointer",
+      "C": "Slows down as power consumption increases",
+      "D": "Indicates the multiplier to be used when reading the meter",
+      "E": "Turns at a constant speed"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 73,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "To test the quality of an electric motor's insulation, the megger will produce test voltages of up to:",
+    "options": {
+      "A": "12",
+      "B": "300 000",
+      "C": "240 ",
+      "D": "110",
+      "E": "1000"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 74,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "Voltmeters are connected with the negative or black lead connected to the:",
+    "options": {
+      "A": "Neutral wire of the circuit",
+      "B": "Negative side of the circuit",
+      "C": "Switch of the circuit",
+      "D": "Positive side of the circuit",
+      "E": "North pole of the circuit"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 75,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "The resistance of a shunt resistor in an ammeter is _____ to ensure only _______ current passes through the main meter.",
+    "options": {
+      "A": "Low, low",
+      "B": "High, low",
+      "C": "Low, high",
+      "D": ". Maximum, all",
+      "E": "High, high"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 76,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "Ammeters are connected:",
+    "options": {
+      "A": "So that voltage will bypass the meter",
+      "B": "To the negative and positive terminals of the battery",
+      "C": "In series with the circuit",
+      "D": "In parallel with the circuit to measure the resistance",
+      "E": "In parallel with the circuit"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 77,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "An Ammeter must offer a _____ resistance to the electrical circuit.",
+    "options": {
+      "A": "Low",
+      "B": "No",
+      "C": "Some",
+      "D": "High",
+      "E": "None"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 78,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "The voltmeter is placed:",
+    "options": {
+      "A": "Across the synchroscope",
+      "B": "In parallel with the circuit",
+      "C": "In series with the circuit",
+      "D": "Between the battery and the first resistance",
+      "E": "In series with the amp meter"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 79,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "A voltmeter must offer _____ resistance to the electrical circuit.",
+    "options": {
+      "A": "Low",
+      "B": "No",
+      "C": "Some",
+      "D": "High",
+      "E": "None of the above"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 80,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "A DMM is capable of measuring:",
+    "options": {
+      "A": "Voltage, Flux, Resistance",
+      "B": "Capacitance, current, voltage",
+      "C": "Power Factor, continuity, current",
+      "D": "Continuity, diode, current",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 81,
+    "heading": "Motors & Generators",
+    "question": "Alternating current:",
+    "options": {
+      "A": "Changes ohms to amperage",
+      "B": "Changes the current from one conductor to another",
+      "C": "Reverses direction at regular intervals",
+      "D": "Changes voltage to resistance",
+      "E": "Reverses once every second"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 82,
+    "heading": "Motors & Generators",
+    "question": "Alternators are constructed to use slip rings made of brass or:",
+    "options": {
+      "A": "Steel",
+      "B": "Silicon",
+      "C": "Copper",
+      "D": "Carbon",
+      "E": "Mica"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 83,
+    "heading": "Motors & Generators",
+    "question": "Synchronous motors have construction that is identical to:",
+    "options": {
+      "A": "Reciprocating equipment",
+      "B": "Air driven motors",
+      "C": "Gas turbines",
+      "D": "Centrifugal fans",
+      "E": "Alternators"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 84,
+    "heading": "Motors & Generators",
+    "question": "The three main types of DC motors and generators are the:\n\n1. Compound wound\n2. Parallel wound\n3. Series wound\n4. Reverse wound\n5. Shunt wound",
+    "options": {
+      "A": "2, 3, 5",
+      "B": "1, 3, 5",
+      "C": "2, 4, 5",
+      "D": "1, 2, 4",
+      "E": "3, 4, 5"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 85,
+    "heading": "Motors & Generators",
+    "question": "The coils or windings on a DC machine armature are placed in _____ cut in the face of the armature.",
+    "options": {
+      "A": "Bars",
+      "B": "Sequence",
+      "C": "Pairs",
+      "D": "Holes",
+      "E": "Slots"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 86,
+    "heading": "Motors & Generators",
+    "question": "Heat buildup due to failing to do cleaning during regular maintenance can lead to:",
+    "options": {
+      "A": "Failure of insulation on the motor windings",
+      "B": "Excess voltage buildup",
+      "C": "High back EMF",
+      "D": "Noisy brushes",
+      "E": "Low speeds"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 87,
+    "heading": "Motors & Generators",
+    "question": "Three factors which control the electromotive force developed by a DC generator are the:\n1. Size of the frame\n2. Speed with which conductors cut the magnetic lines of force\n3. Number of conductors cutting the magnetic lines of force\n4. Diameter of the conductors\n5. Strength of the magnetic flux\n6. Diameter of the armature",
+    "options": {
+      "A": "1, 3, 6",
+      "B": "3, 4, 6",
+      "C": "1, 4, 6",
+      "D": "2, 3, 5",
+      "E": "2, 5, 6"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 88,
+    "heading": "Motors & Generators",
+    "question": "A rheostat or \"voltage regulator\" of a DC shunt wound generator is used to:",
+    "options": {
+      "A": "Regulate the speed of the generator",
+      "B": "Regulate the strength of the electromagnetic field",
+      "C": "Change the unit into a DC motor",
+      "D": "Regulate the current to the load",
+      "E": "Change the AC to DC"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 89,
+    "heading": "Motors & Generators",
+    "question": "The stator of an alternator is built of _____ mounted in a frame.",
+    "options": {
+      "A": "Asbestos impregnated silver",
+      "B": "Silicon steel",
+      "C": "Copper alloys",
+      "D": "Carbon ring",
+      "E": "Non-metallic materials"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 90,
+    "heading": "Motors & Generators",
+    "question": "Permanent magnets are used for:",
+    "options": {
+      "A": "Ensuring less maintenance",
+      "B": "Constant speed alternators",
+      "C": "The smallest DC motors and generators",
+      "D": "Variable speed alternators",
+      "E": "The largest DC motors and generators"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 91,
+    "heading": "Motors & Generators",
+    "question": "Motor starting devices for DC motors and some AC motors are designed to limit the starting _____ to a safe value.",
+    "options": {
+      "A": "Voltage",
+      "B": "Current",
+      "C": "Speed",
+      "D": "Resistance",
+      "E": "Torque"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 92,
+    "heading": "Motors & Generators",
+    "question": "The _____ of a DC machine is built up of laminated steel plates mounted on a shaft. The coils are connected to a commutator mounted on one end of the rotor shaft.",
+    "options": {
+      "A": "Rheostat",
+      "B": "Coils",
+      "C": "Yoke",
+      "D": "Armature",
+      "E": "Bearings"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 93,
+    "heading": "Motors & Generators",
+    "question": "An AC motor which will drop out of synchronism and simply trip when overloaded is the:",
+    "options": {
+      "A": "Slip-ring induction motor",
+      "B": "Induction motor",
+      "C": "Single phase motor",
+      "D": "Synchronous motor",
+      "E": "Wound rotor induction motor"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 94,
+    "heading": "Motors & Generators",
+    "question": "There are three main types of DC generators; series, shunt, and compound wound. Each is:",
+    "options": {
+      "A": "Capable of constant voltage regardless of load",
+      "B": "Supplied with DC from batteries",
+      "C": "Self-excited",
+      "D": "Not excited by load current",
+      "E": "Separately excited"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 95,
+    "heading": "Motors & Generators",
+    "question": "An electric motor converts _____ energy into mechanical energy.",
+    "options": {
+      "A": "Physical",
+      "B": "Heat",
+      "C": "Electrical",
+      "D": "Reciprocating",
+      "E": "Potential"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 96,
+    "heading": "Motors & Generators",
+    "question": "Brush gear for DC machines have brushes made from carbon because they:\n1. Are softer\n2. Wear to a smooth finish\n3. Are low cost\n4. Can produce large quantities of heat\n5. Have a low coefficient of friction",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "3, 4, 5",
+      "C": "1, 2, 5",
+      "D": "2, 3, 5",
+      "E": "2, 4, 5"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 97,
+    "heading": "Motors & Generators",
+    "question": "Alternators must run at constant speed in order to maintain:",
+    "options": {
+      "A": "Resistance",
+      "B": "Current",
+      "C": "Portable drills",
+      "D": "Frequency",
+      "E": "Power"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 98,
+    "heading": "Motors & Generators",
+    "question": "A common solution to armature reaction involves:",
+    "options": {
+      "A": "Decrease amperage",
+      "B": "Decrease the number of poles",
+      "C": "Increase the number of windings on the field poles",
+      "D": "Installation of interpoles",
+      "E": "Slow the motor"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 99,
+    "heading": "Motors & Generators",
+    "question": "The yoke that supports the main components of the DC machine is frequently made of materials with high magnetic permeability like:",
+    "options": {
+      "A": "Copper or brass",
+      "B": "Copper and carbon",
+      "C": "Mica and carbon",
+      "D": "Cast steel or iron",
+      "E": "Aluminum"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 100,
+    "heading": "Motors & Generators",
+    "question": "DC motors can handle short periods of overspeed, up to:",
+    "options": {
+      "A": "10%",
+      "B": "200%",
+      "C": "25%",
+      "D": "50%",
+      "E": "100%"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 101,
+    "heading": "Motors & Generators",
+    "question": "Shunt wound DC motors are common where speed must remain constant regardless of load such as on:",
+    "options": {
+      "A": "Traction engines",
+      "B": "Automobile starters",
+      "C": "Machinist lathes",
+      "D": "Grinders",
+      "E": "Portable drills"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 102,
+    "heading": "Motors & Generators",
+    "question": "The field strength of an alternator can be adjusted by varying the amplitude of the DC power supply to the:",
+    "options": {
+      "A": "Rotating field",
+      "B": "Stator windings",
+      "C": "Shaft",
+      "D": "Rotating stator",
+      "E": "Alternator frame"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 103,
+    "heading": "Motors & Generators",
+    "question": "Which of the following in not found on the motor nameplate?",
+    "options": {
+      "A": "Direction of rotation",
+      "B": "Volts and full load current",
+      "C": "Power",
+      "D": "Full load speed",
+      "E": "Manufacturers name"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 104,
+    "heading": "Motors & Generators",
+    "question": "The strength of the magnetic field produced in a shunt wound generator:",
+    "options": {
+      "A": "Is fairly constant",
+      "B": "Is regulated by an external AC supply",
+      "C": "Is weak",
+      "D": "Fluctuates",
+      "E": "Cannot be varied"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 105,
+    "heading": "Motors & Generators",
+    "question": "In a series wound DC generator:",
+    "options": {
+      "A": "Load current passes through the field windings",
+      "B": "There are no field poles",
+      "C": "Brushes do not change AC to DC",
+      "D": "The shunt winding taps in before the series winding",
+      "E": "The shunt winding taps in after the series winding"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 106,
+    "heading": "Motors & Generators",
+    "question": "The armature of a DC machine is built up of:",
+    "options": {
+      "A": "Steel laminations",
+      "B": "Copper bars",
+      "C": "Reinforced carbon plates",
+      "D": "Mica sheets",
+      "E": "Electromagnets"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 107,
+    "heading": "Motors & Generators",
+    "question": "To transfer the power to or from the rotor of alternators or some AC motors:",
+    "options": {
+      "A": "Slip rings are employed",
+      "B": "A commutator is used",
+      "C": "Rheostats are used",
+      "D": "Field poles are employed",
+      "E": "Antifriction bearings are employed"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 108,
+    "heading": "Motors & Generators",
+    "question": "The electromagnetic field for a DC machine is produced by the:",
+    "options": {
+      "A": "Brush gear",
+      "B": "Yoke",
+      "C": "Field poles",
+      "D": "Commutator",
+      "E": "Armature"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 109,
+    "heading": "Motors & Generators",
+    "question": "The magnetic field in a DC machine may be supplied by permanent magnets in small units. Large DC machines use field poles that are essentially:",
+    "options": {
+      "A": "Non-magnetic",
+      "B": "Electromagnets",
+      "C": "Resistors",
+      "D": "Flux resistant",
+      "E": "Insulators"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 110,
+    "heading": "Motors & Generators",
+    "question": "Apparent power is the power:",
+    "options": {
+      "A": "Resulting from system inductance",
+      "B": "Supplied by the utility",
+      "C": "Caused by system capacitance",
+      "D": "Generated by rotating equipment",
+      "E": "Used for the actual work"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 111,
+    "heading": "Motors & Generators",
+    "question": "A compound wound DC generator may have three characteristics which are a:\n1. Decreasing output voltage verses load\n2. No amperage requirement\n3. Constant output voltage\n4. Supplementary AC requirement\n5. Rising output voltage versus load",
+    "options": {
+      "A": "1, 4, 5",
+      "B": "2, 3, 5",
+      "C": "2, 3, 4",
+      "D": "1, 2, 4",
+      "E": "1, 3, 5"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 112,
+    "heading": "Motors & Generators",
+    "question": "In order to produce the strength of magnetic flux required in larger DC machines:",
+    "options": {
+      "A": "The field windings are double-wound",
+      "B": "Copper switches are used",
+      "C": "Permanent magnets are used",
+      "D": "Electro magnets are used",
+      "E": "Booster transformers are used"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 113,
+    "heading": "Motors & Generators",
+    "question": "The output voltage rises sharply from minimum load to full load conditions for DC wound generators, if constructed with one of the following systems:",
+    "options": {
+      "A": "Parallel",
+      "B": "Compound",
+      "C": "Series",
+      "D": "Anti-friction bearing",
+      "E": "Shunt"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 114,
+    "heading": "Motors & Generators",
+    "question": "A common use for a DC generator is:",
+    "options": {
+      "A": "An automobile alternator",
+      "B": "Computer room power supply",
+      "C": "Power supply for an elevator",
+      "D": "Power factor correction",
+      "E": "Power supply for a machinist lathe"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 115,
+    "heading": "Motors & Generators",
+    "question": "A rheostat is used to _____ the field strength in a DC machine.",
+    "options": {
+      "A": "Stop",
+      "B": "Make",
+      "C": "Heat",
+      "D": "Vary",
+      "E": "Remove"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 116,
+    "heading": "Motors & Generators",
+    "question": "When synchronizing an alternator; voltage, phase and frequency must all be the same as well as the:",
+    "options": {
+      "A": "Power",
+      "B": "Phase sequence",
+      "C": "Current",
+      "D": "Speed",
+      "E": "Capacity"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 117,
+    "heading": "Motors & Generators",
+    "question": "A compound wound DC generator has a combination of shunt and _____ characteristics, depending on the predominance of each type of winding.",
+    "options": {
+      "A": "Resistive",
+      "B": "Parallel",
+      "C": "AC",
+      "D": "Reverse wound",
+      "E": "Series"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 118,
+    "heading": "Motors & Generators",
+    "question": "A shunt type DC generator has _____ output voltage.",
+    "options": {
+      "A": "Erratic",
+      "B": "Very low",
+      "C": "Nearly consistent",
+      "D": "Smooth",
+      "E": "Very high"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 119,
+    "heading": "Motors & Generators",
+    "question": "The main components of a DC machine are the yoke or frame that supports the _____ and the rotor which is called an armature.",
+    "options": {
+      "A": "Fuse box",
+      "B": "Field poles",
+      "C": "Generator",
+      "D": "Rheostat",
+      "E": "Wiring"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 120,
+    "heading": "Motors & Generators",
+    "question": "One means of creating a rotating magnetic field to start an AC motor is to use:",
+    "options": {
+      "A": "A rheostat",
+      "B": "A capacitor",
+      "C": "Solar energy",
+      "D": "An alternator",
+      "E": "An exciter"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 121,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "Voltage is a measure of:",
+    "options": {
+      "A": "The rate of ohm flow",
+      "B": "The rate of electron flow",
+      "C": "The rate of current flow",
+      "D": "Electromotive force",
+      "E": "Required for current resistance"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 122,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The unit of measure for electrical current flow is:",
+    "options": {
+      "A": "Electron",
+      "B": "Ohm",
+      "C": "Watt",
+      "D": "Volt",
+      "E": "Ampere"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 123,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The equivalent resistance of three loads of 10, 25, and 50 ohms connected in series is:",
+    "options": {
+      "A": "50 ohms",
+      "B": "95 ohms",
+      "C": "100 ohms",
+      "D": "85 ohms",
+      "E": "15 ohms"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 124,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The opposition, a device or material offers to the flow of electric current, is known as:",
+    "options": {
+      "A": "An insulator",
+      "B": "A short circuit",
+      "C": "Counter flow",
+      "D": "A voltage drop",
+      "E": "A resistance"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 125,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "A material that conducts electrical current is called:",
+    "options": {
+      "A": "A circuit",
+      "B": "A conductor",
+      "C": "A volt",
+      "D": "A conduit",
+      "E": "An electromotive force"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 126,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "A conductor's resistance is:",
+    "options": {
+      "A": "Not affected by the cross-sectional area",
+      "B": "Directly proportional to its diameter",
+      "C": "Directly proportional to its length",
+      "D": "Measured in micro-Newton",
+      "E": "Directly proportional to its cross-sectional area"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 127,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "An insulator is a material that will not _____ an electrical current.",
+    "options": {
+      "A": "Retard",
+      "B": "Conduct",
+      "C": "Reduce",
+      "D": "Resist",
+      "E": "Slow"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 128,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "In an equivalent circuit developed from a multi-resistor series circuit:",
+    "options": {
+      "A": "Original circuit resistances will each have to be the same as the equivalent resistance",
+      "B": "The resistance will be the reciprocal sum of the original resistance's",
+      "C": "Voltage drop will be the same as for each of the original resistance's",
+      "D": "Amperage flowing will be different than the original circuit amperage glowing through each resistance",
+      "E": "The sum of voltage drops across the original resistances will be equal to the voltage drop of the equivalent circuit"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 129,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The Kilowatt is an electrical unit of measure for:",
+    "options": {
+      "A": "Resistance",
+      "B": "Potential difference",
+      "C": "Current flow",
+      "D": "Magnetic flux strength",
+      "E": "Power"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 130,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "When a number of electrons pass a given point over a specific time period the energy may be referred to as:",
+    "options": {
+      "A": "Electromotive force",
+      "B": "Power or watts",
+      "C": "An ampere",
+      "D": "An ohm",
+      "E": "Voltage"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 131,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The power formula may be stated as:",
+    "options": {
+      "A": "P = I x R",
+      "B": "P = I x E",
+      "C": "P = E / R",
+      "D": "P = R / E",
+      "E": "P = I / R"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 132,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "An ampere is the _____ of current flow.",
+    "options": {
+      "A": "Resistance",
+      "B": "Measurement",
+      "C": "Cause",
+      "D": "Cause of increase",
+      "E": "Cause of reduction"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 133,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The voltage drop across a 20 ohm resistor with 10 amps flowing would be _____ volts.",
+    "options": {
+      "A": "200",
+      "B": "2",
+      "C": "20",
+      "D": "0.5",
+      "E": "150"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 134,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "If an electrical _____ is placed across a conductor, the electrons will flow from the negative end towards the positive end of the conductor, assuming the electron theory.",
+    "options": {
+      "A": "Potential",
+      "B": "Resistance",
+      "C": "Current",
+      "D": "Waire",
+      "E": "Meter"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 135,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The equivalent resistance of three resistances of 10 ohms, 25 ohms and 50 ohms connected in parallel is _____ ohms.",
+    "options": {
+      "A": "6.25",
+      "B": "85",
+      "C": "18.75",
+      "D": "8.5",
+      "E": "0.16"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 136,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The equivalent resistance of three resistors of 15, 15, and 15 ohms connected in parallel is:",
+    "options": {
+      "A": "45 ohms",
+      "B": "5 ohms",
+      "C": "15 ohms",
+      "D": "0.067 ohms",
+      "E": "0.2 ohms"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 137,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The basic unit of mechanical or electric power is the:",
+    "options": {
+      "A": "2 kilovolts",
+      "B": "50 kilovolts",
+      "C": "5 kilovolts",
+      "D": "Watts",
+      "E": "288 volts"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 138,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "The flow of electrons in a uniform direction from atom to atom through a circuit is known as:",
+    "options": {
+      "A": "A short circuit",
+      "B": "Potential difference",
+      "C": "Electromotive force",
+      "D": "Current",
+      "E": "Voltage drop"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 139,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "A triple pole single throw switch is one that:",
+    "options": {
+      "A": "Has three magnetic poles",
+      "B": "Cannot operate manually",
+      "C": "Opens and closes three wires of an electrical circuit",
+      "D": "Requires three toggles",
+      "E": "Is used for three phase circuits only"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 140,
+    "heading": "Basic Electricity and Circuit Fundamentals",
+    "question": "In an atom, the electrons:",
+    "options": {
+      "A": "Are repelled by the neutrons",
+      "B": "Orbit only the neutrons",
+      "C": "Are attracted to the protons",
+      "D": "Are large in size when compared to the protons",
+      "E": "Orbit around each other"
+    },
+    "correctAnswer": "C"
+  }
+]

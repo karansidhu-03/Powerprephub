@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "heading": " Electrical Distribution Systems",
+    "question": "Low voltages include all voltages between _____ volts.",
+    "options": {
+      "A": "100 and 750",
+      "B": "0 and 30",
+      "C": "30 and 110",
+      "D": "30 and 750",
+      "E": "30 and 220"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 2,
+    "heading": " Electrical Distribution Systems",
+    "question": "The utility's responsibility will not go beyond the:",
+    "options": {
+      "A": "Primary transformer",
+      "B": "First branch line",
+      "C": "Motor control center",
+      "D": "First circuit breaker",
+      "E": "First trunk circuit"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 3,
+    "heading": " Electrical Distribution Systems",
+    "question": "Any leakage of _____ from electrical equipment is run to ground directly through the grounding system, rather than through other equipment, or through a person that touches the equipment.",
+    "options": {
+      "A": "Voltage",
+      "B": "Protons",
+      "C": "Resistance",
+      "D": "Current",
+      "E": "Magnetic flux"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 4,
+    "heading": " Electrical Distribution Systems",
+    "question": "Most breaker cubicles and motor starter cubicles are operated so that:",
+    "options": {
+      "A": "They will not allow the contents to be overheated",
+      "B": "The breaker or disconnect switch must be tripped to its open position before the door is opened",
+      "C": "The contents are easily visible",
+      "D": "The door opens to the left",
+      "E": "The door cannot be opened from the outside"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "heading": " Electrical Distribution Systems",
+    "question": "Extra low voltages include all voltages below _____ volts.",
+    "options": {
+      "A": "220",
+      "B": "50",
+      "C": "440",
+      "D": "110",
+      "E": "30"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 6,
+    "heading": " Electrical Distribution Systems",
+    "question": "When working with high voltages the following precautions should be observed.\n\n1. Access should be locked allowing only authorized personnel to enter\n2. The equipment should be kept clean and dry\n3. Cross-connect and ground the lines before beginning work\n4. Provide clearly marked \"Danger High Voltage\" signs\n5. Properly ground, yourself before approaching a live circuit",
+    "options": {
+      "A": "1, 2, 4, 5",
+      "B": "1, 3, 4, 5",
+      "C": "1, 2, 3, 4",
+      "D": "2, 3, 4, 5",
+      "E": "1, 2, 3, 4, 5"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 7,
+    "heading": " Electrical Distribution Systems",
+    "question": "DC power to maintain the UPS batteries is provided from:",
+    "options": {
+      "A": "Rectifier",
+      "B": "Transformer",
+      "C": "Circuit breaker",
+      "D": "Inverter",
+      "E": "Batteries"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 8,
+    "heading": " Electrical Distribution Systems",
+    "question": "An ATS will transfer from one source to another when the ____ drops below a set percent.",
+    "options": {
+      "A": "Resistance",
+      "B": "Amperage",
+      "C": "Temperature",
+      "D": "Voltage",
+      "E": "Power"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 9,
+    "heading": " Electrical Distribution Systems",
+    "question": "A fuse can carry the rated amperage ____ but will ____ when a larger amperage flows through it.",
+    "options": {
+      "A": "Indefinitely, melt",
+      "B": "Indefinitely, short circuit",
+      "C": "Shortly, cool",
+      "D": "Forever, maintain integrity",
+      "E": "Quickly, slow"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 10,
+    "heading": " Electrical Distribution Systems",
+    "question": "Safety switches should not be operated under load since they are known to:",
+    "options": {
+      "A": "Fail to operate",
+      "B": "Explode",
+      "C": "Get stuck",
+      "D": "Be locked by the electrician",
+      "E": "Cause a voltage increase"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 11,
+    "heading": " Electrical Distribution Systems",
+    "question": "For plant systems that cannot tolerate even a momentary loss of power, a _____ is installed.",
+    "options": {
+      "A": "Alarm",
+      "B": "GPS",
+      "C": "Backup generator",
+      "D": "Tie Breaker",
+      "E": "UPS"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 12,
+    "heading": " Electrical Distribution Systems",
+    "question": "If the inverter in a UPS fails, the transfer switch automatically goes to normal AC power within:",
+    "options": {
+      "A": "5 seconds",
+      "B": "1/240 seconds",
+      "C": "240 seconds",
+      "D": "1/10 second",
+      "E": "120 seconds"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 13,
+    "heading": " Electrical Distribution Systems",
+    "question": "Tie circuit breakers are used to:",
+    "options": {
+      "A": "Protect the transformer from the power source",
+      "B": "Connect the plant load to the power source",
+      "C": "Allow the interconnection of two power sources without placing them in parallel",
+      "D": "Protect the plant service bus from the power source",
+      "E": "Break the circuit in case of overload"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 14,
+    "heading": " Electrical Distribution Systems",
+    "question": "An electrical distribution system is composed of service, feeders and:",
+    "options": {
+      "A": "Branch circuits",
+      "B": "Trunk circuits",
+      "C": "Tertiary circuits",
+      "D": "Secondary circuits",
+      "E": "Primary circuits"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 15,
+    "heading": " Electrical Distribution Systems",
+    "question": "The best type of diagram for showing supply and distribution system is the _____ diagram.",
+    "options": {
+      "A": "Single-line",
+      "B": "Elementary",
+      "C": "Connection",
+      "D": "Terminal and connection",
+      "E": "Riser"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 16,
+    "heading": " Electrical Distribution Systems",
+    "question": "High voltages include all voltages above _____ volts.",
+    "options": {
+      "A": "750",
+      "B": "72,000",
+      "C": "220",
+      "D": "15,000",
+      "E": "1000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 17,
+    "heading": " Electrical Distribution Systems",
+    "question": "The electrical schematic or elementary diagram shows:",
+    "options": {
+      "A": "A one line diagram where each line represents all of the conductors in the circuit",
+      "B": "The location, markings and interconnection of each terminal",
+      "C": "By means of graphical symbols the function, sequence, connection and electrical relationship of each circuit",
+      "D": "By means of single lines and simplified symbols the electrical distribution system in a multistoried building",
+      "E": "The relative physical arrangement of components including all wiring and connections"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 18,
+    "heading": " Electrical Distribution Systems",
+    "question": "A typical extra low voltage device would be a:",
+    "options": {
+      "A": "Door bell",
+      "B": "Dry cell battery charger",
+      "C": "Night light",
+      "D": "Set of tree lights",
+      "E": "Toaster"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 19,
+    "heading": " Electrical Distribution Systems",
+    "question": "Any device that limits the amperage to a predetermined flow is called:",
+    "options": {
+      "A": "Overcurrent device",
+      "B": "Undercurrent device",
+      "C": "Grounding conductor",
+      "D": "Megger",
+      "E": "Voltage limiter"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 20,
+    "heading": " Electrical Distribution Systems",
+    "question": "A prime factor in determining the degree of access to electrical equipment is:",
+    "options": {
+      "A": "Voltage of the installation",
+      "B": "The number of motors involved",
+      "C": "Peak demands",
+      "D": "The resistance of the circuit",
+      "E": "Transformer capacity"
+    },
+    "correctAnswer": "A"
+  }
+]
