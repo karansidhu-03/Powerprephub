@@ -57,8 +57,14 @@ import bookA7 from "./Part A/Chp/BookA7/BookA7.json";
 import a7chp1 from "./Part A/Chp/BookA7/chp1.json";
 import a7chp2 from "./Part A/Chp/BookA7/chp2.json";
 
-// Book A8 chapters
+// Book A8 full book + chapters
+import bookA8 from "./Part A/Chp/BookA8/BookA8.json";
 import a8chp1 from "./Part A/Chp/BookA8/chp1.json";
+import a8chp2 from "./Part A/Chp/BookA8/chp2.json";
+import a8chp3 from "./Part A/Chp/BookA8/chp3.json";
+import a8chp4 from "./Part A/Chp/BookA8/chp4.json";
+import a8chp5 from "./Part A/Chp/BookA8/chp5.json";
+import a8chp6 from "./Part A/Chp/BookA8/chp6.json";
 
 // Book A10 full book + chapters
 import bookA10 from "./Part A/Chp/BookA10/BookA10.json";
@@ -533,9 +539,39 @@ const bookA7Chapters: Paper[] = [
 
 const bookA8Chapters: Paper[] = [
   makePaper(
+    "a8-fullbook",
+    "Full Book A8 Exam",
+    toQuestions(bookA8 as unknown as RawNumberQuestion[], "Book A8 — Basic Electricity"),
+  ),
+  makePaper(
     "a8-chp1",
     "Basic Electricity & Circuit Fundamentals",
     toQuestions(a8chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a8-chp2",
+    "Magnetism & Electromagnetism",
+    toQuestions(a8chp2 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a8-chp3",
+    "Electrical Metering Devices & Results",
+    toQuestions(a8chp3 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a8-chp4",
+    "Motors & Generators",
+    toQuestions(a8chp4 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a8-chp5",
+    "Electrical Transformers",
+    toQuestions(a8chp5 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a8-chp6",
+    "Electrical Distribution Systems",
+    toQuestions(a8chp6 as unknown as RawNumberQuestion[]),
   ),
 ];
 
