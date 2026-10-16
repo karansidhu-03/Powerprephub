@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "When using an electrical meter to check that a circuit is safe to work on, it is important to verify the proper scale and/or current is being used because:\n\n1. It may appear that no voltage or current is present therefore safe\n2. Electrical wiring will be damaged by fire or overheating\n3. The user will be subjecting him/herself to danger\n4. The main high voltage transformer circuit will be opened\n5. The meter will be damaged",
+    "options": {
+      "A": "1, 3, 5",
+      "B": "1, 2, 3, 5",
+      "C": "1, 2, 3",
+      "D": "2, 3, 4",
+      "E": "2, 3, 5"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 2,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "Utility companies have a surcharge to their customers based on:",
+    "options": {
+      "A": "The maximum amperage used",
+      "B": "Peak demand",
+      "C": "System capacitance",
+      "D": "Transformer efficiency",
+      "E": "The maximum voltage used"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 3,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "Ohmmeters are zeroed before use by:",
+    "options": {
+      "A": "Setting the voltage to zero",
+      "B": "Joining the test leads together",
+      "C": "Removing the battery",
+      "D": "Disconnecting all electricity",
+      "E": "None of these answers is correct"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 4,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "Whenever voltmeters are connected to a direct current the:",
+    "options": {
+      "A": "Positive lead must be disconnected from the circuit",
+      "B": "Positive lead must be connected to the neutral point in the circuit",
+      "C": "Negative lead must be disconnected from the circuit",
+      "D": "Positive lead must be connected to the negative point in the circuit",
+      "E": "Positive lead must be connected to the positive point of the circuit"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 5,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "When using a multi-meter for voltage:",
+    "options": {
+      "A": "Turn off all power to protect the meter",
+      "B": "Always run your red lead to the positive pole",
+      "C": "Always test your meter on a 120 volt circuit so that you know that it works",
+      "D": "Start testing at the highest setting and work your way down to where there is a mid-scale reading",
+      "E": "Always run your black lead to ground"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 6,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "The instrument used to measure electrical power used in a period of time, is the:",
+    "options": {
+      "A": "Ohm meter",
+      "B": "Milliamp meter",
+      "C": "Voltmeter",
+      "D": "Kilowatt hour meter",
+      "E": "Oscilloscope"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 7,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "Clamp-on ammeter readings may be inaccurate if:",
+    "options": {
+      "A": "Circuit resistance is too low",
+      "B": "Jaws are dirty or misaligned",
+      "C": "Circuit power is too high",
+      "D": "Conductor insulation is too thick",
+      "E": "Circuit voltage is too high"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 8,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "Clamp-On meters are used to measure:",
+    "options": {
+      "A": "Resistence",
+      "B": "Capacitance",
+      "C": "Wattage",
+      "D": "Voltage",
+      "E": "Amperage"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 9,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "The type of meter that can read phase unbalances and harmonics is:",
+    "options": {
+      "A": "Non contact Voltage detector",
+      "B": "Clamp on meter",
+      "C": "Digital kilowatt hour meter",
+      "D": "Demand meter",
+      "E": "Digital Multi Meter"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 10,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "A power meter:",
+    "options": {
+      "A": "Does not take into account the system voltage",
+      "B": "Does not require a multiplying factor",
+      "C": "Reads the actual power consumed",
+      "D": "Will calculate the actual cost of the power",
+      "E": "Reads only a small percentage of the actual load"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 11,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "The black demand pointer of a power meter:",
+    "options": {
+      "A": "Moves the red pointer",
+      "B": "Must be manually reset",
+      "C": "Indicates the amperage being drawn",
+      "D": "Always reads the current demand",
+      "E": "Resets automatically"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 12,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "A kilowatt-hour meter has a small motor which:",
+    "options": {
+      "A": "Has a speed proportional to power consumption",
+      "B": "Moves the meter demand pointer",
+      "C": "Slows down as power consumption increases",
+      "D": "Indicates the multiplier to be used when reading the meter",
+      "E": "Turns at a constant speed"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 13,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "To test the quality of an electric motor's insulation, the megger will produce test voltages of up to:",
+    "options": {
+      "A": "12",
+      "B": "300 000",
+      "C": "240 ",
+      "D": "110",
+      "E": "1000"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 14,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "Voltmeters are connected with the negative or black lead connected to the:",
+    "options": {
+      "A": "Neutral wire of the circuit",
+      "B": "Negative side of the circuit",
+      "C": "Switch of the circuit",
+      "D": "Positive side of the circuit",
+      "E": "North pole of the circuit"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 15,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "The resistance of a shunt resistor in an ammeter is _____ to ensure only _______ current passes through the main meter.",
+    "options": {
+      "A": "Low, low",
+      "B": "High, low",
+      "C": "Low, high",
+      "D": ". Maximum, all",
+      "E": "High, high"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 16,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "Ammeters are connected:",
+    "options": {
+      "A": "So that voltage will bypass the meter",
+      "B": "To the negative and positive terminals of the battery",
+      "C": "In series with the circuit",
+      "D": "In parallel with the circuit to measure the resistance",
+      "E": "In parallel with the circuit"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 17,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "An Ammeter must offer a _____ resistance to the electrical circuit.",
+    "options": {
+      "A": "Low",
+      "B": "No",
+      "C": "Some",
+      "D": "High",
+      "E": "None"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 18,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "The voltmeter is placed:",
+    "options": {
+      "A": "Across the synchroscope",
+      "B": "In parallel with the circuit",
+      "C": "In series with the circuit",
+      "D": "Between the battery and the first resistance",
+      "E": "In series with the amp meter"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 19,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "A voltmeter must offer _____ resistance to the electrical circuit.",
+    "options": {
+      "A": "Low",
+      "B": "No",
+      "C": "Some",
+      "D": "High",
+      "E": "None of the above"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 20,
+    "heading": "Electrical Metering Devices - Results",
+    "question": "A DMM is capable of measuring:",
+    "options": {
+      "A": "Voltage, Flux, Resistance",
+      "B": "Capacitance, current, voltage",
+      "C": "Power Factor, continuity, current",
+      "D": "Continuity, diode, current",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "D"
+  }
+]

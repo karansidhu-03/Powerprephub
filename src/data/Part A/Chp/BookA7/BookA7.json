@@ -204,7 +204,7 @@
       "D": "1, 2, 5",
       "E": "2, 4"
     },
-    "correctAnswer": "C",
+    "correctAnswer": "B",
     "explanation": "Butterfly valves offer quick quarter-turn operation and minimal flow restriction when fully open[cite: 28]."
   },
   {
@@ -308,7 +308,7 @@
       "D": "Steam traps",
       "E": "Extensively for fittings"
     },
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "explanation": "Cast steel materials are widely utilized in industrial systems for manufacturing robust pipe fittings[cite: 29]."
   },
   {
@@ -451,7 +451,7 @@
       "D": "Hold a large fitting in a piping run",
       "E": "Anchor a slip type expansion joint"
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "Anchor chairs are structural support fittings designed to secure heavy inline equipment or large fittings rigidly in place[cite: 29]."
   },
   {
@@ -464,8 +464,8 @@
       "D": "The letters C.I.",
       "E": "The letters G.C."
     },
-    "correctAnswer": "D",
-    "explanation": "Gray cast iron fittings are standardly marked with the abbreviation 'C.I.'[cite: 29]."
+    "correctAnswer": "C",
+    "explanation": "Not being marked on the fittings"
   },
   {
     "number": 37,
@@ -607,7 +607,7 @@
       "D": "Liquid level in the condensate tank",
       "E": "Difference in temperature between the steam and condensate"
     },
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": "Mechanical steam traps operate using buoyancy differences between liquid condensate and steam[cite: 29]."
   },
   {
