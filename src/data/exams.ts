@@ -72,6 +72,15 @@ import a10chp1 from "./Part A/Chp/BookA10/chp1.json";
 import a10chp2 from "./Part A/Chp/BookA10/chp2.json";
 import a10chp3 from "./Part A/Chp/BookA10/chp3.json";
 
+// Book A12 full book + chapters
+import bookA12 from "./Part A/Chp/BookA12/BookA12.json";
+import a12chp1 from "./Part A/Chp/BookA12/chp1.json";
+import a12chp2 from "./Part A/Chp/BookA12/chp2.json";
+import a12chp3 from "./Part A/Chp/BookA12/chp3.json";
+import a12chp4 from "./Part A/Chp/BookA12/chp4.json";
+import a12chp5 from "./Part A/Chp/BookA12/chp5.json";
+import a12chp6 from "./Part A/Chp/BookA12/chp6.json";
+
 // Preparatory topics chapters
 import prepChp1 from "./Part A/Chp/Preparatory topics/chp1.json";
 import prepChp2 from "./Part A/Chp/Preparatory topics/chp2.json";
@@ -598,6 +607,44 @@ const bookA10Chapters: Paper[] = [
   ),
 ];
 
+const bookA12Chapters: Paper[] = [
+  makePaper(
+    "a12-fullbook",
+    "Full Book A12 Exam",
+    toQuestions(bookA12 as unknown as RawNumberQuestion[], "Book A12 — Combustion, Fuels & Feedwater"),
+  ),
+  makePaper(
+    "a12-chp1",
+    "Combustion",
+    toQuestions(a12chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a12-chp2",
+    "Fuel Delivery & Firing Systems",
+    toQuestions(a12chp2 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a12-chp3",
+    "Draft",
+    toQuestions(a12chp3 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a12-chp4",
+    "Feedwater Systems",
+    toQuestions(a12chp4 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a12-chp5",
+    "Blowoff & Blowdown Systems",
+    toQuestions(a12chp5 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a12-chp6",
+    "Boiler Fireside Cleaning Systems",
+    toQuestions(a12chp6 as unknown as RawNumberQuestion[]),
+  ),
+];
+
 function chapterCount(papers: Paper[]): number {
   return papers.reduce((sum, p) => sum + (p.questions?.length ?? 0), 0);
 }
@@ -681,6 +728,12 @@ export const exams: Exam[] = [
         label: "Book A10 — Plant Sketching & Communications",
         description: `${chapterCount(bookA10Chapters)} questions across ${bookA10Chapters.length} chapters`,
         papers: bookA10Chapters,
+      },
+      {
+        id: "book-a12",
+        label: "Book A12 — Combustion, Fuels & Feedwater",
+        description: `${chapterCount(bookA12Chapters)} questions across ${bookA12Chapters.length} chapters`,
+        papers: bookA12Chapters,
       },
     ],
   },
