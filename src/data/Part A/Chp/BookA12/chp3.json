@@ -1,0 +1,392 @@
+[
+  {
+    "number": 1,
+    "heading": "Draft",
+    "question": "Balanced draft:",
+    "options": {
+      "A": "Is used for furnaces with positive pressure",
+      "B": "Requires a tall smoke stack",
+      "C": "May use a forced draft and an induced draft fan",
+      "D": "Is used with cast iron heating boilers",
+      "E": "Requires weights on the dampers to balance them"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 2,
+    "heading": "Draft",
+    "question": "A way of increasing natural draft is to:",
+    "options": {
+      "A": "Have the outside air temperature increase",
+      "B": "Increase stack height",
+      "C": "Decrease the amount of excess air",
+      "D": "Incorporate a forced draft fan",
+      "E": "Install an induced draft fan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 3,
+    "heading": "Draft",
+    "question": "Inlet damper control on a fan:",
+    "options": {
+      "A": "Requires less power to drive the fan at reduced loads",
+      "B": "Can only be used when the fan is driven by a steam turbine",
+      "C": "Is used on forced draft fans only",
+      "D": "Requires more power to drive the fan when the vanes are closed",
+      "E": "Is less complicated than outlet damper control"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 4,
+    "heading": "Draft",
+    "question": "A boiler with only an induced draft fan:",
+    "options": {
+      "A": "Cannot maintain a stable fire",
+      "B": "Needs a very long stack",
+      "C": "Will have a negative furnace pressure",
+      "D": "Needs an air tight furnace",
+      "E": "Will have a positive furnace pressure"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 5,
+    "heading": "Draft",
+    "question": "The inclined \"U\" tube manometer:",
+    "options": {
+      "A": "Has two furnace connections",
+      "B": "Is more difficult to read",
+      "C": "Is more accurate than a \"U\" tube manometer",
+      "D": "Will measure pressure in kPa",
+      "E": "Can only be used with mercury"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 6,
+    "heading": "Draft",
+    "question": "In a balanced draft system, the forced draft fan is:",
+    "options": {
+      "A": "Smaller than the induced draft fan",
+      "B": "The same size as the induced draft fan",
+      "C": "Subjected to the products of combustion and high temperatures",
+      "D": "Designed to handle hot combustion gases",
+      "E": "Larger than the induced draft fan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 7,
+    "heading": "Draft",
+    "question": "A more durable chimney for a power plant application is the _____ chimney.",
+    "options": {
+      "A": "Insulated",
+      "B": "Reinforced concrete",
+      "C": "Brick",
+      "D": "Steel",
+      "E": "Guy wire supported"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 8,
+    "heading": "Draft",
+    "question": "The advantage of a steel stack over a reinforced concrete stack is that a steel stack:",
+    "options": {
+      "A": "Is a lower cost",
+      "B": "Is more resistant to abrasive flue gases",
+      "C": "Has a longer life",
+      "D": "Is more durable",
+      "E": "Requires less maintenance"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 9,
+    "heading": "Draft",
+    "question": "Inclined \"U\" tubes may be used to measure:\n1. Fan discharge pressure\n2. Fan inlet pressure\n3. Air heater flue gas pressure\n4. Air heater flue gas temperature",
+    "options": {
+      "A": "2, 3, 4",
+      "B": "1, 4",
+      "C": "4",
+      "D": "3, 4",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 10,
+    "heading": "Draft",
+    "question": "How is the draft increased through a natural draft furnace?",
+    "options": {
+      "A": "By reducing the firing rate",
+      "B": "By increasing the temperature in the stack",
+      "C": "By decreasing the furnace temperature",
+      "D": "By decreasing the height of the stack",
+      "E": "By warming the outside air"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 11,
+    "heading": "Draft",
+    "question": "An induced draft fan:",
+    "options": {
+      "A": "Has less expensive materials of construction than an FD fan",
+      "B": "Handles air only",
+      "C": "Operates at much higher temperatures than an FD fan",
+      "D": "Is physically smaller than a forced draft fan",
+      "E": "Discharges air to the wind box"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 12,
+    "heading": "Draft",
+    "question": "Since furnace pressure is often positive on a packaged watertube boiler, in order to prevent flue gas leakage:",
+    "options": {
+      "A": "A steel casing forms a seal for the furnace",
+      "B": "An economiser is used",
+      "C": "An induced draft fan is incorporated",
+      "D": "Soot blowers cannot be used",
+      "E": "Smoke stacks are made taller"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 13,
+    "heading": "Draft",
+    "question": "For indoor oil-fired boilers, the minimum combustion air requirements are specified in:",
+    "options": {
+      "A": "CSA B149.1",
+      "B": "ASME VIII",
+      "C": "CSA B139",
+      "D": "ASME CSD 1",
+      "E": "B52"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 14,
+    "heading": "Draft",
+    "question": "For indoor gas boilers, the minimum combustion air requirements are specified in:",
+    "options": {
+      "A": "ASME VIII",
+      "B": "ASME CSD 1",
+      "C": "CSA B139",
+      "D": "B52",
+      "E": "CSA B149.1"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 15,
+    "heading": "Draft",
+    "question": "Primary air:",
+    "options": {
+      "A": "Enters the furnace before the fuel",
+      "B": "Is supplied with all types of burners",
+      "C": "Is premixed with fuel before being admitted to the furnace",
+      "D": "Is the same as excess air",
+      "E": "Is supplied in the combustion zone"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 16,
+    "heading": "Draft",
+    "question": "If a \"U\" tube is connected to the discharge of a forced draft fan, the:",
+    "options": {
+      "A": "Liquid will be drawn into the forced draft stream",
+      "B": "Liquid will expand",
+      "C": "Connection to the fan will have a higher liquid level than the open end",
+      "D": "Liquid level will be the same in both ends of the \"U\" tube",
+      "E": "Open end will have a higher liquid level than the connection end"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 17,
+    "heading": "Draft",
+    "question": "The purpose of the uptake damper is to:",
+    "options": {
+      "A": "Prevent a back flow of gasses from the chimney",
+      "B": "Supply combustion air to the furnace",
+      "C": "Control fan output",
+      "D": "Decrease flue gas flow",
+      "E": "Control the furnace pressure"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 18,
+    "heading": "Draft",
+    "question": "Natural draft is produced in a boiler furnace when:",
+    "options": {
+      "A": "The dampers are fully closed",
+      "B": "Hot flue gases are condensed",
+      "C": "Gases in the stack have less mass than an equal column of outside air",
+      "D": "Gases are heated they tend to contract so that each cubic meter has more mass",
+      "E": "Gases in the stack have more mass than an equal column of outside air"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 19,
+    "heading": "Draft",
+    "question": "What are the advantages of mechanical draft?\n1. Dependence on atmospheric air temperatures\n2. Independence of chimney temperatures\n3. Better draft regulation\n4. Can be accurately regulated",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "3, 4",
+      "C": "2, 3, 4",
+      "D": "1, 3, 4",
+      "E": "1, 2, 3, 4"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 20,
+    "heading": "Draft",
+    "question": "When draft is produced by natural means:",
+    "options": {
+      "A": "Hot air surrounding the boiler increases draft",
+      "B": "Fans can control the flue gas flow",
+      "C": "The diameter of the stack will improve the draft",
+      "D": "Cooler air surrounding the boiler increases draft",
+      "E": "A short stack will increase draft"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 21,
+    "heading": "Draft",
+    "question": "The purpose of combustion controls is to:\n1. Control fuel flow and air flow into the furnace\n2. Maintain the proper ratio of air to flue gas\n3. Maintain the proper ratio of air to fuel\n4. Maintain the correct furnace pressure in a balanced system\n5. Maintain a negative pressure in the furnace when using a forced draft fan",
+    "options": {
+      "A": "3, 4, 5",
+      "B": "1, 2, 3",
+      "C": "2, 3, 4",
+      "D": "2, 4, 5",
+      "E": "1, 3, 4"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 22,
+    "heading": "Draft",
+    "question": "Chimneys are commonly lined with:",
+    "options": {
+      "A": "Clay lining",
+      "B": "Mortar",
+      "C": "Insulation",
+      "D": "Common brick",
+      "E": "Concrete"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 23,
+    "heading": "Draft",
+    "question": "The most efficient operation of a fan demands that:",
+    "options": {
+      "A": "Outlet damper controls are used",
+      "B": "Inlet damper controls are used",
+      "C": "Gaseous fuels are fired",
+      "D": "The speed be only sufficient enough to supply the required amount of air",
+      "E": "Constant speed electric motors are used"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 24,
+    "heading": "Draft",
+    "question": "The simplest way of measuring draft is with:",
+    "options": {
+      "A": "A flexible diaphragm device",
+      "B": "A Bourdon tube device",
+      "C": "A hydrometer",
+      "D": "A manometer",
+      "E": "A bellows measuring device"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 25,
+    "heading": "Draft",
+    "question": "A diaphragm draft gauge on a furnace indicates the draft in:",
+    "options": {
+      "A": "mm of mercury column",
+      "B": "mm water per square metre",
+      "C": "mm of water column",
+      "D": "kPa",
+      "E": "MPa"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 26,
+    "heading": "Draft",
+    "question": "Balanced draft:",
+    "options": {
+      "A": "Means furnace pressure is maintained slightly below atmospheric pressure",
+      "B": "Means air and fuel quantities are the same per unit time",
+      "C": "Requires an FD and ID fan, never just an FD fan",
+      "D": "Can be accomplished with just a chimney",
+      "E": "Means air flow is always constant"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 27,
+    "heading": "Draft",
+    "question": "Which of the following means will produce draft for a boiler?\n1. Natural draft\n2. Forced draft\n3. Induced draft\n4. Inverted draft",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "2, 3, 4",
+      "C": "2, 3",
+      "D": "1, 2, 4",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 28,
+    "heading": "Draft",
+    "question": "A pressurized furnace is usually associated with:",
+    "options": {
+      "A": "Natural draft",
+      "B": "Balanced draft",
+      "C": "Packaged boilers with Forced Draft",
+      "D": "Induced draft",
+      "E": "Large steam generators"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 29,
+    "heading": "Draft",
+    "question": "A diaphragm type pressure gauge:",
+    "options": {
+      "A": "Cannot be used for pressures greater than atmospheric",
+      "B": "Operates on a mercury column",
+      "C": "Is used for high pressures",
+      "D": "Is used for very small pressures",
+      "E": "Is only found on large steam generators"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 30,
+    "heading": "Draft",
+    "question": "Doors and windows are not considered Indoor boiler combustion air openings because:",
+    "options": {
+      "A": "Boilers use only manufactured air",
+      "B": "They are too small",
+      "C": "They can be shut",
+      "D": "Fresh air isn't available from outside",
+      "E": "Indoor air is preferred for combustion"
+    },
+    "correctAnswer": "C"
+  }
+]

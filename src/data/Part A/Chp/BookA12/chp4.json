@@ -1,0 +1,522 @@
+[
+  {
+    "number": 1,
+    "heading": "Feedwater Systems",
+    "question": "If water treatment that is performed by adding chemicals to the boiler drum is \"internal water treatment\", then water treatment performed outside the boiler on makeup or condensate is called:",
+    "options": {
+      "A": "Non-internal water treatment",
+      "B": "Waste water treatment",
+      "C": "Outside water treatment",
+      "D": "Exterior water treatment",
+      "E": "External water treatment"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 2,
+    "heading": "Feedwater Systems",
+    "question": "A slight drop in steam pressure causes a sudden increase of water volume in the steam drum that is known as:",
+    "options": {
+      "A": "Growth",
+      "B": "Water increase",
+      "C": "Swell",
+      "D": "Rise",
+      "E": "Thermo increase"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 3,
+    "heading": "Feedwater Systems",
+    "question": "A boiler low water fuel cutoff:",
+    "options": {
+      "A": "Cannot be tested",
+      "B": "Must have a normally closed switch",
+      "C": "Should never be tested",
+      "D": "Should be located on the expansion tank",
+      "E": "Should be tested regularly"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 4,
+    "heading": "Feedwater Systems",
+    "question": "A thermal feed water regulator is used to:",
+    "options": {
+      "A": "Control the chemical feed treatment to the boiler",
+      "B": "Take the place of the boiler feed pump",
+      "C": "Maintain water level in the boiler",
+      "D": "Control the feed water pump output",
+      "E": "Activate the low water fuel cut-off"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 5,
+    "heading": "Feedwater Systems",
+    "question": "A fully modulated feedwater control systems will operate:",
+    "options": {
+      "A": "Continuous blowdown",
+      "B": "Combustion controls",
+      "C": "Burner fuel control",
+      "D": "Feedwater control valve",
+      "E": "Feedwater pump on-off switch"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 6,
+    "heading": "Feedwater Systems",
+    "question": "Steam boilers lose water due to:",
+    "options": {
+      "A": "Blowoff, blowdown",
+      "B": "Soot blowing",
+      "C": "Leaks",
+      "D": "Humidification",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 7,
+    "heading": "Feedwater Systems",
+    "question": "The design pressure rating of the check valve on the boiler feedwater inlet to the boiler must exceed _____ of maximum allowable working pressure.",
+    "options": {
+      "A": "75%",
+      "B": "50%",
+      "C": "10%",
+      "D": "25%",
+      "E": "100%"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 8,
+    "heading": "Feedwater Systems",
+    "question": "The low water fuel cut-off of an unattended automatically fired heating boiler should shut the fuel off if the water level drops below:",
+    "options": {
+      "A": "Below the tops of the tubes in the top row of tubes",
+      "B": "The lowest permissible water level",
+      "C": "The fire line",
+      "D": "The lowest visible water level",
+      "E": "25 mm above the bottom of the gauge glass"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 9,
+    "heading": "Feedwater Systems",
+    "question": "The low water fuel cutoff:",
+    "options": {
+      "A": "Controls the water level in the boiler",
+      "B": "Shuts off the fuel and water supply",
+      "C": "Shuts off the water flow if the fuel pressure is low",
+      "D": "Shuts off the fuel if the water level is too low",
+      "E": "Shuts off the fuel if the water pressure is low"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 10,
+    "heading": "Feedwater Systems",
+    "question": "To prevent cavitation of the boiler feedwater pumps, the deaerator is situated:",
+    "options": {
+      "A": "Below the boiler feedwater pumps",
+      "B": "Above the boiler feedwater pumps",
+      "C": "Above the condensate return pumps",
+      "D": "After the boiler feedwater pumps",
+      "E": "Far from the boiler feedwater pumps"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 11,
+    "heading": "Feedwater Systems",
+    "question": "The medium used in a thermo hydraulic feed water regulator is:",
+    "options": {
+      "A": "Water and carbon dioxide",
+      "B": "Water and steam",
+      "C": "Water and nitrogen",
+      "D": "Oil and nitrogen",
+      "E": "Mercury and neon"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 12,
+    "heading": "Feedwater Systems",
+    "question": "A special condensate return piping connection that prevents low-pressure boilers from sustaining low water conditions is:",
+    "options": {
+      "A": "Hartford loop",
+      "B": "Double check valve non return loop",
+      "C": "Stratford loop",
+      "D": "Double bypass loop",
+      "E": "Receiver return loop"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 13,
+    "heading": "Feedwater Systems",
+    "question": "A typical boiler feedwater system is comprised of all of these except:",
+    "options": {
+      "A": "Deaerator",
+      "B": "Condensate receiver",
+      "C": "Boiler feedwater pumps and controls",
+      "D": "Condensate pump",
+      "E": "Steam pressure reducing valve"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 14,
+    "heading": "Feedwater Systems",
+    "question": "As per B31.1 Feedwater piping design pressure shall exceed the maiximum allowable working pressure of the boiler by the lesser of 25% or:",
+    "options": {
+      "A": "100 kPa",
+      "B": "250 kPa",
+      "C": "1550 kPa",
+      "D": "5500 kPa",
+      "E": "100 psi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 15,
+    "heading": "Feedwater Systems",
+    "question": "To prevent Carbonic acid from forming in the condensate:",
+    "options": {
+      "A": "Receivers are pressurized",
+      "B": "No carbon is used in the steel piping",
+      "C": "Additional sulphuric acid is injected",
+      "D": "Receivers are vented",
+      "E": "The PH is kept extremely low"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 16,
+    "heading": "Feedwater Systems",
+    "question": "A condensate receiver with a float controlled hydraulically operated make-up valve, the makeup valve is opened when:",
+    "options": {
+      "A": "The control pressure increases to overcome the spring pressure",
+      "B": "The level increase in the receiver",
+      "C": "The valve spring pressure overcomes the pressure in the control line",
+      "D": "The municipal water pressure increases",
+      "E": "The bleed off pressure increases"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 17,
+    "heading": "Feedwater Systems",
+    "question": "Feed water control valves used for throttling the flow should be:",
+    "options": {
+      "A": "Check valves",
+      "B": "Non-return valves",
+      "C": "Gate valve",
+      "D": "Globe valves",
+      "E": "Thermodynamic valves"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 18,
+    "heading": "Feedwater Systems",
+    "question": "The four main components of a two element feed water control system are the drum level transmitter, the steam flow transmitter, the _____, the controller with manual/auto station.",
+    "options": {
+      "A": "Water level indicator",
+      "B": "Fuel valve operator",
+      "C": "Level float control",
+      "D": "Steam pressure controller",
+      "E": "Feed water control valve"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 19,
+    "heading": "Feedwater Systems",
+    "question": "Heating boiler condensate return systems are classified as either:",
+    "options": {
+      "A": "Fresh and raw",
+      "B": "Low and high",
+      "C": "Gravity or pumped",
+      "D": "Raw and makeup",
+      "E": "Central and remote"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 20,
+    "heading": "Feedwater Systems",
+    "question": "Single element feed water control systems are very efficient in maintaining the boiler water level when:",
+    "options": {
+      "A": "The boiler is gas fired",
+      "B": "Load demands are low",
+      "C": "The boiler has a large water capacity",
+      "D": "The fluctuations in load are slow and small",
+      "E": "The boiler is a fire tube boiler"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 21,
+    "heading": "Feedwater Systems",
+    "question": "The raw water treatment system flow is in the following order:",
+    "options": {
+      "A": "Filters, clarifier, demineralizers",
+      "B": "Clarifier, filters, demineralizers",
+      "C": "Clarifier, demineralizer, filter",
+      "D": "Demineralizers, clarifier, filters",
+      "E": "Filters, demineralizer, clarifier"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 22,
+    "heading": "Feedwater Systems",
+    "question": "High pressure steam plant condensate return systems do not use:",
+    "options": {
+      "A": "Condensate return loops",
+      "B": "Dearators",
+      "C": "Low water cut-offs",
+      "D": "Condensate pumps",
+      "E": "Feedwater control valves"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 23,
+    "heading": "Feedwater Systems",
+    "question": "A low water fuel cutoff is fitted to a boiler to prevent:",
+    "options": {
+      "A": "Damage to the boiler from an overheated condition",
+      "B": "Damage to the boiler from over pressure",
+      "C": "Damage to the radial stays in the steam dome",
+      "D": "The fire from shutting off too quickly and damaging the boiler",
+      "E": "Shutting off the water when there is no fuel"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 24,
+    "heading": "Feedwater Systems",
+    "question": "Float controlled switches can be used for:",
+    "options": {
+      "A": "Feedwater temperature controller",
+      "B": "High humidity alarm",
+      "C": "Fuel gas temperature alarm",
+      "D": "Furnace temperature control",
+      "E": "Low-high water level alarms"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 25,
+    "heading": "Feedwater Systems",
+    "question": "With single element feed water control, the level transmitter output is:",
+    "options": {
+      "A": "Proportional to drum level",
+      "B": "A function of steam flow",
+      "C": "Constant, regardless of level",
+      "D": "Received by a final element",
+      "E": "Sent to a selector station"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 26,
+    "heading": "Feedwater Systems",
+    "question": "It is important to recover and reuse condensate because:",
+    "options": {
+      "A": "Smaller volumes of raw water will need treatment",
+      "B": "Less treatment chemical are used",
+      "C": "Less boiler heat is required to heat water",
+      "D": "Less fuel consumption and emissions",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 27,
+    "heading": "Feedwater Systems",
+    "question": "To prevent _______ the non condensable gases that are removed by the deaerator include carbon dioxide and oxygen.",
+    "options": {
+      "A": "Cavitation",
+      "B": "High pressure",
+      "C": "Vapour locking",
+      "D": "Waterside corrosion",
+      "E": "Fireside corrosion"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 28,
+    "heading": "Feedwater Systems",
+    "question": "Make-up water is raw water that does not come from:",
+    "options": {
+      "A": "Lakes",
+      "B": "Condensate return",
+      "C": "Municipal water",
+      "D": "Wells",
+      "E": "Rivers"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 29,
+    "heading": "Feedwater Systems",
+    "question": "Make-up water and condensate returns together are called:",
+    "options": {
+      "A": "Feed water",
+      "B": "Raw water",
+      "C": "Blowdown",
+      "D": "Waste water",
+      "E": "Pure water"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 30,
+    "heading": "Feedwater Systems",
+    "question": "As a pressure vessel designed to ASME VIII, all deaerators are required to have:",
+    "options": {
+      "A": "A safe ignition system",
+      "B": "A low NOx burner",
+      "C": "Pressure relief valves",
+      "D": "Fuel cutoff switches",
+      "E": "Combustion controls"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 31,
+    "heading": "Feedwater Systems",
+    "question": "When a number of steam heating boilers are installed using a common feedwater system:",
+    "options": {
+      "A": "Each must have a completely separate feedwater system",
+      "B": "All are connected to the same high level shutdown switch",
+      "C": "All are supplied from a single level controller",
+      "D": "Individual feedwater controls are needed",
+      "E": "All are controlled using a single feedwater valve"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 32,
+    "heading": "Feedwater Systems",
+    "question": "Gravity return condensate systems are generally restricted to:",
+    "options": {
+      "A": "Once through injection boilers",
+      "B": "Smaller heating plants",
+      "C": "Large steam generators",
+      "D": "Waste heat boilers",
+      "E": "Very large heating plants"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 33,
+    "heading": "Feedwater Systems",
+    "question": "A current safety code states that a boiler that is not under continuous attendance must be equipped with:",
+    "options": {
+      "A": "Must be a manually reset device",
+      "B": "Must be a normally open switch",
+      "C": "Can also activate an alarm",
+      "D": "A minimum of two independent low water fuel cutoffs",
+      "E": "Serves no other purpose"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 34,
+    "heading": "Feedwater Systems",
+    "question": "In a two element feed water control, the following items are measured:",
+    "options": {
+      "A": "Feed water flow and steam flow",
+      "B": "Boiler water level and fuel flow",
+      "C": "Temperature and volume of feed water",
+      "D": "Boiler water level and feed water flow",
+      "E": "Boiler water level and steam flow"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 35,
+    "heading": "Feedwater Systems",
+    "question": "A boiler control manual/automatic transfer or selector station:",
+    "options": {
+      "A": "Can be used to manually override automatic control loops",
+      "B": "Output is directed to the primary element of a loop",
+      "C": "Is located upstream of the controller in a control loop",
+      "D": "Can be changed from manual to automatic without balancing",
+      "E": "Must be operated in manual mode for only short periods"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 36,
+    "heading": "Feedwater Systems",
+    "question": "Condensate receivers should be sized to hold a volume equivalent to _______ of water evaporated by the boiler at normal load.",
+    "options": {
+      "A": "1-2 hours",
+      "B": "5-10 minutes",
+      "C": "20-30 minutes",
+      "D": "30-60 minutes",
+      "E": "15-20 minutes"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 37,
+    "heading": "Feedwater Systems",
+    "question": "In a float type low water fuel cutoff, the mercury switch:",
+    "options": {
+      "A": "Closes the burner circuit when the level is low",
+      "B": "Opens the burner circuit when the level is low",
+      "C": "Closes the burner circuit when the level is high",
+      "D": "Has no effect on the burner circuit",
+      "E": "Opens the burner circuit when the level is high"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 38,
+    "heading": "Feedwater Systems",
+    "question": "The level control valves used in the feedwater system include all of these but not:",
+    "options": {
+      "A": "Dearator level",
+      "B": "Boiler water level",
+      "C": "Continuous blowdown",
+      "D": "Condensate receiver level",
+      "E": "Condenser hot well level"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 39,
+    "heading": "Feedwater Systems",
+    "question": "The second element of a two element feed water control system compensates for or offsets:",
+    "options": {
+      "A": "Differential steam flow rate",
+      "B": "Shrink and swell",
+      "C": "Level variation",
+      "D": "Feed water temperature variation",
+      "E": "Differential feed water pressure"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 40,
+    "heading": "Feedwater Systems",
+    "question": "In a Hartford loop, the condensate return piping connection is located:",
+    "options": {
+      "A": "At the normal operating water level",
+      "B": "Directly connected to the steam drum",
+      "C": "Just below the mud drum",
+      "D": "At the surface of the fire tubes",
+      "E": "At the lowest safe water level"
+    },
+    "correctAnswer": "E"
+  }
+]

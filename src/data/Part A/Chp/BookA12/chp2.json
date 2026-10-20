@@ -1,0 +1,639 @@
+[
+  {
+    "number": 1,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Before removing oil burners from the furnace, the burner should be blown out with:",
+    "options": {
+      "A": "Solvent",
+      "B": "Coal oil",
+      "C": "A high temperature combustible solvent",
+      "D": "Nitrogen or carbon dioxide",
+      "E": "Steam or air"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 2,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Because of the one quarter reduction in size of FBC plants, a significant saving is gained in:",
+    "options": {
+      "A": "Fuel and waste costs",
+      "B": "Material and construction costs",
+      "C": "Fuel storage costs",
+      "D": "Heat and light costs",
+      "E": "\"Clinker\" and soot blowing costs"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 3,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Intermediate and high fire burner nozzles have higher capacities than the primary burner nozzle:",
+    "options": {
+      "A": "To prevent pressure surges",
+      "B": "To prevent ignition puff-backs",
+      "C": "Because of the pump being of the positive displacement type",
+      "D": "To allow better boiler warm-ups",
+      "E": "To give greater firing variations"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 4,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "A fuel oil filter consists of:",
+    "options": {
+      "A": "Wool felt",
+      "B": "A canister",
+      "C": "Three main parts",
+      "D": "A cartridge",
+      "E": "A Y-strainer"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 5,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "One of the advantages of using natural gas as a fuel in a boiler is:",
+    "options": {
+      "A": "No transmission lines required",
+      "B": "Low cost",
+      "C": "Portability",
+      "D": "No storage space is required",
+      "E": "Abundance in supplies"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 6,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "An air atomizing compressor is usually:",
+    "options": {
+      "A": "A regenerative type",
+      "B": "A variable displacement type",
+      "C": "A rotary type",
+      "D": "A centrifugal type",
+      "E": "An axial type"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 7,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Operating a PFBC furnace at low temperatures results in:",
+    "options": {
+      "A": "A restricted type of fuel used",
+      "B": "The generation of wet steam",
+      "C": "The need for the installation of soot blowers",
+      "D": "The formation of \"clinkers\"",
+      "E": "Steam temperature limitation"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 8,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "An important function of an Automatic Safety Shutoff gas valve is that the valve opens _____, thus preventing \"furnace puff\".",
+    "options": {
+      "A": "Halfway",
+      "B": "Slightly",
+      "C": "Slowly",
+      "D": "Immediately",
+      "E": "Quickly"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 9,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "If, during a flue gas analysis, the excess air to a boiler furnace is increased, the percentage of:",
+    "options": {
+      "A": "O₂ should remain the same",
+      "B": "CO₂ should decrease",
+      "C": "O₂ should decrease",
+      "D": "CO should increase",
+      "E": "CO₂ should increase"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 10,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "When using mechanical fuel oil atomization:",
+    "options": {
+      "A": "35 to 40 kPa oil pressure is required",
+      "B": "70 kPa steam pressure is required at the burner",
+      "C": "Steam pressure is required to keep the bypass open",
+      "D": "Dry saturated steam or superheated steam should be used",
+      "E": "High pump pressure is required"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 11,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "A relief valve is placed on the discharge of a fuel oil pump:",
+    "options": {
+      "A": "To prevent pump rupture",
+      "B": "So burner design pressure is not exceeded",
+      "C": "To prevent over firing of the boiler",
+      "D": "So burner capacity is maintained",
+      "E": "Because the pump is a dynamic type"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 12,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The compressed air used as atomizing air in the air atomizing oil burner is also called:",
+    "options": {
+      "A": "Secondary air",
+      "B": "Pre-compressed air",
+      "C": "Pre-mixed air",
+      "D": "Post-compressed air",
+      "E": "Primary air"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 13,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "One variable which a FBC unit operator must always be aware of and which he can successfully manipulate is:",
+    "options": {
+      "A": "Burner locations",
+      "B": "Fuel type variation",
+      "C": "Coal introduction techniques",
+      "D": "Bed expansion",
+      "E": "Slag production"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 14,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "When a gas fired burner is burning fuel properly:",
+    "options": {
+      "A": "The furnace will pulsate",
+      "B": "There will be no turbulence",
+      "C": "The induced draft fan can be shut off",
+      "D": "It will have a long bright yellow flame",
+      "E": "It will have a blue flame with short yellow tips"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 15,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The main function of a gas burner is:",
+    "options": {
+      "A": "Air flow control",
+      "B": "Provision of air fuel contact",
+      "C": "Atomization of the fuel",
+      "D": "A source of ignition",
+      "E": "Regulation of the fuel flow"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 16,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The Venturi tube in the atmospheric burner mixing head has a:",
+    "options": {
+      "A": "Sharply increasing cross-sectional area",
+      "B": "Sharply decreasing cross-sectional area",
+      "C": "Uniformly distributed cross-sectional area",
+      "D": "Gradually increasing cross-sectional area",
+      "E": "Gradually decreasing cross-sectional area"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 17,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "About the only thing that limits the type of fuel burned in a FBC is:",
+    "options": {
+      "A": "The size of the burners",
+      "B": "The amount of slag the fuel will produce",
+      "C": "The size of the plant using the fuel",
+      "D": "How well the material has been mixed prior to burning",
+      "E": "The heating value of the material being burned"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 18,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The efficiency of a combined cycle plant based on fluidized bed combustion (PFBC) is about _____ higher than a conventional pulverized coal plant.",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "15%",
+      "D": "25%",
+      "E": "20%"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 19,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The reason FBC plants can be built smaller than plants currently in vogue is because of:",
+    "options": {
+      "A": "The burners being smaller",
+      "B": "Less slag production and the elimination of soot blowing equipment",
+      "C": "Higher heat transfer rates and the absence of wet exhaust scrubbing equipment",
+      "D": "Higher steam temperatures and pressures",
+      "E": "Lower maintenance costs and the ability to burn a wide variety of fuels"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 20,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "A hydramotor valve:",
+    "options": {
+      "A": "Closes slowly",
+      "B": "Should not be the last fuel valve to open",
+      "C": "Uses air as its working medium",
+      "D": "Opens and closes quickly",
+      "E": "Closes for safety shutdowns"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 21,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "A mechanical atomizing burner has oil pumped under high pressure through a:",
+    "options": {
+      "A": "Re-circulation line",
+      "B": "Multi-spud burner",
+      "C": "Rotary cup",
+      "D": "Ring burner",
+      "E": "Sprayer plate"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 22,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The reducing of oil into very small particles is termed:",
+    "options": {
+      "A": "Fluidization",
+      "B": "Distillation",
+      "C": "Fractionation",
+      "D": "Atomization",
+      "E": "Turbulence"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 23,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The typical time needed to heat a FBC unit bed to fuel ignition temperature prior to the introduction of coal is:",
+    "options": {
+      "A": "One hour",
+      "B": "Two hours",
+      "C": "One half hour",
+      "D": "Three hours",
+      "E": "Six hours"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 24,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "PFBC stands for:",
+    "options": {
+      "A": "Provincial Foot Board Control",
+      "B": "Petroleum Fired Boiler Control",
+      "C": "Provincial/Federal Boiler Calculations",
+      "D": "Pre-fired Boiler Circuitry",
+      "E": "Pressurized Fluidized Bed Combustion"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 25,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The pilot burner for gas fired heating equipment can be:\n1. Manual\n2. Continuous\n3. Intermittent\n4. Interrupted\n5. Automatic",
+    "options": {
+      "A": "3, 4, 5",
+      "B": "2, 3, 4",
+      "C": "2, 3, 5",
+      "D": "1, 2, 5",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 26,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Oil burners can be divided into three classes:\n1. Air and steam atomizing burners\n2. Mechanical or pressure atomizing burners\n3. Centrifugal or rotary cup burners\n4. Atmospheric pressure burners\n5. Gravitational pressure burners",
+    "options": {
+      "A": "3, 4, 5",
+      "B": "1, 2, 3",
+      "C": "2, 3, 5",
+      "D": "1, 2, 4",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 27,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The gradual loss of the fluidized bed in an FBC furnace is called:",
+    "options": {
+      "A": "Attrition",
+      "B": "Carryover",
+      "C": "Fluidization",
+      "D": "Starving",
+      "E": "Reduction"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 28,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "When oil burners are not in use, they should be removed from the furnace, or the heat may cause:",
+    "options": {
+      "A": "Speed reduction of the rotary cup",
+      "B": "Seizure of the sprayer plate",
+      "C": "Evaporation of the fuel",
+      "D": "Corrosion of the burner",
+      "E": "A buildup of carbon in the burner"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 29,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "A major disadvantage of gas over coal is:",
+    "options": {
+      "A": "Gas requires more handling labour",
+      "B": "Coal requires less storage space",
+      "C": "Gas does not burn as clean",
+      "D": "Gas is more difficult to control",
+      "E": "Gas is more expensive and less abundant"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 30,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "In a steam atomizing oil burner, the _____ travels through the central portion of the burner.",
+    "options": {
+      "A": "Air",
+      "B": "Oil",
+      "C": "Steam",
+      "D": "Heat",
+      "E": "Fire"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 31,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "What is the ignition temperature of coal?",
+    "options": {
+      "A": "600ºC",
+      "B": "300ºC",
+      "C": "750ºC",
+      "D": "900ºC",
+      "E": "450ºC"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 32,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "If the power is cut off to an automatic gas valve, the valve will:",
+    "options": {
+      "A": "Close immediately",
+      "B": "Open widely",
+      "C": "Close halfway",
+      "D": "Close slowly",
+      "E": "Close slightly"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 33,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The ash content of a fuel which can be burned in a FBC unit and which will not burn successfully in any other type of furnace is:",
+    "options": {
+      "A": "30%",
+      "B": "70%",
+      "C": "60%",
+      "D": "10%",
+      "E": "55%"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 34,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "In order to prevent the possibility of a furnace explosion, it is important that the furnace is _____ before the igniter is energized and fuel is supplied to the burner nozzle(s).",
+    "options": {
+      "A": "Pre-heated",
+      "B": "Post-heated",
+      "C": "Cooled",
+      "D": "Pressurized",
+      "E": "Purged"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 35,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "A multi-burner cluster has secondary and tertiary nozzles ignited by:",
+    "options": {
+      "A": "The primary burner",
+      "B": "An interrupted pilot",
+      "C": "A continuous pilot",
+      "D": "An igniter spark",
+      "E": "An intermittent pilot flame"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 36,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Oil supply pressure range for constant capacity mechanical atomizing oil burner is approximately:",
+    "options": {
+      "A": "50 to 100 kPa",
+      "B": "300 to 550 kPa",
+      "C": "500 to 850 kPa",
+      "D": "150 to 250 kPa",
+      "E": "700 to 1400 kPa"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 37,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "To what temperature must the inert bed material of a FBC unit be heated before the introduction of coal to the furnace for burning?",
+    "options": {
+      "A": "About 600ºC",
+      "B": "About 350ºC",
+      "C": "About 900ºC",
+      "D": "About 400ºC",
+      "E": "About 750ºC"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 38,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The FD fan power requirements of a FBC unit are _____ times more than a stoker furnace?",
+    "options": {
+      "A": "6 times",
+      "B": "1.5 times",
+      "C": "4 times",
+      "D": "3 times",
+      "E": "8 times"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 39,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Steam generators of the FBC type can be reduced in size by up to:",
+    "options": {
+      "A": "10%",
+      "B": "15%",
+      "C": "35%",
+      "D": "45%",
+      "E": "25%"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 40,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Black smoke can be caused by:",
+    "options": {
+      "A": "Too much nitrogen in the air",
+      "B": "Too high a boiler pressure",
+      "C": "Insufficient combustion air",
+      "D": "High temperature combustion air",
+      "E": "Too much combustion air"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 41,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "To which of the following oil burners is the oil supplied under high pressure?",
+    "options": {
+      "A": "Steam atomizing burner",
+      "B": "Mechanical atomizing burner",
+      "C": "Multi-spud burner",
+      "D": "Air atomizing burner",
+      "E": "Rotary cup burner"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 42,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Low fuel _____ in oil burners produces unsafe conditions of burning.",
+    "options": {
+      "A": "Volume",
+      "B": "Viscosity",
+      "C": "Flow",
+      "D": "Temperature",
+      "E": "Pressure"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 43,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Oil flow rate to a modulating burner is regulated by:",
+    "options": {
+      "A": "A PRV on the burner line",
+      "B": "Pump capacity",
+      "C": "Firing rate",
+      "D": "A return line, modulating valve",
+      "E": "Pump speed"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 44,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "A design disadvantage of a PFBC furnace is:",
+    "options": {
+      "A": "Erosion and/or corrosion/fouling of turbine blades may occur",
+      "B": "A wide range of fuels cannot be used",
+      "C": "Fuel preparation is very complex",
+      "D": "A great deal of maintenance is required",
+      "E": "The boiler is too compact for ease of cleaning"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 45,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The purpose of the diffuser cone in the center of a ring (gas) burner is to:",
+    "options": {
+      "A": "Decrease the air velocity",
+      "B": "Promote turbulence of gas and air mixture",
+      "C": "Increase the temperature of the furnace",
+      "D": "Increase the gas velocity",
+      "E": "Atomize the gas particles"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 46,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The capacity of a constant capacity mechanical atomizer is a function of:",
+    "options": {
+      "A": "Pump speed",
+      "B": "Orifice size",
+      "C": "Oil viscosity",
+      "D": "Pump size",
+      "E": "Supply temperature"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 47,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Too much air for a gas burner will tend to:",
+    "options": {
+      "A": "Cause furnace pulsating",
+      "B": "Move the flame away from the burner",
+      "C": "Reduce the radiant heat from the fire",
+      "D": "Cause the burner to corrode",
+      "E": "Cause excessive furnace temperatures"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 48,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Low fuel pressure in oil burners produces:",
+    "options": {
+      "A": "A short blue flame",
+      "B": "A long red flame",
+      "C": "Unstable conditions of burning",
+      "D": "Excessive turbulence in the firebox",
+      "E": "Hot conditions in the windbox"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 49,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The two basic varieties of mechanical atomizing oil burners are the:",
+    "options": {
+      "A": "Variable capacity burner",
+      "B": "Constant capacity burner",
+      "C": "Modulating burner",
+      "D": "Stationary burner",
+      "E": "Constant capacity burner and Modulating burners"
+    },
+    "correctAnswer": "E"
+  }
+]

@@ -1,0 +1,2433 @@
+[
+  {
+    "number": 1,
+    "heading": "Combustion",
+    "question": "Combustion air openings are required by code and combustion air can be said to be:",
+    "options": {
+      "A": "All air which contributes to ensure the completion of combustion",
+      "B": "All air which enters the boiler furnace, including high excess air",
+      "C": "Excess air",
+      "D": "All air which contacts the raw fuel before the burner",
+      "E": "Atomizing air"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 2,
+    "heading": "Combustion",
+    "question": "The formation of carbon monoxide in the furnace is undesirable because it:\n\n1. Increases efficiency\n2. Is a Pollutant\n3. Produces less heat\n4. Is wasteful",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "1, 2, 4",
+      "C": "2, 3, 4",
+      "D": "1, 3, 4",
+      "E": "3, 4"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 3,
+    "heading": "Combustion",
+    "question": "Hog fuels may include:",
+    "options": {
+      "A": "Wood chips",
+      "B": "Herbaceous fuels",
+      "C": "Wood pellets",
+      "D": "Yard trimmings",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 4,
+    "heading": "Combustion",
+    "question": "The amount of excess air required for combustion is determined by the:",
+    "options": {
+      "A": "Ambient temperature of the outside air",
+      "B": "Load on the boiler",
+      "C": "Air supply pressure",
+      "D": "Size of the boiler",
+      "E": "Composition and condition of the fuel"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 5,
+    "heading": "Combustion",
+    "question": "Strategies to reduce NOx when burning biomass does not include:",
+    "options": {
+      "A": "Increasing the fuel to air ratio",
+      "B": "Increasing the temperature",
+      "C": "Treating the combustion gases",
+      "D": "Lowering the mixing time in the burner",
+      "E": "Lowering the combustion temperature"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 6,
+    "heading": "Combustion",
+    "question": "The balanced equation for the incomplete combustion of carbon is:",
+    "options": {
+      "A": "2C - 2O₂ = 4CO = heat",
+      "B": "C + 2O₂ = 2CO + heat",
+      "C": "2C + O₂ = 2CO + heat",
+      "D": "2C + O₂ = CO + heat",
+      "E": "C + O₂ = CO₂ + heat"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 7,
+    "heading": "Combustion",
+    "question": "Carbon monoxide is both combustible and ___________.",
+    "options": {
+      "A": "Non compressible",
+      "B": "Expensive",
+      "C": "Inert",
+      "D": "Toxic",
+      "E": "Gray in color"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 8,
+    "heading": "Combustion",
+    "question": "Carbon that is not combined with hydrogen is referred to as:",
+    "options": {
+      "A": "Fixed carbon",
+      "B": "Separated carbon",
+      "C": "Mono-carbon",
+      "D": "United carbon",
+      "E": "Loose carbon"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 9,
+    "heading": "Combustion",
+    "question": "The combustion equation S + O2=:",
+    "options": {
+      "A": "2S + O",
+      "B": "SO₂ + heat",
+      "C": "SO₂",
+      "D": "SO₂ + S",
+      "E": "2SO₂ + heat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 10,
+    "heading": "Combustion",
+    "question": "The combustion equation C + O2=:",
+    "options": {
+      "A": "CO₂ + heat",
+      "B": "CO + heat",
+      "C": "2H₂O + heat",
+      "D": "CO",
+      "E": "2H + O₂"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 11,
+    "heading": "Combustion",
+    "question": "What types of refractory associated problems could be encountered when burning solid fuels?",
+    "options": {
+      "A": "Corrosion",
+      "B": "Erosion",
+      "C": "Ash",
+      "D": "Clinkers",
+      "E": "All of these"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 12,
+    "heading": "Combustion",
+    "question": "The typical amount of excess O2 for gaseous fuel is:",
+    "options": {
+      "A": "7%",
+      "B": "5%",
+      "C": "10%",
+      "D": "15%",
+      "E": "2%"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 13,
+    "heading": "Combustion",
+    "question": "The approximate amount of excess air for fuel oil is:",
+    "options": {
+      "A": "10% - 15%",
+      "B": "3% - 10%",
+      "C": "15% - 20%",
+      "D": "1% - 2%",
+      "E": "25% - 35%"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 14,
+    "heading": "Combustion",
+    "question": "What amount of coal can be burned with 225kg of combustion air, which includes 20% excess air? ( the theoretical air for this particular coal is 7.5kg air/kg coal)",
+    "options": {
+      "A": "7.5 kg",
+      "B": "10 kg",
+      "C": "25 kg",
+      "D": "2.5 kg",
+      "E": "225 kg"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 15,
+    "heading": "Combustion",
+    "question": "Poor combustion due to the improper amount of air will cause:",
+    "options": {
+      "A": "A collection of partly burned air",
+      "B": "The circulation of flue gases to stop",
+      "C": "A high carbon dioxide content in the wind box",
+      "D": "A collection of partly burned fuel that could explode",
+      "E": "Hot furnace temperatures"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 16,
+    "heading": "Combustion",
+    "question": "Engineers must understand the importance of combustion in order to:\n1. Order the right grade of fuel\n2. Burn the fuel completely\n3. Produce smokeless fires\n4. Minimize the danger of explosion",
+    "options": {
+      "A": "1, 2, 3, 4",
+      "B": "1, 2",
+      "C": "2, 3",
+      "D": "2, 3, 4",
+      "E": "1, 3"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 17,
+    "heading": "Combustion",
+    "question": "Which of the following is not an advantage of fuel oil over coal?",
+    "options": {
+      "A": "Oil is easier to measure",
+      "B": "Oil needs less storage space",
+      "C": "Oil burns more cleanly",
+      "D": "Coal needs less storage space",
+      "E": "Oil requires less handling equipment"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 18,
+    "heading": "Combustion",
+    "question": "The amount of air required to supply just enough oxygen for complete combustion is called the:",
+    "options": {
+      "A": "Theoretical air",
+      "B": "Perfect air",
+      "C": "Exact air",
+      "D": "Primary air",
+      "E": "Secondary air"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 19,
+    "heading": "Combustion",
+    "question": "The balanced equation for the complete combustion of hydrogen is:",
+    "options": {
+      "A": "2H + O₂ = H₂O + heat",
+      "B": "2H₂ + O₂ = 2H₂O + heat",
+      "C": "H₂ + O = H₂O + heat",
+      "D": "2H₂ + 2O₂ = 2H₂O + heat",
+      "E": "H₂ + 2O₂ = H₂O + heat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 20,
+    "heading": "Combustion",
+    "question": "The combustion equation 2H2+ O2=:",
+    "options": {
+      "A": "2H + O₂",
+      "B": "2H₂O + heat",
+      "C": "2H₂O",
+      "D": "H₂O",
+      "E": "H₂O + heat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 21,
+    "heading": "Combustion",
+    "question": "Ethane is a component of natural gas and constitutes a percent volume of:",
+    "options": {
+      "A": "10% - 20%",
+      "B": "60% - 70%",
+      "C": "30% - 40%",
+      "D": "5% - 10%",
+      "E": "80% - 90%"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 22,
+    "heading": "Combustion",
+    "question": "Non-combustible components of a fuel are:\n1. S\n2. C\n3. CO2\n4. H2O\n5. H",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "2, 3, 4 ",
+      "C": "3, 4, 5",
+      "D": "4, 5",
+      "E": "3, 4"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 23,
+    "heading": "Combustion",
+    "question": "The refining process for fuel oils involves separating the crude oil into end products which have distinguishing characteristics such as specific gravity, viscosity, and:",
+    "options": {
+      "A": "Solids content",
+      "B": "Color",
+      "C": "Flash point",
+      "D": "Odor",
+      "E": "Heating value"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 24,
+    "heading": "Combustion",
+    "question": "Which of the following are necessary to ensure the complete combustion of a fuel:\n \n1.  Enough air must be supplied\n2.  The temperature of the furnace must be high enough\n3.  There must be enough water in the boiler\n4.  Enough time must be allowed for the fuel to burn\n5.  The safety valve must be properly set\n6.  The air and fuel must be thoroughly mixed together",
+    "options": {
+      "A": "1, 2, 4, 6",
+      "B": "1, 2, 3 4",
+      "C": "1, 3, 4, 6",
+      "D": "1, 3, 5, 6",
+      "E": "2,. 3, 4, 5 "
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 25,
+    "heading": "Combustion",
+    "question": "Efficient combustion is achieved by controlling the:",
+    "options": {
+      "A": "Steam-water ratio",
+      "B": "Fuel-air ratio",
+      "C": "Water-fuel ratio",
+      "D": "Air-flue gas ratio",
+      "E": "Steam-fuel ratio"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 26,
+    "heading": "Combustion",
+    "question": "Coal is composed of which of the following combustible components?",
+    "options": {
+      "A": "Carbon dioxide, nitrogen, sulphur dioxide",
+      "B": "Carbon, hydrogen, sulphur",
+      "C": "Hydrogen, oxygen, moisture",
+      "D": "Carbon, ash, nitrogen",
+      "E": "Nitrogen, oxygen, ash"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 27,
+    "heading": "Combustion",
+    "question": "Insufficient air for combustion will result in:\n1. Carbon in the flue gases\n2. High oxygen reading in the flue gases\n3. Low oxygen reading in the flue gases\n4. High CO in the flue gases\n5. Higher than normal flue gas temperature",
+    "options": {
+      "A": "2, 3, 4",
+      "B": "3, 4, 5",
+      "C": "1, 2, 3",
+      "D": "1, 3, 4",
+      "E": "1, 3, 5"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 28,
+    "heading": "Combustion",
+    "question": "Which element in the air will combine with the combustible elements of the fuel?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Carbon dioxide",
+      "C": "Hydrogen",
+      "D": "Carbon monoxide",
+      "E": "Nitrogen"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 29,
+    "heading": "Combustion",
+    "question": "Combustion of fuel in a boiler furnace:",
+    "options": {
+      "A": "Is perfect if there is no moisture in the stack gases",
+      "B": "Requires a higher air-fuel ratio than a gas turbine",
+      "C": "Should be performed with a minimum of excess air",
+      "D": "Requires mechanical draft",
+      "E": "Requires a higher air-fuel ratio than a diesel engine"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 30,
+    "heading": "Combustion",
+    "question": "Combustibles in fuels are:\n1. Carbon\n2. Sulphur\n3. Ash\n4. Nitrogen\n5. Hydrogen",
+    "options": {
+      "A": "1, 2, 3, 4, 5",
+      "B": "1, 5",
+      "C": "4, 5",
+      "D": "1, 2, 5",
+      "E": "3, 5"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 31,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Before removing oil burners from the furnace, the burner should be blown out with:",
+    "options": {
+      "A": "Solvent",
+      "B": "Coal oil",
+      "C": "A high temperature combustible solvent",
+      "D": "Nitrogen or carbon dioxide",
+      "E": "Steam or air"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 32,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Because of the one quarter reduction in size of FBC plants, a significant saving is gained in:",
+    "options": {
+      "A": "Fuel and waste costs",
+      "B": "Material and construction costs",
+      "C": "Fuel storage costs",
+      "D": "Heat and light costs",
+      "E": "\"Clinker\" and soot blowing costs"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 33,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Intermediate and high fire burner nozzles have higher capacities than the primary burner nozzle:",
+    "options": {
+      "A": "To prevent pressure surges",
+      "B": "To prevent ignition puff-backs",
+      "C": "Because of the pump being of the positive displacement type",
+      "D": "To allow better boiler warm-ups",
+      "E": "To give greater firing variations"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 34,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "A fuel oil filter consists of:",
+    "options": {
+      "A": "Wool felt",
+      "B": "A canister",
+      "C": "Three main parts",
+      "D": "A cartridge",
+      "E": "A Y-strainer"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 35,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "One of the advantages of using natural gas as a fuel in a boiler is:",
+    "options": {
+      "A": "No transmission lines required",
+      "B": "Low cost",
+      "C": "Portability",
+      "D": "No storage space is required",
+      "E": "Abundance in supplies"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 36,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "An air atomizing compressor is usually:",
+    "options": {
+      "A": "A regenerative type",
+      "B": "A variable displacement type",
+      "C": "A rotary type",
+      "D": "A centrifugal type",
+      "E": "An axial type"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 37,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Operating a PFBC furnace at low temperatures results in:",
+    "options": {
+      "A": "A restricted type of fuel used",
+      "B": "The generation of wet steam",
+      "C": "The need for the installation of soot blowers",
+      "D": "The formation of \"clinkers\"",
+      "E": "Steam temperature limitation"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 38,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "An important function of an Automatic Safety Shutoff gas valve is that the valve opens _____, thus preventing \"furnace puff\".",
+    "options": {
+      "A": "Halfway",
+      "B": "Slightly",
+      "C": "Slowly",
+      "D": "Immediately",
+      "E": "Quickly"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 39,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "If, during a flue gas analysis, the excess air to a boiler furnace is increased, the percentage of:",
+    "options": {
+      "A": "O₂ should remain the same",
+      "B": "CO₂ should decrease",
+      "C": "O₂ should decrease",
+      "D": "CO should increase",
+      "E": "CO₂ should increase"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 40,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "When using mechanical fuel oil atomization:",
+    "options": {
+      "A": "35 to 40 kPa oil pressure is required",
+      "B": "70 kPa steam pressure is required at the burner",
+      "C": "Steam pressure is required to keep the bypass open",
+      "D": "Dry saturated steam or superheated steam should be used",
+      "E": "High pump pressure is required"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 41,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "A relief valve is placed on the discharge of a fuel oil pump:",
+    "options": {
+      "A": "To prevent pump rupture",
+      "B": "So burner design pressure is not exceeded",
+      "C": "To prevent over firing of the boiler",
+      "D": "So burner capacity is maintained",
+      "E": "Because the pump is a dynamic type"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 42,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The compressed air used as atomizing air in the air atomizing oil burner is also called:",
+    "options": {
+      "A": "Secondary air",
+      "B": "Pre-compressed air",
+      "C": "Pre-mixed air",
+      "D": "Post-compressed air",
+      "E": "Primary air"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 43,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "One variable which a FBC unit operator must always be aware of and which he can successfully manipulate is:",
+    "options": {
+      "A": "Burner locations",
+      "B": "Fuel type variation",
+      "C": "Coal introduction techniques",
+      "D": "Bed expansion",
+      "E": "Slag production"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 44,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "When a gas fired burner is burning fuel properly:",
+    "options": {
+      "A": "The furnace will pulsate",
+      "B": "There will be no turbulence",
+      "C": "The induced draft fan can be shut off",
+      "D": "It will have a long bright yellow flame",
+      "E": "It will have a blue flame with short yellow tips"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 45,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The main function of a gas burner is:",
+    "options": {
+      "A": "Air flow control",
+      "B": "Provision of air fuel contact",
+      "C": "Atomization of the fuel",
+      "D": "A source of ignition",
+      "E": "Regulation of the fuel flow"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 46,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The Venturi tube in the atmospheric burner mixing head has a:",
+    "options": {
+      "A": "Sharply increasing cross-sectional area",
+      "B": "Sharply decreasing cross-sectional area",
+      "C": "Uniformly distributed cross-sectional area",
+      "D": "Gradually increasing cross-sectional area",
+      "E": "Gradually decreasing cross-sectional area"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 47,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "About the only thing that limits the type of fuel burned in a FBC is:",
+    "options": {
+      "A": "The size of the burners",
+      "B": "The amount of slag the fuel will produce",
+      "C": "The size of the plant using the fuel",
+      "D": "How well the material has been mixed prior to burning",
+      "E": "The heating value of the material being burned"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 48,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The efficiency of a combined cycle plant based on fluidized bed combustion (PFBC) is about _____ higher than a conventional pulverized coal plant.",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "15%",
+      "D": "25%",
+      "E": "20%"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 49,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The reason FBC plants can be built smaller than plants currently in vogue is because of:",
+    "options": {
+      "A": "The burners being smaller",
+      "B": "Less slag production and the elimination of soot blowing equipment",
+      "C": "Higher heat transfer rates and the absence of wet exhaust scrubbing equipment",
+      "D": "Higher steam temperatures and pressures",
+      "E": "Lower maintenance costs and the ability to burn a wide variety of fuels"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 50,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "A hydramotor valve:",
+    "options": {
+      "A": "Closes slowly",
+      "B": "Should not be the last fuel valve to open",
+      "C": "Uses air as its working medium",
+      "D": "Opens and closes quickly",
+      "E": "Closes for safety shutdowns"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 51,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "A mechanical atomizing burner has oil pumped under high pressure through a:",
+    "options": {
+      "A": "Re-circulation line",
+      "B": "Multi-spud burner",
+      "C": "Rotary cup",
+      "D": "Ring burner",
+      "E": "Sprayer plate"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 52,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The reducing of oil into very small particles is termed:",
+    "options": {
+      "A": "Fluidization",
+      "B": "Distillation",
+      "C": "Fractionation",
+      "D": "Atomization",
+      "E": "Turbulence"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 53,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The typical time needed to heat a FBC unit bed to fuel ignition temperature prior to the introduction of coal is:",
+    "options": {
+      "A": "One hour",
+      "B": "Two hours",
+      "C": "One half hour",
+      "D": "Three hours",
+      "E": "Six hours"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 54,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "PFBC stands for:",
+    "options": {
+      "A": "Provincial Foot Board Control",
+      "B": "Petroleum Fired Boiler Control",
+      "C": "Provincial/Federal Boiler Calculations",
+      "D": "Pre-fired Boiler Circuitry",
+      "E": "Pressurized Fluidized Bed Combustion"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 55,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The pilot burner for gas fired heating equipment can be:\n1. Manual\n2. Continuous\n3. Intermittent\n4. Interrupted\n5. Automatic",
+    "options": {
+      "A": "3, 4, 5",
+      "B": "2, 3, 4",
+      "C": "2, 3, 5",
+      "D": "1, 2, 5",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 56,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Oil burners can be divided into three classes:\n1. Air and steam atomizing burners\n2. Mechanical or pressure atomizing burners\n3. Centrifugal or rotary cup burners\n4. Atmospheric pressure burners\n5. Gravitational pressure burners",
+    "options": {
+      "A": "3, 4, 5",
+      "B": "1, 2, 3",
+      "C": "2, 3, 5",
+      "D": "1, 2, 4",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 57,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The gradual loss of the fluidized bed in an FBC furnace is called:",
+    "options": {
+      "A": "Attrition",
+      "B": "Carryover",
+      "C": "Fluidization",
+      "D": "Starving",
+      "E": "Reduction"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 58,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "When oil burners are not in use, they should be removed from the furnace, or the heat may cause:",
+    "options": {
+      "A": "Speed reduction of the rotary cup",
+      "B": "Seizure of the sprayer plate",
+      "C": "Evaporation of the fuel",
+      "D": "Corrosion of the burner",
+      "E": "A buildup of carbon in the burner"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 59,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "A major disadvantage of gas over coal is:",
+    "options": {
+      "A": "Gas requires more handling labour",
+      "B": "Coal requires less storage space",
+      "C": "Gas does not burn as clean",
+      "D": "Gas is more difficult to control",
+      "E": "Gas is more expensive and less abundant"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 60,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "In a steam atomizing oil burner, the _____ travels through the central portion of the burner.",
+    "options": {
+      "A": "Air",
+      "B": "Oil",
+      "C": "Steam",
+      "D": "Heat",
+      "E": "Fire"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 61,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "What is the ignition temperature of coal?",
+    "options": {
+      "A": "600ºC",
+      "B": "300ºC",
+      "C": "750ºC",
+      "D": "900ºC",
+      "E": "450ºC"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 62,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "If the power is cut off to an automatic gas valve, the valve will:",
+    "options": {
+      "A": "Close immediately",
+      "B": "Open widely",
+      "C": "Close halfway",
+      "D": "Close slowly",
+      "E": "Close slightly"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 63,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The ash content of a fuel which can be burned in a FBC unit and which will not burn successfully in any other type of furnace is:",
+    "options": {
+      "A": "30%",
+      "B": "70%",
+      "C": "60%",
+      "D": "10%",
+      "E": "55%"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 64,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "In order to prevent the possibility of a furnace explosion, it is important that the furnace is _____ before the igniter is energized and fuel is supplied to the burner nozzle(s).",
+    "options": {
+      "A": "Pre-heated",
+      "B": "Post-heated",
+      "C": "Cooled",
+      "D": "Pressurized",
+      "E": "Purged"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 65,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "A multi-burner cluster has secondary and tertiary nozzles ignited by:",
+    "options": {
+      "A": "The primary burner",
+      "B": "An interrupted pilot",
+      "C": "A continuous pilot",
+      "D": "An igniter spark",
+      "E": "An intermittent pilot flame"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 66,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Oil supply pressure range for constant capacity mechanical atomizing oil burner is approximately:",
+    "options": {
+      "A": "50 to 100 kPa",
+      "B": "300 to 550 kPa",
+      "C": "500 to 850 kPa",
+      "D": "150 to 250 kPa",
+      "E": "700 to 1400 kPa"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 67,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "To what temperature must the inert bed material of a FBC unit be heated before the introduction of coal to the furnace for burning?",
+    "options": {
+      "A": "About 600ºC",
+      "B": "About 350ºC",
+      "C": "About 900ºC",
+      "D": "About 400ºC",
+      "E": "About 750ºC"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 68,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The FD fan power requirements of a FBC unit are _____ times more than a stoker furnace?",
+    "options": {
+      "A": "6 times",
+      "B": "1.5 times",
+      "C": "4 times",
+      "D": "3 times",
+      "E": "8 times"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 69,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Steam generators of the FBC type can be reduced in size by up to:",
+    "options": {
+      "A": "10%",
+      "B": "15%",
+      "C": "35%",
+      "D": "45%",
+      "E": "25%"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 70,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Black smoke can be caused by:",
+    "options": {
+      "A": "Too much nitrogen in the air",
+      "B": "Too high a boiler pressure",
+      "C": "Insufficient combustion air",
+      "D": "High temperature combustion air",
+      "E": "Too much combustion air"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 71,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "To which of the following oil burners is the oil supplied under high pressure?",
+    "options": {
+      "A": "Steam atomizing burner",
+      "B": "Mechanical atomizing burner",
+      "C": "Multi-spud burner",
+      "D": "Air atomizing burner",
+      "E": "Rotary cup burner"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 72,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Low fuel _____ in oil burners produces unsafe conditions of burning.",
+    "options": {
+      "A": "Volume",
+      "B": "Viscosity",
+      "C": "Flow",
+      "D": "Temperature",
+      "E": "Pressure"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 73,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Oil flow rate to a modulating burner is regulated by:",
+    "options": {
+      "A": "A PRV on the burner line",
+      "B": "Pump capacity",
+      "C": "Firing rate",
+      "D": "A return line, modulating valve",
+      "E": "Pump speed"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 74,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "A design disadvantage of a PFBC furnace is:",
+    "options": {
+      "A": "Erosion and/or corrosion/fouling of turbine blades may occur",
+      "B": "A wide range of fuels cannot be used",
+      "C": "Fuel preparation is very complex",
+      "D": "A great deal of maintenance is required",
+      "E": "The boiler is too compact for ease of cleaning"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 75,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The purpose of the diffuser cone in the center of a ring (gas) burner is to:",
+    "options": {
+      "A": "Decrease the air velocity",
+      "B": "Promote turbulence of gas and air mixture",
+      "C": "Increase the temperature of the furnace",
+      "D": "Increase the gas velocity",
+      "E": "Atomize the gas particles"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 76,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The capacity of a constant capacity mechanical atomizer is a function of:",
+    "options": {
+      "A": "Pump speed",
+      "B": "Orifice size",
+      "C": "Oil viscosity",
+      "D": "Pump size",
+      "E": "Supply temperature"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 77,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Too much air for a gas burner will tend to:",
+    "options": {
+      "A": "Cause furnace pulsating",
+      "B": "Move the flame away from the burner",
+      "C": "Reduce the radiant heat from the fire",
+      "D": "Cause the burner to corrode",
+      "E": "Cause excessive furnace temperatures"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 78,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "Low fuel pressure in oil burners produces:",
+    "options": {
+      "A": "A short blue flame",
+      "B": "A long red flame",
+      "C": "Unstable conditions of burning",
+      "D": "Excessive turbulence in the firebox",
+      "E": "Hot conditions in the windbox"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 79,
+    "heading": "Fuel Delivery and Firing Systems",
+    "question": "The two basic varieties of mechanical atomizing oil burners are the:",
+    "options": {
+      "A": "Variable capacity burner",
+      "B": "Constant capacity burner",
+      "C": "Modulating burner",
+      "D": "Stationary burner",
+      "E": "Constant capacity burner and Modulating burners"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 80,
+    "heading": "Draft",
+    "question": "Balanced draft:",
+    "options": {
+      "A": "Is used for furnaces with positive pressure",
+      "B": "Requires a tall smoke stack",
+      "C": "May use a forced draft and an induced draft fan",
+      "D": "Is used with cast iron heating boilers",
+      "E": "Requires weights on the dampers to balance them"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 81,
+    "heading": "Draft",
+    "question": "A way of increasing natural draft is to:",
+    "options": {
+      "A": "Have the outside air temperature increase",
+      "B": "Increase stack height",
+      "C": "Decrease the amount of excess air",
+      "D": "Incorporate a forced draft fan",
+      "E": "Install an induced draft fan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 82,
+    "heading": "Draft",
+    "question": "Inlet damper control on a fan:",
+    "options": {
+      "A": "Requires less power to drive the fan at reduced loads",
+      "B": "Can only be used when the fan is driven by a steam turbine",
+      "C": "Is used on forced draft fans only",
+      "D": "Requires more power to drive the fan when the vanes are closed",
+      "E": "Is less complicated than outlet damper control"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 83,
+    "heading": "Draft",
+    "question": "A boiler with only an induced draft fan:",
+    "options": {
+      "A": "Cannot maintain a stable fire",
+      "B": "Needs a very long stack",
+      "C": "Will have a negative furnace pressure",
+      "D": "Needs an air tight furnace",
+      "E": "Will have a positive furnace pressure"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 84,
+    "heading": "Draft",
+    "question": "The inclined \"U\" tube manometer:",
+    "options": {
+      "A": "Has two furnace connections",
+      "B": "Is more difficult to read",
+      "C": "Is more accurate than a \"U\" tube manometer",
+      "D": "Will measure pressure in kPa",
+      "E": "Can only be used with mercury"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 85,
+    "heading": "Draft",
+    "question": "In a balanced draft system, the forced draft fan is:",
+    "options": {
+      "A": "Smaller than the induced draft fan",
+      "B": "The same size as the induced draft fan",
+      "C": "Subjected to the products of combustion and high temperatures",
+      "D": "Designed to handle hot combustion gases",
+      "E": "Larger than the induced draft fan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 86,
+    "heading": "Draft",
+    "question": "A more durable chimney for a power plant application is the _____ chimney.",
+    "options": {
+      "A": "Insulated",
+      "B": "Reinforced concrete",
+      "C": "Brick",
+      "D": "Steel",
+      "E": "Guy wire supported"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 87,
+    "heading": "Draft",
+    "question": "The advantage of a steel stack over a reinforced concrete stack is that a steel stack:",
+    "options": {
+      "A": "Is a lower cost",
+      "B": "Is more resistant to abrasive flue gases",
+      "C": "Has a longer life",
+      "D": "Is more durable",
+      "E": "Requires less maintenance"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 88,
+    "heading": "Draft",
+    "question": "Inclined \"U\" tubes may be used to measure:\n1. Fan discharge pressure\n2. Fan inlet pressure\n3. Air heater flue gas pressure\n4. Air heater flue gas temperature",
+    "options": {
+      "A": "2, 3, 4",
+      "B": "1, 4",
+      "C": "4",
+      "D": "3, 4",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 89,
+    "heading": "Draft",
+    "question": "How is the draft increased through a natural draft furnace?",
+    "options": {
+      "A": "By reducing the firing rate",
+      "B": "By increasing the temperature in the stack",
+      "C": "By decreasing the furnace temperature",
+      "D": "By decreasing the height of the stack",
+      "E": "By warming the outside air"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 90,
+    "heading": "Draft",
+    "question": "An induced draft fan:",
+    "options": {
+      "A": "Has less expensive materials of construction than an FD fan",
+      "B": "Handles air only",
+      "C": "Operates at much higher temperatures than an FD fan",
+      "D": "Is physically smaller than a forced draft fan",
+      "E": "Discharges air to the wind box"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 91,
+    "heading": "Draft",
+    "question": "Since furnace pressure is often positive on a packaged watertube boiler, in order to prevent flue gas leakage:",
+    "options": {
+      "A": "A steel casing forms a seal for the furnace",
+      "B": "An economiser is used",
+      "C": "An induced draft fan is incorporated",
+      "D": "Soot blowers cannot be used",
+      "E": "Smoke stacks are made taller"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 92,
+    "heading": "Draft",
+    "question": "For indoor oil-fired boilers, the minimum combustion air requirements are specified in:",
+    "options": {
+      "A": "CSA B149.1",
+      "B": "ASME VIII",
+      "C": "CSA B139",
+      "D": "ASME CSD 1",
+      "E": "B52"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 93,
+    "heading": "Draft",
+    "question": "For indoor gas boilers, the minimum combustion air requirements are specified in:",
+    "options": {
+      "A": "ASME VIII",
+      "B": "ASME CSD 1",
+      "C": "CSA B139",
+      "D": "B52",
+      "E": "CSA B149.1"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 94,
+    "heading": "Draft",
+    "question": "Primary air:",
+    "options": {
+      "A": "Enters the furnace before the fuel",
+      "B": "Is supplied with all types of burners",
+      "C": "Is premixed with fuel before being admitted to the furnace",
+      "D": "Is the same as excess air",
+      "E": "Is supplied in the combustion zone"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 95,
+    "heading": "Draft",
+    "question": "If a \"U\" tube is connected to the discharge of a forced draft fan, the:",
+    "options": {
+      "A": "Liquid will be drawn into the forced draft stream",
+      "B": "Liquid will expand",
+      "C": "Connection to the fan will have a higher liquid level than the open end",
+      "D": "Liquid level will be the same in both ends of the \"U\" tube",
+      "E": "Open end will have a higher liquid level than the connection end"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 96,
+    "heading": "Draft",
+    "question": "The purpose of the uptake damper is to:",
+    "options": {
+      "A": "Prevent a back flow of gasses from the chimney",
+      "B": "Supply combustion air to the furnace",
+      "C": "Control fan output",
+      "D": "Decrease flue gas flow",
+      "E": "Control the furnace pressure"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 97,
+    "heading": "Draft",
+    "question": "Natural draft is produced in a boiler furnace when:",
+    "options": {
+      "A": "The dampers are fully closed",
+      "B": "Hot flue gases are condensed",
+      "C": "Gases in the stack have less mass than an equal column of outside air",
+      "D": "Gases are heated they tend to contract so that each cubic meter has more mass",
+      "E": "Gases in the stack have more mass than an equal column of outside air"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 98,
+    "heading": "Draft",
+    "question": "What are the advantages of mechanical draft?\n1. Dependence on atmospheric air temperatures\n2. Independence of chimney temperatures\n3. Better draft regulation\n4. Can be accurately regulated",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "3, 4",
+      "C": "2, 3, 4",
+      "D": "1, 3, 4",
+      "E": "1, 2, 3, 4"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 99,
+    "heading": "Draft",
+    "question": "When draft is produced by natural means:",
+    "options": {
+      "A": "Hot air surrounding the boiler increases draft",
+      "B": "Fans can control the flue gas flow",
+      "C": "The diameter of the stack will improve the draft",
+      "D": "Cooler air surrounding the boiler increases draft",
+      "E": "A short stack will increase draft"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 100,
+    "heading": "Draft",
+    "question": "The purpose of combustion controls is to:\n1. Control fuel flow and air flow into the furnace\n2. Maintain the proper ratio of air to flue gas\n3. Maintain the proper ratio of air to fuel\n4. Maintain the correct furnace pressure in a balanced system\n5. Maintain a negative pressure in the furnace when using a forced draft fan",
+    "options": {
+      "A": "3, 4, 5",
+      "B": "1, 2, 3",
+      "C": "2, 3, 4",
+      "D": "2, 4, 5",
+      "E": "1, 3, 4"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 101,
+    "heading": "Draft",
+    "question": "Chimneys are commonly lined with:",
+    "options": {
+      "A": "Clay lining",
+      "B": "Mortar",
+      "C": "Insulation",
+      "D": "Common brick",
+      "E": "Concrete"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 102,
+    "heading": "Draft",
+    "question": "The most efficient operation of a fan demands that:",
+    "options": {
+      "A": "Outlet damper controls are used",
+      "B": "Inlet damper controls are used",
+      "C": "Gaseous fuels are fired",
+      "D": "The speed be only sufficient enough to supply the required amount of air",
+      "E": "Constant speed electric motors are used"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 103,
+    "heading": "Draft",
+    "question": "The simplest way of measuring draft is with:",
+    "options": {
+      "A": "A flexible diaphragm device",
+      "B": "A Bourdon tube device",
+      "C": "A hydrometer",
+      "D": "A manometer",
+      "E": "A bellows measuring device"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 104,
+    "heading": "Draft",
+    "question": "A diaphragm draft gauge on a furnace indicates the draft in:",
+    "options": {
+      "A": "mm of mercury column",
+      "B": "mm water per square metre",
+      "C": "mm of water column",
+      "D": "kPa",
+      "E": "MPa"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 105,
+    "heading": "Draft",
+    "question": "Balanced draft:",
+    "options": {
+      "A": "Means furnace pressure is maintained slightly below atmospheric pressure",
+      "B": "Means air and fuel quantities are the same per unit time",
+      "C": "Requires an FD and ID fan, never just an FD fan",
+      "D": "Can be accomplished with just a chimney",
+      "E": "Means air flow is always constant"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 106,
+    "heading": "Draft",
+    "question": "Which of the following means will produce draft for a boiler?\n1. Natural draft\n2. Forced draft\n3. Induced draft\n4. Inverted draft",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "2, 3, 4",
+      "C": "2, 3",
+      "D": "1, 2, 4",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 107,
+    "heading": "Draft",
+    "question": "A pressurized furnace is usually associated with:",
+    "options": {
+      "A": "Natural draft",
+      "B": "Balanced draft",
+      "C": "Packaged boilers with Forced Draft",
+      "D": "Induced draft",
+      "E": "Large steam generators"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 108,
+    "heading": "Draft",
+    "question": "A diaphragm type pressure gauge:",
+    "options": {
+      "A": "Cannot be used for pressures greater than atmospheric",
+      "B": "Operates on a mercury column",
+      "C": "Is used for high pressures",
+      "D": "Is used for very small pressures",
+      "E": "Is only found on large steam generators"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 109,
+    "heading": "Draft",
+    "question": "Doors and windows are not considered Indoor boiler combustion air openings because:",
+    "options": {
+      "A": "Boilers use only manufactured air",
+      "B": "They are too small",
+      "C": "They can be shut",
+      "D": "Fresh air isn't available from outside",
+      "E": "Indoor air is preferred for combustion"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 110,
+    "heading": "Feedwater Systems",
+    "question": "If water treatment that is performed by adding chemicals to the boiler drum is \"internal water treatment\", then water treatment performed outside the boiler on makeup or condensate is called:",
+    "options": {
+      "A": "Non-internal water treatment",
+      "B": "Waste water treatment",
+      "C": "Outside water treatment",
+      "D": "Exterior water treatment",
+      "E": "External water treatment"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 111,
+    "heading": "Feedwater Systems",
+    "question": "A slight drop in steam pressure causes a sudden increase of water volume in the steam drum that is known as:",
+    "options": {
+      "A": "Growth",
+      "B": "Water increase",
+      "C": "Swell",
+      "D": "Rise",
+      "E": "Thermo increase"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 112,
+    "heading": "Feedwater Systems",
+    "question": "A boiler low water fuel cutoff:",
+    "options": {
+      "A": "Cannot be tested",
+      "B": "Must have a normally closed switch",
+      "C": "Should never be tested",
+      "D": "Should be located on the expansion tank",
+      "E": "Should be tested regularly"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 113,
+    "heading": "Feedwater Systems",
+    "question": "A thermal feed water regulator is used to:",
+    "options": {
+      "A": "Control the chemical feed treatment to the boiler",
+      "B": "Take the place of the boiler feed pump",
+      "C": "Maintain water level in the boiler",
+      "D": "Control the feed water pump output",
+      "E": "Activate the low water fuel cut-off"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 114,
+    "heading": "Feedwater Systems",
+    "question": "A fully modulated feedwater control systems will operate:",
+    "options": {
+      "A": "Continuous blowdown",
+      "B": "Combustion controls",
+      "C": "Burner fuel control",
+      "D": "Feedwater control valve",
+      "E": "Feedwater pump on-off switch"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 115,
+    "heading": "Feedwater Systems",
+    "question": "Steam boilers lose water due to:",
+    "options": {
+      "A": "Blowoff, blowdown",
+      "B": "Soot blowing",
+      "C": "Leaks",
+      "D": "Humidification",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 116,
+    "heading": "Feedwater Systems",
+    "question": "The design pressure rating of the check valve on the boiler feedwater inlet to the boiler must exceed _____ of maximum allowable working pressure.",
+    "options": {
+      "A": "75%",
+      "B": "50%",
+      "C": "10%",
+      "D": "25%",
+      "E": "100%"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 117,
+    "heading": "Feedwater Systems",
+    "question": "The low water fuel cut-off of an unattended automatically fired heating boiler should shut the fuel off if the water level drops below:",
+    "options": {
+      "A": "Below the tops of the tubes in the top row of tubes",
+      "B": "The lowest permissible water level",
+      "C": "The fire line",
+      "D": "The lowest visible water level",
+      "E": "25 mm above the bottom of the gauge glass"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 118,
+    "heading": "Feedwater Systems",
+    "question": "The low water fuel cutoff:",
+    "options": {
+      "A": "Controls the water level in the boiler",
+      "B": "Shuts off the fuel and water supply",
+      "C": "Shuts off the water flow if the fuel pressure is low",
+      "D": "Shuts off the fuel if the water level is too low",
+      "E": "Shuts off the fuel if the water pressure is low"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 119,
+    "heading": "Feedwater Systems",
+    "question": "To prevent cavitation of the boiler feedwater pumps, the deaerator is situated:",
+    "options": {
+      "A": "Below the boiler feedwater pumps",
+      "B": "Above the boiler feedwater pumps",
+      "C": "Above the condensate return pumps",
+      "D": "After the boiler feedwater pumps",
+      "E": "Far from the boiler feedwater pumps"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 120,
+    "heading": "Feedwater Systems",
+    "question": "The medium used in a thermo hydraulic feed water regulator is:",
+    "options": {
+      "A": "Water and carbon dioxide",
+      "B": "Water and steam",
+      "C": "Water and nitrogen",
+      "D": "Oil and nitrogen",
+      "E": "Mercury and neon"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 121,
+    "heading": "Feedwater Systems",
+    "question": "A special condensate return piping connection that prevents low-pressure boilers from sustaining low water conditions is:",
+    "options": {
+      "A": "Hartford loop",
+      "B": "Double check valve non return loop",
+      "C": "Stratford loop",
+      "D": "Double bypass loop",
+      "E": "Receiver return loop"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 122,
+    "heading": "Feedwater Systems",
+    "question": "A typical boiler feedwater system is comprised of all of these except:",
+    "options": {
+      "A": "Deaerator",
+      "B": "Condensate receiver",
+      "C": "Boiler feedwater pumps and controls",
+      "D": "Condensate pump",
+      "E": "Steam pressure reducing valve"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 123,
+    "heading": "Feedwater Systems",
+    "question": "As per B31.1 Feedwater piping design pressure shall exceed the maiximum allowable working pressure of the boiler by the lesser of 25% or:",
+    "options": {
+      "A": "100 kPa",
+      "B": "250 kPa",
+      "C": "1550 kPa",
+      "D": "5500 kPa",
+      "E": "100 psi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 124,
+    "heading": "Feedwater Systems",
+    "question": "To prevent Carbonic acid from forming in the condensate:",
+    "options": {
+      "A": "Receivers are pressurized",
+      "B": "No carbon is used in the steel piping",
+      "C": "Additional sulphuric acid is injected",
+      "D": "Receivers are vented",
+      "E": "The PH is kept extremely low"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 125,
+    "heading": "Feedwater Systems",
+    "question": "A condensate receiver with a float controlled hydraulically operated make-up valve, the makeup valve is opened when:",
+    "options": {
+      "A": "The control pressure increases to overcome the spring pressure",
+      "B": "The level increase in the receiver",
+      "C": "The valve spring pressure overcomes the pressure in the control line",
+      "D": "The municipal water pressure increases",
+      "E": "The bleed off pressure increases"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 126,
+    "heading": "Feedwater Systems",
+    "question": "Feed water control valves used for throttling the flow should be:",
+    "options": {
+      "A": "Check valves",
+      "B": "Non-return valves",
+      "C": "Gate valve",
+      "D": "Globe valves",
+      "E": "Thermodynamic valves"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 127,
+    "heading": "Feedwater Systems",
+    "question": "The four main components of a two element feed water control system are the drum level transmitter, the steam flow transmitter, the _____, the controller with manual/auto station.",
+    "options": {
+      "A": "Water level indicator",
+      "B": "Fuel valve operator",
+      "C": "Level float control",
+      "D": "Steam pressure controller",
+      "E": "Feed water control valve"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 128,
+    "heading": "Feedwater Systems",
+    "question": "Heating boiler condensate return systems are classified as either:",
+    "options": {
+      "A": "Fresh and raw",
+      "B": "Low and high",
+      "C": "Gravity or pumped",
+      "D": "Raw and makeup",
+      "E": "Central and remote"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 129,
+    "heading": "Feedwater Systems",
+    "question": "Single element feed water control systems are very efficient in maintaining the boiler water level when:",
+    "options": {
+      "A": "The boiler is gas fired",
+      "B": "Load demands are low",
+      "C": "The boiler has a large water capacity",
+      "D": "The fluctuations in load are slow and small",
+      "E": "The boiler is a fire tube boiler"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 130,
+    "heading": "Feedwater Systems",
+    "question": "The raw water treatment system flow is in the following order:",
+    "options": {
+      "A": "Filters, clarifier, demineralizers",
+      "B": "Clarifier, filters, demineralizers",
+      "C": "Clarifier, demineralizer, filter",
+      "D": "Demineralizers, clarifier, filters",
+      "E": "Filters, demineralizer, clarifier"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 131,
+    "heading": "Feedwater Systems",
+    "question": "High pressure steam plant condensate return systems do not use:",
+    "options": {
+      "A": "Condensate return loops",
+      "B": "Dearators",
+      "C": "Low water cut-offs",
+      "D": "Condensate pumps",
+      "E": "Feedwater control valves"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 132,
+    "heading": "Feedwater Systems",
+    "question": "A low water fuel cutoff is fitted to a boiler to prevent:",
+    "options": {
+      "A": "Damage to the boiler from an overheated condition",
+      "B": "Damage to the boiler from over pressure",
+      "C": "Damage to the radial stays in the steam dome",
+      "D": "The fire from shutting off too quickly and damaging the boiler",
+      "E": "Shutting off the water when there is no fuel"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 133,
+    "heading": "Feedwater Systems",
+    "question": "Float controlled switches can be used for:",
+    "options": {
+      "A": "Feedwater temperature controller",
+      "B": "High humidity alarm",
+      "C": "Fuel gas temperature alarm",
+      "D": "Furnace temperature control",
+      "E": "Low-high water level alarms"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 134,
+    "heading": "Feedwater Systems",
+    "question": "With single element feed water control, the level transmitter output is:",
+    "options": {
+      "A": "Proportional to drum level",
+      "B": "A function of steam flow",
+      "C": "Constant, regardless of level",
+      "D": "Received by a final element",
+      "E": "Sent to a selector station"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 135,
+    "heading": "Feedwater Systems",
+    "question": "It is important to recover and reuse condensate because:",
+    "options": {
+      "A": "Smaller volumes of raw water will need treatment",
+      "B": "Less treatment chemical are used",
+      "C": "Less boiler heat is required to heat water",
+      "D": "Less fuel consumption and emissions",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 136,
+    "heading": "Feedwater Systems",
+    "question": "To prevent _______ the non condensable gases that are removed by the deaerator include carbon dioxide and oxygen.",
+    "options": {
+      "A": "Cavitation",
+      "B": "High pressure",
+      "C": "Vapour locking",
+      "D": "Waterside corrosion",
+      "E": "Fireside corrosion"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 137,
+    "heading": "Feedwater Systems",
+    "question": "Make-up water is raw water that does not come from:",
+    "options": {
+      "A": "Lakes",
+      "B": "Condensate return",
+      "C": "Municipal water",
+      "D": "Wells",
+      "E": "Rivers"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 138,
+    "heading": "Feedwater Systems",
+    "question": "Make-up water and condensate returns together are called:",
+    "options": {
+      "A": "Feed water",
+      "B": "Raw water",
+      "C": "Blowdown",
+      "D": "Waste water",
+      "E": "Pure water"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 139,
+    "heading": "Feedwater Systems",
+    "question": "As a pressure vessel designed to ASME VIII, all deaerators are required to have:",
+    "options": {
+      "A": "A safe ignition system",
+      "B": "A low NOx burner",
+      "C": "Pressure relief valves",
+      "D": "Fuel cutoff switches",
+      "E": "Combustion controls"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 140,
+    "heading": "Feedwater Systems",
+    "question": "When a number of steam heating boilers are installed using a common feedwater system:",
+    "options": {
+      "A": "Each must have a completely separate feedwater system",
+      "B": "All are connected to the same high level shutdown switch",
+      "C": "All are supplied from a single level controller",
+      "D": "Individual feedwater controls are needed",
+      "E": "All are controlled using a single feedwater valve"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 141,
+    "heading": "Feedwater Systems",
+    "question": "Gravity return condensate systems are generally restricted to:",
+    "options": {
+      "A": "Once through injection boilers",
+      "B": "Smaller heating plants",
+      "C": "Large steam generators",
+      "D": "Waste heat boilers",
+      "E": "Very large heating plants"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 142,
+    "heading": "Feedwater Systems",
+    "question": "A current safety code states that a boiler that is not under continuous attendance must be equipped with:",
+    "options": {
+      "A": "Must be a manually reset device",
+      "B": "Must be a normally open switch",
+      "C": "Can also activate an alarm",
+      "D": "A minimum of two independent low water fuel cutoffs",
+      "E": "Serves no other purpose"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 143,
+    "heading": "Feedwater Systems",
+    "question": "In a two element feed water control, the following items are measured:",
+    "options": {
+      "A": "Feed water flow and steam flow",
+      "B": "Boiler water level and fuel flow",
+      "C": "Temperature and volume of feed water",
+      "D": "Boiler water level and feed water flow",
+      "E": "Boiler water level and steam flow"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 144,
+    "heading": "Feedwater Systems",
+    "question": "A boiler control manual/automatic transfer or selector station:",
+    "options": {
+      "A": "Can be used to manually override automatic control loops",
+      "B": "Output is directed to the primary element of a loop",
+      "C": "Is located upstream of the controller in a control loop",
+      "D": "Can be changed from manual to automatic without balancing",
+      "E": "Must be operated in manual mode for only short periods"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 145,
+    "heading": "Feedwater Systems",
+    "question": "Condensate receivers should be sized to hold a volume equivalent to _______ of water evaporated by the boiler at normal load.",
+    "options": {
+      "A": "1-2 hours",
+      "B": "5-10 minutes",
+      "C": "20-30 minutes",
+      "D": "30-60 minutes",
+      "E": "15-20 minutes"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 146,
+    "heading": "Feedwater Systems",
+    "question": "In a float type low water fuel cutoff, the mercury switch:",
+    "options": {
+      "A": "Closes the burner circuit when the level is low",
+      "B": "Opens the burner circuit when the level is low",
+      "C": "Closes the burner circuit when the level is high",
+      "D": "Has no effect on the burner circuit",
+      "E": "Opens the burner circuit when the level is high"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 147,
+    "heading": "Feedwater Systems",
+    "question": "The level control valves used in the feedwater system include all of these but not:",
+    "options": {
+      "A": "Dearator level",
+      "B": "Boiler water level",
+      "C": "Continuous blowdown",
+      "D": "Condensate receiver level",
+      "E": "Condenser hot well level"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 148,
+    "heading": "Feedwater Systems",
+    "question": "The second element of a two element feed water control system compensates for or offsets:",
+    "options": {
+      "A": "Differential steam flow rate",
+      "B": "Shrink and swell",
+      "C": "Level variation",
+      "D": "Feed water temperature variation",
+      "E": "Differential feed water pressure"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 149,
+    "heading": "Feedwater Systems",
+    "question": "In a Hartford loop, the condensate return piping connection is located:",
+    "options": {
+      "A": "At the normal operating water level",
+      "B": "Directly connected to the steam drum",
+      "C": "Just below the mud drum",
+      "D": "At the surface of the fire tubes",
+      "E": "At the lowest safe water level"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 150,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "CSA B51 requires a blowoff vessel when:",
+    "options": {
+      "A": "Pressure is below 103 kpa",
+      "B": "Pressure is above 103 kpa",
+      "C": "Pressure is below 100 kpa",
+      "D": "Temperature is below 65 Celcius",
+      "E": "None of these is a requirement"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 151,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Intermittent blow off is performed:",
+    "options": {
+      "A": "Only as needed",
+      "B": "When the boiler is shutdown",
+      "C": "Continuously",
+      "D": "Before restarting the boiler",
+      "E": "Before external water treatment"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 152,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "The continuous boiler water blowdown is used to:",
+    "options": {
+      "A": "Reduce the residual sulfite",
+      "B": "Increase the residual phosphates",
+      "C": "Feed chemicals to the blowdown tank",
+      "D": "Control the total suspended solids",
+      "E": "Control the total dissolved solids"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 153,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "The blowdown system has two valves. They should be opened and closed in the correct sequence to:",
+    "options": {
+      "A": "Prevent a high level in the steam drum",
+      "B": "Protect the valve closest to the boiler",
+      "C": "Prevent excessive blowdown",
+      "D": "Prevent the boiler losing level",
+      "E": "Carry out the blowdown accurately"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 154,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "A boiler blowdown system is equipped with slow and fast opening valves. The quick opening valve is placed:",
+    "options": {
+      "A": "Closest to the boiler and opened last",
+      "B": "Closest to the boiler and opened first",
+      "C": "Furthest from the boiler and opened first",
+      "D": "On the blow-off tank",
+      "E": "Furthest from the boiler and opened last"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 155,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Water leaving a blowdown tank and entering a sewer must not exceed:",
+    "options": {
+      "A": "80ºC",
+      "B": "65ºC",
+      "C": "45ºC",
+      "D": "75ºC",
+      "E": "50ºC"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 156,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "ASME recommends a maximum total alkalinity of ____ for a boiler operating at 4000 kPa.",
+    "options": {
+      "A": "250",
+      "B": "40",
+      "C": "150",
+      "D": "350",
+      "E": "2500"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 157,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "A blow-off tank is used to:",
+    "options": {
+      "A": "Prevent damage to the sewer",
+      "B": "Keep the condensate hot",
+      "C": "Lower the pH of the water",
+      "D": "Lower the dissolved solids in the water",
+      "E": "Prevent sludge from entering the boiler"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 158,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Hazards associated with Blowoff include:",
+    "options": {
+      "A": "Thermal shock",
+      "B": "Erosion and corrosion",
+      "C": "Cracks and leaks",
+      "D": "Water hammer",
+      "E": "All these are possible hazards"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 159,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "A typical rate of continuous blowdown is approximately:",
+    "options": {
+      "A": "1% of steaming rate",
+      "B": "5% of steaming rate",
+      "C": "15% of steaming rate",
+      "D": "3% of steaming rate",
+      "E": "10% of steaming rate"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 160,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "A blowdown tank will:",
+    "options": {
+      "A": "Lower the temperature and pressure of the incoming boiler water",
+      "B": "Be allowed to accommodate only one boiler",
+      "C": "Not have to have any specific capacity or volume",
+      "D": "Have to be cleaned monthly to remove the collected sludge",
+      "E": "Not be classed as a pressure vessel since it is vented"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 161,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "The type of valve that can be fully opened with a single 90 degree turn:",
+    "options": {
+      "A": "Quick opening",
+      "B": "Y- globe",
+      "C": "Angle",
+      "D": "Seat less",
+      "E": "Hard seat globe"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 162,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Boiler water having the greatest concentration of suspended solids is found:",
+    "options": {
+      "A": "In the bottom of the mud drum",
+      "B": "In convection zone down comer tubes",
+      "C": "At the bottom of the steam drum",
+      "D": "In water wall riser tubes",
+      "E": "Just below the steam drum water line"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 163,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Before anyone enters a boiler drum or shell, the blow-off valves should be:",
+    "options": {
+      "A": "Closed and locked",
+      "B": "Closed",
+      "C": "Lubricated for ease of operation",
+      "D": "Open fully and tagged",
+      "E": "Removed completely"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 164,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "The operator, while blowing down a boiler, should have a helper to:",
+    "options": {
+      "A": "Open the slow opening valve",
+      "B": "Close the quick opening valve in a hurry",
+      "C": "Watch the gauge glass level",
+      "D": "Open the water regulating valve",
+      "E": "Open the blow-off tank drain"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 165,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Blowdown guidelines can be found in:",
+    "options": {
+      "A": "ASME VIII and CSA B52",
+      "B": "CSA B52 and CSA B51",
+      "C": "ASME IX and ASME VII",
+      "D": "ASME B51 and CSA VII",
+      "E": "ASME VII and CSA B51"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 166,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "The blow-off connection on a boiler is located at the:",
+    "options": {
+      "A": "Bottom of the steam drum in a watertube boiler",
+      "B": "Top of the mud drum in a firetube boiler",
+      "C": "Bottom of the shell in the firetube boiler",
+      "D": "Water line in both firetube and watertube boilers",
+      "E": "Bottom of the steam drum of a watertube boiler"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 167,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Boiler water having the highest total dissolved solids (TDS) content is found:",
+    "options": {
+      "A": "At the top of the steam drum",
+      "B": "At the bottom of the steam drum",
+      "C": "Just below the waterline of the steam drum",
+      "D": "At the bottom of the mud drum",
+      "E": "In the water wall tubes"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 168,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "The continuous boiler water blowdown is used:",
+    "options": {
+      "A": "To control the bottom blowdown",
+      "B": "To adjust the drum water level",
+      "C": "In place of the main blowdown",
+      "D": "To introduce chemicals to the boiler",
+      "E": "In addition to the main blowdown"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 169,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Sludge is usually removed from a boiler by:",
+    "options": {
+      "A": "Blowing down the boiler using the continuous blowdown",
+      "B": "Filtering the water before it leaves the boiler",
+      "C": "Blowing down the boiler using the bottom blowdown",
+      "D": "Letting it settle into a sludge trap",
+      "E": "Re-circulating it through the condenser"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 170,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "The radiant heating zone in a boiler is:",
+    "options": {
+      "A": "Upstream of the reheater",
+      "B": "Downstream of the economizer",
+      "C": "Between the reheater and primary superheater",
+      "D": "Between the primary superheater and economizer",
+      "E": "Downstream of the air preheater"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 171,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "Shot cleaning pellets are transported to the top of the boiler:",
+    "options": {
+      "A": "And are not recycled",
+      "B": "Manually",
+      "C": "By a hydraulic hoisting system",
+      "D": "In a steam injection system",
+      "E": "By using an air stream"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 172,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "A cleaning method that uses low frequency noise is:",
+    "options": {
+      "A": "Acoustic",
+      "B": "Hammers",
+      "C": "CO₂ blasting",
+      "D": "Rapping",
+      "E": "Explosive"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 173,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "Rapping may use:",
+    "options": {
+      "A": "Hammers",
+      "B": "Loud speakers",
+      "C": "Superheated steam",
+      "D": "High pressure air",
+      "E": "Explosives"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 174,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "A furnace wall sootblower sequence of operation is:",
+    "options": {
+      "A": "Extend, blow, retract, rotate",
+      "B": "Rotate, extend, blow, retract",
+      "C": "Retract, blow, rotate, extend",
+      "D": "Extend, rotate and blow, retract",
+      "E": "Rotate and blow, extend, retract"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 175,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "Shot cleaning pellets have a diameter of approximately:",
+    "options": {
+      "A": "2 cm",
+      "B": "6 cm",
+      "C": "2 mm",
+      "D": "0.6 cm",
+      "E": "0.6 mm"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 176,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "Soot blowers on a boiler should not be operated when the load on the boiler is below:",
+    "options": {
+      "A": "30%",
+      "B": "35%",
+      "C": "40%",
+      "D": "50%",
+      "E": "75%"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 177,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "Sootblowers are strategically arranged in:",
+    "options": {
+      "A": "Combustion air inlet",
+      "B": "Boiler steam drum",
+      "C": "Convection heating zone only",
+      "D": "Radiant heating zone only",
+      "E": "Both radiant and convection zones"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 178,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "Soot and ash are undesirable on tube surfaces because they:",
+    "options": {
+      "A": "Cause overheating of the tubes",
+      "B": "Reduce boiler efficiency",
+      "C": "Increase heat transfer through the heating surfaces",
+      "D": "Reduce draft for power requirements",
+      "E": "Reduce the heating surface of the boiler"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 179,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "In addition to reducing heat transfer, soot and ash on fireside tubes also:",
+    "options": {
+      "A": "Raises superheater temperatures",
+      "B": "Results in the formation of CO in the flue gases",
+      "C": "Results in smoke emissions from the stack",
+      "D": "Lessens the chance of furnace explosions",
+      "E": "Increases draft fan power requirements"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 180,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "While a steam sootblower is in operation, it is cooled by:",
+    "options": {
+      "A": "Air",
+      "B": "Flue gases",
+      "C": "Steam",
+      "D": "Boiler fuel",
+      "E": "Water"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 181,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "Sootblowers are especially required on a boiler fired with:",
+    "options": {
+      "A": "Pulverized coal",
+      "B": "Natural gas",
+      "C": "Diesel fuel",
+      "D": "Propane gas",
+      "E": "Butane gas"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 182,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "A stationary sootblower:",
+    "options": {
+      "A": "Has a row of nozzles throughout the lance length",
+      "B": "Has two opposing nozzles at the end of its lance",
+      "C": "Is cooled by water while not in use",
+      "D": "Is cooled by air while not in use",
+      "E": "Does not rotate while blowing"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 183,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "30%",
+    "options": {
+      "A": "Superheated at the soot blower nozzle",
+      "B": "Wet unsaturated steam",
+      "C": "The same as boiler drum pressure",
+      "D": "Mixed with compressed air",
+      "E": "Greater than boiler drum pressure"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 184,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "Retractable sootblowers are not necessary in the area below the:",
+    "options": {
+      "A": "Primary superheater",
+      "B": "Secondary superheater",
+      "C": "Reheater",
+      "D": "Economizer",
+      "E": "Water walls"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 185,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "During a sootblowing operation the boiler firing rate should be at least:",
+    "options": {
+      "A": "15%",
+      "B": "30%",
+      "C": "80%",
+      "D": "20%",
+      "E": "50%"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 186,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "Stationary sootblowers should not be used in the area of the:",
+    "options": {
+      "A": "Secondary air heater",
+      "B": "Convection heating zone of the boiler",
+      "C": "Reheater",
+      "D": "Air preheater",
+      "E": "Economizer"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 187,
+    "heading": "Boiler Fireside Cleaning Systems",
+    "question": "A long retractable sootblower will:",
+    "options": {
+      "A": "Not blow until fully extended",
+      "B": "Blow during extension and retraction as it rotates",
+      "C": "Have nozzles throughout its full length",
+      "D": "Be used to clean furnace walls",
+      "E": "Require less exterior room than a furnace wall unit"
+    },
+    "correctAnswer": "B"
+  }
+]

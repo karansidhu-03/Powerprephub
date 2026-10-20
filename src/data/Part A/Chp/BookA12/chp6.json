@@ -1,0 +1,236 @@
+[
+  {
+    "number": 1,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "The radiant heating zone in a boiler is:",
+    "options": {
+      "A": "Upstream of the reheater",
+      "B": "Downstream of the economizer",
+      "C": "Between the reheater and primary superheater",
+      "D": "Between the primary superheater and economizer",
+      "E": "Downstream of the air preheater"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 2,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "Shot cleaning pellets are transported to the top of the boiler:",
+    "options": {
+      "A": "And are not recycled",
+      "B": "Manually",
+      "C": "By a hydraulic hoisting system",
+      "D": "In a steam injection system",
+      "E": "By using an air stream"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 3,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "A cleaning method that uses low frequency noise is:",
+    "options": {
+      "A": "Acoustic",
+      "B": "Hammers",
+      "C": "CO₂ blasting",
+      "D": "Rapping",
+      "E": "Explosive"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 4,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "Rapping may use:",
+    "options": {
+      "A": "Hammers",
+      "B": "Loud speakers",
+      "C": "Superheated steam",
+      "D": "High pressure air",
+      "E": "Explosives"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 5,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "A furnace wall sootblower sequence of operation is:",
+    "options": {
+      "A": "Extend, blow, retract, rotate",
+      "B": "Rotate, extend, blow, retract",
+      "C": "Retract, blow, rotate, extend",
+      "D": "Extend, rotate and blow, retract",
+      "E": "Rotate and blow, extend, retract"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 6,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "Shot cleaning pellets have a diameter of approximately:",
+    "options": {
+      "A": "2 cm",
+      "B": "6 cm",
+      "C": "2 mm",
+      "D": "0.6 cm",
+      "E": "0.6 mm"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 7,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "Soot blowers on a boiler should not be operated when the load on the boiler is below:",
+    "options": {
+      "A": "30%",
+      "B": "35%",
+      "C": "40%",
+      "D": "50%",
+      "E": "75%"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 8,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "Sootblowers are strategically arranged in:",
+    "options": {
+      "A": "Combustion air inlet",
+      "B": "Boiler steam drum",
+      "C": "Convection heating zone only",
+      "D": "Radiant heating zone only",
+      "E": "Both radiant and convection zones"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 9,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "Soot and ash are undesirable on tube surfaces because they:",
+    "options": {
+      "A": "Cause overheating of the tubes",
+      "B": "Reduce boiler efficiency",
+      "C": "Increase heat transfer through the heating surfaces",
+      "D": "Reduce draft for power requirements",
+      "E": "Reduce the heating surface of the boiler"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 10,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "In addition to reducing heat transfer, soot and ash on fireside tubes also:",
+    "options": {
+      "A": "Raises superheater temperatures",
+      "B": "Results in the formation of CO in the flue gases",
+      "C": "Results in smoke emissions from the stack",
+      "D": "Lessens the chance of furnace explosions",
+      "E": "Increases draft fan power requirements"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 11,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "While a steam sootblower is in operation, it is cooled by:",
+    "options": {
+      "A": "Air",
+      "B": "Flue gases",
+      "C": "Steam",
+      "D": "Boiler fuel",
+      "E": "Water"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 12,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "Sootblowers are especially required on a boiler fired with:",
+    "options": {
+      "A": "Pulverized coal",
+      "B": "Natural gas",
+      "C": "Diesel fuel",
+      "D": "Propane gas",
+      "E": "Butane gas"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 13,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "A stationary sootblower:",
+    "options": {
+      "A": "Has a row of nozzles throughout the lance length",
+      "B": "Has two opposing nozzles at the end of its lance",
+      "C": "Is cooled by water while not in use",
+      "D": "Is cooled by air while not in use",
+      "E": "Does not rotate while blowing"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 14,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "The steam used for sootblowing is usually:",
+    "options": {
+      "A": "Superheated at the soot blower nozzle",
+      "B": "Wet unsaturated steam",
+      "C": "The same as boiler drum pressure",
+      "D": "Mixed with compressed air",
+      "E": "Greater than boiler drum pressure"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 15,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "Retractable sootblowers are not necessary in the area below the:",
+    "options": {
+      "A": "Primary superheater",
+      "B": "Secondary superheater",
+      "C": "Reheater",
+      "D": "Economizer",
+      "E": "Water walls"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 16,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "During a sootblowing operation the boiler firing rate should be at least:",
+    "options": {
+      "A": "15%",
+      "B": "30%",
+      "C": "80%",
+      "D": "20%",
+      "E": "50%"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 17,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "Stationary sootblowers should not be used in the area of the:",
+    "options": {
+      "A": "Secondary air heater",
+      "B": "Convection heating zone of the boiler",
+      "C": "Reheater",
+      "D": "Air preheater",
+      "E": "Economizer"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 18,
+    "heading": " Boiler Fireside Cleaning Systems",
+    "question": "A long retractable sootblower will:",
+    "options": {
+      "A": "Not blow until fully extended",
+      "B": "Blow during extension and retraction as it rotates",
+      "C": "Have nozzles throughout its full length",
+      "D": "Be used to clean furnace walls",
+      "E": "Require less exterior room than a furnace wall unit"
+    },
+    "correctAnswer": "B"
+  }
+]

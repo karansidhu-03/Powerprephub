@@ -1,0 +1,392 @@
+[
+  {
+    "number": 1,
+    "heading": "Combustion",
+    "question": "Combustion air openings are required by code and combustion air can be said to be:",
+    "options": {
+      "A": "All air which contributes to ensure the completion of combustion",
+      "B": "All air which enters the boiler furnace, including high excess air",
+      "C": "Excess air",
+      "D": "All air which contacts the raw fuel before the burner",
+      "E": "Atomizing air"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 2,
+    "heading": "Combustion",
+    "question": "The formation of carbon monoxide in the furnace is undesirable because it:\n\n1. Increases efficiency\n2. Is a Pollutant\n3. Produces less heat\n4. Is wasteful",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "1, 2, 4",
+      "C": "2, 3, 4",
+      "D": "1, 3, 4",
+      "E": "3, 4"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 3,
+    "heading": "Combustion",
+    "question": "Hog fuels may include:",
+    "options": {
+      "A": "Wood chips",
+      "B": "Herbaceous fuels",
+      "C": "Wood pellets",
+      "D": "Yard trimmings",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 4,
+    "heading": "Combustion",
+    "question": "The amount of excess air required for combustion is determined by the:",
+    "options": {
+      "A": "Ambient temperature of the outside air",
+      "B": "Load on the boiler",
+      "C": "Air supply pressure",
+      "D": "Size of the boiler",
+      "E": "Composition and condition of the fuel"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 5,
+    "heading": "Combustion",
+    "question": "Strategies to reduce NOx when burning biomass does not include:",
+    "options": {
+      "A": "Increasing the fuel to air ratio",
+      "B": "Increasing the temperature",
+      "C": "Treating the combustion gases",
+      "D": "Lowering the mixing time in the burner",
+      "E": "Lowering the combustion temperature"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 6,
+    "heading": "Combustion",
+    "question": "The balanced equation for the incomplete combustion of carbon is:",
+    "options": {
+      "A": "2C - 2O₂ = 4CO = heat",
+      "B": "C + 2O₂ = 2CO + heat",
+      "C": "2C + O₂ = 2CO + heat",
+      "D": "2C + O₂ = CO + heat",
+      "E": "C + O₂ = CO₂ + heat"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 7,
+    "heading": "Combustion",
+    "question": "Carbon monoxide is both combustible and ___________.",
+    "options": {
+      "A": "Non compressible",
+      "B": "Expensive",
+      "C": "Inert",
+      "D": "Toxic",
+      "E": "Gray in color"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 8,
+    "heading": "Combustion",
+    "question": "Carbon that is not combined with hydrogen is referred to as:",
+    "options": {
+      "A": "Fixed carbon",
+      "B": "Separated carbon",
+      "C": "Mono-carbon",
+      "D": "United carbon",
+      "E": "Loose carbon"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 9,
+    "heading": "Combustion",
+    "question": "The combustion equation S + O2=:",
+    "options": {
+      "A": "2S + O",
+      "B": "SO₂ + heat",
+      "C": "SO₂",
+      "D": "SO₂ + S",
+      "E": "2SO₂ + heat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 10,
+    "heading": "Combustion",
+    "question": "The combustion equation C + O2=:",
+    "options": {
+      "A": "CO₂ + heat",
+      "B": "CO + heat",
+      "C": "2H₂O + heat",
+      "D": "CO",
+      "E": "2H + O₂"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 11,
+    "heading": "Combustion",
+    "question": "What types of refractory associated problems could be encountered when burning solid fuels?",
+    "options": {
+      "A": "Corrosion",
+      "B": "Erosion",
+      "C": "Ash",
+      "D": "Clinkers",
+      "E": "All of these"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 12,
+    "heading": "Combustion",
+    "question": "The typical amount of excess O2 for gaseous fuel is:",
+    "options": {
+      "A": "7%",
+      "B": "5%",
+      "C": "10%",
+      "D": "15%",
+      "E": "2%"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 13,
+    "heading": "Combustion",
+    "question": "The approximate amount of excess air for fuel oil is:",
+    "options": {
+      "A": "10% - 15%",
+      "B": "3% - 10%",
+      "C": "15% - 20%",
+      "D": "1% - 2%",
+      "E": "25% - 35%"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 14,
+    "heading": "Combustion",
+    "question": "What amount of coal can be burned with 225kg of combustion air, which includes 20% excess air? ( the theoretical air for this particular coal is 7.5kg air/kg coal)",
+    "options": {
+      "A": "7.5 kg",
+      "B": "10 kg",
+      "C": "25 kg",
+      "D": "2.5 kg",
+      "E": "225 kg"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 15,
+    "heading": "Combustion",
+    "question": "Poor combustion due to the improper amount of air will cause:",
+    "options": {
+      "A": "A collection of partly burned air",
+      "B": "The circulation of flue gases to stop",
+      "C": "A high carbon dioxide content in the wind box",
+      "D": "A collection of partly burned fuel that could explode",
+      "E": "Hot furnace temperatures"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 16,
+    "heading": "Combustion",
+    "question": "Engineers must understand the importance of combustion in order to:\n1. Order the right grade of fuel\n2. Burn the fuel completely\n3. Produce smokeless fires\n4. Minimize the danger of explosion",
+    "options": {
+      "A": "1, 2, 3, 4",
+      "B": "1, 2",
+      "C": "2, 3",
+      "D": "2, 3, 4",
+      "E": "1, 3"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 17,
+    "heading": "Combustion",
+    "question": "Which of the following is not an advantage of fuel oil over coal?",
+    "options": {
+      "A": "Oil is easier to measure",
+      "B": "Oil needs less storage space",
+      "C": "Oil burns more cleanly",
+      "D": "Coal needs less storage space",
+      "E": "Oil requires less handling equipment"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 18,
+    "heading": "Combustion",
+    "question": "The amount of air required to supply just enough oxygen for complete combustion is called the:",
+    "options": {
+      "A": "Theoretical air",
+      "B": "Perfect air",
+      "C": "Exact air",
+      "D": "Primary air",
+      "E": "Secondary air"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 19,
+    "heading": "Combustion",
+    "question": "The balanced equation for the complete combustion of hydrogen is:",
+    "options": {
+      "A": "2H + O₂ = H₂O + heat",
+      "B": "2H₂ + O₂ = 2H₂O + heat",
+      "C": "H₂ + O = H₂O + heat",
+      "D": "2H₂ + 2O₂ = 2H₂O + heat",
+      "E": "H₂ + 2O₂ = 2H₂O + heat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 20,
+    "heading": "Combustion",
+    "question": "The combustion equation 2H2+ O2=:",
+    "options": {
+      "A": "2H + O₂",
+      "B": "2H₂O + heat",
+      "C": "2H₂O",
+      "D": "H₂O",
+      "E": "H₂O + heat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 21,
+    "heading": "Combustion",
+    "question": "Ethane is a component of natural gas and constitutes a percent volume of:",
+    "options": {
+      "A": "10% - 20%",
+      "B": "60% - 70%",
+      "C": "30% - 40%",
+      "D": "5% - 10%",
+      "E": "80% - 90%"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 22,
+    "heading": "Combustion",
+    "question": "Non-combustible components of a fuel are:\n1. S\n2. C\n3. CO2\n4. H2O\n5. H",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "2, 3, 4 ",
+      "C": "3, 4, 5",
+      "D": "4, 5",
+      "E": "3, 4"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 23,
+    "heading": "Combustion",
+    "question": "The refining process for fuel oils involves separating the crude oil into end products which have distinguishing characteristics such as specific gravity, viscosity, and:",
+    "options": {
+      "A": "Solids content",
+      "B": "Color",
+      "C": "Flash point",
+      "D": "Odor",
+      "E": "Heating value"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 24,
+    "heading": "Combustion",
+    "question": "Which of the following are necessary to ensure the complete combustion of a fuel:\n \n1.  Enough air must be supplied\n2.  The temperature of the furnace must be high enough\n3.  There must be enough water in the boiler\n4.  Enough time must be allowed for the fuel to burn\n5.  The safety valve must be properly set\n6.  The air and fuel must be thoroughly mixed together",
+    "options": {
+      "A": "1, 2, 4, 6",
+      "B": "1, 2, 3 4",
+      "C": "1, 3, 4, 6",
+      "D": "1, 3, 5, 6",
+      "E": "2,. 3, 4, 5 "
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 25,
+    "heading": "Combustion",
+    "question": "Efficient combustion is achieved by controlling the:",
+    "options": {
+      "A": "Steam-water ratio",
+      "B": "Fuel-air ratio",
+      "C": "Water-fuel ratio",
+      "D": "Air-flue gas ratio",
+      "E": "Steam-fuel ratio"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 26,
+    "heading": "Combustion",
+    "question": "Coal is composed of which of the following combustible components?",
+    "options": {
+      "A": "Carbon dioxide, nitrogen, sulphur dioxide",
+      "B": "Carbon, hydrogen, sulphur",
+      "C": "Hydrogen, oxygen, moisture",
+      "D": "Carbon, ash, nitrogen",
+      "E": "Nitrogen, oxygen, ash"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 27,
+    "heading": "Combustion",
+    "question": "Insufficient air for combustion will result in:\n1. Carbon in the flue gases\n2. High oxygen reading in the flue gases\n3. Low oxygen reading in the flue gases\n4. High CO in the flue gases\n5. Higher than normal flue gas temperature",
+    "options": {
+      "A": "2, 3, 4",
+      "B": "3, 4, 5",
+      "C": "1, 2, 3",
+      "D": "1, 3, 4",
+      "E": "1, 3, 5"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 28,
+    "heading": "Combustion",
+    "question": "Which element in the air will combine with the combustible elements of the fuel?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Carbon dioxide",
+      "C": "Hydrogen",
+      "D": "Carbon monoxide",
+      "E": "Nitrogen"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 29,
+    "heading": "Combustion",
+    "question": "Combustion of fuel in a boiler furnace:",
+    "options": {
+      "A": "Is perfect if there is no moisture in the stack gases",
+      "B": "Requires a higher air-fuel ratio than a gas turbine",
+      "C": "Should be performed with a minimum of excess air",
+      "D": "Requires mechanical draft",
+      "E": "Requires a higher air-fuel ratio than a diesel engine"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 30,
+    "heading": "Combustion",
+    "question": "Combustibles in fuels are:\n1. Carbon\n2. Sulphur\n3. Ash\n4. Nitrogen\n5. Hydrogen",
+    "options": {
+      "A": "1, 2, 3, 4, 5",
+      "B": "1, 5",
+      "C": "4, 5",
+      "D": "1, 2, 5",
+      "E": "3, 5"
+    },
+    "correctAnswer": "D"
+  }
+]

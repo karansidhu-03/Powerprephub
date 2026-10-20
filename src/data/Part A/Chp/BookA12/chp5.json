@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "CSA B51 requires a blowoff vessel when:",
+    "options": {
+      "A": "Pressure is below 103 kpa",
+      "B": "Pressure is above 103 kpa",
+      "C": "Pressure is below 100 kpa",
+      "D": "Temperature is below 65 Celcius",
+      "E": "None of these is a requirement"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 2,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Intermittent blow off is performed:",
+    "options": {
+      "A": "Only as needed",
+      "B": "When the boiler is shutdown",
+      "C": "Continuously",
+      "D": "Before restarting the boiler",
+      "E": "Before external water treatment"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 3,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "The continuous boiler water blowdown is used to:",
+    "options": {
+      "A": "Reduce the residual sulfite",
+      "B": "Increase the residual phosphates",
+      "C": "Feed chemicals to the blowdown tank",
+      "D": "Control the total suspended solids",
+      "E": "Control the total dissolved solids"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 4,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "The blowdown system has two valves. They should be opened and closed in the correct sequence to:",
+    "options": {
+      "A": "Prevent a high level in the steam drum",
+      "B": "Protect the valve closest to the boiler",
+      "C": "Prevent excessive blowdown",
+      "D": "Prevent the boiler losing level",
+      "E": "Carry out the blowdown accurately"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "A boiler blowdown system is equipped with slow and fast opening valves. The quick opening valve is placed:",
+    "options": {
+      "A": "Closest to the boiler and opened last",
+      "B": "Closest to the boiler and opened first",
+      "C": "Furthest from the boiler and opened first",
+      "D": "On the blow-off tank",
+      "E": "Furthest from the boiler and opened last"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 6,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Water leaving a blowdown tank and entering a sewer must not exceed:",
+    "options": {
+      "A": "80ºC",
+      "B": "65ºC",
+      "C": "45ºC",
+      "D": "75ºC",
+      "E": "50ºC"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 7,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "ASME recommends a maximum total alkalinity of ____ for a boiler operating at 4000 kPa.",
+    "options": {
+      "A": "250",
+      "B": "40",
+      "C": "150",
+      "D": "350",
+      "E": "2500"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 8,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "A blow-off tank is used to:",
+    "options": {
+      "A": "Prevent damage to the sewer",
+      "B": "Keep the condensate hot",
+      "C": "Lower the pH of the water",
+      "D": "Lower the dissolved solids in the water",
+      "E": "Prevent sludge from entering the boiler"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 9,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Hazards associated with Blowoff include:",
+    "options": {
+      "A": "Thermal shock",
+      "B": "Erosion and corrosion",
+      "C": "Cracks and leaks",
+      "D": "Water hammer",
+      "E": "All these are possible hazards"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 10,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "A typical rate of continuous blowdown is approximately:",
+    "options": {
+      "A": "1% of steaming rate",
+      "B": "5% of steaming rate",
+      "C": "15% of steaming rate",
+      "D": "3% of steaming rate",
+      "E": "10% of steaming rate"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 11,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "A blowdown tank will:",
+    "options": {
+      "A": "Lower the temperature and pressure of the incoming boiler water",
+      "B": "Be allowed to accommodate only one boiler",
+      "C": "Not have to have any specific capacity or volume",
+      "D": "Have to be cleaned monthly to remove the collected sludge",
+      "E": "Not be classed as a pressure vessel since it is vented"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 12,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "The type of valve that can be fully opened with a single 90 degree turn:",
+    "options": {
+      "A": "Quick opening",
+      "B": "Y- globe",
+      "C": "Angle",
+      "D": "Seat less",
+      "E": "Hard seat globe"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 13,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Boiler water having the greatest concentration of suspended solids is found:",
+    "options": {
+      "A": "In the bottom of the mud drum",
+      "B": "In convection zone down comer tubes",
+      "C": "At the bottom of the steam drum",
+      "D": "In water wall riser tubes",
+      "E": "Just below the steam drum water line"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 14,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Before anyone enters a boiler drum or shell, the blow-off valves should be:",
+    "options": {
+      "A": "Closed and locked",
+      "B": "Closed",
+      "C": "Lubricated for ease of operation",
+      "D": "Open fully and tagged",
+      "E": "Removed completely"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 15,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "The operator, while blowing down a boiler, should have a helper to:",
+    "options": {
+      "A": "Open the slow opening valve",
+      "B": "Close the quick opening valve in a hurry",
+      "C": "Watch the gauge glass level",
+      "D": "Open the water regulating valve",
+      "E": "Open the blow-off tank drain"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 16,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Blowdown guidelines can be found in:",
+    "options": {
+      "A": "ASME VIII and CSA B52",
+      "B": "CSA B52 and CSA B51",
+      "C": "ASME IX and ASME VII",
+      "D": "ASME B51 and CSA VII",
+      "E": "ASME VII and CSA B51"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 17,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "The blow-off connection on a boiler is located at the:",
+    "options": {
+      "A": "Bottom of the steam drum in a watertube boiler",
+      "B": "Top of the mud drum in a firetube boiler",
+      "C": "Bottom of the shell in the firetube boiler",
+      "D": "Water line in both firetube and watertube boilers",
+      "E": "Bottom of the steam drum of a watertube boiler"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 18,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Boiler water having the highest total dissolved solids (TDS) content is found:",
+    "options": {
+      "A": "At the top of the steam drum",
+      "B": "At the bottom of the steam drum",
+      "C": "Just below the waterline of the steam drum",
+      "D": "At the bottom of the mud drum",
+      "E": "In the water wall tubes"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 19,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "The continuous boiler water blowdown is used:",
+    "options": {
+      "A": "To control the bottom blowdown",
+      "B": "To adjust the drum water level",
+      "C": "In place of the main blowdown",
+      "D": "To introduce chemicals to the boiler",
+      "E": "In addition to the main blowdown"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 20,
+    "heading": "Blowoff and Blowdown Systems",
+    "question": "Sludge is usually removed from a boiler by:",
+    "options": {
+      "A": "Blowing down the boiler using the continuous blowdown",
+      "B": "Filtering the water before it leaves the boiler",
+      "C": "Blowing down the boiler using the bottom blowdown",
+      "D": "Letting it settle into a sludge trap",
+      "E": "Re-circulating it through the condenser"
+    },
+    "correctAnswer": "C"
+  }
+]
