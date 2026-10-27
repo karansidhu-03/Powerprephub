@@ -72,6 +72,15 @@ import a10chp1 from "./Part A/Chp/BookA10/chp1.json";
 import a10chp2 from "./Part A/Chp/BookA10/chp2.json";
 import a10chp3 from "./Part A/Chp/BookA10/chp3.json";
 
+// Book A11 full book + chapters
+import bookA11 from "./Part A/Chp/BookA11/booka11.json";
+import a11chp1 from "./Part A/Chp/BookA11/chp1.json";
+import a11chp2 from "./Part A/Chp/BookA11/chp2.json";
+import a11chp3 from "./Part A/Chp/BookA11/chp3.json";
+import a11chp4 from "./Part A/Chp/BookA11/chp4.json";
+import a11chp5 from "./Part A/Chp/BookA11/chp5.json";
+import a11chp6 from "./Part A/Chp/BookA11/chp6.json";
+
 // Book A12 full book + chapters
 import bookA12 from "./Part A/Chp/BookA12/BookA12.json";
 import a12chp1 from "./Part A/Chp/BookA12/chp1.json";
@@ -607,6 +616,44 @@ const bookA10Chapters: Paper[] = [
   ),
 ];
 
+const bookA11Chapters: Paper[] = [
+  makePaper(
+    "a11-fullbook",
+    "Full Book A11 Exam",
+    toQuestions(bookA11 as unknown as RawNumberQuestion[], "Book A11 — Boilers"),
+  ),
+  makePaper(
+    "a11-chp1",
+    "Intro to Boilers",
+    toQuestions(a11chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a11-chp2",
+    "Firetube Boilers",
+    toQuestions(a11chp2 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a11-chp3",
+    "Watertube Boilers",
+    toQuestions(a11chp3 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a11-chp4",
+    "Electric Boilers",
+    toQuestions(a11chp4 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a11-chp5",
+    "Special Boiler Designs for Heating Plants",
+    toQuestions(a11chp5 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a11-chp6",
+    "Differences between Power & Heating Boilers",
+    toQuestions(a11chp6 as unknown as RawNumberQuestion[]),
+  ),
+];
+
 const bookA12Chapters: Paper[] = [
   makePaper(
     "a12-fullbook",
@@ -728,6 +775,12 @@ export const exams: Exam[] = [
         label: "Book A10 — Plant Sketching & Communications",
         description: `${chapterCount(bookA10Chapters)} questions across ${bookA10Chapters.length} chapters`,
         papers: bookA10Chapters,
+      },
+      {
+        id: "book-a11",
+        label: "Book A11 — Boilers",
+        description: `${chapterCount(bookA11Chapters)} questions across ${bookA11Chapters.length} chapters`,
+        papers: bookA11Chapters,
       },
       {
         id: "book-a12",
