@@ -1,0 +1,1757 @@
+[
+  {
+    "number": 1,
+    "heading": "Intro to Boilers",
+    "question": "This type of furnace is not surrounded by water, but is surrounded by brickwork.",
+    "options": {
+      "A": "Cyclone furnace",
+      "B": "Staged combustion furnace",
+      "C": "Internally fired",
+      "D": "Externally fired",
+      "E": "\"A\" type furnace"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 2,
+    "heading": "Intro to Boilers",
+    "question": "The steam space of a boiler must be large in order to:",
+    "options": {
+      "A": "Keep the steam pressure down",
+      "B": "Accommodate the steam separator",
+      "C": "Accommodate all the steam riser tubes",
+      "D": "Separate the water from the steam",
+      "E": "Reduce the cooling effect of water"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 3,
+    "heading": "Intro to Boilers",
+    "question": "The products of combustion leaving the furnace are referred to as:\n1. Combustion gases\n2. Flue gases\n3. Noxious gases\n4. Stack gases",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "3, 4",
+      "C": "1",
+      "D": "2",
+      "E": "1, 2"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 4,
+    "heading": "Intro to Boilers",
+    "question": "All parts of the boiler exposed to fire or hot gases must be:",
+    "options": {
+      "A": "Made of fire brick",
+      "B": "Covered by water",
+      "C": "Air cooled",
+      "D": "Covered with ceramic tile",
+      "E": "Fitted with expansion joints"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "heading": "Intro to Boilers",
+    "question": "A Haycock boiler having a longitudinal shell or drum had as its heating surface:",
+    "options": {
+      "A": "Only one end plate",
+      "B": "The total shell side and one end plate or head",
+      "C": "Only the lower part of the shell",
+      "D": "The lower part of the shell and the rear plate or head",
+      "E": "Two passes along the shell or drum"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 6,
+    "heading": "Intro to Boilers",
+    "question": "Tubes for high pressure service are usually:",
+    "options": {
+      "A": "Lap welded construction",
+      "B": "Of 2 metre maximum length",
+      "C": "Resistance welded construction",
+      "D": "Roll and pierce construction",
+      "E": "Flared into the drum or tube sheet"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 7,
+    "heading": "Intro to Boilers",
+    "question": "Hand hole and manhole openings:",
+    "options": {
+      "A": "Permit inspection, cleaning and repairs",
+      "B": "Have their long axis lengthwise along the shell",
+      "C": "Are required on high pressure boilers only",
+      "D": "Require a cast iron reinforcing ring",
+      "E": "Are not required on low pressure hot water boilers"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 8,
+    "heading": "Intro to Boilers",
+    "question": "Top supported boilers:",
+    "options": {
+      "A": "Are cheaper to install than bottom supported",
+      "B": "Can slide freely on concrete pads",
+      "C": "Are lighter than bottom supported boilers",
+      "D": "Are used for firetube boilers only",
+      "E": "Expand vertically downward"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 9,
+    "heading": "Intro to Boilers",
+    "question": "One or more steel plates rolled into cylindrical form and welded together with the ends closed by means of end plates or heads is called a:",
+    "options": {
+      "A": "Steam or water drum",
+      "B": "Steam header",
+      "C": "Packaged boiler",
+      "D": "Steam space",
+      "E": "Combustion chamber"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 10,
+    "heading": "Intro to Boilers",
+    "question": "Significant causes of boiler explosions include:",
+    "options": {
+      "A": "Poorly trained operators",
+      "B": "Inadequate boiler design",
+      "C": "Inconsistent boiler construction",
+      "D": "Unskilled operators",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 11,
+    "heading": "Intro to Boilers",
+    "question": "Firetube boilers have their tubes fixed into flat steel plates, otherwise known as heads or:",
+    "options": {
+      "A": "Headers",
+      "B": "Drums",
+      "C": "Tube sheets",
+      "D": "Shells",
+      "E": "Flues"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 12,
+    "heading": "Intro to Boilers",
+    "question": "A major achievement that allowed development of very large modern boilers is:",
+    "options": {
+      "A": "Perfection of water chemistry",
+      "B": "Higher quality fuel",
+      "C": "Higher demand for steam",
+      "D": "Bigger fuel handling systems",
+      "E": "Increased material thickness"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 13,
+    "heading": "Intro to Boilers",
+    "question": "Manholes are:",
+    "options": {
+      "A": "Provided for inspection purposes",
+      "B": "Always oval in shape",
+      "C": "Always circular in shape",
+      "D": "Installed on fossil fired boilers only",
+      "E": "Installed on all boilers"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 14,
+    "heading": "Intro to Boilers",
+    "question": "In a top supported boiler design, the Mud drum:",
+    "options": {
+      "A": "Is supported by the foundation frame",
+      "B": "Hangs from the steam drum by the fire tubes",
+      "C": "Hangs from the steam drum by the watertubes",
+      "D": "Supports the steam drum by the watertubes",
+      "E": "Is connected above the steam drum by the watertubes"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 15,
+    "heading": "Intro to Boilers",
+    "question": "Stays are not normally required in watertube boilers because:",
+    "options": {
+      "A": "Space does not permit their installation",
+      "B": "Watertube boilers have no flat surfaces to stay",
+      "C": "They would block access",
+      "D": "The ASME power boiler codes only allow stays in electric boilers to support the emersion coils",
+      "E": "The water is inside the tubes"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 16,
+    "heading": "Intro to Boilers",
+    "question": "High pressure heating boilers are those that operate below:",
+    "options": {
+      "A": "100 kPa",
+      "B": "1 000 kPa",
+      "C": "76 kPa",
+      "D": "1 100 kPa",
+      "E": "500 kPa"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 17,
+    "heading": "Intro to Boilers",
+    "question": "The size of packaged boilers is limited by:",
+    "options": {
+      "A": "The feedwater supply",
+      "B": "Road and railway width",
+      "C": "Health and Safety legislation",
+      "D": "Weight of the boiler",
+      "E": "Shipping costs"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 18,
+    "heading": "Intro to Boilers",
+    "question": "What type of boiler is assembled piece by piece on site?",
+    "options": {
+      "A": "Packaged boiler",
+      "B": "Field erected boiler",
+      "C": "Field assembled boiler",
+      "D": "Refrigerated boiler",
+      "E": "None of these answers is correct"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 19,
+    "heading": "Intro to Boilers",
+    "question": "In a water tube boiler that attaches the tubes by expanding, the tubes are not beaded over due to:",
+    "options": {
+      "A": "No danger of overheating",
+      "B": "The flame is cold in water tube boilers",
+      "C": "The boiler tubes are too hard",
+      "D": "The flue gases in the tube are not hot enough",
+      "E": "There is no access to the tubes"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 20,
+    "heading": "Intro to Boilers",
+    "question": "What type of boiler is entirely factory built, tested, and transported to the plant site?",
+    "options": {
+      "A": "Packaged boiler",
+      "B": "Field erected boiler",
+      "C": "Field assembled boiler",
+      "D": "Refrigerated boiler",
+      "E": "None of these answers is correct"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 21,
+    "heading": "Intro to Boilers",
+    "question": "ASME defines low pressure heating boilers are those that operate below:",
+    "options": {
+      "A": "120 kPa",
+      "B": "25 kPa",
+      "C": "50 kPa",
+      "D": "100 kPa",
+      "E": "76 kPa"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 22,
+    "heading": "Intro to Boilers",
+    "question": "The first boiler to have an internal furnace was the:",
+    "options": {
+      "A": "Trevithick Boiler",
+      "B": "HRT boiler",
+      "C": "Watertube boiler",
+      "D": "Locomotive boiler",
+      "E": "Longitudinal drum firetube boiler"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 23,
+    "heading": "Intro to Boilers",
+    "question": "All boilers currently manufactured in Canada are designed and built in accordance with:",
+    "options": {
+      "A": "Purchaser specifications",
+      "B": "National and Provincial codes and regulations",
+      "C": "European codes",
+      "D": "Vendor specifications",
+      "E": "ISO 9000 quality standards"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 24,
+    "heading": "Intro to Boilers",
+    "question": "Current watertube boiler design are achieving pressures of:",
+    "options": {
+      "A": "26 MPa",
+      "B": "1100 kPa",
+      "C": "26 kPa",
+      "D": "103 kPa",
+      "E": "5000 MPa"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 25,
+    "heading": "Intro to Boilers",
+    "question": "Handholes are openings used for:",
+    "options": {
+      "A": "Inspection of the boiler uptake",
+      "B": "Entry and inspection of the boiler furnace",
+      "C": "Inspection of the boiler shell or drum",
+      "D": "Inspection of the windbox",
+      "E": "Inspection of the ash hopper"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 26,
+    "heading": "Intro to Boilers",
+    "question": "Packaged boilers do not require field connections to:",
+    "options": {
+      "A": "Electrical power",
+      "B": "Fuel",
+      "C": "Feed water",
+      "D": "Chimney",
+      "E": "Furnace"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 27,
+    "heading": "Intro to Boilers",
+    "question": "Internal furnaces are:",
+    "options": {
+      "A": "Used to increase the strength of the drum",
+      "B": "Contained within the windbox of a boiler",
+      "C": "Contained within the shell of the boiler",
+      "D": "Mostly used to superheat the steam",
+      "E": "Used for oil firing only"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 28,
+    "heading": "Intro to Boilers",
+    "question": "A steam boiler should be compact in design in order to:",
+    "options": {
+      "A": "Weigh less",
+      "B": "Reduce operating costs",
+      "C": "Be easier to move",
+      "D": "Reduce building costs",
+      "E": "Be easier to maintain"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 29,
+    "heading": "Intro to Boilers",
+    "question": "With a bottom-supported boiler, the mud drum is supported by a steel framework and the steam drum is usually:",
+    "options": {
+      "A": "Placed between the centre line of the unit",
+      "B": "Supported by piers",
+      "C": "A cross-drum configuration",
+      "D": "Supported by an overhead girder arrangement",
+      "E": "Supported by the water tubes"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 30,
+    "heading": "Intro to Boilers",
+    "question": "Boilers supported from the top:",
+    "options": {
+      "A": "Are mostly packaged boilers",
+      "B": "Can only be used on small units",
+      "C": "Are free to expand vertically",
+      "D": "Can only use straight tubes",
+      "E": "Are usually not of the large watertube type"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 31,
+    "heading": "Intro to Boilers",
+    "question": "When hot combustion gases travel through boiler tubes which are surrounded by the boiler water, the boiler is called a:",
+    "options": {
+      "A": "Coil type boiler",
+      "B": "Packaged boiler",
+      "C": "Watertube boiler",
+      "D": "Tubular boiler",
+      "E": "Firetube boiler"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 32,
+    "heading": "Intro to Boilers",
+    "question": "Safety, efficiency operation, and economical fuel consumption are:",
+    "options": {
+      "A": "The results of environmental protection laws",
+      "B": "Main goals in modern boiler design",
+      "C": "The result of \"packaged unit\" construction",
+      "D": "Due to improved metals and alloys",
+      "E": "The main advantages of a watertube unit over a firetube unit"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 33,
+    "heading": "Intro to Boilers",
+    "question": "The term \"heating surface\" is defined in:\n1. ASME Section I\n2. ASME Section IV\n3. CSA B-51\n4. Provincial Design, Construction and Installation of Boilers and Pressure Vessels Regulations\n5. Provincial Power Engineers Regulations",
+    "options": {
+      "A": "4",
+      "B": "1, 2",
+      "C": "4, 5",
+      "D": "3",
+      "E": "5"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 34,
+    "heading": "Intro to Boilers",
+    "question": "The Haycock boiler was:",
+    "options": {
+      "A": "Of multiple flue gas pass design",
+      "B": "A packaged unit",
+      "C": "A watertube unit",
+      "D": "Used around 1 720",
+      "E": "Of welded construction"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 35,
+    "heading": "Intro to Boilers",
+    "question": "Another name for the tube nozzles welded to boilers and headers, which are used for the connection of fittings and attachments, is:",
+    "options": {
+      "A": "Fittings",
+      "B": "Stays",
+      "C": "Hand holes",
+      "D": "Manholes",
+      "E": "Tube stubs"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 36,
+    "heading": "Intro to Boilers",
+    "question": "A firetube boiler is a boiler in which:",
+    "options": {
+      "A": "Combustion gases pass through the tubes",
+      "B": "Air passes through the tubes",
+      "C": "Water passes through the tubes",
+      "D": "Combustion gases pass around the tubes",
+      "E": "Air passes around the tubes"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 37,
+    "heading": "Intro to Boilers",
+    "question": "Head-to-drum circumferential joints are usually:",
+    "options": {
+      "A": "Double welded tee joints",
+      "B": "Double welded butt joints",
+      "C": "Single welded edge joints",
+      "D": "Fillet welded corner joints",
+      "E": "Fillet welded lap joints"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 38,
+    "heading": "Intro to Boilers",
+    "question": "Sediment and debris to be discharged from the boilers is accumulated in:",
+    "options": {
+      "A": "Fire tubes",
+      "B": "Water drum",
+      "C": "Mud drum",
+      "D": "Furnace",
+      "E": "Steam drum"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 39,
+    "heading": "Intro to Boilers",
+    "question": "The combination of insulation and a metal jacket on a boiler wall is called:",
+    "options": {
+      "A": "Refractory",
+      "B": "Leading",
+      "C": "Wrapping",
+      "D": "Waterwall",
+      "E": "Lagging"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 40,
+    "heading": "Intro to Boilers",
+    "question": "The first boiler to have firetubes became known as the:",
+    "options": {
+      "A": "Trevithick boiler",
+      "B": "Haystack boiler",
+      "C": "Scotch boiler",
+      "D": "Haycock boiler",
+      "E": "Mushroom boiler"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 1,
+    "heading": "Firetube Boilers",
+    "question": "In order to maintain gas velocity throughout all boiler gas passes, a firetube boiler has:",
+    "options": {
+      "A": "The same number of tubes in each pass but decreasing in diameter with each pass",
+      "B": "The same number of tubes in each pass with a gas bypass around the first two passes to induce flow",
+      "C": "The same number of tubes in each pass when both an FD and ID fan are used",
+      "D": "Fewer tubes in each pass so that tubes of the same size can be used",
+      "E": "Fewer tubes in each pass and increasing in diameter with each pass"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 2,
+    "heading": "Firetube Boilers",
+    "question": "Packaged firetube boilers:",
+    "options": {
+      "A": "Require special foundations or footings",
+      "B": "Require relatively small building areas",
+      "C": "Are more expensive than watertubes",
+      "D": "Are not very rugged relative to portability",
+      "E": "Are difficult to repair"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 3,
+    "heading": "Firetube Boilers",
+    "question": "When a packaged firetube boiler is used as a hot water unit:",
+    "options": {
+      "A": "It will not require an expansion tank",
+      "B": "An atmospheric burner must be used",
+      "C": "Forced circulation is required",
+      "D": "It can be constructed of thinner material for a given pressure",
+      "E": "A water column and gauge glass is required"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 4,
+    "heading": "Firetube Boilers",
+    "question": "In a vertical tubeless firetube boiler, the space between the inner furnace tube and the larger diameter outer pipe that provides the second pass, serves as both __________.",
+    "options": {
+      "A": "Extra furnace space",
+      "B": "Water space only",
+      "C": "Water and steam space",
+      "D": "Flue gas passage",
+      "E": "Steam space only"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 5,
+    "heading": "Firetube Boilers",
+    "question": "A vertical boiler with only a central furnace tube is referred to as:",
+    "options": {
+      "A": "Steam jacketed tube boiler",
+      "B": "Horizontal tubeless boiler",
+      "C": "Central boiler",
+      "D": "Tubeless boiler",
+      "E": "Furnaceless boiler"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 6,
+    "heading": "Firetube Boilers",
+    "question": "More gas passes through the firetube boiler requires:",
+    "options": {
+      "A": "A larger chimney",
+      "B": "Stronger draft fans",
+      "C": "Additional relief valves",
+      "D": "Increased water flow",
+      "E": "More powerful feedwater pump"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 7,
+    "heading": "Firetube Boilers",
+    "question": "When a packaged firetube boiler is used as a power boiler rather than a heating unit:",
+    "options": {
+      "A": "It will have a much stronger design",
+      "B": "Vibrations will be greater, thereby requiring stronger foundations",
+      "C": "It cannot be used as a hot water unit",
+      "D": "More accessories will have to be added",
+      "E": "Only the burner will be changed or different"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 8,
+    "heading": "Firetube Boilers",
+    "question": "Firetube boilers are lower cost and:",
+    "options": {
+      "A": "Have simple rugged construction",
+      "B": "Reach operating pressures very quickly from cold start",
+      "C": "Do not cause much damage on waterside rupture",
+      "D": "Are not very suitable for on-off operation",
+      "E": "Require very critical water treatment"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 9,
+    "heading": "Firetube Boilers",
+    "question": "The wetback Scotch boiler was designed primarily for:",
+    "options": {
+      "A": "Building heating service",
+      "B": "Traction engine service",
+      "C": "Railway service",
+      "D": "Marine service",
+      "E": "Very high capacity electrical generation"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 10,
+    "heading": "Firetube Boilers",
+    "question": "A boiler that utilised a water leg and was used for portable industrial service was the:",
+    "options": {
+      "A": "HRT boiler",
+      "B": "Firebox boiler",
+      "C": "Marine boiler",
+      "D": "Locomotive boiler",
+      "E": "Scotch boiler"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 11,
+    "heading": "Firetube Boilers",
+    "question": "In a packaged firetube boiler, the flue gas velocity within the unit is maintained by:",
+    "options": {
+      "A": "Varying the number of firetubes",
+      "B": "Increasing forced draft fan speed",
+      "C": "Decreasing forced draft fan speed",
+      "D": "Constructing a taller stack",
+      "E": "Varying the firetube diameters"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 12,
+    "heading": "Firetube Boilers",
+    "question": "The forerunner of the modern packaged firetube boiler was the:",
+    "options": {
+      "A": "Firebox boiler",
+      "B": "Locomotive boiler",
+      "C": "Sterling boiler",
+      "D": "Horizontal return tubular boiler",
+      "E": "Scotch Marine boiler"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 13,
+    "heading": "Firetube Boilers",
+    "question": "The internal water circulation in a horizontal watertube boiler is poorest:",
+    "options": {
+      "A": "Directly above the furnace tube",
+      "B": "In the middle of the firetube bundles",
+      "C": "Next to the shell",
+      "D": "At the surface of the water",
+      "E": "Directly below the furnace tube"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 14,
+    "heading": "Firetube Boilers",
+    "question": "ASME code requires the lowest permissible water level in a horizontal firetube boiler to be _____ above the top surface of the top row of tubes.",
+    "options": {
+      "A": "25 mm",
+      "B": "10 mm",
+      "C": "Level with",
+      "D": "50 mm",
+      "E": "75 mm"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 15,
+    "heading": "Firetube Boilers",
+    "question": "A corrugated furnace will give required strength with thinner metal, increased heating surface and:",
+    "options": {
+      "A": "Decrease combustion turbulence",
+      "B": "Add to the overall material cost of the unit",
+      "C": "Will necessitate the boiler being made stronger",
+      "D": "Allow for differential expansion and contraction",
+      "E": "Increase the boiler mass"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 16,
+    "heading": "Firetube Boilers",
+    "question": "The hot gases of combustion pass through:",
+    "options": {
+      "A": "Furnace tubes",
+      "B": "Fire tubes",
+      "C": "Flues",
+      "D": "Stay tubes",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 17,
+    "heading": "Firetube Boilers",
+    "question": "These are most commonly found on flat surfaces of locomotive and firebox boilers:",
+    "options": {
+      "A": "Stay bolts",
+      "B": "Water tubes",
+      "C": "Vertical furnace",
+      "D": "Stay tubes",
+      "E": "Furnace tubes"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 18,
+    "heading": "Firetube Boilers",
+    "question": "The firebox boiler is a _____ pass firetube boiler:",
+    "options": {
+      "A": "Water tube",
+      "B": "Spiral",
+      "C": "Five",
+      "D": "Two",
+      "E": "Vertical"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 19,
+    "heading": "Firetube Boilers",
+    "question": "One of the advantages of the firetube boiler over the watertube and tubular boiler is in the:",
+    "options": {
+      "A": "Fuel and combustion is less",
+      "B": "Operation safety is less",
+      "C": "Electricity consumption is less",
+      "D": "Water treatment can be less",
+      "E": "Water consumption is less"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 20,
+    "heading": "Firetube Boilers",
+    "question": "The boiler \"drum\" refers to the pressure container of a watertube boiler and the \"_____\" refers to the pressure container of a firetube boiler.",
+    "options": {
+      "A": "Shell",
+      "B": "Pipe",
+      "C": "Tank",
+      "D": "Vessel",
+      "E": "Cylinder"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 1,
+    "heading": "Watertube Boilers",
+    "question": "Economizers:",
+    "options": {
+      "A": "Increase the flue gas temperature",
+      "B": "Increase the steam temperature",
+      "C": "Increase the boiler efficiency",
+      "D": "Are installed before the superheater",
+      "E": "Increase the air temperature"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 2,
+    "heading": "Watertube Boilers",
+    "question": "A steam separator that imparts a rapid spin to the steam/water mixture:",
+    "options": {
+      "A": "Cyclone",
+      "B": "Dry pipe",
+      "C": "Scrubbers",
+      "D": "Chevron",
+      "E": "Baffles"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 3,
+    "heading": "Watertube Boilers",
+    "question": "The Steam generator heat transfer component that reheats the exhaust steam from the high pressure turbine stage is:",
+    "options": {
+      "A": "Radiant superheater",
+      "B": "Convection superheater",
+      "C": "Preheater",
+      "D": "Economizer",
+      "E": "Reheater"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 4,
+    "heading": "Watertube Boilers",
+    "question": "Air heaters in a boiler:",
+    "options": {
+      "A": "Help the boiler from freezing during the winter period",
+      "B": "Are installed between the superheater and the economizer",
+      "C": "Increase the flue gas temperature",
+      "D": "Maintain a steady higher temperature in the stack",
+      "E": "Reduce the temperature of the flue gases going to the stack"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 5,
+    "heading": "Watertube Boilers",
+    "question": "The bent tube boiler design allows the tubes to be attached in a radial manner on the outside of the:",
+    "options": {
+      "A": "Air pre-heater",
+      "B": "Economizer",
+      "C": "Superheater",
+      "D": "Shell or drum",
+      "E": "Furnace"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 6,
+    "heading": "Watertube Boilers",
+    "question": "The correct location for the chemical feed pipe to discharge is:",
+    "options": {
+      "A": "Into the mud drum",
+      "B": "Near the feedwater pipe",
+      "C": "Into the steam outlet",
+      "D": "Into the gauge glass",
+      "E": "Near the continuous blowdown pipe"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 7,
+    "heading": "Watertube Boilers",
+    "question": "Boilers designed to work above 22.09 MPa are called:",
+    "options": {
+      "A": "Firetube",
+      "B": "Supercritical",
+      "C": "Super duper",
+      "D": "Subcritical",
+      "E": "Cast iron"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 8,
+    "heading": "Watertube Boilers",
+    "question": "When considering the flue gas passage of a steam generator, the economizer is usually located:",
+    "options": {
+      "A": "Between the primary and secondary superheaters",
+      "B": "Between the superheater and air preheater",
+      "C": "Between the air preheater and ID fan",
+      "D": "In the furnace section",
+      "E": "After the air heater"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 9,
+    "heading": "Watertube Boilers",
+    "question": "The internal feedwater pump travels the length of the drum to heat the feedwater to:",
+    "options": {
+      "A": "Decrease total dissolved solids",
+      "B": "Decrease the drum temperature",
+      "C": "Prevent chemical loss",
+      "D": "Increase the drum temperature",
+      "E": "Minimize thermal shock"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 10,
+    "heading": "Watertube Boilers",
+    "question": "A chevron dryer is also referred to as a:",
+    "options": {
+      "A": "Pyramid",
+      "B": "Scrubber",
+      "C": "Cyclone",
+      "D": "Centrifugal",
+      "E": "Baffle"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 11,
+    "heading": "Watertube Boilers",
+    "question": "In a watertube boiler, the tubes that contain only water are _____ and the tubes that contain both water and steam are called_____.",
+    "options": {
+      "A": "Firetubes, flue tubes",
+      "B": "Downcomers, risers",
+      "C": "Watertubes, steamtubes",
+      "D": "Watertubes, firetubes",
+      "E": "Downriser, upcomers"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 12,
+    "heading": "Watertube Boilers",
+    "question": "The heat transfer components of a steam generating unit are:\n1. Superheater\n2. Economizer\n3. Safety valve\n4. Feedwater line",
+    "options": {
+      "A": "1, 2",
+      "B": "1, 3, 2",
+      "C": "1, 2, 3, 4",
+      "D": "1, 2, 4",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 13,
+    "heading": "Watertube Boilers",
+    "question": "High pressure watertubes:",
+    "options": {
+      "A": "Are always straight",
+      "B": "Are elliptical in cross-section",
+      "C": "Are always smaller than firetubes",
+      "D": "Require pumps for circulation",
+      "E": "Can be of various bent configurations"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 14,
+    "heading": "Watertube Boilers",
+    "question": "Large steam generating units may have their superheaters located:\n1. Beneath the furnace\n2. In the convection zone\n3. In the main waterwall header\n4. In the radiant zone\n5. In the down comer pipe",
+    "options": {
+      "A": "4, 5",
+      "B": "1, 2, 5",
+      "C": "3, 4, 5",
+      "D": "1, 3",
+      "E": "2, 4"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 15,
+    "heading": "Watertube Boilers",
+    "question": "A disadvantage of the O type boiler over the A or D type is:",
+    "options": {
+      "A": "Higher temperature",
+      "B": "Heavier",
+      "C": "Smaller size",
+      "D": "Less radiant heat transfer",
+      "E": "Lower pressure"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 1,
+    "heading": "Electric Boilers",
+    "question": "The advantages of an electric boiler are:\n1. More efficient\n2. Does not need water treatment\n3. Very compact\n4. No fuel storage space required\n5. No pollution\n6. Does not need a safety valve",
+    "options": {
+      "A": "1, 3, 4, 5",
+      "B": "2, 3, 4, 5",
+      "C": "1, 2, 3, 6",
+      "D": "2, 3, 4, 6",
+      "E": "1, 2, 4, 5"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 2,
+    "heading": "Electric Boilers",
+    "question": "Electric boilers:",
+    "options": {
+      "A": "Require soot blowers when fuel is coal",
+      "B": "Are not as safe as other boilers",
+      "C": "Require tall stacks for pollution dispersal",
+      "D": "Have energy conversion efficiencies close to 100%",
+      "E": "Tend not to be very compact"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 3,
+    "heading": "Electric Boilers",
+    "question": "An immersion electric boiler capacity can be as high as:",
+    "options": {
+      "A": "5 000 kW",
+      "B": "2 100 kW",
+      "C": "16 000 kW",
+      "D": "30 000 kW",
+      "E": "1 500 kW"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 4,
+    "heading": "Electric Boilers",
+    "question": "Electrode boiler capacities can be as high as:",
+    "options": {
+      "A": "25 000 kg/hr",
+      "B": "85 450 kg/hr",
+      "C": "3 100 kg/hr",
+      "D": "1 500 kg/hr",
+      "E": "2 100 kg/hr"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "heading": "Electric Boilers",
+    "question": "The immersion heater boiler has its elements arranged:",
+    "options": {
+      "A": "Equally spaced in the steam space",
+      "B": "As groups of elements submerged in the water space",
+      "C": "Outside the boiler shell to provide easy access for maintenance",
+      "D": "For operation in sequence on the underside of the shell",
+      "E": "As isolated units in the steam space"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 6,
+    "heading": "Electric Boilers",
+    "question": "Control of the immersion heater boiler is done by turning on and off the ____ supply to one or more elements as required.",
+    "options": {
+      "A": "Amperage",
+      "B": "Water",
+      "C": "Steam",
+      "D": "Current",
+      "E": "Power"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 7,
+    "heading": "Electric Boilers",
+    "question": "Most electric boilers are limited in pressure to about 2 100 kPa due to the effect of high temperature on the:",
+    "options": {
+      "A": "Boiler fittings",
+      "B": "Elements or electrodes",
+      "C": "Steam space",
+      "D": "Vessel structure",
+      "E": "Submerged area"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 8,
+    "heading": "Electric Boilers",
+    "question": "Immersion boiler tube bundles:",
+    "options": {
+      "A": "Have very low electrical resistance",
+      "B": "Cannot be used to regulate steaming capacity",
+      "C": "Can be easily removed from the unit for maintenance purposes",
+      "D": "Act to conduct current through the water",
+      "E": "Operate at only one voltage"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 9,
+    "heading": "Electric Boilers",
+    "question": "Electric boilers:",
+    "options": {
+      "A": "Are hot water boilers only",
+      "B": "Do not need a chimney",
+      "C": "Do not need gauge glasses",
+      "D": "Are economical in power consumption",
+      "E": "Are low pressure boilers only"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 10,
+    "heading": "Electric Boilers",
+    "question": "An advantage of an electric boiler is that it:",
+    "options": {
+      "A": "Is silent in operation",
+      "B": "Can produce steam at very high pressures",
+      "C": "Requires only one blow-off valve",
+      "D": "Normally requires low voltage",
+      "E": "Does not require a sight glass"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 11,
+    "heading": "Electric Boilers",
+    "question": "There are two general designs of electric boilers. They are the:",
+    "options": {
+      "A": "Electrode and immersion type",
+      "B": "AC and DC type",
+      "C": "Reverse polarity and negative ground",
+      "D": "Grounded and ungrounded type",
+      "E": "Firetube type and watertube type"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 12,
+    "heading": "Electric Boilers",
+    "question": "To control the output of a Jet type electrode boiler the _____ is raised or lowered.",
+    "options": {
+      "A": "Spray nozzles",
+      "B": "Control sleeve",
+      "C": "Electrodes",
+      "D": "Collector pipe",
+      "E": "Nozzle plate"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 13,
+    "heading": "Electric Boilers",
+    "question": "A boiler which incorporates generating and regulating chambers is the:",
+    "options": {
+      "A": "Thermal flood boiler",
+      "B": "Immersion boiler",
+      "C": "Steam generator",
+      "D": "Electrode boiler",
+      "E": "Sterling boiler"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 14,
+    "heading": "Electric Boilers",
+    "question": "The steam produced by an electrode type boiler depends on the:",
+    "options": {
+      "A": "Amperage supplied to the elements",
+      "B": "Voltage supplied to the elements",
+      "C": "Number of baffles",
+      "D": "Number of heating elements engaged",
+      "E": "Level of water in the generating chamber"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 15,
+    "heading": "Electric Boilers",
+    "question": "Control of the immersion heater boiler is done by:",
+    "options": {
+      "A": "Increasing and decreasing water flow",
+      "B": "A float switch",
+      "C": "Turning the power on and off to the elements as required",
+      "D": "Transforming the voltage to a lower value",
+      "E": "Recirculating boiler water"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 16,
+    "heading": "Electric Boilers",
+    "question": "Operating voltage for an electrode boiler may be as high as:",
+    "options": {
+      "A": "240 volts",
+      "B": "30 000 volts",
+      "C": "5 000 volts",
+      "D": "25 000 volts",
+      "E": "550 volts"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 17,
+    "heading": "Electric Boilers",
+    "question": "One disadvantage of an electric boiler is that it:",
+    "options": {
+      "A": "Is not very efficient",
+      "B": "Is very expensive to operate",
+      "C": "Has no chimney",
+      "D": "Requires alternating current",
+      "E": "Requires DC power"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 18,
+    "heading": "Electric Boilers",
+    "question": "A ______ is required on immersion boilers, but is not required on an electrode electric type boiler.",
+    "options": {
+      "A": "Gauge glass",
+      "B": "Blow-off valve",
+      "C": "Low water cut-off",
+      "D": "Pressure gauge",
+      "E": "Safety valve"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 19,
+    "heading": "Electric Boilers",
+    "question": "What safety device is not required on an electrode electric type boiler:",
+    "options": {
+      "A": "Gauge glass",
+      "B": "Pressure gauge",
+      "C": "Blown-off valve",
+      "D": "Safety valve",
+      "E": "Low water cut-off"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 20,
+    "question": "Due to _______ of electricity, generally electric boilers are not common except in facilities that tend to use extremely large amounts of electricity.",
+    "heading": "Electric Boilers",
+    "options": {
+      "A": "Unavailability",
+      "B": "High cost",
+      "C": "Unreliability",
+      "D": "Low cost",
+      "E": "High maintenance costs"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 1,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "In a modular heating plant, the modules are connected between the supply and return header:",
+    "options": {
+      "A": "In series",
+      "B": "In parallel",
+      "C": "Internally",
+      "D": "Intermittently",
+      "E": "Using cast iron tubing"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 2,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "An advantage to using flexible tube and coil type boilers is:",
+    "options": {
+      "A": "More corrosion resistant",
+      "B": "Easy to assemble",
+      "C": "Warm up very slowly",
+      "D": "Respond slowly to fluctuating heat loads",
+      "E": "Safer due to lower potential energy in boiler water"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 3,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "A reason for preferring copper tubing in a tubular boiler is:",
+    "options": {
+      "A": "Because of its good ductility",
+      "B": "Its lower cost than steel",
+      "C": "Faster heat transfer rate",
+      "D": "Scale does not adhere to it",
+      "E": "Its ability to withstand high temperature"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 4,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "The cast iron boiler sections are held together by:",
+    "options": {
+      "A": "Tie rods",
+      "B": "Connection rods",
+      "C": "Eccentric couplers",
+      "D": "Bolts and nuts",
+      "E": "Welding"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 5,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "Packaged watertube heating boilers are often sized so that:",
+    "options": {
+      "A": "They can fit through a standard doorway",
+      "B": "Only one boiler is required to meet all heating loads",
+      "C": "No welding is required",
+      "D": "The boiler house must be built around them",
+      "E": "New cast iron sections can be added"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 6,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "An advantage to selecting a one pass vertical firetube boilers is:",
+    "options": {
+      "A": "Small floor space required",
+      "B": "They don't require maintenance",
+      "C": "They do not corrode",
+      "D": "They require less ceiling height than horizontal designs",
+      "E": "Less headroom required"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 7,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "In the modular heating plant, the burners are controlled:",
+    "options": {
+      "A": "Using a turbo damper",
+      "B": "Individually by each module",
+      "C": "Only using on/off switches",
+      "D": "Centrally by each module",
+      "E": "By a single controller"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 8,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "The furnace walls in a bent tube watertube boiler are formed by water filled tubes and these walls are called:",
+    "options": {
+      "A": "Waterside walls",
+      "B": "Furnace walls",
+      "C": "Radiant walls",
+      "D": "Fireside walls",
+      "E": "Water walls"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 9,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "The steam and water spaces in cast irons boiler sections are connected by:",
+    "options": {
+      "A": "Threaded tubing",
+      "B": "Welded pipe",
+      "C": "Push nipples",
+      "D": "Connection joints",
+      "E": "Schedule 40 pipe"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 10,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "One of the advantages of the low pressure serpentine flex tube tube watertube boiler is:",
+    "options": {
+      "A": "Ease of replacement of defective tubes",
+      "B": "Virtually no operational supervision required",
+      "C": "Small amount of feedwater treatment",
+      "D": "Low cost",
+      "E": "Excellent water circulation"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 11,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "A modern high efficiency hot water boiler using the \"condensing boiler\" design can achieve efficiency as high as:",
+    "options": {
+      "A": "50%",
+      "B": "95%",
+      "C": "80%",
+      "D": "25%",
+      "E": "65%"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 12,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "The combustion chamber of a flex tube serpentine tube watertube boiler is:",
+    "options": {
+      "A": "Enclosed by a non-insulated metal casing",
+      "B": "Surrounded by the tubes",
+      "C": "Located above the tubes",
+      "D": "Equipped with gas power burners",
+      "E": "Located below the tubes"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 13,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "One of the advantages of the low pressure Flex tube serpentine watertube boiler is virtually:",
+    "options": {
+      "A": "Eliminates expansion and contraction stresses",
+      "B": "No need for tubes replacement",
+      "C": "Eliminates feedwater treatment",
+      "D": "No operational supervision required",
+      "E": "No maintenance required"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 14,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "Heating boilers attain maximum efficiency when they operate close to:",
+    "options": {
+      "A": "65% load",
+      "B": "Full load",
+      "C": "75% load",
+      "D": "25% load",
+      "E": "Half load"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 15,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "A disadvantage of selecting an older design of one pass vertical firetube boiler is:",
+    "options": {
+      "A": "Use standard utility connections",
+      "B": "Relatively inexpensive to purchase",
+      "C": "They fit through standard doorways",
+      "D": "Low efficiency",
+      "E": "Small floor space is required"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 16,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "The modern Firebox boiler is predominately designed for:",
+    "options": {
+      "A": "They are never used anymore",
+      "B": "Low pressure power generation",
+      "C": "High pressure heating service",
+      "D": "High pressure power generation",
+      "E": "Low pressure heating service"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 17,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "Firebox boilers are a good candidate for replacement of Scotch type firetube boilers because:",
+    "options": {
+      "A": "They use aluminum fins to extend the copper tubes",
+      "B": "They are taller and narrower and fit through standard doors",
+      "C": "They do not require a license to operate",
+      "D": "They do not require any maintenance",
+      "E": "They are higher pressure and can produce hotter steam"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 18,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "The thermal efficiency throughout the year of a heating plant can be optimized by using:",
+    "options": {
+      "A": "Counter reverse flow undynamic control",
+      "B": "Several small boilers",
+      "C": "Small boilers supplements by electric heaters",
+      "D": "One big boiler at full load all year",
+      "E": "Cast iron boilers only"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 19,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "A reason for preferring copper tubing in a tubular boiler is:",
+    "options": {
+      "A": "Low cost",
+      "B": "Ease of replacement of the tubes",
+      "C": "High metal expansion rate",
+      "D": "Corrosion resistance",
+      "E": "Elimination of feedwater treatment"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 20,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "Additional water treatment care is required with Coil tube heating boilers that produce steam due to:",
+    "options": {
+      "A": "Carbon buildup",
+      "B": "Under scale corrosion",
+      "C": "Stress corrosion cracking",
+      "D": "Metal erosion",
+      "E": "Scale disposition"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 1,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "To protect municipal sewers from high temperature blowdown, the CSA B51 requires:",
+    "options": {
+      "A": "Boilers cannot blowdown to sewer systems",
+      "B": "Sewers to be designed to withstand MAWP",
+      "C": "A blowdown cooling system",
+      "D": "A blowoff vessel for boilers exceeding 103 kPa",
+      "E": "A blowoff vessel for power boilers only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 2,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "ASME restricts low pressure steam boiler controllers for being set:",
+    "options": {
+      "A": "Below 103 kPa",
+      "B": "Above 1100 kPa",
+      "C": "Above 100 kPa",
+      "D": "Below 1100 kPa",
+      "E": "Above 103 kPa"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 3,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "According to provincial regulations, a low pressure or heating boiler is one in which steam or other vapour is generated at a pressure not exceeding:",
+    "options": {
+      "A": "103 kpa",
+      "B": "120 kpa",
+      "C": "76 kpa",
+      "D": "25 kpa",
+      "E": "51 kpa"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 4,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "When a packaged firetube boiler is used as a power boiler rather than a heating unit:",
+    "options": {
+      "A": "Vibrations will be greater",
+      "B": "Only the burners will be changed",
+      "C": "More accessories will have to be added",
+      "D": "It will have a much stronger design",
+      "E": "It cannot be used as a hot water unit"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 5,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "Power boilers tend to require better water treatment control due to:",
+    "options": {
+      "A": "Corrosion",
+      "B": "Scale",
+      "C": "Embrittlement",
+      "D": "Foaming",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 6,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "The ASME sections that deal with heating boilers are:",
+    "options": {
+      "A": "IV and I",
+      "B": "IV and VI",
+      "C": "IV and VII",
+      "D": "I and VII",
+      "E": "IV and VIII"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 7,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "In Canadian provincial regulations, some boilers may be exempt from the requirements for constant supervision, typically these are:\n(Note: check your specific provincial power engineers regulations to prepare for your local Power Engineering exams)",
+    "options": {
+      "A": "All low pressure boilers",
+      "B": "Low pressure, small size",
+      "C": "All hot water boilers",
+      "D": "Any fully automated boiler",
+      "E": "High pressure fully automated"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 8,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "ASME sect I places maximum limits on Cast Iran fitting of:",
+    "options": {
+      "A": "100 MPa or 100°C",
+      "B": "1.7 MPa or 230°C",
+      "C": "There are no limits on Cast Iron",
+      "D": "1.1 MPa or 120°C",
+      "E": "1.7 kPa or 100°C"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 9,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "An attended boiler:",
+    "options": {
+      "A": "Can be allowed to operate unsupervised over the weekend",
+      "B": "Must be supervised once per day",
+      "C": "Is a fully automatic boiler",
+      "D": "Can only be operated while a qualified engineer is present",
+      "E": "Can be supervised on day shifts only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 10,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "ASME Sect I for power boilers states the lowest visible water level must be at least ____ above the manufacturers lowest permissible water level.",
+    "options": {
+      "A": "100 mm",
+      "B": "25 mm",
+      "C": "2 mm",
+      "D": "50 mm",
+      "E": "175 mm"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 11,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "The best way to determine the current working pressure of any boiler is to:",
+    "options": {
+      "A": "Check with the company safety representative",
+      "B": "Check the provincial operating certificate",
+      "C": "Check with the operator",
+      "D": "Check with the owner",
+      "E": "Check with the maintenance department"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 12,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "The class of water treatment chosen for a leak free cast iron boiler that is designed so that all condensate is returned to the system may be:",
+    "options": {
+      "A": "Class 1",
+      "B": "Class 2",
+      "C": "Class 3",
+      "D": "Class 4",
+      "E": "Class 5"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 13,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "ASME Sect IV for heating boilers states the lowest visible water level must be at least _____ above the manufacturers lowest permissible water level.",
+    "options": {
+      "A": "2 mm",
+      "B": "25 mm",
+      "C": "100 mm",
+      "D": "175 mm",
+      "E": "50 mm"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 14,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "Because of the steam specific volume difference between a high pressure boiler and a heating boiler the heating boiler safety valve is typically:",
+    "options": {
+      "A": "Smaller",
+      "B": "Not required",
+      "C": "Same",
+      "D": "Larger",
+      "E": "Made of copper"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 15,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "All components of a boiler must be designed strong enough to operate at:",
+    "options": {
+      "A": "Feedwater pressure",
+      "B": "Maximum material yield strength",
+      "C": "Maximum allowable working pressure",
+      "D": "Minimum allowable working pressure",
+      "E": "Instrument air pressure"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 16,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "Water treatment in power boilers includes all of these except:",
+    "options": {
+      "A": "Bottom blowoff",
+      "B": "Water tests",
+      "C": "Chemical additions",
+      "D": "Blowdown adjustments",
+      "E": "Water temperature measurements"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 17,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "ASME section I states that a pressure guage is used that indicates:",
+    "options": {
+      "A": "Maximum design pressure",
+      "B": "2 times the safety valve pressure",
+      "C": "Safety valve pressure",
+      "D": "2 times the maximum allowable working pressure",
+      "E": "Maximum allowable working pressure"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 18,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "The Power Engineers Regulations in Alberta define a heating plant as heating liquid:\n(Note: check your specific provincial power engineers regulations to prepare for your local Power Engineering exams)",
+    "options": {
+      "A": "Not exceeding 103 kpa and exceeding 121°C",
+      "B": "Not exceeding 100 kpa and 100°C",
+      "C": "Exceeding 103 kpa and 100°C",
+      "D": "Not exceeding 1100 kpa and 121°C",
+      "E": "Not exceeding 103 kpa and 121°C"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 19,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "A hot water boiler falls under ASME Section IV when its:",
+    "options": {
+      "A": "Pressure is less than 1100 kPa and Temperature is less than 120°C",
+      "B": "Pressure is less than 1100 kPa or Temperature is greater than 120°C",
+      "C": "Pressure is greater than 1100 kPa and Temperature is greater than 120°C",
+      "D": "Pressure is less than 11000 kPa or Temperature is less than 100°C",
+      "E": "Pressure is greater than 100 kPa and Temperature is less than 100°C"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 20,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "The Power Engineers Regulations in Alberta define a heating plant as generating a steam or vapour:\n(Note: check your specific provincial power engineers regulations to prepare for your local Power Engineering exams)",
+    "options": {
+      "A": "Exceeding 103 kpa and 100°C",
+      "B": "Not exceeding 103 kpa and 121°C",
+      "C": "Not exceeding 103 kpa and exceeding 121°C",
+      "D": "Not exceeding 100 kpa and 100°C",
+      "E": "Not exceeding 1100 kpa and 121°C"
+    },
+    "correctAnswer": "B"
+  }
+]

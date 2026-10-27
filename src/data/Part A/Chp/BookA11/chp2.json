@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "heading": "Firetube Boilers",
+    "question": "In order to maintain gas velocity throughout all boiler gas passes, a firetube boiler has:",
+    "options": {
+      "A": "The same number of tubes in each pass but decreasing in diameter with each pass",
+      "B": "The same number of tubes in each pass with a gas bypass around the first two passes to induce flow",
+      "C": "The same number of tubes in each pass when both an FD and ID fan are used",
+      "D": "Fewer tubes in each pass so that tubes of the same size can be used",
+      "E": "Fewer tubes in each pass and increasing in diameter with each pass"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 2,
+    "heading": "Firetube Boilers",
+    "question": "Packaged firetube boilers:",
+    "options": {
+      "A": "Require special foundations or footings",
+      "B": "Require relatively small building areas",
+      "C": "Are more expensive than watertubes",
+      "D": "Are not very rugged relative to portability",
+      "E": "Are difficult to repair"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 3,
+    "heading": "Firetube Boilers",
+    "question": "When a packaged firetube boiler is used as a hot water unit:",
+    "options": {
+      "A": "It will not require an expansion tank",
+      "B": "An atmospheric burner must be used",
+      "C": "Forced circulation is required",
+      "D": "It can be constructed of thinner material for a given pressure",
+      "E": "A water column and gauge glass is required"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 4,
+    "heading": "Firetube Boilers",
+    "question": "In a vertical tubeless firetube boiler, the space between the inner furnace tube and the larger diameter outer pipe that provides the second pass, serves as both __________.",
+    "options": {
+      "A": "Extra furnace space",
+      "B": "Water space only",
+      "C": "Water and steam space",
+      "D": "Flue gas passage",
+      "E": "Steam space only"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 5,
+    "heading": "Firetube Boilers",
+    "question": "A vertical boiler with only a central furnace tube is referred to as:",
+    "options": {
+      "A": "Steam jacketed tube boiler",
+      "B": "Horizontal tubeless boiler",
+      "C": "Central boiler",
+      "D": "Tubeless boiler",
+      "E": "Furnaceless boiler"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 6,
+    "heading": "Firetube Boilers",
+    "question": "More gas passes through the firetube boiler requires:",
+    "options": {
+      "A": "A larger chimney",
+      "B": "Stronger draft fans",
+      "C": "Additional relief valves",
+      "D": "Increased water flow",
+      "E": "More powerful feedwater pump"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 7,
+    "heading": "Firetube Boilers",
+    "question": "When a packaged firetube boiler is used as a power boiler rather than a heating unit:",
+    "options": {
+      "A": "It will have a much stronger design",
+      "B": "Vibrations will be greater, thereby requiring stronger foundations",
+      "C": "It cannot be used as a hot water unit",
+      "D": "More accessories will have to be added",
+      "E": "Only the burner will be changed or different"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 8,
+    "heading": "Firetube Boilers",
+    "question": "Firetube boilers are lower cost and:",
+    "options": {
+      "A": "Have simple rugged construction",
+      "B": "Reach operating pressures very quickly from cold start",
+      "C": "Do not cause much damage on waterside rupture",
+      "D": "Are not very suitable for on-off operation",
+      "E": "Require very critical water treatment"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 9,
+    "heading": "Firetube Boilers",
+    "question": "The wetback Scotch boiler was designed primarily for:",
+    "options": {
+      "A": "Building heating service",
+      "B": "Traction engine service",
+      "C": "Railway service",
+      "D": "Marine service",
+      "E": "Very high capacity electrical generation"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 10,
+    "heading": "Firetube Boilers",
+    "question": "A boiler that utilised a water leg and was used for portable industrial service was the:",
+    "options": {
+      "A": "HRT boiler",
+      "B": "Firebox boiler",
+      "C": "Marine boiler",
+      "D": "Locomotive boiler",
+      "E": "Scotch boiler"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 11,
+    "heading": "Firetube Boilers",
+    "question": "In a packaged firetube boiler, the flue gas velocity within the unit is maintained by:",
+    "options": {
+      "A": "Varying the number of firetubes",
+      "B": "Increasing forced draft fan speed",
+      "C": "Decreasing forced draft fan speed",
+      "D": "Constructing a taller stack",
+      "E": "Varying the firetube diameters"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 12,
+    "heading": "Firetube Boilers",
+    "question": "The forerunner of the modern packaged firetube boiler was the:",
+    "options": {
+      "A": "Firebox boiler",
+      "B": "Locomotive boiler",
+      "C": "Sterling boiler",
+      "D": "Horizontal return tubular boiler",
+      "E": "Scotch Marine boiler"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 13,
+    "heading": "Firetube Boilers",
+    "question": "The internal water circulation in a horizontal watertube boiler is poorest:",
+    "options": {
+      "A": "Directly above the furnace tube",
+      "B": "In the middle of the firetube bundles",
+      "C": "Next to the shell",
+      "D": "At the surface of the water",
+      "E": "Directly below the furnace tube"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 14,
+    "heading": "Firetube Boilers",
+    "question": "ASME code requires the lowest permissible water level in a horizontal firetube boiler to be _____ above the top surface of the top row of tubes.",
+    "options": {
+      "A": "25 mm",
+      "B": "10 mm",
+      "C": "Level with",
+      "D": "50 mm",
+      "E": "75 mm"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 15,
+    "heading": "Firetube Boilers",
+    "question": "A corrugated furnace will give required strength with thinner metal, increased heating surface and:",
+    "options": {
+      "A": "Decrease combustion turbulence",
+      "B": "Add to the overall material cost of the unit",
+      "C": "Will necessitate the boiler being made stronger",
+      "D": "Allow for differential expansion and contraction",
+      "E": "Increase the boiler mass"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 16,
+    "heading": "Firetube Boilers",
+    "question": "The hot gases of combustion pass through:",
+    "options": {
+      "A": "Furnace tubes",
+      "B": "Fire tubes",
+      "C": "Flues",
+      "D": "Stay tubes",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 17,
+    "heading": "Firetube Boilers",
+    "question": "These are most commonly found on flat surfaces of locomotive and firebox boilers:",
+    "options": {
+      "A": "Stay bolts",
+      "B": "Water tubes",
+      "C": "Vertical furnace",
+      "D": "Stay tubes",
+      "E": "Furnace tubes"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 18,
+    "heading": "Firetube Boilers",
+    "question": "The firebox boiler is a _____ pass firetube boiler:",
+    "options": {
+      "A": "Water tube",
+      "B": "Spiral",
+      "C": "Five",
+      "D": "Two",
+      "E": "Vertical"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 19,
+    "heading": "Firetube Boilers",
+    "question": "One of the advantages of the firetube boiler over the watertube and tubular boiler is in the:",
+    "options": {
+      "A": "Fuel and combustion is less",
+      "B": "Operation safety is less",
+      "C": "Electricity consumption is less",
+      "D": "Water treatment can be less",
+      "E": "Water consumption is less"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 20,
+    "heading": "Firetube Boilers",
+    "question": "The boiler \"drum\" refers to the pressure container of a watertube boiler and the \"_____\" refers to the pressure container of a firetube boiler.",
+    "options": {
+      "A": "Shell",
+      "B": "Pipe",
+      "C": "Tank",
+      "D": "Vessel",
+      "E": "Cylinder"
+    },
+    "correctAnswer": "A"
+  }
+]

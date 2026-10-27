@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "heading": "Electric Boilers",
+    "question": "The advantages of an electric boiler are:\n1. More efficient\n2. Does not need water treatment\n3. Very compact\n4. No fuel storage space required\n5. No pollution\n6. Does not need a safety valve",
+    "options": {
+      "A": "1, 3, 4, 5",
+      "B": "2, 3, 4, 5",
+      "C": "1, 2, 3, 6",
+      "D": "2, 3, 4, 6",
+      "E": "1, 2, 4, 5"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 2,
+    "heading": "Electric Boilers",
+    "question": "Electric boilers:",
+    "options": {
+      "A": "Require soot blowers when fuel is coal",
+      "B": "Are not as safe as other boilers",
+      "C": "Require tall stacks for pollution dispersal",
+      "D": "Have energy conversion efficiencies close to 100%",
+      "E": "Tend not to be very compact"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 3,
+    "heading": "Electric Boilers",
+    "question": "An immersion electric boiler capacity can be as high as:",
+    "options": {
+      "A": "5 000 kW",
+      "B": "2 100 kW",
+      "C": "16 000 kW",
+      "D": "30 000 kW",
+      "E": "1 500 kW"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 4,
+    "heading": "Electric Boilers",
+    "question": "Electrode boiler capacities can be as high as:",
+    "options": {
+      "A": "25 000 kg/hr",
+      "B": "85 450 kg/hr",
+      "C": "3 100 kg/hr",
+      "D": "1 500 kg/hr",
+      "E": "2 100 kg/hr"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "heading": "Electric Boilers",
+    "question": "The immersion heater boiler has its elements arranged:",
+    "options": {
+      "A": "Equally spaced in the steam space",
+      "B": "As groups of elements submerged in the water space",
+      "C": "Outside the boiler shell to provide easy access for maintenance",
+      "D": "For operation in sequence on the underside of the shell",
+      "E": "As isolated units in the steam space"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 6,
+    "heading": "Electric Boilers",
+    "question": "Control of the immersion heater boiler is done by turning on and off the ____ supply to one or more elements as required.",
+    "options": {
+      "A": "Amperage",
+      "B": "Water",
+      "C": "Steam",
+      "D": "Current",
+      "E": "Power"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 7,
+    "heading": "Electric Boilers",
+    "question": "Most electric boilers are limited in pressure to about 2 100 kPa due to the effect of high temperature on the:",
+    "options": {
+      "A": "Boiler fittings",
+      "B": "Elements or electrodes",
+      "C": "Steam space",
+      "D": "Vessel structure",
+      "E": "Submerged area"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 8,
+    "heading": "Electric Boilers",
+    "question": "Immersion boiler tube bundles:",
+    "options": {
+      "A": "Have very low electrical resistance",
+      "B": "Cannot be used to regulate steaming capacity",
+      "C": "Can be easily removed from the unit for maintenance purposes",
+      "D": "Act to conduct current through the water",
+      "E": "Operate at only one voltage"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 9,
+    "heading": "Electric Boilers",
+    "question": "Electric boilers:",
+    "options": {
+      "A": "Are hot water boilers only",
+      "B": "Do not need a chimney",
+      "C": "Do not need gauge glasses",
+      "D": "Are economical in power consumption",
+      "E": "Are low pressure boilers only"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 10,
+    "heading": "Electric Boilers",
+    "question": "An advantage of an electric boiler is that it:",
+    "options": {
+      "A": "Is silent in operation",
+      "B": "Can produce steam at very high pressures",
+      "C": "Requires only one blow-off valve",
+      "D": "Normally requires low voltage",
+      "E": "Does not require a sight glass"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 11,
+    "heading": "Electric Boilers",
+    "question": "There are two general designs of electric boilers. They are the:",
+    "options": {
+      "A": "Electrode and immersion type",
+      "B": "AC and DC type",
+      "C": "Reverse polarity and negative ground",
+      "D": "Grounded and ungrounded type",
+      "E": "Firetube type and watertube type"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 12,
+    "heading": "Electric Boilers",
+    "question": "To control the output of a Jet type electrode boiler the _____ is raised or lowered.",
+    "options": {
+      "A": "Spray nozzles",
+      "B": "Control sleeve",
+      "C": "Electrodes",
+      "D": "Collector pipe",
+      "E": "Nozzle plate"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 13,
+    "heading": "Electric Boilers",
+    "question": "A boiler which incorporates generating and regulating chambers is the:",
+    "options": {
+      "A": "Thermal flood boiler",
+      "B": "Immersion boiler",
+      "C": "Steam generator",
+      "D": "Electrode boiler",
+      "E": "Sterling boiler"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 14,
+    "heading": "Electric Boilers",
+    "question": "The steam produced by an electrode type boiler depends on the:",
+    "options": {
+      "A": "Amperage supplied to the elements",
+      "B": "Voltage supplied to the elements",
+      "C": "Number of baffles",
+      "D": "Number of heating elements engaged",
+      "E": "Level of water in the generating chamber"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 15,
+    "heading": "Electric Boilers",
+    "question": "Control of the immersion heater boiler is done by:",
+    "options": {
+      "A": "Increasing and decreasing water flow",
+      "B": "A float switch",
+      "C": "Turning the power on and off to the elements as required",
+      "D": "Transforming the voltage to a lower value",
+      "E": "Recirculating boiler water"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 16,
+    "heading": "Electric Boilers",
+    "question": "Operating voltage for an electrode boiler may be as high as:",
+    "options": {
+      "A": "240 volts",
+      "B": "30 000 volts",
+      "C": "5 000 volts",
+      "D": "25 000 volts",
+      "E": "550 volts"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 17,
+    "heading": "Electric Boilers",
+    "question": "One disadvantage of an electric boiler is that it:",
+    "options": {
+      "A": "Is not very efficient",
+      "B": "Is very expensive to operate",
+      "C": "Has no chimney",
+      "D": "Requires alternating current",
+      "E": "Requires DC power"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 18,
+    "heading": "Electric Boilers",
+    "question": "A ______ is required on immersion boilers, but is not required on an electrode electric type boiler.",
+    "options": {
+      "A": "Gauge glass",
+      "B": "Blow-off valve",
+      "C": "Low water cut-off",
+      "D": "Pressure gauge",
+      "E": "Safety valve"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 19,
+    "heading": "Electric Boilers",
+    "question": "What safety device is not required on an electrode electric type boiler:",
+    "options": {
+      "A": "Gauge glass",
+      "B": "Pressure gauge",
+      "C": "Blown-off valve",
+      "D": "Safety valve",
+      "E": "Low water cut-off"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 20,
+    "question": "Due to _______ of electricity, generally electric boilers are not common except in facilities that tend to use extremely large amounts of electricity.",
+    "heading": "Electric Boilers",
+    "options": {
+      "A": "Unavailability",
+      "B": "High cost",
+      "C": "Unreliability",
+      "D": "Low cost",
+      "E": "High maintenance costs"
+    },
+    "correctAnswer": "B"
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "number": 1,
+    "heading": "Watertube Boilers",
+    "question": "Economizers:",
+    "options": {
+      "A": "Increase the flue gas temperature",
+      "B": "Increase the steam temperature",
+      "C": "Increase the boiler efficiency",
+      "D": "Are installed before the superheater",
+      "E": "Increase the air temperature"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 2,
+    "heading": "Watertube Boilers",
+    "question": "A steam separator that imparts a rapid spin to the steam/water mixture:",
+    "options": {
+      "A": "Cyclone",
+      "B": "Dry pipe",
+      "C": "Scrubbers",
+      "D": "Chevron",
+      "E": "Baffles"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 3,
+    "heading": "Watertube Boilers",
+    "question": "The Steam generator heat transfer component that reheats the exhaust steam from the high pressure turbine stage is:",
+    "options": {
+      "A": "Radiant superheater",
+      "B": "Convection superheater",
+      "C": "Preheater",
+      "D": "Economizer",
+      "E": "Reheater"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 4,
+    "heading": "Watertube Boilers",
+    "question": "Air heaters in a boiler:",
+    "options": {
+      "A": "Help the boiler from freezing during the winter period",
+      "B": "Are installed between the superheater and the economizer",
+      "C": "Increase the flue gas temperature",
+      "D": "Maintain a steady higher temperature in the stack",
+      "E": "Reduce the temperature of the flue gases going to the stack"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 5,
+    "heading": "Watertube Boilers",
+    "question": "The bent tube boiler design allows the tubes to be attached in a radial manner on the outside of the:",
+    "options": {
+      "A": "Air pre-heater",
+      "B": "Economizer",
+      "C": "Superheater",
+      "D": "Shell or drum",
+      "E": "Furnace"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 6,
+    "heading": "Watertube Boilers",
+    "question": "The correct location for the chemical feed pipe to discharge is:",
+    "options": {
+      "A": "Into the mud drum",
+      "B": "Near the feedwater pipe",
+      "C": "Into the steam outlet",
+      "D": "Into the gauge glass",
+      "E": "Near the continuous blowdown pipe"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 7,
+    "heading": "Watertube Boilers",
+    "question": "Boilers designed to work above 22.09 MPa are called:",
+    "options": {
+      "A": "Firetube",
+      "B": "Supercritical",
+      "C": "Super duper",
+      "D": "Subcritical",
+      "E": "Cast iron"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 8,
+    "heading": "Watertube Boilers",
+    "question": "When considering the flue gas passage of a steam generator, the economizer is usually located:",
+    "options": {
+      "A": "Between the primary and secondary superheaters",
+      "B": "Between the superheater and air preheater",
+      "C": "Between the air preheater and ID fan",
+      "D": "In the furnace section",
+      "E": "After the air heater"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 9,
+    "heading": "Watertube Boilers",
+    "question": "The internal feedwater pump travels the length of the drum to heat the feedwater to:",
+    "options": {
+      "A": "Decrease total dissolved solids",
+      "B": "Decrease the drum temperature",
+      "C": "Prevent chemical loss",
+      "D": "Increase the drum temperature",
+      "E": "Minimize thermal shock"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 10,
+    "heading": "Watertube Boilers",
+    "question": "A chevron dryer is also referred to as a:",
+    "options": {
+      "A": "Pyramid",
+      "B": "Scrubber",
+      "C": "Cyclone",
+      "D": "Centrifugal",
+      "E": "Baffle"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 11,
+    "heading": "Watertube Boilers",
+    "question": "In a watertube boiler, the tubes that contain only water are _____ and the tubes that contain both water and steam are called_____.",
+    "options": {
+      "A": "Firetubes, flue tubes",
+      "B": "Downcomers, risers",
+      "C": "Watertubes, steamtubes",
+      "D": "Watertubes, firetubes",
+      "E": "Downriser, upcomers"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 12,
+    "heading": "Watertube Boilers",
+    "question": "The heat transfer components of a steam generating unit are:\n1. Superheater\n2. Economizer\n3. Safety valve\n4. Feedwater line",
+    "options": {
+      "A": "1, 2",
+      "B": "1, 3, 2",
+      "C": "1, 2, 3, 4",
+      "D": "1, 2, 4",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 13,
+    "heading": "Watertube Boilers",
+    "question": "High pressure watertubes:",
+    "options": {
+      "A": "Are always straight",
+      "B": "Are elliptical in cross-section",
+      "C": "Are always smaller than firetubes",
+      "D": "Require pumps for circulation",
+      "E": "Can be of various bent configurations"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 14,
+    "heading": "Watertube Boilers",
+    "question": "Large steam generating units may have their superheaters located:\n1. Beneath the furnace\n2. In the convection zone\n3. In the main waterwall header\n4. In the radiant zone\n5. In the down comer pipe",
+    "options": {
+      "A": "4, 5",
+      "B": "1, 2, 5",
+      "C": "3, 4, 5",
+      "D": "1, 3",
+      "E": "2, 4"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 15,
+    "heading": "Watertube Boilers",
+    "question": "A disadvantage of the O type boiler over the A or D type is:",
+    "options": {
+      "A": "Higher temperature",
+      "B": "Heavier",
+      "C": "Smaller size",
+      "D": "Less radiant heat transfer",
+      "E": "Lower pressure"
+    },
+    "correctAnswer": "D"
+  }
+]

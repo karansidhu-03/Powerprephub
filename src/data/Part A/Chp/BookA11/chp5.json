@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "In a modular heating plant, the modules are connected between the supply and return header:",
+    "options": {
+      "A": "In series",
+      "B": "In parallel",
+      "C": "Internally",
+      "D": "Intermittently",
+      "E": "Using cast iron tubing"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 2,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "An advantage to using flexible tube and coil type boilers is:",
+    "options": {
+      "A": "More corrosion resistant",
+      "B": "Easy to assemble",
+      "C": "Warm up very slowly",
+      "D": "Respond slowly to fluctuating heat loads",
+      "E": "Safer due to lower potential energy in boiler water"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 3,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "A reason for preferring copper tubing in a tubular boiler is:",
+    "options": {
+      "A": "Because of its good ductility",
+      "B": "Its lower cost than steel",
+      "C": "Faster heat transfer rate",
+      "D": "Scale does not adhere to it",
+      "E": "Its ability to withstand high temperature"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 4,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "The cast iron boiler sections are held together by:",
+    "options": {
+      "A": "Tie rods",
+      "B": "Connection rods",
+      "C": "Eccentric couplers",
+      "D": "Bolts and nuts",
+      "E": "Welding"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 5,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "Packaged watertube heating boilers are often sized so that:",
+    "options": {
+      "A": "They can fit through a standard doorway",
+      "B": "Only one boiler is required to meet all heating loads",
+      "C": "No welding is required",
+      "D": "The boiler house must be built around them",
+      "E": "New cast iron sections can be added"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 6,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "An advantage to selecting a one pass vertical firetube boilers is:",
+    "options": {
+      "A": "Small floor space required",
+      "B": "They don't require maintenance",
+      "C": "They do not corrode",
+      "D": "They require less ceiling height than horizontal designs",
+      "E": "Less headroom required"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 7,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "In the modular heating plant, the burners are controlled:",
+    "options": {
+      "A": "Using a turbo damper",
+      "B": "Individually by each module",
+      "C": "Only using on/off switches",
+      "D": "Centrally by each module",
+      "E": "By a single controller"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 8,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "The furnace walls in a bent tube watertube boiler are formed by water filled tubes and these walls are called:",
+    "options": {
+      "A": "Waterside walls",
+      "B": "Furnace walls",
+      "C": "Radiant walls",
+      "D": "Fireside walls",
+      "E": "Water walls"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 9,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "The steam and water spaces in cast irons boiler sections are connected by:",
+    "options": {
+      "A": "Threaded tubing",
+      "B": "Welded pipe",
+      "C": "Push nipples",
+      "D": "Connection joints",
+      "E": "Schedule 40 pipe"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 10,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "One of the advantages of the low pressure serpentine flex tube tube watertube boiler is:",
+    "options": {
+      "A": "Ease of replacement of defective tubes",
+      "B": "Virtually no operational supervision required",
+      "C": "Small amount of feedwater treatment",
+      "D": "Low cost",
+      "E": "Excellent water circulation"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 11,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "A modern high efficiency hot water boiler using the \"condensing boiler\" design can achieve efficiency as high as:",
+    "options": {
+      "A": "50%",
+      "B": "95%",
+      "C": "80%",
+      "D": "25%",
+      "E": "65%"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 12,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "The combustion chamber of a flex tube serpentine tube watertube boiler is:",
+    "options": {
+      "A": "Enclosed by a non-insulated metal casing",
+      "B": "Surrounded by the tubes",
+      "C": "Located above the tubes",
+      "D": "Equipped with gas power burners",
+      "E": "Located below the tubes"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 13,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "One of the advantages of the low pressure Flex tube serpentine watertube boiler is virtually:",
+    "options": {
+      "A": "Eliminates expansion and contraction stresses",
+      "B": "No need for tubes replacement",
+      "C": "Eliminates feedwater treatment",
+      "D": "No operational supervision required",
+      "E": "No maintenance required"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 14,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "Heating boilers attain maximum efficiency when they operate close to:",
+    "options": {
+      "A": "65% load",
+      "B": "Full load",
+      "C": "75% load",
+      "D": "25% load",
+      "E": "Half load"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 15,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "A disadvantage of selecting an older design of one pass vertical firetube boiler is:",
+    "options": {
+      "A": "Use standard utility connections",
+      "B": "Relatively inexpensive to purchase",
+      "C": "They fit through standard doorways",
+      "D": "Low efficiency",
+      "E": "Small floor space is required"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 16,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "The modern Firebox boiler is predominately designed for:",
+    "options": {
+      "A": "They are never used anymore",
+      "B": "Low pressure power generation",
+      "C": "High pressure heating service",
+      "D": "High pressure power generation",
+      "E": "Low pressure heating service"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 17,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "Firebox boilers are a good candidate for replacement of Scotch type firetube boilers because:",
+    "options": {
+      "A": "They use aluminum fins to extend the copper tubes",
+      "B": "They are taller and narrower and fit through standard doors",
+      "C": "They do not require a license to operate",
+      "D": "They do not require any maintenance",
+      "E": "They are higher pressure and can produce hotter steam"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 18,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "The thermal efficiency throughout the year of a heating plant can be optimized by using:",
+    "options": {
+      "A": "Counter reverse flow undynamic control",
+      "B": "Several small boilers",
+      "C": "Small boilers supplements by electric heaters",
+      "D": "One big boiler at full load all year",
+      "E": "Cast iron boilers only"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 19,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "A reason for preferring copper tubing in a tubular boiler is:",
+    "options": {
+      "A": "Low cost",
+      "B": "Ease of replacement of the tubes",
+      "C": "High metal expansion rate",
+      "D": "Corrosion resistance",
+      "E": "Elimination of feedwater treatment"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 20,
+    "heading": "Special Boiler Designs for Heating Plants",
+    "question": "Additional water treatment care is required with Coil tube heating boilers that produce steam due to:",
+    "options": {
+      "A": "Carbon buildup",
+      "B": "Under scale corrosion",
+      "C": "Stress corrosion cracking",
+      "D": "Metal erosion",
+      "E": "Scale disposition"
+    },
+    "correctAnswer": "E"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "To protect municipal sewers from high temperature blowdown, the CSA B51 requires:",
+    "options": {
+      "A": "Boilers cannot blowdown to sewer systems",
+      "B": "Sewers to be designed to withstand MAWP",
+      "C": "A blowdown cooling system",
+      "D": "A blowoff vessel for boilers exceeding 103 kPa",
+      "E": "A blowoff vessel for power boilers only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 2,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "ASME restricts low pressure steam boiler controllers for being set:",
+    "options": {
+      "A": "Below 103 kPa",
+      "B": "Above 1100 kPa",
+      "C": "Above 100 kPa",
+      "D": "Below 1100 kPa",
+      "E": "Above 103 kPa"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 3,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "According to provincial regulations, a low pressure or heating boiler is one in which steam or other vapour is generated at a pressure not exceeding:",
+    "options": {
+      "A": "103 kpa",
+      "B": "120 kpa",
+      "C": "76 kpa",
+      "D": "25 kpa",
+      "E": "51 kpa"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 4,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "When a packaged firetube boiler is used as a power boiler rather than a heating unit:",
+    "options": {
+      "A": "Vibrations will be greater",
+      "B": "Only the burners will be changed",
+      "C": "More accessories will have to be added",
+      "D": "It will have a much stronger design",
+      "E": "It cannot be used as a hot water unit"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 5,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "Power boilers tend to require better water treatment control due to:",
+    "options": {
+      "A": "Corrosion",
+      "B": "Scale",
+      "C": "Embrittlement",
+      "D": "Foaming",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 6,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "The ASME sections that deal with heating boilers are:",
+    "options": {
+      "A": "IV and I",
+      "B": "IV and VI",
+      "C": "IV and VII",
+      "D": "I and VII",
+      "E": "IV and VIII"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 7,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "In Canadian provincial regulations, some boilers may be exempt from the requirements for constant supervision, typically these are:\n(Note: check your specific provincial power engineers regulations to prepare for your local Power Engineering exams)",
+    "options": {
+      "A": "All low pressure boilers",
+      "B": "Low pressure, small size",
+      "C": "All hot water boilers",
+      "D": "Any fully automated boiler",
+      "E": "High pressure fully automated"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 8,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "ASME sect I places maximum limits on Cast Iran fitting of:",
+    "options": {
+      "A": "100 MPa or 100°C",
+      "B": "1.7 MPa or 230°C",
+      "C": "There are no limits on Cast Iron",
+      "D": "1.1 MPa or 120°C",
+      "E": "1.7 kPa or 100°C"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 9,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "An attended boiler:",
+    "options": {
+      "A": "Can be allowed to operate unsupervised over the weekend",
+      "B": "Must be supervised once per day",
+      "C": "Is a fully automatic boiler",
+      "D": "Can only be operated while a qualified engineer is present",
+      "E": "Can be supervised on day shifts only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 10,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "ASME Sect I for power boilers states the lowest visible water level must be at least ____ above the manufacturers lowest permissible water level.",
+    "options": {
+      "A": "100 mm",
+      "B": "25 mm",
+      "C": "2 mm",
+      "D": "50 mm",
+      "E": "175 mm"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 11,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "The best way to determine the current working pressure of any boiler is to:",
+    "options": {
+      "A": "Check with the company safety representative",
+      "B": "Check the provincial operating certificate",
+      "C": "Check with the operator",
+      "D": "Check with the owner",
+      "E": "Check with the maintenance department"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 12,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "The class of water treatment chosen for a leak free cast iron boiler that is designed so that all condensate is returned to the system may be:",
+    "options": {
+      "A": "Class 1",
+      "B": "Class 2",
+      "C": "Class 3",
+      "D": "Class 4",
+      "E": "Class 5"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 13,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "ASME Sect IV for heating boilers states the lowest visible water level must be at least _____ above the manufacturers lowest permissible water level.",
+    "options": {
+      "A": "2 mm",
+      "B": "25 mm",
+      "C": "100 mm",
+      "D": "175 mm",
+      "E": "50 mm"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 14,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "Because of the steam specific volume difference between a high pressure boiler and a heating boiler the heating boiler safety valve is typically:",
+    "options": {
+      "A": "Smaller",
+      "B": "Not required",
+      "C": "Same",
+      "D": "Larger",
+      "E": "Made of copper"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 15,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "All components of a boiler must be designed strong enough to operate at:",
+    "options": {
+      "A": "Feedwater pressure",
+      "B": "Maximum material yield strength",
+      "C": "Maximum allowable working pressure",
+      "D": "Minimum allowable working pressure",
+      "E": "Instrument air pressure"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 16,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "Water treatment in power boilers includes all of these except:",
+    "options": {
+      "A": "Bottom blowoff",
+      "B": "Water tests",
+      "C": "Chemical additions",
+      "D": "Blowdown adjustments",
+      "E": "Water temperature measurements"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 17,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "ASME section I states that a pressure guage is used that indicates:",
+    "options": {
+      "A": "Maximum design pressure",
+      "B": "2 times the safety valve pressure",
+      "C": "Safety valve pressure",
+      "D": "2 times the maximum allowable working pressure",
+      "E": "Maximum allowable working pressure"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 18,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "The Power Engineers Regulations in Alberta define a heating plant as heating liquid:\n(Note: check your specific provincial power engineers regulations to prepare for your local Power Engineering exams)",
+    "options": {
+      "A": "Not exceeding 103 kpa and exceeding 121°C",
+      "B": "Not exceeding 100 kpa and 100°C",
+      "C": "Exceeding 103 kpa and 100°C",
+      "D": "Not exceeding 1100 kpa and 121°C",
+      "E": "Not exceeding 103 kpa and 121°C"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 19,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "A hot water boiler falls under ASME Section IV when its:",
+    "options": {
+      "A": "Pressure is less than 1100 kPa and Temperature is less than 120°C",
+      "B": "Pressure is less than 1100 kPa or Temperature is greater than 120°C",
+      "C": "Pressure is greater than 1100 kPa and Temperature is greater than 120°C",
+      "D": "Pressure is less than 11000 kPa or Temperature is less than 100°C",
+      "E": "Pressure is greater than 100 kPa and Temperature is less than 100°C"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 20,
+    "heading": "Differences between Power and Heating Boilers",
+    "question": "The Power Engineers Regulations in Alberta define a heating plant as generating a steam or vapour:\n(Note: check your specific provincial power engineers regulations to prepare for your local Power Engineering exams)",
+    "options": {
+      "A": "Exceeding 103 kpa and 100°C",
+      "B": "Not exceeding 103 kpa and 121°C",
+      "C": "Not exceeding 103 kpa and exceeding 121°C",
+      "D": "Not exceeding 100 kpa and 100°C",
+      "E": "Not exceeding 1100 kpa and 121°C"
+    },
+    "correctAnswer": "B"
+  }
+]
