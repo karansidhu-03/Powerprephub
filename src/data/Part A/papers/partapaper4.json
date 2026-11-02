@@ -167,7 +167,7 @@
     "question": "The force exerted by a pressure of 500 kPa acting on an area of 0.05 m² is:",
     "options": ["2.5 kN", "25 kN", "250 kN", "10 kN"],
     "answer": "25 kN",
-    "explanation": "Force equals pressure multiplied by area ($F = P \\times A$). Therefore, $500 \\text{ kPa} \\times 0.05 \\text{ m}^2 = 25 \\text{ kN}$ ($500,000 \\times 0.05 = 25,000 \\text{ N}$ or $25 \\text{ kN}$). "
+    "explanation": "Force equals pressure multiplied by area (F = P times A). Therefore, 500 text{ kPa} times 0.05 text{ m}^2 = 25 text{ kN} (500,000 times 0.05 = 25,000 text{ N} or 25 text{ kN}). "
   },
   {
     "id": 16,
@@ -222,14 +222,14 @@
     "question": "Convert 300 K to degrees Celsius.",
     "options": ["27 K", "327°C", "573°C", "27°C"],
     "answer": "27°C",
-    "explanation": "To convert Kelvin to Celsius, subtract 273.15 ($300 - 273 = 27\\text{°C}$)."
+    "explanation": "To convert Kelvin to Celsius, subtract 273.15 (300 - 273 = 27text{°C})."
   },
   {
     "id": 21,
-    "question": "The current through a 12 $\\Omega$ resistor connected across 24 V is:",
+    "question": "The current through a 12 Omega resistor connected across 24 V is:",
     "options": ["288 A", "36 A", "0.5 A", "2 A"],
     "answer": "2 A",
-    "explanation": "Using Ohm's Law ($I = V / R$), calculate $24 \\text{ V} / 12 \\text{ \\Omega} = 2 \\text{ A}$."
+    "explanation": "Using Ohm's Law (I = V / R), calculate 24 text{ V} / 12 text{ Omega} = 2 text{ A}."
   },
   {
     "id": 22,
@@ -253,7 +253,7 @@
       "At below atmospheric pressure throughout the unit"
     ],
     "answer": "Above critical pressure, no steam-water interface",
-    "explanation": "At pressures above the critical pressure ($22.1 \\text{ MPa}$), water vaporizes instantly without boiling, meaning no distinct steam-water interface or drum is required."
+    "explanation": "At pressures above the critical pressure (22.1 text{ MPa}), water vaporizes instantly without boiling, meaning no distinct steam-water interface or drum is required."
   },
   {
     "id": 24,
@@ -284,7 +284,7 @@
     "question": "Convert 25°C to Fahrenheit. (°F = 9/5 × °C + 32)",
     "options": ["45°F", "97°F", "57°F", "77°F"],
     "answer": "77°F",
-    "explanation": "Applying the formula: $(9/5 \\times 25) + 32 = 45 + 32 = 77\\text{°F}$."
+    "explanation": "Applying the formula: (9/5 times 25) + 32 = 45 + 32 = 77text{°F}."
   },
   {
     "id": 27,
@@ -296,7 +296,7 @@
       "Circuit current to its resistance"
     ],
     "answer": "Real power to the apparent power",
-    "explanation": "Power factor is defined mathematically as the ratio of true/real power ($\\text{kW}$) to apparent power ($\\text{kVA}$) in an AC circuit."
+    "explanation": "Power factor is defined mathematically as the ratio of true/real power (text{kW}) to apparent power (text{kVA}) in an AC circuit."
   },
   {
     "id": 28,
@@ -331,24 +331,24 @@
   },
   {
     "id": 31,
-    "question": "The work done lifting an 80 kg mass through 2.5 m is ($g = 9.81 \\text{ m/s}^2$):",
+    "question": "The work done lifting an 80 kg mass through 2.5 m is (g = 9.81 text{ m/s}^2):",
     "options": ["About 785 J", "About 200 J", "About 19,620 J", "About 1962 J"],
     "answer": "About 1962 J",
-    "explanation": "Work is gravitational potential energy change ($W = m \\cdot g \\cdot h$). Thus, $80 \\text{ kg} \\times 9.81 \\text{ m/s}^2 \\times 2.5 \\text{ m} = 1962 \\text{ J}$."
+    "explanation": "Work is gravitational potential energy change (W = m cdot g cdot h). Thus, 80 text{ kg} times 9.81 text{ m/s}^2 times 2.5 text{ m} = 1962 text{ J}."
   },
   {
     "id": 32,
     "question": "To produce the least CO2 per unit of heat among common fossil fuels, a plant would burn:",
     "options": ["Wood", "Heavy fuel oil", "Coal", "Natural gas"],
     "answer": "Natural gas",
-    "explanation": "Natural gas consists primarily of methane ($\\text{CH}_4$), which has a higher hydrogen-to-carbon ratio than oil or coal, resulting in the lowest carbon dioxide emissions per unit of energy released."
+    "explanation": "Natural gas consists primarily of methane (text{CH}_4), which has a higher hydrogen-to-carbon ratio than oil or coal, resulting in the lowest carbon dioxide emissions per unit of energy released."
   },
   {
     "id": 33,
     "question": "The energy used by a 2 kW heater running for 3 hours is:",
     "options": ["6 kWh", "0.67 kWh", "6 kW", "6000 kWh"],
     "answer": "6 kWh",
-    "explanation": "Energy is power multiplied by time ($E = P \\times t$). Therefore, $2 \\text{ kW} \\times 3 \\text{ hours} = 6 \\text{ kWh}$."
+    "explanation": "Energy is power multiplied by time (E = P times t). Therefore, 2 text{ kW} times 3 text{ hours} = 6 text{ kWh}."
   },
   {
     "id": 34,
@@ -463,7 +463,7 @@
       "Hidden from view within the enclosed structure"
     ],
     "answer": "It can be drawn deep into the lungs",
-    "explanation": "Fine particulate matter ($\\text{PM}_{2.5}$ or smaller) bypasses natural nose and throat filters to penetrate deep into human lung tissue, causing respiratory and cardiovascular issues."
+    "explanation": "Fine particulate matter (text{PM}_{2.5} or smaller) bypasses natural nose and throat filters to penetrate deep into human lung tissue, causing respiratory and cardiovascular issues."
   },
   {
     "id": 44,
@@ -479,7 +479,7 @@
   },
   {
     "id": 45,
-    "question": "How much heat raises 10 kg of water from 20°C to 70°C? ($c = 4.187 \\text{ kJ/kg}\\cdot\\text{°C}$)",
+    "question": "How much heat raises 10 kg of water from 20°C to 70°C? (c = 4.187 text{ kJ/kg}cdottext{°C})",
     "options": [
       "About 4187 kJ",
       "About 1047 kJ",
@@ -487,7 +487,7 @@
       "About 2094 kJ"
     ],
     "answer": "About 2094 kJ",
-    "explanation": "Using $Q = m \\cdot c \\cdot \\Delta T$, calculate $10 \\text{ kg} \\times 4.187 \\text{ kJ/kg}\\cdot\\text{°C} \\times (70 - 20)\\text{°C} = 10 \\times 4.187 \\times 50 = 2093.5 \\text{ kJ}$ (approx. $2094 \\text{ kJ}$). "
+    "explanation": "Using Q = m cdot c cdot Delta T, calculate 10 text{ kg} times 4.187 text{ kJ/kg}cdottext{°C} times (70 - 20)text{°C} = 10 times 4.187 times 50 = 2093.5 text{ kJ} (approx. 2094 text{ kJ}). "
   },
   {
     "id": 46,
@@ -542,14 +542,14 @@
     "question": "If 9000 J of work is done in 6 s, the power developed is:",
     "options": ["375 W", "1500 J", "1500 W", "54,000 W"],
     "answer": "1500 W",
-    "explanation": "Power is work divided by time ($P = W / t$). Therefore, $9000 \\text{ J} / 6 \\text{ s} = 1500 \\text{ W}$."
+    "explanation": "Power is work divided by time (P = W / t). Therefore, 9000 text{ J} / 6 text{ s} = 1500 text{ W}."
   },
   {
     "id": 51,
-    "question": "The total resistance of 10 $\\Omega$ and 15 $\\Omega$ connected in series is:",
-    "options": ["5 $\\Omega$", "6 $\\Omega$", "150 $\\Omega$", "25 $\\Omega$"],
-    "answer": "25 $\\Omega$",
-    "explanation": "Resistors in series add directly ($R_{\\text{total}} = R_1 + R_2$). Thus, $10 \\text{ \\Omega} + 15 \\text{ \\Omega} = 25 \\text{ \\Omega}$."
+    "question": "The total resistance of 10 Omega and 15 Omega connected in series is:",
+    "options": ["5 Omega", "6 Omega", "150 Omega", "25 Omega"],
+    "answer": "25 Omega",
+    "explanation": "Resistors in series add directly (R_{text{total}} = R_1 + R_2). Thus, 10 text{ Omega} + 15 text{ Omega} = 25 text{ Omega}."
   },
   {
     "id": 52,
@@ -784,7 +784,7 @@
       "The total surface area of the body"
     ],
     "answer": "Gravity acting on the body's mass",
-    "explanation": "Weight ($W = m \\cdot g$) represents the gravitational force exerted on an object's mass by the Earth or another celestial body."
+    "explanation": "Weight (W = m cdot g) represents the gravitational force exerted on an object's mass by the Earth or another celestial body."
   },
   {
     "id": 72,
@@ -810,7 +810,7 @@
     "question": "A material with an ultimate strength of 450 MPa is used with a factor of safety of 5. The allowable stress is:",
     "options": ["90 MPa", "455 MPa", "45 MPa", "2250 MPa"],
     "answer": "90 MPa",
-    "explanation": "Allowable stress equals ultimate strength divided by the factor of safety ($450 \\text{ MPa} / 5 = 90 \\text{ MPa}$). "
+    "explanation": "Allowable stress equals ultimate strength divided by the factor of safety (450 text{ MPa} / 5 = 90 text{ MPa}). "
   },
   {
     "id": 75,
@@ -894,7 +894,7 @@
       "About 1177 kPa"
     ],
     "answer": "About 118 kPa",
-    "explanation": "Hydrostatic pressure is calculated as $P = \\rho \\cdot g \\cdot h$ ($1000 \\text{ kg/m}^3 \\times 9.81 \\text{ m/s}^2 \\times 12 \\text{ m} = 117,720 \\text{ Pa}$ or approx. $118 \\text{ kPa}$). "
+    "explanation": "Hydrostatic pressure is calculated as P = rho cdot g cdot h (1000 text{ kg/m}^3 times 9.81 text{ m/s}^2 times 12 text{ m} = 117,720 text{ Pa} or approx. 118 text{ kPa}). "
   },
   {
     "id": 82,
@@ -937,7 +937,7 @@
     "question": "The tensile stress in a bar of cross-section 0.0008 m² carrying 24,000 N is:",
     "options": ["30 MPa", "19.2 MPa", "300 MPa", "3 MPa"],
     "answer": "30 MPa",
-    "explanation": "Tensile stress is force divided by area ($\\sigma = F / A$). Thus, $24,000 \\text{ N} / 0.0008 \\text{ m}^2 = 30,000,000 \\text{ Pa} = 30 \\text{ MPa}$."
+    "explanation": "Tensile stress is force divided by area (sigma = F / A). Thus, 24,000 text{ N} / 0.0008 text{ m}^2 = 30,000,000 text{ Pa} = 30 text{ MPa}."
   },
   {
     "id": 86,

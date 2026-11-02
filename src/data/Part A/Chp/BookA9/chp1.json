@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "Some of the components required to construct an automatic control loop are a sensing element, a transmitter, a _____ and a final control element.",
+    "options": {
+      "A": "Controller",
+      "B": "Piping system",
+      "C": "Transformer",
+      "D": "Converter",
+      "E": "Transducer"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 2,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "Pneumatic signals typically operate between:",
+    "options": {
+      "A": "20 and 200 kPa",
+      "B": "20 and 200 kPa",
+      "C": "40 and 100 kPa",
+      "D": "50 and 500 kPa",
+      "E": "20 and 100 kPa"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 3,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "A sensing element receives its signal from the:",
+    "options": {
+      "A": "Transducer",
+      "B": "Recorder",
+      "C": "Controller",
+      "D": "Controlled variable",
+      "E": "Control valve"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 4,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "A control device which will change one form of energy into another form of energy is the:",
+    "options": {
+      "A": "Primary element",
+      "B": "Transducer",
+      "C": "Controller",
+      "D": "Logic device",
+      "E": "Transmitter"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "Non control loop instruments may include:",
+    "options": {
+      "A": "Indicators",
+      "B": "Switches",
+      "C": "Alarms",
+      "D": "Logic devices",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 6,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "The variable which is adjusted in order to maintain or achieve some desired value of the process variable is termed the:",
+    "options": {
+      "A": "Transmitting variable",
+      "B": "Manipulated variable",
+      "C": "Final variable",
+      "D": "Indicated variable",
+      "E": "Controlled variable"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 7,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "A common air pressure range for pneumatic control systems is:",
+    "options": {
+      "A": "20 to 30 kPa",
+      "B": "20 to 100 psi",
+      "C": "20 to 100 kPa",
+      "D": "3 to 15 kPa",
+      "E": "40 to 60 psi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 8,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "Level, pressure, flow, temperature, composition, vibration, speed and clearance are all examples of:",
+    "options": {
+      "A": "Sensing elements",
+      "B": "Transmitters",
+      "C": "Measured variable",
+      "D": "Disturbances",
+      "E": "Control variables"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 9,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "An open loop control system requires:",
+    "options": {
+      "A": "Constant attention",
+      "B": "A very small amount of dead time or lag",
+      "C": "Two final control elements",
+      "D": "Minimum deviation from set point",
+      "E": "A transducer and a recorder"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 10,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "Many Pneumatic control systems continue to use equipment indicating 3-15 psi or 20-100kPa. 1 PSI equals:",
+    "options": {
+      "A": "1 Newton per metre squared",
+      "B": "6.89 kPa",
+      "C": "100 kPa",
+      "D": "1 kilogram per metre squared",
+      "E": "1 kPa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 11,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "When a process variable has no method of sending information to the final control element the system is known as:",
+    "options": {
+      "A": "A cascade system",
+      "B": "An automatic system",
+      "C": "A feedback system",
+      "D": "A feedforward system",
+      "E": "An open loop system"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 12,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "HART transmitters communicate via:",
+    "options": {
+      "A": "Telephone lines",
+      "B": "Mesh",
+      "C": "Pneumatic lines",
+      "D": "Fibre optic cable",
+      "E": "Copper cable"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 13,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "The methods commonly used as a medium of control in a plant include fibre-optic, wireless, pneumatic and:",
+    "options": {
+      "A": "Thermal",
+      "B": "Physical",
+      "C": "Manual",
+      "D": "Magnetic",
+      "E": "Electrical"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 14,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "A fire eye or flame scanner keeps the burner circuit energized as long as the burner flame is maintained. This is accomplished through the use of a:",
+    "options": {
+      "A": "Controller",
+      "B": "Photoelectric transducer",
+      "C": "Thermocouple",
+      "D": "Recorder",
+      "E": "Control valve"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 15,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "A device which will cause a visible light signal to become an instrument analog signal is the:",
+    "options": {
+      "A": "Transferor",
+      "B": "Current-to-pneumatic transducer",
+      "C": "Final element",
+      "D": "Controller",
+      "E": "Photoelectric transducer"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 16,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "A current signal may also be called a/an:",
+    "options": {
+      "A": "Generated signal",
+      "B": "DC signal",
+      "C": "AC signal",
+      "D": "Power signal",
+      "E": "Ampere signal"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 17,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "In an automatic control system the controller output changes the position of the:",
+    "options": {
+      "A": "Transmitter",
+      "B": "Sensing element",
+      "C": "Indicator dial",
+      "D": "Recorder",
+      "E": "Control valve"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 18,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "In a \"closed loop\" system of control, the control will change:",
+    "options": {
+      "A": "Both automatically and manually",
+      "B": "Manually",
+      "C": "Intermittently",
+      "D": "Automatically",
+      "E": "Inversely to the signal"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 19,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "A control loop controller:",
+    "options": {
+      "A": "Will always eliminate deviation",
+      "B": "Sends a signal to a primary element",
+      "C": "Constantly compares input signals to the set point",
+      "D": "Does not require a set point value",
+      "E": "Measures the manipulated variable value, eliminating the need of a primary element"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 20,
+    "heading": "Intro to Energy Plant Controls & Instrumentation",
+    "question": "True/False, on/off, start/stop are all the type of information transmitted by:",
+    "options": {
+      "A": "Offset variables",
+      "B": "Discrete digital signals",
+      "C": "Manipulated variables",
+      "D": "Records",
+      "E": "Variable voltage signals"
+    },
+    "correctAnswer": "B"
+  }
+]

@@ -47,7 +47,7 @@
     "question": "If 12,000 J of work is done in 4 s, the power developed is:",
     "options": ["750 W", "3000 J", "3000 W", "48,000 W"],
     "answer": "3000 W",
-    "explanation": "Power is work divided by time ($P = W / t$). Therefore, $12000 \\text{ J} / 4 \\text{ s} = 3000 \\text{ W}$."
+    "explanation": "Power is work divided by time P = W / t. Therefore, 12000  J / 4 s = 3000  W. "
   },
   {
     "id": 6,
@@ -79,22 +79,23 @@
     "options": [
       "A separate steam (water) drum",
       "A fuel-burning burner assembly",
-      "A boiler feedwater pump"
+      "A boiler feedwater pump",
+      "A furnace in which to fire"
     ],
     "answer": "A separate steam (water) drum",
     "explanation": "In a once-through steam generator, water flows continuously and is completely vaporized without needing a steam-separating drum."
   },
   {
     "id": 9,
-    "question": "A furnace in which to fire:",
+    "question": "the main steam header in a plant",
     "options": [
       "Distributes steam to the users",
       "Traps and drains condensate from the steam line",
       "Removes dissolved gases from the water",
       "Stores a reserve of boiler feedwater"
     ],
-    "answer": "Removes dissolved gases from the water",
-    "explanation": "A deaerator is used to heat feedwater and strip out corrosive dissolved gases like oxygen and carbon dioxide."
+    "answer": "Distributes steam to the users",
+    "explanation": "The header collects and Distributes steam to the plant loads."
   },
   {
     "id": 10,
@@ -488,8 +489,8 @@
     "id": 44,
     "question": "A pressure of 150 kPa acting on an area of 0.2 m² exerts a force of:",
     "options": ["300 kN", "750 N", "3 kN", "30 kN"],
-    "answer": "3 kN",
-    "explanation": "Force equals pressure multiplied by area ($F = P \\cdot A$). Hence, $150 \\text{ kPa} \\times 0.2 \\text{ m}^2 = 30 \\text{ kN}$."
+    "answer": "30 kN",
+    "explanation": "Force equals pressure multiplied by area F = P/A. Hence, 150 / 0.2= 30 kN."
   },
   {
     "id": 45,
