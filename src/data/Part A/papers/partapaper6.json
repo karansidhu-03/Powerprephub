@@ -689,7 +689,8 @@
     "options": {
       "A": "Acted on by a net unbalanced force",
       "B": "Friction opposes the motion and eventually stops it",
-      "C": "Gravity pulls it back down"
+      "C": "Gravity pulls it back down",
+      "D": "it simply runs out of energy"
     },
     "correctAnswer": "A",
     "explanation": "Newton's First Law of Motion (law of inertia) dictates that an object will remain at rest or continue moving at a constant velocity unless acted upon by an external net unbalanced force."
