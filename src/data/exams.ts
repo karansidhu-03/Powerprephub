@@ -131,12 +131,13 @@ interface RawStringIdQuestion {
   explanation?: string;
 }
 
-/** Format 1 & 2 legacy: options as array, answer as full text (papers 3,4) */
+/** Part A papers: options as array or {A..E}, answer as full text, letter, or index (papers 3-9) */
 interface RawTextAnswerQuestion {
   id: number;
   question: string;
-  options: string[];
-  answer: string;
+  options: string[] | Record<string, string>;
+  answer?: string | number;
+  correctAnswer?: string | number;
   explanation: string;
 }
 
@@ -201,7 +202,7 @@ function toQuestions(raw: RawAny[], fallbackTopic?: string): Question[] {
       ? q.options
       : Object.values(q.options ?? {});
 
-    const answer = q.answer;
+    const answer = q.answer ?? q.correctAnswer ?? "";
 
     const idx =
       typeof answer === "number"
