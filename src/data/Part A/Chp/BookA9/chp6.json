@@ -1,0 +1,132 @@
+[
+  {
+    "number": 1,
+    "heading": "Electrical Control Systems",
+    "question": "A device that combines a filled system with a bellows operated switch:",
+    "options": {
+      "A": "Humidistat",
+      "B": "Bimetal strip",
+      "C": "Aquastat",
+      "D": "Spiral wound bourdon tube",
+      "E": "Remote bulb thermostat"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 2,
+    "heading": "Electrical Control Systems",
+    "question": "A thermostat that can control heating or cooling in different stages:",
+    "options": {
+      "A": "Multi-stage",
+      "B": "Remote bulb",
+      "C": "Duct",
+      "D": "Modulating",
+      "E": "Immersion"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 3,
+    "heading": "Electrical Control Systems",
+    "question": "A humidistat measures:",
+    "options": {
+      "A": "Relative humidity",
+      "B": "Differential pressure",
+      "C": "Moisture content",
+      "D": "Absolute humidity",
+      "E": "Relative temperature"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 4,
+    "heading": "Electrical Control Systems",
+    "question": "Rheostats and potentiometers are types of:",
+    "options": {
+      "A": "Relays",
+      "B": "Pressure gauges",
+      "C": "Aquastats",
+      "D": "Photo cells",
+      "E": "Variable resistors"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 5,
+    "heading": "Electrical Control Systems",
+    "question": "In a simple warm air heating process using basic electric controls, the thermostat:",
+    "options": {
+      "A": "Is operated by the gas pressure controller",
+      "B": "Can also control the humidity",
+      "C": "Acts as both temperature sensor and controller",
+      "D": "Acts as both pressure and temperature controller",
+      "E": "Sends an electric signal to the sensing element"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 6,
+    "heading": "Electrical Control Systems",
+    "question": "A device that controls large amounts of energy with small amounts of energy:",
+    "options": {
+      "A": "Rheostat",
+      "B": "Relay",
+      "C": "Bimetal strip",
+      "D": "Potentiometer",
+      "E": "Thermistor"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 7,
+    "heading": "Electrical Control Systems",
+    "question": "A device that prevents the temperature from overshooting its set point is:",
+    "options": {
+      "A": "Thermistor",
+      "B": "Switch",
+      "C": "Final control element",
+      "D": "Relay",
+      "E": "Heat anticipator"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 8,
+    "heading": "Electrical Control Systems",
+    "question": "Bimetal, remote bulb, and immersion are types of:",
+    "options": {
+      "A": "Thermostats",
+      "B": "Pressure gauges",
+      "C": "Motors",
+      "D": "Switches",
+      "E": "Relays"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 9,
+    "heading": "Electrical Control Systems",
+    "question": "A device that interrupts or diverts power:",
+    "options": {
+      "A": "Motor",
+      "B": "Controller",
+      "C": "Resistor",
+      "D": "Thermistor",
+      "E": "Switch"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 10,
+    "heading": "Electrical Control Systems",
+    "question": "A thermistor is a _________ sensitive resistor.",
+    "options": {
+      "A": "Light",
+      "B": "Thermally",
+      "C": "Flow",
+      "D": "Pressure",
+      "E": "Level"
+    },
+    "correctAnswer": "B"
+  }
+]

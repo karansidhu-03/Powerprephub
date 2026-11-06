@@ -1,0 +1,197 @@
+[
+  {
+    "number": 1,
+    "heading": "Intro to Process Measurement",
+    "question": "The variable area meter consists of:",
+    "options": {
+      "A": "A float across which the differential pressure varies",
+      "B": "An opening that can be varied as required",
+      "C": "A tapered tube in which the fluid being measured flows through the tube from the bottom to the top",
+      "D": "A tube that is of constant area",
+      "E": "A fluid being measured, flowing through the tube from the top to the bottom"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 2,
+    "heading": "Intro to Process Measurement",
+    "question": "Thermistors resistance changes _________ to the temperature change.",
+    "options": {
+      "A": "Nonlinear",
+      "B": "Regardless",
+      "C": "Proportional",
+      "D": "Direct",
+      "E": "Inverse"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 3,
+    "heading": "Intro to Process Measurement",
+    "question": "The Bourdon tube can be used with a bulb and capillary tube to measure:",
+    "options": {
+      "A": "Moisture content",
+      "B": "Temperature",
+      "C": "Viscosity",
+      "D": "Water head",
+      "E": "Flow"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 4,
+    "heading": "Intro to Process Measurement",
+    "question": "A thermocouple consists of:",
+    "options": {
+      "A": "Two dissimilar wires connected to a battery",
+      "B": "Two similar wires separated by another metal",
+      "C": "Two dissimilar wires connected together to form a measuring and a reference junction",
+      "D": "Bourdon tubes and non-conductive metals",
+      "E": "A filament that is compared to the object being measured"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 5,
+    "heading": "Intro to Process Measurement",
+    "question": "The constant head connection in a remote water level indicator is made to the:",
+    "options": {
+      "A": "Steam space",
+      "B": "Water space",
+      "C": "Feed water pump discharge",
+      "D": "Feed water regulating valve",
+      "E": "Atmosphere"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 6,
+    "heading": "Intro to Process Measurement",
+    "question": "The inclined manometer:",
+    "options": {
+      "A": "Is more difficult to read",
+      "B": "Has two furnace connections",
+      "C": "Can only be used with mercury",
+      "D": "Is more accurate than the \"U\" tube manometer",
+      "E": "Will measure pressure in kPa"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 7,
+    "heading": "Intro to Process Measurement",
+    "question": "An orifice plate that's opening is in the center of the plate is called a:",
+    "options": {
+      "A": "Centralized flow",
+      "B": "Segmental orifice",
+      "C": "Eccentric orifice",
+      "D": "Concentric orifice",
+      "E": "Head plate"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 8,
+    "heading": "Intro to Process Measurement",
+    "question": "If the boiler pressure increases then the:",
+    "options": {
+      "A": "Bourdon tube will become smaller in diameter",
+      "B": "Bourdon tube will tend to twist",
+      "C": "Spring will compress more",
+      "D": "Bourdon tube will tend to straighten",
+      "E": "Bourdon tube will become less circular in cross-section"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 9,
+    "heading": "Intro to Process Measurement",
+    "question": "The disadvantage of a venturi tube flow meter is:",
+    "options": {
+      "A": "It can't be used for water",
+      "B": "It is not useful for high flows",
+      "C": "Bulkiness",
+      "D": "High permanent pressure loss",
+      "E": "High pressure drop"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 10,
+    "heading": "Intro to Process Measurement",
+    "question": "A thermocouple measures:",
+    "options": {
+      "A": "Velocity",
+      "B": "Light",
+      "C": "Pressure",
+      "D": "Temperature",
+      "E": "Flow"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 11,
+    "heading": "Intro to Process Measurement",
+    "question": "These are installed to protect a pressure gauge from extremely corrosive process fluids:",
+    "options": {
+      "A": "Pigtails",
+      "B": "Thermowells",
+      "C": "Diaphragm seal",
+      "D": "U-tube",
+      "E": "Pulsation dampeners"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 12,
+    "heading": "Intro to Process Measurement",
+    "question": "An inclined manometer is commonly used:",
+    "options": {
+      "A": "When reading accuracy is not critical",
+      "B": "For measuring level",
+      "C": "When very low pressures or vacuums are being used",
+      "D": "In conjunction with a flexible rubber diaphragm",
+      "E": "To measure very small pressure differentials"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 13,
+    "heading": "Intro to Process Measurement",
+    "question": "The purpose of a spiral or a helix Bourdon tube is to:",
+    "options": {
+      "A": "Decrease the linear motion",
+      "B": "Decrease the degree of rotation",
+      "C": "Reduce fluttering of the indicator needle",
+      "D": "Increase the pressure rating",
+      "E": "Provide a greater degree of rotation"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 14,
+    "heading": "Intro to Process Measurement",
+    "question": "Pressure gauges on reciprocating compressors can be protected from pulsations by using:",
+    "options": {
+      "A": "Diagram seal",
+      "B": "Block valves",
+      "C": "Thermowells",
+      "D": "Snubbers",
+      "E": "Siphons"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 15,
+    "heading": "Intro to Process Measurement",
+    "question": "When a float is used for measuring level, and installation within a vessel is impractical, a device often used is the:",
+    "options": {
+      "A": "Float cage",
+      "B": "Float manometer",
+      "C": "Head transmitter",
+      "D": "Differential head meter",
+      "E": "Diaphragm level indicator"
+    },
+    "correctAnswer": "A"
+  }
+]

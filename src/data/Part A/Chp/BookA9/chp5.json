@@ -1,0 +1,132 @@
+[
+  {
+    "number": 1,
+    "heading": "Electronic Control Systems",
+    "question": "A transmitter regulates its output signal in proportion to the desired range of:",
+    "options": {
+      "A": "Controlled variable",
+      "B": "Relay capacity",
+      "C": "Voltage supply",
+      "D": "An output variable",
+      "E": "A measured variable"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 2,
+    "heading": "Electronic Control Systems",
+    "question": "A central computer that holds collections of data and software is:",
+    "options": {
+      "A": "Laptop",
+      "B": "Personal computer",
+      "C": "Converter",
+      "D": "Final control element",
+      "E": "Server"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 3,
+    "heading": "Electronic Control Systems",
+    "question": "Sharing and transferring information between computers is termed:",
+    "options": {
+      "A": "Plotting",
+      "B": "Analogging",
+      "C": "Number crunching",
+      "D": "Multiplexing",
+      "E": "Networking"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 4,
+    "heading": "Electronic Control Systems",
+    "question": "Computer output is put through a/an _____ before an analog control can react to the signal.",
+    "options": {
+      "A": "Logic controller",
+      "B": "Analog converter",
+      "C": "Integrated circuit",
+      "D": "Modem",
+      "E": "Digital receiver"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "heading": "Electronic Control Systems",
+    "question": "Programs which must not be modified are stored in:",
+    "options": {
+      "A": "HDD",
+      "B": "RAM",
+      "C": "CPU",
+      "D": "Work station",
+      "E": "ROM"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 6,
+    "heading": "Electronic Control Systems",
+    "question": "Workstations are normally connected to:",
+    "options": {
+      "A": "PLC",
+      "B": "LPG",
+      "C": "LAN",
+      "D": "Modem",
+      "E": "WAN"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 7,
+    "heading": "Electronic Control Systems",
+    "question": "Transmitters that have built in microprocessors and transmit digital codes directly to a computer are known as:",
+    "options": {
+      "A": "Pneumatic transmitters",
+      "B": "Digital transmitters",
+      "C": "And-or devices",
+      "D": "Analog transmitters",
+      "E": "Smart transmitters"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 8,
+    "heading": "Electronic Control Systems",
+    "question": "It is preferable to use these when interconnecting smart systems like PLC's.",
+    "options": {
+      "A": "Sensor bus networks",
+      "B": "Field bus networks",
+      "C": "Device bus networks",
+      "D": "Wide area networks",
+      "E": "Local area networks"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 9,
+    "heading": "Electronic Control Systems",
+    "question": "A computer normally communicates with an operator through the:",
+    "options": {
+      "A": "Icon",
+      "B": "LCD Monitor",
+      "C": "CPU",
+      "D": "Modem",
+      "E": "CAD"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 10,
+    "heading": "Electronic Control Systems",
+    "question": "The application of computers in power plants may include:\n1. Storage of operating information for graphic display\n2. Safe startup and shutdown of turbine and generators\n3. Control of fuel, air and feed water\n4. Supervision of plant operators\n5. Inventory control of parts and supplies\n6. Issuance of certificate of competency",
+    "options": {
+      "A": "3, 4, 5, 6",
+      "B": "1, 2, 3, 5",
+      "C": "1, 2, 3, 6",
+      "D": "2, 3, 4, 5",
+      "E": "1, 2, 3, 4"
+    },
+    "correctAnswer": "B"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "number": 1,
+    "heading": "Basic Control & Instrument Components",
+    "question": "The control system often used with boilers to control water level is:",
+    "options": {
+      "A": "Cascade",
+      "B": "Feed forward",
+      "C": "Split range",
+      "D": "High/low select",
+      "E": "Feed back"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 2,
+    "heading": "Basic Control & Instrument Components",
+    "question": "Cascade control entails the use of:",
+    "options": {
+      "A": "Two controllers, two transmitters and two valves",
+      "B": "One controller, one transmitter and two valves",
+      "C": "Two controllers, one transmitter and two valves",
+      "D": "One controller, two transmitters and two valves",
+      "E": "Two controllers, two transmitters and one valve"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 3,
+    "heading": "Basic Control & Instrument Components",
+    "question": "Putting a controller on manual control means:",
+    "options": {
+      "A": "The controller output responds to a process variable",
+      "B": "The operator selects the controller output",
+      "C": "There is no control of the final control element",
+      "D": "The plant is about to shut down",
+      "E": "A man must stand beside the valve for safety reasons"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 4,
+    "heading": "Basic Control & Instrument Components",
+    "question": "The nozzle receives a constant air supply pressure of approximately:",
+    "options": {
+      "A": "210 kPa",
+      "B": "140 kPa",
+      "C": "140 psi",
+      "D": "20 kPa",
+      "E": "30 kPa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "heading": "Basic Control & Instrument Components",
+    "question": "The controller that can respond before a change takes place is:",
+    "options": {
+      "A": "Split range",
+      "B": "Feed forward",
+      "C": "Feed back",
+      "D": "High/low select",
+      "E": "Cascade"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 6,
+    "heading": "Basic Control & Instrument Components",
+    "question": "Most solenoid valves operate so that the upstream line pressure will:",
+    "options": {
+      "A": "Be sensed by a transmitter",
+      "B": "Act to open the valve",
+      "C": "Must pass through a restriction or nozzle",
+      "D": "Be less than downstream pressure",
+      "E": "Act to close the valve"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 7,
+    "heading": "Basic Control & Instrument Components",
+    "question": "Temperature indication is commonly accomplished with:",
+    "options": {
+      "A": "Liquid in glass",
+      "B": "Bimetal",
+      "C": "Capillary tube",
+      "D": "Bourdon tube",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 8,
+    "heading": "Basic Control & Instrument Components",
+    "question": "A pneumatically actuated globe type control valve which opens upon air failure has a:",
+    "options": {
+      "A": "Reverse acting actuator and direct acting valve",
+      "B": "Is not used in a power plant",
+      "C": "Direct acting actuator and direct acting valve",
+      "D": "Must be used on emergency shutdown",
+      "E": "Direct acting actuator and reverse acting valve"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 9,
+    "heading": "Basic Control & Instrument Components",
+    "question": "Indicators and recorders can be located:",
+    "options": {
+      "A": "Computer systems only",
+      "B": "Always directly at the measurement site",
+      "C": "Field sites only",
+      "D": "Field or remote",
+      "E": "Control room only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 10,
+    "heading": "Basic Control & Instrument Components",
+    "question": "A circular chart recorder:",
+    "options": {
+      "A": "Provides a different function to a strip chart",
+      "B": "May incorporate a bourdon tube",
+      "C": "Does not provide a permanent record",
+      "D": "Is used on a computer screen",
+      "E": "Is a later design than a strip chart"
+    },
+    "correctAnswer": "B"
+  }
+]

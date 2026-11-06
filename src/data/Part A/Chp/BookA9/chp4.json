@@ -1,0 +1,132 @@
+[
+  {
+    "number": 1,
+    "heading": "Intro to Programmable Controllers",
+    "question": "Which of the following is considered an advantage of PLC:",
+    "options": {
+      "A": "They have limited capabilities",
+      "B": "They cannot be customized",
+      "C": "They are very large",
+      "D": "They are expensive",
+      "E": "They do not have moving parts"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 2,
+    "heading": "Intro to Programmable Controllers",
+    "question": "Modular PLC's:",
+    "options": {
+      "A": "Cannot be expanded",
+      "B": "Can only accept analog input",
+      "C": "Are very compact",
+      "D": "Can be expanded",
+      "E": "Have a limited number of input"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "number": 3,
+    "heading": "Intro to Programmable Controllers",
+    "question": "Computerized graphic displays used as HMIs are called:",
+    "options": {
+      "A": "Digital interface panels",
+      "B": "Mimics",
+      "C": "Interface screens",
+      "D": "Annunciator panels",
+      "E": "CRT's"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 4,
+    "heading": "Intro to Programmable Controllers",
+    "question": "Inputs to the PLC from manual pushbuttons,, limit switches, and proximity switches are:",
+    "options": {
+      "A": "Discrete",
+      "B": "Magnetic",
+      "C": "Analog",
+      "D": "Modulating",
+      "E": "Proportional"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "number": 5,
+    "heading": "Intro to Programmable Controllers",
+    "question": "Analog inputs are typically variable current or voltage signals from:",
+    "options": {
+      "A": "Limit switches",
+      "B": "Manual push buttons",
+      "C": "Pressure, level, flow transmitters",
+      "D": "Motor starters",
+      "E": "Discrete devices"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 6,
+    "heading": "Intro to Programmable Controllers",
+    "question": "Burner Management Systems:",
+    "options": {
+      "A": "Can be custom configured",
+      "B": "Function as startup sequence controllers",
+      "C": "Have accessible internal programming",
+      "D": "Are multi purpose",
+      "E": "Are exactly the same as a PLC"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 7,
+    "heading": "Intro to Programmable Controllers",
+    "question": "Moderns HMI's provide operator information and now allow:",
+    "options": {
+      "A": "Alarms to be silenced",
+      "B": "Acknowledgment of alarms",
+      "C": "Reset alarms",
+      "D": "Display of alarms",
+      "E": "All of these answers are correct"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "number": 8,
+    "heading": "Intro to Programmable Controllers",
+    "question": "Discrete outputs may be used for:",
+    "options": {
+      "A": "High limit switch",
+      "B": "Warning strobes and alarm horns",
+      "C": "Variable voltage signals",
+      "D": "Pneumatic signal to a motor starter",
+      "E": "Current signals to dampers"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "number": 9,
+    "heading": "Intro to Programmable Controllers",
+    "question": "Programmable Logic Controllers:",
+    "options": {
+      "A": "Are limited to doing only 1 thing at a time",
+      "B": "Have replaced pneumatic controls across industry",
+      "C": "Are common in industrial sites",
+      "D": "Are delicate instruments",
+      "E": "Are not expandable"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "number": 10,
+    "heading": "Intro to Programmable Controllers",
+    "question": "Canadian Standards Association allows PLC's to be used:",
+    "options": {
+      "A": "Primarily as burner safeguard systems",
+      "B": "Without password protection of the programming",
+      "C": "With a volatile memory",
+      "D": "For multiple other purposes",
+      "E": "Without safeguards"
+    },
+    "correctAnswer": "A"
+  }
+]

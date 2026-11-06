@@ -9,7 +9,7 @@
       "D": "18 Ω"
     },
     "correctAnswer": "A",
-    "explanation": "For two resistors in parallel, the total resistance $R_t$ is calculated using the formula: $R_t = \\frac{R_1 \\times R_2}{R_1 + R_2}$. Substituting the values: $R_t = \\frac{6 \\times 12}{6 + 12} = \\frac{72}{18} = 4 \\; \\Omega$."
+    "explanation": "For two resistors in parallel, 1/Resultant R = 1/r1 + 1/r2"
   },
   {
     "id": 2,
@@ -97,7 +97,7 @@
   },
   {
     "id": 9,
-    "question": "The power dissipated by 120 V across a 60 \\Omega resistor is (P = V^2 \\div R):",
+    "question": "The power dissipated by 120 V across a 60 Omega resistor is (P = V^2 div R):",
     "options": {
       "A": "240 W",
       "B": "2 W",
@@ -105,7 +105,7 @@
       "D": "7200 W"
     },
     "correctAnswer": "A",
-    "explanation": "Using the power formula $P = \\frac{V^2}{R}$, substitute the values: $P = \\frac{120^2}{60} = \\frac{14400}{60} = 240\\text{ W}$."
+    "explanation": "Using the power formula $P = frac{V^2}{R, substitute the values: $P = frac{120^2}{60} = frac{14400}{60} = 240 W."
   },
   {
     "id": 10,
@@ -313,7 +313,7 @@
   },
   {
     "id": 27,
-    "question": "A 30 kg steel casting is heated from 20°C to 220°C. (c \\approx 0.49 \\text{ kJ/kg}\\cdot\\text{°C}). The heat required is:",
+    "question": "A 30 kg steel casting is heated from 20°C to 220°C. (c approx 0.49  kJ/kg}cdot°C}). The heat required is:",
     "options": {
       "A": "About 1470 kJ",
       "B": "About 2940 kJ",
@@ -321,7 +321,7 @@
       "D": "About 294 kJ"
     },
     "correctAnswer": "B",
-    "explanation": "Using the sensible heat formula $Q = m \\cdot c \\cdot \\Delta T$. Here $m = 30\\text{ kg}$, $c = 0.49\\text{ kJ/kg}\\cdot\\text{°C}$, and $\\Delta T = 220 - 20 = 200\\text{°C}$. $Q = 30 \\times 0.49 \\times 200 = 2940\\text{ kJ}$."
+    "explanation": "Using the sensible heat formula $Q = m cdot c cdot Delta T$. Here $m = 30 kg, $c = 0.49 kJ/kg}cdot°C, and $Delta T = 220 - 20 = 200°C. $Q = 30  0.49  200 = 2940 kJ."
   },
   {
     "id": 28,
@@ -381,7 +381,7 @@
       "D": "277°C"
     },
     "correctAnswer": "B",
-    "explanation": "To convert Kelvin to Celsius, subtract 273.15 (or 273): $\\text{°C} = 350 - 273 = 77\\text{°C}$."
+    "explanation": "To convert Kelvin to Celsius, subtract 273.15 (or 273): $°C} = 350 - 273 = 77°C."
   },
   {
     "id": 33,
@@ -537,7 +537,7 @@
       "D": "$0.36"
     },
     "correctAnswer": "C",
-    "explanation": "Energy consumed = Power $\\times$ Time = $3\\text{ kW} \\times 5\\text{ hours} = 15\\text{ kWh}$. Cost = $15\\text{ kWh} \\times \\$0.12/\\text{kWh} = \\$1.80$."
+    "explanation": "Energy consumed = Power x Time = 3 kW  x 5 hours = 15 kWh. Cost = 15 kWh  x $0.12/kWh = $1.80$."
   },
   {
     "id": 46,
@@ -561,7 +561,7 @@
       "D": "About 5024 kJ"
     },
     "correctAnswer": "C",
-    "explanation": "Using $Q = m  c ΔT: 12 kg x  4.187 kJ/kg x  (75 - 25 = 50)= 2512.2 Kj."
+    "explanation": "Using Q = m  c ΔT: 12 kg x  4.187 kJ/kg x  (75 - 25 = 50)= 2512.2 Kj."
   },
   {
     "id": 48,
@@ -1149,7 +1149,7 @@
       "D": "450"
     },
     "correctAnswer": "A",
-    "explanation": "Mechanical Advantage (MA) = $\\frac{\\text{Load}}{\\text{Effort}} = \\frac{600\\text{ N}}{150\\text{ N}} = 4$."
+    "explanation": "Mechanical Advantage (MA) = $frac{Load}}{Effort}} = frac{600 N}}{150 N}} = 4$."
   },
   {
     "id": 97,
@@ -1182,10 +1182,10 @@
       "A": "Gluing them in place",
       "B": "Threading the tube ends into the holes only",
       "C": "Riveting the ends",
-      "D": "Rolling/expanding (sometimes seal welded)"
+      "D": "Rolling/expanding (some seal welded)"
     },
     "correctAnswer": "D",
-    "explanation": "Boiler tubes are mechanically secured and sealed into tubesheet or drum holes using a tube roller expander tool, and sometimes seal-welded for high-pressure service."
+    "explanation": "Boiler tubes are mechanically secured and sealed into tubesheet or drum holes using a tube roller expander tool, and some seal-welded for high-pressure service."
   },
   {
     "id": 100,
