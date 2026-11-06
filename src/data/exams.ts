@@ -66,6 +66,14 @@ import a8chp4 from "./Part A/Chp/BookA8/chp4.json";
 import a8chp5 from "./Part A/Chp/BookA8/chp5.json";
 import a8chp6 from "./Part A/Chp/BookA8/chp6.json";
 
+// Book A9 chapters (no full-book file)
+import a9chp1 from "./Part A/Chp/BookA9/chp1.json";
+import a9chp2 from "./Part A/Chp/BookA9/chp2.json";
+import a9chp3 from "./Part A/Chp/BookA9/chp3.json";
+import a9chp4 from "./Part A/Chp/BookA9/chp4.json";
+import a9chp5 from "./Part A/Chp/BookA9/chp5.json";
+import a9chp6 from "./Part A/Chp/BookA9/chp6.json";
+
 // Book A10 full book + chapters
 import bookA10 from "./Part A/Chp/BookA10/BookA10.json";
 import a10chp1 from "./Part A/Chp/BookA10/chp1.json";
@@ -98,6 +106,11 @@ import prepChp4 from "./Part A/Chp/Preparatory topics/chp4.json";
 import prepChp5 from "./Part A/Chp/Preparatory topics/chp5.json";
 import prepChp6 from "./Part A/Chp/Preparatory topics/chp6.json";
 import prepChp7 from "./Part A/Chp/Preparatory topics/chp7.json";
+
+// Part B — Book B1 full book + chapters
+import bookB1 from "./Part B/Chp/BookB1/bookb1.json";
+import b1chp1 from "./Part B/Chp/BookB1/chp1.json";
+import b1chp2 from "./Part B/Chp/BookB1/chp2.json";
 
 export interface Question {
   id: string | number;
@@ -594,6 +607,39 @@ const bookA8Chapters: Paper[] = [
   ),
 ];
 
+const bookA9Chapters: Paper[] = [
+  makePaper(
+    "a9-chp1",
+    "Intro to Energy Plant Controls & Instrumentation",
+    toQuestions(a9chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a9-chp2",
+    "Intro to Process Measurement",
+    toQuestions(a9chp2 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a9-chp3",
+    "Basic Control & Instrument Components",
+    toQuestions(a9chp3 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a9-chp4",
+    "Intro to Programmable Controllers",
+    toQuestions(a9chp4 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a9-chp5",
+    "Electronic Control Systems",
+    toQuestions(a9chp5 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "a9-chp6",
+    "Electrical Control Systems",
+    toQuestions(a9chp6 as unknown as RawNumberQuestion[]),
+  ),
+];
+
 const bookA10Chapters: Paper[] = [
   makePaper(
     "a10-fullbook",
@@ -693,6 +739,24 @@ const bookA12Chapters: Paper[] = [
   ),
 ];
 
+const bookB1Chapters: Paper[] = [
+  makePaper(
+    "b1-fullbook",
+    "Full Book B1 Exam",
+    toQuestions(bookB1 as unknown as RawNumberQuestion[], "Book B1 — Lubrication & Bearings"),
+  ),
+  makePaper(
+    "b1-chp1",
+    "Lubrication Principles",
+    toQuestions(b1chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b1-chp2",
+    "Types of Bearings & Lubrication",
+    toQuestions(b1chp2 as unknown as RawNumberQuestion[]),
+  ),
+];
+
 function chapterCount(papers: Paper[]): number {
   return papers.reduce((sum, p) => sum + (p.questions?.length ?? 0), 0);
 }
@@ -772,6 +836,12 @@ export const exams: Exam[] = [
         papers: bookA8Chapters,
       },
       {
+        id: "book-a9",
+        label: "Book A9 — Controls & Instrumentation",
+        description: `${chapterCount(bookA9Chapters)} questions across ${bookA9Chapters.length} chapters`,
+        papers: bookA9Chapters,
+      },
+      {
         id: "book-a10",
         label: "Book A10 — Plant Sketching & Communications",
         description: `${chapterCount(bookA10Chapters)} questions across ${bookA10Chapters.length} chapters`,
@@ -796,10 +866,17 @@ export const exams: Exam[] = [
     title: "Power Engineering Fourth Class",
     subtitle: "Part B",
     description:
-      "Prime movers, pumps, refrigeration, electrical systems and plant maintenance. Question papers are being prepared.",
-    available: false,
+      "Prime movers, pumps, refrigeration, electrical systems and plant maintenance.",
+    available: true,
     papers: placeholderPapers(1, 9),
-    chapterGroups: [],
+    chapterGroups: [
+      {
+        id: "book-b1",
+        label: "Book B1 — Lubrication & Bearings",
+        description: `${chapterCount(bookB1Chapters)} questions across ${bookB1Chapters.length} chapters`,
+        papers: bookB1Chapters,
+      },
+    ],
   },
 ];
 
