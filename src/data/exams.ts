@@ -112,6 +112,13 @@ import bookB1 from "./Part B/Chp/BookB1/bookb1.json";
 import b1chp1 from "./Part B/Chp/BookB1/chp1.json";
 import b1chp2 from "./Part B/Chp/BookB1/chp2.json";
 
+// Part B — Book B2 full book + chapters
+import bookB2 from "./Part B/Chp/BookB2/bookb2.json";
+import b2chp1 from "./Part B/Chp/BookB2/chp1.json";
+import b2chp2 from "./Part B/Chp/BookB2/chp2.json";
+import b2chp3 from "./Part B/Chp/BookB2/chp3.json";
+import b2chp4 from "./Part B/Chp/BookB2/chp4.json";
+
 export interface Question {
   id: string | number;
   topic?: string;
@@ -757,6 +764,34 @@ const bookB1Chapters: Paper[] = [
   ),
 ];
 
+const bookB2Chapters: Paper[] = [
+  makePaper(
+    "b2-fullbook",
+    "Full Book B2 Exam",
+    toQuestions(bookB2 as unknown as RawNumberQuestion[], "Book B2 — Pumps & Compressors"),
+  ),
+  makePaper(
+    "b2-chp1",
+    "Types of Pumps",
+    toQuestions(b2chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b2-chp2",
+    "Pump Operation & Maintenance",
+    toQuestions(b2chp2 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b2-chp3",
+    "Introduction to Compressors",
+    toQuestions(b2chp3 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b2-chp4",
+    "Compressor Operation & Maintenance",
+    toQuestions(b2chp4 as unknown as RawNumberQuestion[]),
+  ),
+];
+
 function chapterCount(papers: Paper[]): number {
   return papers.reduce((sum, p) => sum + (p.questions?.length ?? 0), 0);
 }
@@ -875,6 +910,12 @@ export const exams: Exam[] = [
         label: "Book B1 — Lubrication & Bearings",
         description: `${chapterCount(bookB1Chapters)} questions across ${bookB1Chapters.length} chapters`,
         papers: bookB1Chapters,
+      },
+      {
+        id: "book-b2",
+        label: "Book B2 — Pumps & Compressors",
+        description: `${chapterCount(bookB2Chapters)} questions across ${bookB2Chapters.length} chapters`,
+        papers: bookB2Chapters,
       },
     ],
   },
