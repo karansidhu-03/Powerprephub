@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Pump Operation and Maintenance",
+    "question": "A stuffing box is part of a pump casing that:\n1. Stops air leaking into the casing when the pressure is below atmospheric\n2. Decreases casing leakage when the pressure is above atmospheric\n3. Is always supplied with a lantern ring\n4. Is filled with packing",
+    "options": {
+      "A": "1, 3",
+      "B": "1, 2, 4",
+      "C": "1, 4",
+      "D": "2, 3",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "B",
+    "explanation": "A stuffing box contains packing (item 4) to control leakage whether internal pressure is above or below atmospheric (items 1 and 2). However, a lantern ring is only installed when external sealing fluid is required, not on every stuffing box."
+  },
+  {
+    "number": 2,
+    "heading": "Pump Operation and Maintenance",
+    "question": "The liquid to a lantern ring:",
+    "options": {
+      "A": "Should not enter the pump",
+      "B": "Should always come from the same pump",
+      "C": "Keeps the air out of the pump",
+      "D": "Should be warm at all times",
+      "E": "Keeps grease from leaking out"
+    },
+    "correctAnswer": "C",
+    "explanation": "When a pump operates with a suction pressure below atmospheric, sealing liquid supplied to the lantern ring creates a positive fluid barrier that keeps air from leaking into the pump."
+  },
+  {
+    "number": 3,
+    "heading": "Pump Operation and Maintenance",
+    "question": "The area around a pump shaft, where packing material is placed to reduce leakage around a shaft, is known as a:",
+    "options": {
+      "A": "Seal box",
+      "B": "Casing flange",
+      "C": "Gear boc",
+      "D": "Wearing ring",
+      "E": "Stuffing box"
+    },
+    "correctAnswer": "E",
+    "explanation": "The stuffing box is the annular chamber surrounding the pump shaft where soft packing rings are compressed to control fluid leakage."
+  },
+  {
+    "number": 4,
+    "heading": "Pump Operation and Maintenance",
+    "question": "The seal cage on the shaft of a centrifugal pump:",
+    "options": {
+      "A": "Holds the shaft packing against the shoulder of the stuffing box",
+      "B": "Assists in reducing shaft vibration",
+      "C": "Reduces suction pressure drop",
+      "D": "Distributes sealing fluid to the seal faces",
+      "E": "Prevents fluid from leaking out of the pump casing"
+    },
+    "correctAnswer": "D",
+    "explanation": "A seal cage (also known as a lantern ring) features an internal channel that receives and distributes sealing fluid evenly around the packing and shaft."
+  },
+  {
+    "number": 5,
+    "heading": "Pump Operation and Maintenance",
+    "question": "The purpose of shaft sealing on a pump is to:",
+    "options": {
+      "A": "Protect the seal",
+      "B": "Keep the packing gland cool",
+      "C": "Stop fluids from leaking along the pump shaft",
+      "D": "Keep air in the pump",
+      "E": "Prevent lubricating oil from leaving the pump"
+    },
+    "correctAnswer": "C",
+    "explanation": "Shaft seals and packing arrangements are designed to prevent or control unwanted fluid leakage along the rotating shaft where it exits the casing."
+  },
+  {
+    "number": 6,
+    "heading": "Pump Operation and Maintenance",
+    "question": "A slight leakage is desired between the pump shaft and packing of the majority of pumps in order to:",
+    "options": {
+      "A": "Prevent the pump from vapor locking",
+      "B": "Prevent the ingress of air",
+      "C": "Increase pump capacity and efficiency",
+      "D": "Prevent wearing of the wear rings",
+      "E": "Lubricate the surfaces"
+    },
+    "correctAnswer": "E",
+    "explanation": "A controlled, slight weep or leakage through the packing provides vital lubrication and cooling between the packing rings and the rotating shaft sleeve."
+  },
+  {
+    "number": 7,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Another name for a lantern ring used in a pump is:",
+    "options": {
+      "A": "Stationary seal",
+      "B": "Packing ring",
+      "C": "Rotating seal",
+      "D": "Seal cage",
+      "E": "Packing box"
+    },
+    "correctAnswer": "D",
+    "explanation": "A lantern ring is commonly referred to in mechanical and pump terminology as a seal cage."
+  },
+  {
+    "number": 8,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Most pump failures, damage or both occurs:",
+    "options": {
+      "A": "After about six months of continuous service",
+      "B": "Due to wrong rotation",
+      "C": "Due to vapor binding",
+      "D": "During initial start up",
+      "E": "Because of inadequate operator training"
+    },
+    "correctAnswer": "D",
+    "explanation": "A high percentage of pump failures and mechanical damage take place during initial startup due to issues like dry running, inadequate priming, or closed valves."
+  },
+  {
+    "number": 9,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Lantern rings:\n1. Prevent liquid leakage from the pump\n2. Are fed by a liquid\n3. Provide a seal to prevent air from entering the pump\n4. Are mostly used on high lift pumps",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "3, 4",
+      "C": "2, 3",
+      "D": "1, 2",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "E",
+    "explanation": "Lantern rings are supplied with sealing liquid under pressure (item 2). This liquid creates a barrier that prevents air from entering the pump through the stuffing box when suction pressure is below atmospheric pressure (item 3). They are commonly used in high-lift pumps where suction conditions may create a vacuum, making prevention of air ingress especially important (item 4). They do not completely prevent liquid leakage from the pump (item 1)."
+  },
+  {
+    "number": 10,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Before you start up a centrifugal pump you should:",
+    "options": {
+      "A": "Drain all the liquid out of the pump",
+      "B": "Bring the pump up to operating temperature",
+      "C": "Lubricate the impellers",
+      "D": "Close the housing drain",
+      "E": "Be sure that the pump is primed with liquid"
+    },
+    "correctAnswer": "E",
+    "explanation": "Centrifugal pumps must always be fully primed and filled with liquid before starting to prevent severe impeller damage, vapor binding, and dry running."
+  },
+  {
+    "number": 11,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Wear rings:\n1. Are used on impellers\n2. Are used on the casing\n3. Give protection to the shaft\n4. Reduce the maintenance costs of the pump",
+    "options": {
+      "A": "1, 2, 4",
+      "B": "1, 2",
+      "C": "1, 3",
+      "D": "1, 2, 3",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "Wear rings are installed on both the impeller and the casing to absorb frictional wear. When worn, they can be easily replaced rather than replacing the entire casing or impeller, significantly reducing maintenance costs (items 1, 2, and 4)."
+  },
+  {
+    "number": 12,
+    "heading": "Pump Operation and Maintenance",
+    "question": "If a pump is running and has no discharge pressure, what will you do?",
+    "options": {
+      "A": "Check the lubrication level",
+      "B": "Open the lubrication valve",
+      "C": "Close the suction valve a little",
+      "D": "Check to see if the suction valve is open",
+      "E": "Close the discharge valve"
+    },
+    "correctAnswer": "D",
+    "explanation": "Zero discharge pressure typically indicates that the pump has lost its prime, is vapor bound, or that the suction valve is closed preventing fluid flow into the impeller."
+  },
+  {
+    "number": 13,
+    "heading": "Pump Operation and Maintenance",
+    "question": "To prime a centrifugal pump you must:",
+    "options": {
+      "A": "Fill the pump casing with compressed air",
+      "B": "Run the pump at half speed",
+      "C": "Fill the housing with liquid",
+      "D": "Be sure to bypass the impeller",
+      "E": "Clean the oil ring"
+    },
+    "correctAnswer": "C",
+    "explanation": "Priming a centrifugal pump involves filling the casing and suction piping completely with liquid to expel all trapped air before starting."
+  },
+  {
+    "number": 14,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Shaft misalignment during operation of a pump can be caused by bearing wear, thermal expansion and:",
+    "options": {
+      "A": "Loss of lubrication",
+      "B": "Overloading the pump",
+      "C": "Improper installation",
+      "D": "Shaft flexing",
+      "E": "Throttling of the discharge valve"
+    },
+    "correctAnswer": "D",
+    "explanation": "Operating loads, thermal growth, bearing wear, and shaft flexing can all introduce or exacerbate mechanical misalignment between the pump and driver shafts."
+  },
+  {
+    "number": 15,
+    "heading": "Pump Operation and Maintenance",
+    "question": "A mechanical pump seal:",
+    "options": {
+      "A": "Does not need cooling",
+      "B": "Will have a substantial amount of leakage",
+      "C": "Will cause more wear on the shaft than a packing seal",
+      "D": "Is used for high pressure service",
+      "E": "Is used in reciprocating pump service"
+    },
+    "correctAnswer": "D",
+    "explanation": "Mechanical seals are well-suited for high-pressure and high-speed services because they provide leak-free operation and eliminate shaft sleeve wear."
+  },
+  {
+    "number": 16,
+    "heading": "Pump Operation and Maintenance",
+    "question": "If the packing gland of a centrifugal water pump is leaking too much, you should:",
+    "options": {
+      "A": "Tighten up the gland until all leakage has been stopped",
+      "B": "Tighten up the gland but permit a slight amount of leakage",
+      "C": "Tighten up the gland as far as is possible",
+      "D": "Tighten up the gland until there is 10% leakage",
+      "E": "Throttle the suction valve a little"
+    },
+    "correctAnswer": "B",
+    "explanation": "The packing gland nuts should be adjusted evenly to reduce excessive leakage while still allowing a slight, continuous drip for necessary lubrication and cooling."
+  },
+  {
+    "number": 17,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Mechanical seals:\n1. Are used where leakage is objectionable\n2. Replace stuffing boxes\n3. Provide a better seal than packing\n4. Are less costly than stuffing boxes",
+    "options": {
+      "A": "2, 3",
+      "B": "2, 4",
+      "C": "1, 2",
+      "D": "1, 2, 3",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "D",
+    "explanation": "Mechanical seals prevent objectionable leakage (1), fit into stuffing box spaces (2), and offer superior sealing performance compared to traditional compression packing (3). They are generally more expensive, making statement 4 incorrect."
+  },
+  {
+    "number": 18,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Strainers may be found:",
+    "options": {
+      "A": "On the discharge side of the pump",
+      "B": "Inside the pump",
+      "C": "On the suction side of the pump",
+      "D": "In the impeller eye of the pump",
+      "E": "On the air vent discharge of the pump"
+    },
+    "correctAnswer": "C",
+    "explanation": "Suction strainers are installed on the suction side of pumps to catch foreign debris, scale, and particulate matter before it can enter and damage the internal components."
+  },
+  {
+    "number": 19,
+    "heading": "Pump Operation and Maintenance",
+    "question": "If a stuffing box is to prevent the ingress of air, it is equipped with:",
+    "options": {
+      "A": "A seal cage",
+      "B": "A bushing",
+      "C": "An anti air siphon",
+      "D": "A thrust collar",
+      "E": "A vacuum breaker"
+    },
+    "correctAnswer": "A",
+    "explanation": "A seal cage (lantern ring) receives external liquid under pressure to form a hydraulic barrier preventing air from leaking into the pump during suction lift conditions."
+  },
+  {
+    "number": 20,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Pump wear rings are installed on an impeller by set screws, threading, or:",
+    "options": {
+      "A": "Shrinking",
+      "B": "Forging",
+      "C": "Brazing",
+      "D": "Soldering",
+      "E": "Welding"
+    },
+    "correctAnswer": "A",
+    "explanation": "Wear rings are typically secured onto impellers using interference fits (shrinking), threads, or locking set screws and pins."
+  }
+]

@@ -1,0 +1,1122 @@
+[
+  {
+    "number": 1,
+    "heading": "Types of Pumps",
+    "question": "Rotary pumps:\n1. Are high-pressure pumps\n2. Must be primed\n3. Always use mechanical seals\n4. Are positive displacement pumps",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "1, 4",
+      "C": "2, 3",
+      "D": "1, 2",
+      "E": "1, 2, 3, 4"
+    },
+    "correctAnswer": "B",
+    "explanation": "Rotary pumps are positive displacement units capable of developing high pressures (items 1 and 4), but they do not inherently require mechanical seals nor do they always need priming depending on design and fluid."
+  },
+  {
+    "number": 2,
+    "heading": "Types of Pumps",
+    "question": "The vertical distance from the liquid surface up to the pump center line plus the vertical distance from the pump center line up to the surface of the liquid in the discharge tank is:",
+    "options": {
+      "A": "Static discharge head",
+      "B": "Static suction head",
+      "C": "Total discharge head",
+      "D": "Total static head",
+      "E": "Suction lift"
+    },
+    "correctAnswer": "D",
+    "explanation": "Total static head is the total vertical distance between the source liquid surface and the destination liquid surface, combining static suction head/lift and static discharge head."
+  },
+  {
+    "number": 3,
+    "heading": "Types of Pumps",
+    "question": "If a pump is cavitating, what can you do to prevent or reduce the cavitation:",
+    "options": {
+      "A": "Partially close the suction valve",
+      "B": "Raise the suction pressure",
+      "C": "Close the casing vent valve",
+      "D": "Open the vent valve and close the suction valve",
+      "E": "Close the discharge valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "Raising the suction pressure (or lowering fluid temperature/increasing net positive suction head) suppresses vapor bubble formation, preventing cavitation."
+  },
+  {
+    "number": 4,
+    "heading": "Types of Pumps",
+    "question": "When a pump discharges into a vessel operating at 300 kPa, the 300 kPa is referred to as:",
+    "options": {
+      "A": "Dynamic head",
+      "B": "Discharge head",
+      "C": "Total head",
+      "D": "Friction head",
+      "E": "Pressure head"
+    },
+    "correctAnswer": "E",
+    "explanation": "Pressure head represents the equivalent energy or pressure exerted by a gas or vapor blanket inside a closed discharge vessel acting against the pump."
+  },
+  {
+    "number": 5,
+    "heading": "Types of Pumps",
+    "question": "The capacity of a centrifugal pump should only be reduced by:",
+    "options": {
+      "A": "Opening the pump casing vent valve",
+      "B": "Throttling the discharge valve",
+      "C": "Closing both suction and discharge valves",
+      "D": "Closing the suction valve",
+      "E": "Throttling the suction valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "Centrifugal pump capacity and flow should be controlled or reduced by throttling the discharge valve, never the suction valve, to avoid starvation and cavitation."
+  },
+  {
+    "number": 6,
+    "heading": "Types of Pumps",
+    "question": "When a reciprocating pump discharges while its piston or plunger moves in only one direction, it is termed a:",
+    "options": {
+      "A": "Positive displacement unit",
+      "B": "Single acting unit",
+      "C": "Double acting unit",
+      "D": "Duplex unit",
+      "E": "Dynamic unit"
+    },
+    "correctAnswer": "B",
+    "explanation": "A single-acting reciprocating pump displaces fluid and discharges on only one stroke direction of the piston or plunger."
+  },
+  {
+    "number": 7,
+    "heading": "Types of Pumps",
+    "question": "Turbine pumps are suitable for:",
+    "options": {
+      "A": "Low capacity high-pressure service",
+      "B": "Low capacity low-pressure service",
+      "C": "Heavy viscous fluids",
+      "D": "Sludges and slurries",
+      "E": "High capacity low-pressure service"
+    },
+    "correctAnswer": "A",
+    "explanation": "Regenerative turbine pumps are designed to deliver high discharge heads at relatively low flow capacities."
+  },
+  {
+    "number": 8,
+    "heading": "Types of Pumps",
+    "question": "It is generally accurate to say that:",
+    "options": {
+      "A": "A water height or depth of 10.34 m results in 1 kPa",
+      "B": "Atmospheric pressure has no bearing on static water head",
+      "C": "9.8 kPa pressure results from every metre of water depth or height",
+      "D": "1 kPa will result from a water head of 9.8 m",
+      "E": "10.21 kPa will result from 1 metre of static water head"
+    },
+    "correctAnswer": "C",
+    "explanation": "A column of water exerts approximately 9.8 kPa of hydrostatic pressure per meter of height due to gravity and water density."
+  },
+  {
+    "number": 9,
+    "heading": "Types of Pumps",
+    "question": "Rotary pumps should be started with the discharge valve open because they are _____ pumps.",
+    "options": {
+      "A": "Double-acting",
+      "B": "Dynamic",
+      "C": "Regenerative",
+      "D": "Reciprocating",
+      "E": "Positive displacement"
+    },
+    "correctAnswer": "E",
+    "explanation": "Because rotary pumps are positive displacement devices that trap and push a fixed volume, starting against a closed discharge valve can cause catastrophic overpressure."
+  },
+  {
+    "number": 10,
+    "heading": "Types of Pumps",
+    "question": "Which type of pump produces the greatest suction?",
+    "options": {
+      "A": "A volute centrifugal pump",
+      "B": "A volute centrifugal pump",
+      "C": "A mixed flow pump",
+      "D": "An axial flow pump",
+      "E": "A positive displacement pump"
+    },
+    "correctAnswer": "E",
+    "explanation": "Positive displacement pumps create tight internal clearances and strong vacuum/suction capabilities compared to dynamic centrifugal pumps."
+  },
+  {
+    "number": 11,
+    "heading": "Types of Pumps",
+    "question": "Cavitation of a pump refers to when the:",
+    "options": {
+      "A": "Pump is filled with air",
+      "B": "Pump is steam driven",
+      "C": "Suction valve is open",
+      "D": "Liquid in the pump vaporizes",
+      "E": "Oil ring is damaged"
+    },
+    "correctAnswer": "D",
+    "explanation": "Cavitation occurs when local pressure drops below the liquid's vapor pressure, causing vapor pockets to form and collapse violently."
+  },
+  {
+    "number": 12,
+    "heading": "Types of Pumps",
+    "question": "Reciprocating pumps:\n1. Are high-pressure pumps\n2. Must be primed\n3. Always use mechanical seals\n4. Should be started with the suction and discharge open",
+    "options": {
+      "A": "1, 2, 3, 4",
+      "B": "2, 3",
+      "C": "1, 2",
+      "D": "1, 4",
+      "E": "1, 3, 4"
+    },
+    "correctAnswer": "D",
+    "explanation": "Reciprocating pumps are positive displacement high-pressure units (item 1) and like other PD pumps, must be started with suction and discharge valves open (item 4)."
+  },
+  {
+    "number": 13,
+    "heading": "Types of Pumps",
+    "question": "Vapor binding of a pump refers to when the:",
+    "options": {
+      "A": "Oil ring is damaged",
+      "B": "Pump is filled with air",
+      "C": "Pump is filled with vapor",
+      "D": "Pump is steam driven",
+      "E": "Suction valve is open"
+    },
+    "correctAnswer": "C",
+    "explanation": "Vapor binding happens when vapor or gas accumulates inside the pump casing, completely displacing the liquid and causing a loss of prime and pumping action."
+  },
+  {
+    "number": 14,
+    "heading": "Types of Pumps",
+    "question": "Centrifugal pumps convert rotating mechanical energy into kinetic energy then:",
+    "options": {
+      "A": "Back to mechanical energy",
+      "B": "Discharge the kinetic energy",
+      "C": "Into potential energy in the form of pressure",
+      "D": "Into centrifugal force",
+      "E": "Absorb the energy"
+    },
+    "correctAnswer": "C",
+    "explanation": "The impeller imparts velocity (kinetic energy) to the fluid, which is subsequently converted into static pressure head in the volute or diffuser casing."
+  },
+  {
+    "number": 15,
+    "heading": "Types of Pumps",
+    "question": "A rotary pump:\n1. Is a variety of dynamic pump\n2. Does not have discharge pulsations\n3. Should be equipped with a relief valve\n4. Has the highest capacity of any pump\n5. Never requires casing lubrication",
+    "options": {
+      "A": "1, 2",
+      "B": "3, 4",
+      "C": "3, 5",
+      "D": "1, 3",
+      "E": "2, 3"
+    },
+    "correctAnswer": "E",
+    "explanation": "Rotary pumps provide smooth, non-pulsating positive displacement flow (item 2) and require a relief valve to protect against overpressure (item 3)."
+  },
+  {
+    "number": 16,
+    "heading": "Types of Pumps",
+    "question": "Turbine pumps:\n1. Are high capacity pumps\n2. Are high-pressure pumps\n3. Have the liquid gain energy in a number of impulses",
+    "options": {
+      "A": "1",
+      "B": "1, 2",
+      "C": "1, 3",
+      "D": "2, 3",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "D",
+    "explanation": "Regenerative turbine pumps deliver high pressure (item 2) by continuously re-circulating fluid and imparting energy through multiple impulses across the peripheral impeller blades (item 3)."
+  },
+  {
+    "number": 17,
+    "heading": "Types of Pumps",
+    "question": "A pump is capable of suction lift due to:",
+    "options": {
+      "A": "Its input power",
+      "B": "Its size",
+      "C": "The speed at which it operates",
+      "D": "Atmospheric pressure",
+      "E": "Its ability to convert kinetic energy into potential energy"
+    },
+    "correctAnswer": "D",
+    "explanation": "Suction lift is made possible because atmospheric pressure acting on the external liquid surface pushes liquid up into the reduced-pressure suction eye of the pump."
+  },
+  {
+    "number": 18,
+    "heading": "Types of Pumps",
+    "question": "When starting up a rotary pump you must be sure that the:",
+    "options": {
+      "A": "Discharge valve is closed",
+      "B": "Pump suction valve is closed",
+      "C": "Discharge valve is open",
+      "D": "Pump is filled with air",
+      "E": "Pump is at the correct temperature"
+    },
+    "correctAnswer": "C",
+    "explanation": "As positive displacement pumps, rotary pumps require their discharge valves to be fully open prior to startup to prevent dangerous over-pressurization."
+  },
+  {
+    "number": 19,
+    "heading": "Types of Pumps",
+    "question": "A diffuser pump:\n1. Has stationary guide vanes surrounding the impeller\n2. Has a higher efficiency than a volute type\n3. Has high suction lift\n4. Does not have to be primed",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "1, 2",
+      "D": "2, 3",
+      "E": "1"
+    },
+    "correctAnswer": "C",
+    "explanation": "Diffuser pumps feature stationary guide vanes around the impeller (item 1) designed to smoothly convert velocity head to pressure head, yielding higher overall efficiency than a standard volute (item 2)."
+  },
+  {
+    "number": 20,
+    "heading": "Types of Pumps",
+    "question": "A centrifugal pump consists of:",
+    "options": {
+      "A": "Gears rotating in a housing",
+      "B": "A piston moving back and forth in a cylinder",
+      "C": "An impeller surrounded by a casing",
+      "D": "A pulsating disc",
+      "E": "Sliding vanes"
+    },
+    "correctAnswer": "C",
+    "explanation": "The core mechanical assembly of a centrifugal pump is a rotating impeller enclosed within a stationary volute or diffuser casing."
+  },
+  {
+    "number": 21,
+    "heading": "Pump Operation and Maintenance",
+    "question": "A stuffing box is part of a pump casing that:\n1. Stops air leaking into the casing when the pressure is below atmospheric\n2. Decreases casing leakage when the pressure is above atmospheric\n3. Is always supplied with a lantern ring\n4. Is filled with packing",
+    "options": {
+      "A": "1, 3",
+      "B": "1, 2, 4",
+      "C": "1, 4",
+      "D": "2, 3",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "B",
+    "explanation": "A stuffing box contains packing (item 4) to control leakage whether internal pressure is above or below atmospheric (items 1 and 2). However, a lantern ring is only installed when external sealing fluid is required, not on every stuffing box."
+  },
+  {
+    "number": 22,
+    "heading": "Pump Operation and Maintenance",
+    "question": "The liquid to a lantern ring:",
+    "options": {
+      "A": "Should not enter the pump",
+      "B": "Should always come from the same pump",
+      "C": "Keeps the air out of the pump",
+      "D": "Should be warm at all times",
+      "E": "Keeps grease from leaking out"
+    },
+    "correctAnswer": "C",
+    "explanation": "When a pump operates with a suction pressure below atmospheric, sealing liquid supplied to the lantern ring creates a positive fluid barrier that keeps air from leaking into the pump."
+  },
+  {
+    "number": 23,
+    "heading": "Pump Operation and Maintenance",
+    "question": "The area around a pump shaft, where packing material is placed to reduce leakage around a shaft, is known as a:",
+    "options": {
+      "A": "Seal box",
+      "B": "Casing flange",
+      "C": "Gear boc",
+      "D": "Wearing ring",
+      "E": "Stuffing box"
+    },
+    "correctAnswer": "E",
+    "explanation": "The stuffing box is the annular chamber surrounding the pump shaft where soft packing rings are compressed to control fluid leakage."
+  },
+  {
+    "number": 24,
+    "heading": "Pump Operation and Maintenance",
+    "question": "The seal cage on the shaft of a centrifugal pump:",
+    "options": {
+      "A": "Holds the shaft packing against the shoulder of the stuffing box",
+      "B": "Assists in reducing shaft vibration",
+      "C": "Reduces suction pressure drop",
+      "D": "Distributes sealing fluid to the seal faces",
+      "E": "Prevents fluid from leaking out of the pump casing"
+    },
+    "correctAnswer": "D",
+    "explanation": "A seal cage (also known as a lantern ring) features an internal channel that receives and distributes sealing fluid evenly around the packing and shaft."
+  },
+  {
+    "number": 25,
+    "heading": "Pump Operation and Maintenance",
+    "question": "The purpose of shaft sealing on a pump is to:",
+    "options": {
+      "A": "Protect the seal",
+      "B": "Keep the packing gland cool",
+      "C": "Stop fluids from leaking along the pump shaft",
+      "D": "Keep air in the pump",
+      "E": "Prevent lubricating oil from leaving the pump"
+    },
+    "correctAnswer": "C",
+    "explanation": "Shaft seals and packing arrangements are designed to prevent or control unwanted fluid leakage along the rotating shaft where it exits the casing."
+  },
+  {
+    "number": 26,
+    "heading": "Pump Operation and Maintenance",
+    "question": "A slight leakage is desired between the pump shaft and packing of the majority of pumps in order to:",
+    "options": {
+      "A": "Prevent the pump from vapor locking",
+      "B": "Prevent the ingress of air",
+      "C": "Increase pump capacity and efficiency",
+      "D": "Prevent wearing of the wear rings",
+      "E": "Lubricate the surfaces"
+    },
+    "correctAnswer": "E",
+    "explanation": "A controlled, slight weep or leakage through the packing provides vital lubrication and cooling between the packing rings and the rotating shaft sleeve."
+  },
+  {
+    "number": 27,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Another name for a lantern ring used in a pump is:",
+    "options": {
+      "A": "Stationary seal",
+      "B": "Packing ring",
+      "C": "Rotating seal",
+      "D": "Seal cage",
+      "E": "Packing box"
+    },
+    "correctAnswer": "D",
+    "explanation": "A lantern ring is commonly referred to in mechanical and pump terminology as a seal cage."
+  },
+  {
+    "number": 28,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Most pump failures, damage or both occurs:",
+    "options": {
+      "A": "After about six months of continuous service",
+      "B": "Due to wrong rotation",
+      "C": "Due to vapor binding",
+      "D": "During initial start up",
+      "E": "Because of inadequate operator training"
+    },
+    "correctAnswer": "D",
+    "explanation": "A high percentage of pump failures and mechanical damage take place during initial startup due to issues like dry running, inadequate priming, or closed valves."
+  },
+  {
+    "number": 29,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Lantern rings:\n1. Prevent liquid leakage from the pump\n2. Are fed by a liquid\n3. Provide a seal to prevent air from entering the pump\n4. Are mostly used on high lift pumps",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "3, 4",
+      "C": "2, 3",
+      "D": "1, 2",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "E",
+    "explanation": "Lantern rings are supplied with sealing liquid under pressure (item 2). This liquid creates a barrier that prevents air from entering the pump through the stuffing box when suction pressure is below atmospheric pressure (item 3). They are commonly used in high-lift pumps where suction conditions may create a vacuum, making prevention of air ingress especially important (item 4). They do not completely prevent liquid leakage from the pump (item 1)."
+  },
+  {
+    "number": 30,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Before you start up a centrifugal pump you should:",
+    "options": {
+      "A": "Drain all the liquid out of the pump",
+      "B": "Bring the pump up to operating temperature",
+      "C": "Lubricate the impellers",
+      "D": "Close the housing drain",
+      "E": "Be sure that the pump is primed with liquid"
+    },
+    "correctAnswer": "E",
+    "explanation": "Centrifugal pumps must always be fully primed and filled with liquid before starting to prevent severe impeller damage, vapor binding, and dry running."
+  },
+  {
+    "number": 31,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Wear rings:\n1. Are used on impellers\n2. Are used on the casing\n3. Give protection to the shaft\n4. Reduce the maintenance costs of the pump",
+    "options": {
+      "A": "1, 2, 4",
+      "B": "1, 2",
+      "C": "1, 3",
+      "D": "1, 2, 3",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "Wear rings are installed on both the impeller and the casing to absorb frictional wear. When worn, they can be easily replaced rather than replacing the entire casing or impeller, significantly reducing maintenance costs (items 1, 2, and 4)."
+  },
+  {
+    "number": 32,
+    "heading": "Pump Operation and Maintenance",
+    "question": "If a pump is running and has no discharge pressure, what will you do?",
+    "options": {
+      "A": "Check the lubrication level",
+      "B": "Open the lubrication valve",
+      "C": "Close the suction valve a little",
+      "D": "Check to see if the suction valve is open",
+      "E": "Close the discharge valve"
+    },
+    "correctAnswer": "D",
+    "explanation": "Zero discharge pressure typically indicates that the pump has lost its prime, is vapor bound, or that the suction valve is closed preventing fluid flow into the impeller."
+  },
+  {
+    "number": 33,
+    "heading": "Pump Operation and Maintenance",
+    "question": "To prime a centrifugal pump you must:",
+    "options": {
+      "A": "Fill the pump casing with compressed air",
+      "B": "Run the pump at half speed",
+      "C": "Fill the housing with liquid",
+      "D": "Be sure to bypass the impeller",
+      "E": "Clean the oil ring"
+    },
+    "correctAnswer": "C",
+    "explanation": "Priming a centrifugal pump involves filling the casing and suction piping completely with liquid to expel all trapped air before starting."
+  },
+  {
+    "number": 34,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Shaft misalignment during operation of a pump can be caused by bearing wear, thermal expansion and:",
+    "options": {
+      "A": "Loss of lubrication",
+      "B": "Overloading the pump",
+      "C": "Improper installation",
+      "D": "Shaft flexing",
+      "E": "Throttling of the discharge valve"
+    },
+    "correctAnswer": "D",
+    "explanation": "Operating loads, thermal growth, bearing wear, and shaft flexing can all introduce or exacerbate mechanical misalignment between the pump and driver shafts."
+  },
+  {
+    "number": 35,
+    "heading": "Pump Operation and Maintenance",
+    "question": "A mechanical pump seal:",
+    "options": {
+      "A": "Does not need cooling",
+      "B": "Will have a substantial amount of leakage",
+      "C": "Will cause more wear on the shaft than a packing seal",
+      "D": "Is used for high pressure service",
+      "E": "Is used in reciprocating pump service"
+    },
+    "correctAnswer": "D",
+    "explanation": "Mechanical seals are well-suited for high-pressure and high-speed services because they provide leak-free operation and eliminate shaft sleeve wear."
+  },
+  {
+    "number": 36,
+    "heading": "Pump Operation and Maintenance",
+    "question": "If the packing gland of a centrifugal water pump is leaking too much, you should:",
+    "options": {
+      "A": "Tighten up the gland until all leakage has been stopped",
+      "B": "Tighten up the gland but permit a slight amount of leakage",
+      "C": "Tighten up the gland as far as is possible",
+      "D": "Tighten up the gland until there is 10% leakage",
+      "E": "Throttle the suction valve a little"
+    },
+    "correctAnswer": "B",
+    "explanation": "The packing gland nuts should be adjusted evenly to reduce excessive leakage while still allowing a slight, continuous drip for necessary lubrication and cooling."
+  },
+  {
+    "number": 37,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Mechanical seals:\n1. Are used where leakage is objectionable\n2. Replace stuffing boxes\n3. Provide a better seal than packing\n4. Are less costly than stuffing boxes",
+    "options": {
+      "A": "2, 3",
+      "B": "2, 4",
+      "C": "1, 2",
+      "D": "1, 2, 3",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "D",
+    "explanation": "Mechanical seals prevent objectionable leakage (1), fit into stuffing box spaces (2), and offer superior sealing performance compared to traditional compression packing (3). They are generally more expensive, making statement 4 incorrect."
+  },
+  {
+    "number": 38,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Strainers may be found:",
+    "options": {
+      "A": "On the discharge side of the pump",
+      "B": "Inside the pump",
+      "C": "On the suction side of the pump",
+      "D": "In the impeller eye of the pump",
+      "E": "On the air vent discharge of the pump"
+    },
+    "correctAnswer": "C",
+    "explanation": "Suction strainers are installed on the suction side of pumps to catch foreign debris, scale, and particulate matter before it can enter and damage the internal components."
+  },
+  {
+    "number": 39,
+    "heading": "Pump Operation and Maintenance",
+    "question": "If a stuffing box is to prevent the ingress of air, it is equipped with:",
+    "options": {
+      "A": "A seal cage",
+      "B": "A bushing",
+      "C": "An anti air siphon",
+      "D": "A thrust collar",
+      "E": "A vacuum breaker"
+    },
+    "correctAnswer": "A",
+    "explanation": "A seal cage (lantern ring) receives external liquid under pressure to form a hydraulic barrier preventing air from leaking into the pump during suction lift conditions."
+  },
+  {
+    "number": 40,
+    "heading": "Pump Operation and Maintenance",
+    "question": "Pump wear rings are installed on an impeller by set screws, threading, or:",
+    "options": {
+      "A": "Shrinking",
+      "B": "Forging",
+      "C": "Brazing",
+      "D": "Soldering",
+      "E": "Welding"
+    },
+    "correctAnswer": "A",
+    "explanation": "Wear rings are typically secured onto impellers using interference fits (shrinking), threads, or locking set screws and pins."
+  },
+  {
+    "number": 41,
+    "heading": "Introduction to Compressors",
+    "question": "Timing gearing is commonly used on:",
+    "options": {
+      "A": "Rotary lobe units",
+      "B": "Screw units",
+      "C": "Sliding vane units",
+      "D": "Centrifugal units",
+      "E": "Reciprocating units"
+    },
+    "correctAnswer": "B",
+    "explanation": "Screw compressors commonly use timing gears to synchronize the rotation of the male and female rotors, maintaining precise clearance between them and preventing metal-to-metal contact. This ensures smooth operation and reduces wear."
+  },
+  {
+    "number": 42,
+    "heading": "Introduction to Compressors",
+    "question": "The compressor which would favor volume over pressure would be the:",
+    "options": {
+      "A": "Sliding vane",
+      "B": "Screw",
+      "C": "Centrifugal",
+      "D": "Reciprocating",
+      "E": "Rotary lobe"
+    },
+    "correctAnswer": "C",
+    "explanation": "Dynamic compressors like centrifugal units are designed to handle extremely large gas volumes at lower pressure ratios compared to positive displacement units."
+  },
+  {
+    "number": 43,
+    "heading": "Introduction to Compressors",
+    "question": "To reduce air temperature between stages, we would use:",
+    "options": {
+      "A": "An intercooler",
+      "B": "A receiver",
+      "C": "A convertor",
+      "D": "A chiller",
+      "E": "An aftercooler"
+    },
+    "correctAnswer": "A",
+    "explanation": "Intercoolers are heat exchangers placed between consecutive compression stages to cool the air, improving volumetric efficiency and reducing power consumption."
+  },
+  {
+    "number": 44,
+    "heading": "Introduction to Compressors",
+    "question": "The valves on a reciprocating compressor are opened by:",
+    "options": {
+      "A": "The eccentric",
+      "B": "A pressure difference",
+      "C": "A timing gear",
+      "D": "The camshaft",
+      "E": "Hydraulic pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": "Reciprocating compressor valves are automatic check valves operated entirely by the differential pressure across the valve plate."
+  },
+  {
+    "number": 45,
+    "heading": "Introduction to Compressors",
+    "question": "As opposed to electrical driven, compressed air machinery is likely be used in:",
+    "options": {
+      "A": "Home furnace control systems",
+      "B": "Tool and die shops",
+      "C": "Potentially explosive atmospheres like coal mines",
+      "D": "Agricultural applications",
+      "E": "Residential garages"
+    },
+    "correctAnswer": "C",
+    "explanation": "Pneumatic machinery is frequently utilized in hazardous, potentially explosive environments because it eliminates electrical spark hazards."
+  },
+  {
+    "number": 46,
+    "heading": "Introduction to Compressors",
+    "question": "The two types of dynamic compressor are centrifugal and:",
+    "options": {
+      "A": "Screw",
+      "B": "Axial",
+      "C": "Gear",
+      "D": "Scroll",
+      "E": "Lobe"
+    },
+    "correctAnswer": "B",
+    "explanation": "Dynamic compressors accelerate gas using rotating elements and are categorized primarily into centrifugal and axial types."
+  },
+  {
+    "number": 47,
+    "heading": "Introduction to Compressors",
+    "question": "Centrifugal compressors:",
+    "options": {
+      "A": "Are used for high pressure and low flow",
+      "B": "Could be of the multi-stage type",
+      "C": "Must have a safety valve on the discharge when steam driven",
+      "D": "Must have intercoolers when multi-staged",
+      "E": "Require inlet and discharge valves"
+    },
+    "correctAnswer": "B",
+    "explanation": "Centrifugal compressors can be built with multiple stages (multiple impellers in series) to achieve higher discharge pressures."
+  },
+  {
+    "number": 48,
+    "heading": "Introduction to Compressors",
+    "question": "Air compressors that supply instrument air should:",
+    "options": {
+      "A": "Have turbine drivers",
+      "B": "Have air intake far from sources of exhaust",
+      "C": "Not be used for any other purpose",
+      "D": "Be located on the roof",
+      "E": "Always be positive displacement"
+    },
+    "correctAnswer": "B",
+    "explanation": "Instrument air compressors should draw air from an intake located far from engine exhausts and other sources of contamination. This helps ensure the compressed air remains clean and suitable for sensitive instruments and control systems."
+  },
+  {
+    "number": 49,
+    "heading": "Introduction to Compressors",
+    "question": "The oil ring of the set of pistons rings:",
+    "options": {
+      "A": "Is connected to the piston rod",
+      "B": "Is the top ring",
+      "C": "Has its own oil pump",
+      "D": "Is the centre ring",
+      "E": "In the lowest ring"
+    },
+    "correctAnswer": "E",
+    "explanation": "Oil control or scraper rings are positioned in the lowest groove on the piston skirt to wipe excess oil from the cylinder wall."
+  },
+  {
+    "number": 50,
+    "heading": "Introduction to Compressors",
+    "question": "Damage to compressors due to leaking valves is typically caused by:",
+    "options": {
+      "A": "Low flow",
+      "B": "High flow",
+      "C": "Moisture",
+      "D": "High speed",
+      "E": "High temperature"
+    },
+    "correctAnswer": "E",
+    "explanation": "Leaking valves allow compressed gas to continuously pass back and forth, generating extreme localized heat ('wire-drawing') that destroys the valve assembly."
+  },
+  {
+    "number": 51,
+    "heading": "Introduction to Compressors",
+    "question": "Single stage reciprocating air compressors consist of:",
+    "options": {
+      "A": "One or more cylinders of the same size",
+      "B": "One set of rotating blades",
+      "C": "At least one impeller",
+      "D": "One rotary lobe",
+      "E": "One or more cylinders of different sizes"
+    },
+    "correctAnswer": "A",
+    "explanation": "Single-stage reciprocating compressors compress air to final pressure in one or more cylinders operating at the same pressure stage."
+  },
+  {
+    "number": 52,
+    "heading": "Introduction to Compressors",
+    "question": "Scroll type compressor are rarely found in any application other than:",
+    "options": {
+      "A": "Instrument air compressors",
+      "B": "Pneumatic tool compressors",
+      "C": "Pipeline compressors",
+      "D": "Superchargers",
+      "E": "Refrigeration systems"
+    },
+    "correctAnswer": "E",
+    "explanation": "Scroll compressors are widely utilized in residential and commercial air conditioning and refrigeration systems due to their high volumetric efficiency and smooth operation."
+  },
+  {
+    "number": 53,
+    "heading": "Introduction to Compressors",
+    "question": "The compressor valve that is made of a flexible piece of spring steel:",
+    "options": {
+      "A": "Ring valve",
+      "B": "Poppet valve",
+      "C": "Plate valve",
+      "D": "Diaphragm valve",
+      "E": "Reed valve"
+    },
+    "correctAnswer": "E",
+    "explanation": "Reed valves consist of a simple flexible strip of spring steel that flexes to open and close under pressure differentials."
+  },
+  {
+    "number": 54,
+    "heading": "Introduction to Compressors",
+    "question": "In a natural gas compressor the automatic recirculation valve opens to:",
+    "options": {
+      "A": "Decrease the compressor discharge temperature",
+      "B": "Ensure continuous operation during upsets",
+      "C": "Decrease the compressor inlet temperature",
+      "D": "Remove moisture from the gas",
+      "E": "Automatically increase flow"
+    },
+    "correctAnswer": "B",
+    "explanation": "Recirculation valves (antisurge/minimum flow valves) protect compressors and ensure stable continuous operation during process upsets or low demand."
+  },
+  {
+    "number": 55,
+    "heading": "Introduction to Compressors",
+    "question": "Positive displacement compressors:",
+    "options": {
+      "A": "Could be single stage with three cylinders",
+      "B": "Could be of the centrifugal type",
+      "C": "Must all use internal lubrication",
+      "D": "Must all use cylinder valves",
+      "E": "Require a positive water seal"
+    },
+    "correctAnswer": "A",
+    "explanation": "Positive displacement compressors can feature multi-cylinder single-stage configurations to increase volumetric output while maintaining a single pressure range."
+  },
+  {
+    "number": 56,
+    "heading": "Introduction to Compressors",
+    "question": "An air compressor that gives two compression strokes per crankshaft revolution is:",
+    "options": {
+      "A": "Multi-cylinder single acting",
+      "B": "Single acting",
+      "C": "Single cylinder double acting",
+      "D": "A compound unit",
+      "E": "Multistage two cylinder"
+    },
+    "correctAnswer": "C",
+    "explanation": "A single-cylinder double-acting compressor compresses air on both the forward and backward strokes of the piston, yielding two compression strokes per revolution."
+  },
+  {
+    "number": 57,
+    "heading": "Introduction to Compressors",
+    "question": "Sliding vane compressors:",
+    "options": {
+      "A": "Are 100% efficient",
+      "B": "Use cylinder valves",
+      "C": "Fall into the centrifugal compressor category",
+      "D": "Are positive displacement compressors",
+      "E": "Are double acting compressors"
+    },
+    "correctAnswer": "D",
+    "explanation": "Sliding vane compressors trap gas in pockets between vanes and a casing, classifying them as rotary positive displacement machines."
+  },
+  {
+    "number": 58,
+    "heading": "Introduction to Compressors",
+    "question": "To prevent damage to a refrigeration compressor due to liquids in the inlet, these are often fitted:",
+    "options": {
+      "A": "Recirculation valve",
+      "B": "Safety head",
+      "C": "Bypass valve",
+      "D": "After cooler",
+      "E": "Internal reservoir"
+    },
+    "correctAnswer": "B",
+    "explanation": "Safety heads on reciprocating refrigeration compressors are spring-loaded to lift and relieve liquid slugs, preventing catastrophic mechanical damage."
+  },
+  {
+    "number": 59,
+    "heading": "Introduction to Compressors",
+    "question": "The piston rings used with reciprocating compressors:",
+    "options": {
+      "A": "Cool the pistons",
+      "B": "Are only required on the smallest compressors",
+      "C": "Move the pistons up and down",
+      "D": "Provide a flexible seal inside the cylinder",
+      "E": "Are attached to the connecting rod"
+    },
+    "correctAnswer": "D",
+    "explanation": "Piston rings provide a tight, flexible seal between the moving piston and the cylinder wall to prevent gas blow-by."
+  },
+  {
+    "number": 60,
+    "heading": "Introduction to Compressors",
+    "question": "In a centrifugal compressor the kinetic energy is converted to potential energy in the:",
+    "options": {
+      "A": "Intercooler",
+      "B": "Volute only",
+      "C": "Volute, diffuser or both",
+      "D": "Diffuser only",
+      "E": "Compressor cavity"
+    },
+    "correctAnswer": "C",
+    "explanation": "High-velocity gas leaving the impeller enters the diffuser and volute casing, where its kinetic energy is efficiently converted into static pressure head."
+  },
+  {
+    "number": 61,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Protective controls found on compressors include all of these except:",
+    "options": {
+      "A": "Low discharge temperature",
+      "B": "High intercooler temperature",
+      "C": "Low lubricating oil level",
+      "D": "Low lube pressure",
+      "E": "Excessive vibration"
+    },
+    "correctAnswer": "A",
+    "explanation": "Compressor safety shutdown systems monitor for high discharge temperatures (which indicate internal leakage, overload, or cooling failure), not low discharge temperature."
+  },
+  {
+    "number": 62,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Air receivers must have a:",
+    "options": {
+      "A": "Thermometer",
+      "B": "High pressure alarm",
+      "C": "Gage glass",
+      "D": "Safety valve",
+      "E": "High water alarm"
+    },
+    "correctAnswer": "D",
+    "explanation": "Air receivers are pressure vessels and must be equipped with a properly sized safety relief valve to prevent overpressurization."
+  },
+  {
+    "number": 63,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "An air compressor may be automatically started and stopped by a pressure switch, which is usually found connected to the:",
+    "options": {
+      "A": "Intercooler",
+      "B": "Separator",
+      "C": "Control panel",
+      "D": "Receiver",
+      "E": "Aftercooler"
+    },
+    "correctAnswer": "D",
+    "explanation": "Pressure switches monitor system air pressure directly on the air receiver tank to signal start and stop commands to the compressor driver."
+  },
+  {
+    "number": 64,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Intercoolers should be equipped with:",
+    "options": {
+      "A": "Baffles",
+      "B": "Vents",
+      "C": "Moisture separators",
+      "D": "Safety valves",
+      "E": "Automatic blow downs"
+    },
+    "correctAnswer": "D",
+    "explanation": "Intercoolers should be equipped with safety valves to protect them from excessive pressure. If pressure rises above the intercooler's allowable operating limit, the safety valve opens to release excess pressure and prevent equipment damage."
+  },
+  {
+    "number": 65,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Dynamic compressors like Centrifugal and Axial:",
+    "options": {
+      "A": "Do not require internal lubrication",
+      "B": "Are not used in industry",
+      "C": "Contain no moving parts",
+      "D": "Require internal lubrication",
+      "E": "Do not require any lubrication"
+    },
+    "correctAnswer": "A",
+    "explanation": "Because dynamic compressors do not have internal rubbing or sliding contact in the gas stream, the compression path is oil-free and does not require internal cylinder lubrication."
+  },
+  {
+    "number": 66,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Industrial compressor bearings are usually:",
+    "options": {
+      "A": "Sleeve bearings",
+      "B": "Thrust bearings",
+      "C": "Oil free bearings",
+      "D": "Ball bearings",
+      "E": "Roller bearings"
+    },
+    "correctAnswer": "A",
+    "explanation": "Heavy-duty industrial compressors typically utilize hydrodynamic sleeve (journal) bearings to support high radial loads and high-speed crankshaft rotation."
+  },
+  {
+    "number": 67,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "In order to protect the driver, a start-stop air compressor should be equipped with:",
+    "options": {
+      "A": "An intercooler",
+      "B": "An automatic blowdown system",
+      "C": "Safety heads",
+      "D": "Manual cylinder bleed petcocks",
+      "E": "Pre-start automatic unloading"
+    },
+    "correctAnswer": "E",
+    "explanation": "Pre-start automatic unloaders vent cylinder pressure so the electric motor driver does not have to start against heavy initial head pressure."
+  },
+  {
+    "number": 68,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "An air receiver used in an air compression system will perform the following functions:\n1. Acts as a storage vessel\n2. Eliminates pulsation in discharge lines\n3. Separates out water from the air\n4. Controls the temperature of the air before it enters the system",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "1, 2",
+      "C": "1, 2, 4",
+      "D": "2, 3, 4",
+      "E": "3, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "An air receiver stores compressed air (1), dampens and smooths out discharge pulsations from reciprocating compressors (2), and allows additional moisture and oil droplets to drop out of suspension (3)."
+  },
+  {
+    "number": 69,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Daily operator checks of compressors include, oil, noise, and:",
+    "options": {
+      "A": "Inspect the couplings",
+      "B": "Change the bearings",
+      "C": "Analyze crankcase oil samples",
+      "D": "Cleaning of cooling water systems",
+      "E": "Intercooler differential pressure"
+    },
+    "correctAnswer": "E",
+    "explanation": "Routine operator rounds involve tracking operating parameters like intercooler differential pressure, lube oil levels/pressures, and unusual noise or vibration."
+  },
+  {
+    "number": 70,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "When air used for instrumentation is not dried to dew point below minimum cold temperatures:",
+    "options": {
+      "A": "Nothing will happen other than rust",
+      "B": "Water will freeze in the compressor discharge valve",
+      "C": "Instrumentation lines and controls will plug and freeze",
+      "D": "Air used to cool the compressor will be lost",
+      "E": "The compressor motor will freeze"
+    },
+    "correctAnswer": "C",
+    "explanation": "Undried instrument air exposed to low temperatures will condense and freeze moisture inside pneumatic control lines, causing instrument failure and plant upsets."
+  },
+  {
+    "number": 71,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "The speed of a compressor can be altered using:",
+    "options": {
+      "A": "Unloaders",
+      "B": "A variable frequency drive motor",
+      "C": "Bypass valves",
+      "D": "Recirculation valves",
+      "E": "Discharge pressure controls"
+    },
+    "correctAnswer": "B",
+    "explanation": "A variable frequency drive (VFD) directly adjusts the rotational motor speed of the compressor to match varying air or gas demands."
+  },
+  {
+    "number": 72,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "The cylinder walls of reciprocating compressors get oil delivered by:",
+    "options": {
+      "A": "Mechanical lubricators",
+      "B": "Cooling water",
+      "C": "Drip lubricators",
+      "D": "Splash lubrication",
+      "E": "Oil in the gas inlet"
+    },
+    "correctAnswer": "A",
+    "explanation": "Force-feed mechanical lubricators inject metered quantities of oil directly into the cylinders and packing glands of reciprocating compressors."
+  },
+  {
+    "number": 73,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Maintaining correct temperatures within a compressor cylinder is important for:",
+    "options": {
+      "A": "Determining the compressor speed",
+      "B": "Minimizing compressor sound",
+      "C": "Economic operation",
+      "D": "Ensuring oil free air",
+      "E": "Controlling air consumption"
+    },
+    "correctAnswer": "C",
+    "explanation": "Controlling temperatures through proper cooling prevents lubricant breakdown, reduces volumetric loss due to re-expansion, and ensures safe, efficient, and economic operation."
+  },
+  {
+    "number": 74,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Splash type lubrication is frequently used with:",
+    "options": {
+      "A": "Small single acting reciprocating compressors",
+      "B": "Axial compressors",
+      "C": "Large centrifugal compressors",
+      "D": "Multi stage double acting reciprocating compressors",
+      "E": "Screw compressors"
+    },
+    "correctAnswer": "A",
+    "explanation": "Small, single-acting reciprocating compressors commonly utilize a dipper on the connecting rod to splash oil from the crankcase to lubricate bearings and cylinder walls."
+  },
+  {
+    "number": 75,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Where pistons move in a cylinder, it is necessary for the lubricant to provide:",
+    "options": {
+      "A": "Shock reduction",
+      "B": "Tension",
+      "C": "Vapour venting",
+      "D": "Sealing",
+      "E": "Alignment"
+    },
+    "correctAnswer": "D",
+    "explanation": "Cylinder oil forms an effective sealing film between the piston rings and cylinder walls to prevent high-pressure gas from blowing past the piston."
+  },
+  {
+    "number": 76,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Compressor unloaders:",
+    "options": {
+      "A": "Could close the discharge valves",
+      "B": "Must be used on centrifugal compressors",
+      "C": "Could keep the suction valves open",
+      "D": "Are located on the driver of the compressor",
+      "E": "Activate the stop and start button"
+    },
+    "correctAnswer": "C",
+    "explanation": "Mechanical compressor unloaders often operate by holding the suction valves open so that gas is simply pushed back and forth without being compressed or delivered."
+  },
+  {
+    "number": 77,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Intercoolers:",
+    "options": {
+      "A": "Are required to cool compressor-lubricating oil",
+      "B": "Cool the air at the inlet valves",
+      "C": "Cool the air in the cylinders",
+      "D": "Are used on all compressors",
+      "E": "Must have a safety valve when used on positive displacement"
+    },
+    "correctAnswer": "E",
+    "explanation": "Because intercoolers operate under pressure between stages of positive displacement compressors, they are treated as pressure vessels and must be protected by safety relief valves."
+  },
+  {
+    "number": 78,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "To reduce leakage along a compressor shaft labyrinth seals:",
+    "options": {
+      "A": "Create an aerodynamic force",
+      "B": "Create an intricate path",
+      "C": "Are held in place by springs",
+      "D": "Use lantern rings",
+      "E": "Use hardened mating surfaces"
+    },
+    "correctAnswer": "B",
+    "explanation": "Labyrinth seals utilize a series of close-fitting throttling rings and chambers that force leaking gas through an intricate, tortuous path to drop pressure."
+  },
+  {
+    "number": 79,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "An air compressor auxiliary which will decrease the power requirement is the:",
+    "options": {
+      "A": "Receiver",
+      "B": "Variable compression ratio read",
+      "C": "Intercooler",
+      "D": "Aftercooler",
+      "E": "Diffuser"
+    },
+    "correctAnswer": "C",
+    "explanation": "Intercooling cools the air between stages toward its original temperature, which reduces the volume of air to be compressed in subsequent stages and significantly decreases total power requirements."
+  },
+  {
+    "number": 80,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "The grooves machined into a dry gas seal creates:",
+    "options": {
+      "A": "An intricate flow path",
+      "B": "Very high temperatures",
+      "C": "An aerodynamic force",
+      "D": "High liquid pressure",
+      "E": "A liquid film"
+    },
+    "correctAnswer": "C",
+    "explanation": "Spiral grooves machined into dry gas seal faces generate an opposing aerodynamic lifting force when the shaft rotates, creating a stable running gas film."
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Introduction to Compressors",
+    "question": "Timing gearing is commonly used on:",
+    "options": {
+      "A": "Rotary lobe units",
+      "B": "Screw units",
+      "C": "Sliding vane units",
+      "D": "Centrifugal units",
+      "E": "Reciprocating units"
+    },
+    "correctAnswer": "B",
+    "explanation": "Screw compressors commonly use timing gears to synchronize the rotation of the male and female rotors, maintaining precise clearance between them and preventing metal-to-metal contact. This ensures smooth operation and reduces wear."
+  },
+  {
+    "number": 2,
+    "heading": "Introduction to Compressors",
+    "question": "The compressor which would favor volume over pressure would be the:",
+    "options": {
+      "A": "Sliding vane",
+      "B": "Screw",
+      "C": "Centrifugal",
+      "D": "Reciprocating",
+      "E": "Rotary lobe"
+    },
+    "correctAnswer": "C",
+    "explanation": "Dynamic compressors like centrifugal units are designed to handle extremely large gas volumes at lower pressure ratios compared to positive displacement units."
+  },
+  {
+    "number": 3,
+    "heading": "Introduction to Compressors",
+    "question": "To reduce air temperature between stages, we would use:",
+    "options": {
+      "A": "An intercooler",
+      "B": "A receiver",
+      "C": "A convertor",
+      "D": "A chiller",
+      "E": "An aftercooler"
+    },
+    "correctAnswer": "A",
+    "explanation": "Intercoolers are heat exchangers placed between consecutive compression stages to cool the air, improving volumetric efficiency and reducing power consumption."
+  },
+  {
+    "number": 4,
+    "heading": "Introduction to Compressors",
+    "question": "The valves on a reciprocating compressor are opened by:",
+    "options": {
+      "A": "The eccentric",
+      "B": "A pressure difference",
+      "C": "A timing gear",
+      "D": "The camshaft",
+      "E": "Hydraulic pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": "Reciprocating compressor valves are automatic check valves operated entirely by the differential pressure across the valve plate."
+  },
+  {
+    "number": 5,
+    "heading": "Introduction to Compressors",
+    "question": "As opposed to electrical driven, compressed air machinery is likely be used in:",
+    "options": {
+      "A": "Home furnace control systems",
+      "B": "Tool and die shops",
+      "C": "Potentially explosive atmospheres like coal mines",
+      "D": "Agricultural applications",
+      "E": "Residential garages"
+    },
+    "correctAnswer": "C",
+    "explanation": "Pneumatic machinery is frequently utilized in hazardous, potentially explosive environments because it eliminates electrical spark hazards."
+  },
+  {
+    "number": 6,
+    "heading": "Introduction to Compressors",
+    "question": "The two types of dynamic compressor are centrifugal and:",
+    "options": {
+      "A": "Screw",
+      "B": "Axial",
+      "C": "Gear",
+      "D": "Scroll",
+      "E": "Lobe"
+    },
+    "correctAnswer": "B",
+    "explanation": "Dynamic compressors accelerate gas using rotating elements and are categorized primarily into centrifugal and axial types."
+  },
+  {
+    "number": 7,
+    "heading": "Introduction to Compressors",
+    "question": "Centrifugal compressors:",
+    "options": {
+      "A": "Are used for high pressure and low flow",
+      "B": "Could be of the multi-stage type",
+      "C": "Must have a safety valve on the discharge when steam driven",
+      "D": "Must have intercoolers when multi-staged",
+      "E": "Require inlet and discharge valves"
+    },
+    "correctAnswer": "B",
+    "explanation": "Centrifugal compressors can be built with multiple stages (multiple impellers in series) to achieve higher discharge pressures."
+  },
+  {
+    "number": 8,
+    "heading": "Introduction to Compressors",
+    "question": "Air compressors that supply instrument air should:",
+    "options": {
+      "A": "Have turbine drivers",
+      "B": "Have air intake far from sources of exhaust",
+      "C": "Not be used for any other purpose",
+      "D": "Be located on the roof",
+      "E": "Always be positive displacement"
+    },
+    "correctAnswer": "B",
+    "explanation": "Instrument air compressors should draw air from an intake located far from engine exhausts and other sources of contamination. This helps ensure the compressed air remains clean and suitable for sensitive instruments and control systems."
+  },
+  {
+    "number": 9,
+    "heading": "Introduction to Compressors",
+    "question": "The oil ring of the set of pistons rings:",
+    "options": {
+      "A": "Is connected to the piston rod",
+      "B": "Is the top ring",
+      "C": "Has its own oil pump",
+      "D": "Is the centre ring",
+      "E": "In the lowest ring"
+    },
+    "correctAnswer": "E",
+    "explanation": "Oil control or scraper rings are positioned in the lowest groove on the piston skirt to wipe excess oil from the cylinder wall."
+  },
+  {
+    "number": 10,
+    "heading": "Introduction to Compressors",
+    "question": "Damage to compressors due to leaking valves is typically caused by:",
+    "options": {
+      "A": "Low flow",
+      "B": "High flow",
+      "C": "Moisture",
+      "D": "High speed",
+      "E": "High temperature"
+    },
+    "correctAnswer": "E",
+    "explanation": "Leaking valves allow compressed gas to continuously pass back and forth, generating extreme localized heat ('wire-drawing') that destroys the valve assembly."
+  },
+  {
+    "number": 11,
+    "heading": "Introduction to Compressors",
+    "question": "Single stage reciprocating air compressors consist of:",
+    "options": {
+      "A": "One or more cylinders of the same size",
+      "B": "One set of rotating blades",
+      "C": "At least one impeller",
+      "D": "One rotary lobe",
+      "E": "One or more cylinders of different sizes"
+    },
+    "correctAnswer": "A",
+    "explanation": "Single-stage reciprocating compressors compress air to final pressure in one or more cylinders operating at the same pressure stage."
+  },
+  {
+    "number": 12,
+    "heading": "Introduction to Compressors",
+    "question": "Scroll type compressor are rarely found in any application other than:",
+    "options": {
+      "A": "Instrument air compressors",
+      "B": "Pneumatic tool compressors",
+      "C": "Pipeline compressors",
+      "D": "Superchargers",
+      "E": "Refrigeration systems"
+    },
+    "correctAnswer": "E",
+    "explanation": "Scroll compressors are widely utilized in residential and commercial air conditioning and refrigeration systems due to their high volumetric efficiency and smooth operation."
+  },
+  {
+    "number": 13,
+    "heading": "Introduction to Compressors",
+    "question": "The compressor valve that is made of a flexible piece of spring steel:",
+    "options": {
+      "A": "Ring valve",
+      "B": "Poppet valve",
+      "C": "Plate valve",
+      "D": "Diaphragm valve",
+      "E": "Reed valve"
+    },
+    "correctAnswer": "E",
+    "explanation": "Reed valves consist of a simple flexible strip of spring steel that flexes to open and close under pressure differentials."
+  },
+  {
+    "number": 14,
+    "heading": "Introduction to Compressors",
+    "question": "In a natural gas compressor the automatic recirculation valve opens to:",
+    "options": {
+      "A": "Decrease the compressor discharge temperature",
+      "B": "Ensure continuous operation during upsets",
+      "C": "Decrease the compressor inlet temperature",
+      "D": "Remove moisture from the gas",
+      "E": "Automatically increase flow"
+    },
+    "correctAnswer": "B",
+    "explanation": "Recirculation valves (antisurge/minimum flow valves) protect compressors and ensure stable continuous operation during process upsets or low demand."
+  },
+  {
+    "number": 15,
+    "heading": "Introduction to Compressors",
+    "question": "Positive displacement compressors:",
+    "options": {
+      "A": "Could be single stage with three cylinders",
+      "B": "Could be of the centrifugal type",
+      "C": "Must all use internal lubrication",
+      "D": "Must all use cylinder valves",
+      "E": "Require a positive water seal"
+    },
+    "correctAnswer": "A",
+    "explanation": "Positive displacement compressors can feature multi-cylinder single-stage configurations to increase volumetric output while maintaining a single pressure range."
+  },
+  {
+    "number": 16,
+    "heading": "Introduction to Compressors",
+    "question": "An air compressor that gives two compression strokes per crankshaft revolution is:",
+    "options": {
+      "A": "Multi-cylinder single acting",
+      "B": "Single acting",
+      "C": "Single cylinder double acting",
+      "D": "A compound unit",
+      "E": "Multistage two cylinder"
+    },
+    "correctAnswer": "C",
+    "explanation": "A single-cylinder double-acting compressor compresses air on both the forward and backward strokes of the piston, yielding two compression strokes per revolution."
+  },
+  {
+    "number": 17,
+    "heading": "Introduction to Compressors",
+    "question": "Sliding vane compressors:",
+    "options": {
+      "A": "Are 100% efficient",
+      "B": "Use cylinder valves",
+      "C": "Fall into the centrifugal compressor category",
+      "D": "Are positive displacement compressors",
+      "E": "Are double acting compressors"
+    },
+    "correctAnswer": "D",
+    "explanation": "Sliding vane compressors trap gas in pockets between vanes and a casing, classifying them as rotary positive displacement machines."
+  },
+  {
+    "number": 18,
+    "heading": "Introduction to Compressors",
+    "question": "To prevent damage to a refrigeration compressor due to liquids in the inlet, these are often fitted:",
+    "options": {
+      "A": "Recirculation valve",
+      "B": "Safety head",
+      "C": "Bypass valve",
+      "D": "After cooler",
+      "E": "Internal reservoir"
+    },
+    "correctAnswer": "B",
+    "explanation": "Safety heads on reciprocating refrigeration compressors are spring-loaded to lift and relieve liquid slugs, preventing catastrophic mechanical damage."
+  },
+  {
+    "number": 19,
+    "heading": "Introduction to Compressors",
+    "question": "The piston rings used with reciprocating compressors:",
+    "options": {
+      "A": "Cool the pistons",
+      "B": "Are only required on the smallest compressors",
+      "C": "Move the pistons up and down",
+      "D": "Provide a flexible seal inside the cylinder",
+      "E": "Are attached to the connecting rod"
+    },
+    "correctAnswer": "D",
+    "explanation": "Piston rings provide a tight, flexible seal between the moving piston and the cylinder wall to prevent gas blow-by."
+  },
+  {
+    "number": 20,
+    "heading": "Introduction to Compressors",
+    "question": "In a centrifugal compressor the kinetic energy is converted to potential energy in the:",
+    "options": {
+      "A": "Intercooler",
+      "B": "Volute only",
+      "C": "Volute, diffuser or both",
+      "D": "Diffuser only",
+      "E": "Compressor cavity"
+    },
+    "correctAnswer": "C",
+    "explanation": "High-velocity gas leaving the impeller enters the diffuser and volute casing, where its kinetic energy is efficiently converted into static pressure head."
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Types of Pumps",
+    "question": "Rotary pumps:\n1. Are high-pressure pumps\n2. Must be primed\n3. Always use mechanical seals\n4. Are positive displacement pumps",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "1, 4",
+      "C": "2, 3",
+      "D": "1, 2",
+      "E": "1, 2, 3, 4"
+    },
+    "correctAnswer": "B",
+    "explanation": "Rotary pumps are positive displacement units capable of developing high pressures (items 1 and 4), but they do not inherently require mechanical seals nor do they always need priming depending on design and fluid."
+  },
+  {
+    "number": 2,
+    "heading": "Types of Pumps",
+    "question": "The vertical distance from the liquid surface up to the pump center line plus the vertical distance from the pump center line up to the surface of the liquid in the discharge tank is:",
+    "options": {
+      "A": "Static discharge head",
+      "B": "Static suction head",
+      "C": "Total discharge head",
+      "D": "Total static head",
+      "E": "Suction lift"
+    },
+    "correctAnswer": "D",
+    "explanation": "Total static head is the total vertical distance between the source liquid surface and the destination liquid surface, combining static suction head/lift and static discharge head."
+  },
+  {
+    "number": 3,
+    "heading": "Types of Pumps",
+    "question": "If a pump is cavitating, what can you do to prevent or reduce the cavitation:",
+    "options": {
+      "A": "Partially close the suction valve",
+      "B": "Raise the suction pressure",
+      "C": "Close the casing vent valve",
+      "D": "Open the vent valve and close the suction valve",
+      "E": "Close the discharge valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "Raising the suction pressure (or lowering fluid temperature/increasing net positive suction head) suppresses vapor bubble formation, preventing cavitation."
+  },
+  {
+    "number": 4,
+    "heading": "Types of Pumps",
+    "question": "When a pump discharges into a vessel operating at 300 kPa, the 300 kPa is referred to as:",
+    "options": {
+      "A": "Dynamic head",
+      "B": "Discharge head",
+      "C": "Total head",
+      "D": "Friction head",
+      "E": "Pressure head"
+    },
+    "correctAnswer": "E",
+    "explanation": "Pressure head represents the equivalent energy or pressure exerted by a gas or vapor blanket inside a closed discharge vessel acting against the pump."
+  },
+  {
+    "number": 5,
+    "heading": "Types of Pumps",
+    "question": "The capacity of a centrifugal pump should only be reduced by:",
+    "options": {
+      "A": "Opening the pump casing vent valve",
+      "B": "Throttling the discharge valve",
+      "C": "Closing both suction and discharge valves",
+      "D": "Closing the suction valve",
+      "E": "Throttling the suction valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "Centrifugal pump capacity and flow should be controlled or reduced by throttling the discharge valve, never the suction valve, to avoid starvation and cavitation."
+  },
+  {
+    "number": 6,
+    "heading": "Types of Pumps",
+    "question": "When a reciprocating pump discharges while its piston or plunger moves in only one direction, it is termed a:",
+    "options": {
+      "A": "Positive displacement unit",
+      "B": "Single acting unit",
+      "C": "Double acting unit",
+      "D": "Duplex unit",
+      "E": "Dynamic unit"
+    },
+    "correctAnswer": "B",
+    "explanation": "A single-acting reciprocating pump displaces fluid and discharges on only one stroke direction of the piston or plunger."
+  },
+  {
+    "number": 7,
+    "heading": "Types of Pumps",
+    "question": "Turbine pumps are suitable for:",
+    "options": {
+      "A": "Low capacity high-pressure service",
+      "B": "Low capacity low-pressure service",
+      "C": "Heavy viscous fluids",
+      "D": "Sludges and slurries",
+      "E": "High capacity low-pressure service"
+    },
+    "correctAnswer": "A",
+    "explanation": "Regenerative turbine pumps are designed to deliver high discharge heads at relatively low flow capacities."
+  },
+  {
+    "number": 8,
+    "heading": "Types of Pumps",
+    "question": "It is generally accurate to say that:",
+    "options": {
+      "A": "A water height or depth of 10.34 m results in 1 kPa",
+      "B": "Atmospheric pressure has no bearing on static water head",
+      "C": "9.8 kPa pressure results from every metre of water depth or height",
+      "D": "1 kPa will result from a water head of 9.8 m",
+      "E": "10.21 kPa will result from 1 metre of static water head"
+    },
+    "correctAnswer": "C",
+    "explanation": "A column of water exerts approximately 9.8 kPa of hydrostatic pressure per meter of height due to gravity and water density."
+  },
+  {
+    "number": 9,
+    "heading": "Types of Pumps",
+    "question": "Rotary pumps should be started with the discharge valve open because they are _____ pumps.",
+    "options": {
+      "A": "Double-acting",
+      "B": "Dynamic",
+      "C": "Regenerative",
+      "D": "Reciprocating",
+      "E": "Positive displacement"
+    },
+    "correctAnswer": "E",
+    "explanation": "Because rotary pumps are positive displacement devices that trap and push a fixed volume, starting against a closed discharge valve can cause catastrophic overpressure."
+  },
+  {
+    "number": 10,
+    "heading": "Types of Pumps",
+    "question": "Which type of pump produces the greatest suction?",
+    "options": {
+      "A": "A volute centrifugal pump",
+      "B": "A volute centrifugal pump",
+      "C": "A mixed flow pump",
+      "D": "An axial flow pump",
+      "E": "A positive displacement pump"
+    },
+    "correctAnswer": "E",
+    "explanation": "Positive displacement pumps create tight internal clearances and strong vacuum/suction capabilities compared to dynamic centrifugal pumps."
+  },
+  {
+    "number": 11,
+    "heading": "Types of Pumps",
+    "question": "Cavitation of a pump refers to when the:",
+    "options": {
+      "A": "Pump is filled with air",
+      "B": "Pump is steam driven",
+      "C": "Suction valve is open",
+      "D": "Liquid in the pump vaporizes",
+      "E": "Oil ring is damaged"
+    },
+    "correctAnswer": "D",
+    "explanation": "Cavitation occurs when local pressure drops below the liquid's vapor pressure, causing vapor pockets to form and collapse violently."
+  },
+  {
+    "number": 12,
+    "heading": "Types of Pumps",
+    "question": "Reciprocating pumps:\n1. Are high-pressure pumps\n2. Must be primed\n3. Always use mechanical seals\n4. Should be started with the suction and discharge open",
+    "options": {
+      "A": "1, 2, 3, 4",
+      "B": "2, 3",
+      "C": "1, 2",
+      "D": "1, 4",
+      "E": "1, 3, 4"
+    },
+    "correctAnswer": "D",
+    "explanation": "Reciprocating pumps are positive displacement high-pressure units (item 1) and like other PD pumps, must be started with suction and discharge valves open (item 4)."
+  },
+  {
+    "number": 13,
+    "heading": "Types of Pumps",
+    "question": "Vapor binding of a pump refers to when the:",
+    "options": {
+      "A": "Oil ring is damaged",
+      "B": "Pump is filled with air",
+      "C": "Pump is filled with vapor",
+      "D": "Pump is steam driven",
+      "E": "Suction valve is open"
+    },
+    "correctAnswer": "C",
+    "explanation": "Vapor binding happens when vapor or gas accumulates inside the pump casing, completely displacing the liquid and causing a loss of prime and pumping action."
+  },
+  {
+    "number": 14,
+    "heading": "Types of Pumps",
+    "question": "Centrifugal pumps convert rotating mechanical energy into kinetic energy then:",
+    "options": {
+      "A": "Back to mechanical energy",
+      "B": "Discharge the kinetic energy",
+      "C": "Into potential energy in the form of pressure",
+      "D": "Into centrifugal force",
+      "E": "Absorb the energy"
+    },
+    "correctAnswer": "C",
+    "explanation": "The impeller imparts velocity (kinetic energy) to the fluid, which is subsequently converted into static pressure head in the volute or diffuser casing."
+  },
+  {
+    "number": 15,
+    "heading": "Types of Pumps",
+    "question": "A rotary pump:\n1. Is a variety of dynamic pump\n2. Does not have discharge pulsations\n3. Should be equipped with a relief valve\n4. Has the highest capacity of any pump\n5. Never requires casing lubrication",
+    "options": {
+      "A": "1, 2",
+      "B": "3, 4",
+      "C": "3, 5",
+      "D": "1, 3",
+      "E": "2, 3"
+    },
+    "correctAnswer": "E",
+    "explanation": "Rotary pumps provide smooth, non-pulsating positive displacement flow (item 2) and require a relief valve to protect against overpressure (item 3)."
+  },
+  {
+    "number": 16,
+    "heading": "Types of Pumps",
+    "question": "Turbine pumps:\n1. Are high capacity pumps\n2. Are high-pressure pumps\n3. Have the liquid gain energy in a number of impulses",
+    "options": {
+      "A": "1",
+      "B": "1, 2",
+      "C": "1, 3",
+      "D": "2, 3",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "D",
+    "explanation": "Regenerative turbine pumps deliver high pressure (item 2) by continuously re-circulating fluid and imparting energy through multiple impulses across the peripheral impeller blades (item 3)."
+  },
+  {
+    "number": 17,
+    "heading": "Types of Pumps",
+    "question": "A pump is capable of suction lift due to:",
+    "options": {
+      "A": "Its input power",
+      "B": "Its size",
+      "C": "The speed at which it operates",
+      "D": "Atmospheric pressure",
+      "E": "Its ability to convert kinetic energy into potential energy"
+    },
+    "correctAnswer": "D",
+    "explanation": "Suction lift is made possible because atmospheric pressure acting on the external liquid surface pushes liquid up into the reduced-pressure suction eye of the pump."
+  },
+  {
+    "number": 18,
+    "heading": "Types of Pumps",
+    "question": "When starting up a rotary pump you must be sure that the:",
+    "options": {
+      "A": "Discharge valve is closed",
+      "B": "Pump suction valve is closed",
+      "C": "Discharge valve is open",
+      "D": "Pump is filled with air",
+      "E": "Pump is at the correct temperature"
+    },
+    "correctAnswer": "C",
+    "explanation": "As positive displacement pumps, rotary pumps require their discharge valves to be fully open prior to startup to prevent dangerous over-pressurization."
+  },
+  {
+    "number": 19,
+    "heading": "Types of Pumps",
+    "question": "A diffuser pump:\n1. Has stationary guide vanes surrounding the impeller\n2. Has a higher efficiency than a volute type\n3. Has high suction lift\n4. Does not have to be primed",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "1, 2",
+      "D": "2, 3",
+      "E": "1"
+    },
+    "correctAnswer": "C",
+    "explanation": "Diffuser pumps feature stationary guide vanes around the impeller (item 1) designed to smoothly convert velocity head to pressure head, yielding higher overall efficiency than a standard volute (item 2)."
+  },
+  {
+    "number": 20,
+    "heading": "Types of Pumps",
+    "question": "A centrifugal pump consists of:",
+    "options": {
+      "A": "Gears rotating in a housing",
+      "B": "A piston moving back and forth in a cylinder",
+      "C": "An impeller surrounded by a casing",
+      "D": "A pulsating disc",
+      "E": "Sliding vanes"
+    },
+    "correctAnswer": "C",
+    "explanation": "The core mechanical assembly of a centrifugal pump is a rotating impeller enclosed within a stationary volute or diffuser casing."
+  }
+]

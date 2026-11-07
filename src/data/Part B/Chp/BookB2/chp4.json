@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Protective controls found on compressors include all of these except:",
+    "options": {
+      "A": "Low discharge temperature",
+      "B": "High intercooler temperature",
+      "C": "Low lubricating oil level",
+      "D": "Low lube pressure",
+      "E": "Excessive vibration"
+    },
+    "correctAnswer": "A",
+    "explanation": "Compressor safety shutdown systems monitor for high discharge temperatures (which indicate internal leakage, overload, or cooling failure), not low discharge temperature."
+  },
+  {
+    "number": 2,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Air receivers must have a:",
+    "options": {
+      "A": "Thermometer",
+      "B": "High pressure alarm",
+      "C": "Gage glass",
+      "D": "Safety valve",
+      "E": "High water alarm"
+    },
+    "correctAnswer": "D",
+    "explanation": "Air receivers are pressure vessels and must be equipped with a properly sized safety relief valve to prevent overpressurization."
+  },
+  {
+    "number": 3,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "An air compressor may be automatically started and stopped by a pressure switch, which is usually found connected to the:",
+    "options": {
+      "A": "Intercooler",
+      "B": "Separator",
+      "C": "Control panel",
+      "D": "Receiver",
+      "E": "Aftercooler"
+    },
+    "correctAnswer": "D",
+    "explanation": "Pressure switches monitor system air pressure directly on the air receiver tank to signal start and stop commands to the compressor driver."
+  },
+  {
+    "number": 4,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Intercoolers should be equipped with:",
+    "options": {
+      "A": "Baffles",
+      "B": "Vents",
+      "C": "Moisture separators",
+      "D": "Safety valves",
+      "E": "Automatic blow downs"
+    },
+    "correctAnswer": "D",
+    "explanation": "Intercoolers should be equipped with safety valves to protect them from excessive pressure. If pressure rises above the intercooler's allowable operating limit, the safety valve opens to release excess pressure and prevent equipment damage."
+  },
+  {
+    "number": 5,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Dynamic compressors like Centrifugal and Axial:",
+    "options": {
+      "A": "Do not require internal lubrication",
+      "B": "Are not used in industry",
+      "C": "Contain no moving parts",
+      "D": "Require internal lubrication",
+      "E": "Do not require any lubrication"
+    },
+    "correctAnswer": "A",
+    "explanation": "Because dynamic compressors do not have internal rubbing or sliding contact in the gas stream, the compression path is oil-free and does not require internal cylinder lubrication."
+  },
+  {
+    "number": 6,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Industrial compressor bearings are usually:",
+    "options": {
+      "A": "Sleeve bearings",
+      "B": "Thrust bearings",
+      "C": "Oil free bearings",
+      "D": "Ball bearings",
+      "E": "Roller bearings"
+    },
+    "correctAnswer": "A",
+    "explanation": "Heavy-duty industrial compressors typically utilize hydrodynamic sleeve (journal) bearings to support high radial loads and high-speed crankshaft rotation."
+  },
+  {
+    "number": 7,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "In order to protect the driver, a start-stop air compressor should be equipped with:",
+    "options": {
+      "A": "An intercooler",
+      "B": "An automatic blowdown system",
+      "C": "Safety heads",
+      "D": "Manual cylinder bleed petcocks",
+      "E": "Pre-start automatic unloading"
+    },
+    "correctAnswer": "E",
+    "explanation": "Pre-start automatic unloaders vent cylinder pressure so the electric motor driver does not have to start against heavy initial head pressure."
+  },
+  {
+    "number": 8,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "An air receiver used in an air compression system will perform the following functions:\n1. Acts as a storage vessel\n2. Eliminates pulsation in discharge lines\n3. Separates out water from the air\n4. Controls the temperature of the air before it enters the system",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "1, 2",
+      "C": "1, 2, 4",
+      "D": "2, 3, 4",
+      "E": "3, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "An air receiver stores compressed air (1), dampens and smooths out discharge pulsations from reciprocating compressors (2), and allows additional moisture and oil droplets to drop out of suspension (3)."
+  },
+  {
+    "number": 9,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Daily operator checks of compressors include, oil, noise, and:",
+    "options": {
+      "A": "Inspect the couplings",
+      "B": "Change the bearings",
+      "C": "Analyze crankcase oil samples",
+      "D": "Cleaning of cooling water systems",
+      "E": "Intercooler differential pressure"
+    },
+    "correctAnswer": "E",
+    "explanation": "Routine operator rounds involve tracking operating parameters like intercooler differential pressure, lube oil levels/pressures, and unusual noise or vibration."
+  },
+  {
+    "number": 10,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "When air used for instrumentation is not dried to dew point below minimum cold temperatures:",
+    "options": {
+      "A": "Nothing will happen other than rust",
+      "B": "Water will freeze in the compressor discharge valve",
+      "C": "Instrumentation lines and controls will plug and freeze",
+      "D": "Air used to cool the compressor will be lost",
+      "E": "The compressor motor will freeze"
+    },
+    "correctAnswer": "C",
+    "explanation": "Undried instrument air exposed to low temperatures will condense and freeze moisture inside pneumatic control lines, causing instrument failure and plant upsets."
+  },
+  {
+    "number": 11,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "The speed of a compressor can be altered using:",
+    "options": {
+      "A": "Unloaders",
+      "B": "A variable frequency drive motor",
+      "C": "Bypass valves",
+      "D": "Recirculation valves",
+      "E": "Discharge pressure controls"
+    },
+    "correctAnswer": "B",
+    "explanation": "A variable frequency drive (VFD) directly adjusts the rotational motor speed of the compressor to match varying air or gas demands."
+  },
+  {
+    "number": 12,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "The cylinder walls of reciprocating compressors get oil delivered by:",
+    "options": {
+      "A": "Mechanical lubricators",
+      "B": "Cooling water",
+      "C": "Drip lubricators",
+      "D": "Splash lubrication",
+      "E": "Oil in the gas inlet"
+    },
+    "correctAnswer": "A",
+    "explanation": "Force-feed mechanical lubricators inject metered quantities of oil directly into the cylinders and packing glands of reciprocating compressors."
+  },
+  {
+    "number": 13,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Maintaining correct temperatures within a compressor cylinder is important for:",
+    "options": {
+      "A": "Determining the compressor speed",
+      "B": "Minimizing compressor sound",
+      "C": "Economic operation",
+      "D": "Ensuring oil free air",
+      "E": "Controlling air consumption"
+    },
+    "correctAnswer": "C",
+    "explanation": "Controlling temperatures through proper cooling prevents lubricant breakdown, reduces volumetric loss due to re-expansion, and ensures safe, efficient, and economic operation."
+  },
+  {
+    "number": 14,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Splash type lubrication is frequently used with:",
+    "options": {
+      "A": "Small single acting reciprocating compressors",
+      "B": "Axial compressors",
+      "C": "Large centrifugal compressors",
+      "D": "Multi stage double acting reciprocating compressors",
+      "E": "Screw compressors"
+    },
+    "correctAnswer": "A",
+    "explanation": "Small, single-acting reciprocating compressors commonly utilize a dipper on the connecting rod to splash oil from the crankcase to lubricate bearings and cylinder walls."
+  },
+  {
+    "number": 15,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Where pistons move in a cylinder, it is necessary for the lubricant to provide:",
+    "options": {
+      "A": "Shock reduction",
+      "B": "Tension",
+      "C": "Vapour venting",
+      "D": "Sealing",
+      "E": "Alignment"
+    },
+    "correctAnswer": "D",
+    "explanation": "Cylinder oil forms an effective sealing film between the piston rings and cylinder walls to prevent high-pressure gas from blowing past the piston."
+  },
+  {
+    "number": 16,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Compressor unloaders:",
+    "options": {
+      "A": "Could close the discharge valves",
+      "B": "Must be used on centrifugal compressors",
+      "C": "Could keep the suction valves open",
+      "D": "Are located on the driver of the compressor",
+      "E": "Activate the stop and start button"
+    },
+    "correctAnswer": "C",
+    "explanation": "Mechanical compressor unloaders often operate by holding the suction valves open so that gas is simply pushed back and forth without being compressed or delivered."
+  },
+  {
+    "number": 17,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "Intercoolers:",
+    "options": {
+      "A": "Are required to cool compressor-lubricating oil",
+      "B": "Cool the air at the inlet valves",
+      "C": "Cool the air in the cylinders",
+      "D": "Are used on all compressors",
+      "E": "Must have a safety valve when used on positive displacement"
+    },
+    "correctAnswer": "E",
+    "explanation": "Because intercoolers operate under pressure between stages of positive displacement compressors, they are treated as pressure vessels and must be protected by safety relief valves."
+  },
+  {
+    "number": 18,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "To reduce leakage along a compressor shaft labyrinth seals:",
+    "options": {
+      "A": "Create an aerodynamic force",
+      "B": "Create an intricate path",
+      "C": "Are held in place by springs",
+      "D": "Use lantern rings",
+      "E": "Use hardened mating surfaces"
+    },
+    "correctAnswer": "B",
+    "explanation": "Labyrinth seals utilize a series of close-fitting throttling rings and chambers that force leaking gas through an intricate, tortuous path to drop pressure."
+  },
+  {
+    "number": 19,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "An air compressor auxiliary which will decrease the power requirement is the:",
+    "options": {
+      "A": "Receiver",
+      "B": "Variable compression ratio read",
+      "C": "Intercooler",
+      "D": "Aftercooler",
+      "E": "Diffuser"
+    },
+    "correctAnswer": "C",
+    "explanation": "Intercooling cools the air between stages toward its original temperature, which reduces the volume of air to be compressed in subsequent stages and significantly decreases total power requirements."
+  },
+  {
+    "number": 20,
+    "heading": "Compressor Operation and Maintenance",
+    "question": "The grooves machined into a dry gas seal creates:",
+    "options": {
+      "A": "An intricate flow path",
+      "B": "Very high temperatures",
+      "C": "An aerodynamic force",
+      "D": "High liquid pressure",
+      "E": "A liquid film"
+    },
+    "correctAnswer": "C",
+    "explanation": "Spiral grooves machined into dry gas seal faces generate an opposing aerodynamic lifting force when the shaft rotates, creating a stable running gas film."
+  }
+]
