@@ -119,7 +119,8 @@ import b2chp2 from "./Part B/Chp/BookB2/chp2.json";
 import b2chp3 from "./Part B/Chp/BookB2/chp3.json";
 import b2chp4 from "./Part B/Chp/BookB2/chp4.json";
 
-// Part B — Book B3 chapters (no full-book file)
+// Part B — Book B3 full book + chapters
+import bookB3 from "./Part B/Chp/BookB3/bookb3.json";
 import b3chp1 from "./Part B/Chp/BookB3/chp1.json";
 import b3chp2 from "./Part B/Chp/BookB3/chp2.json";
 import b3chp3 from "./Part B/Chp/BookB3/chp3.json";
@@ -803,6 +804,11 @@ const bookB2Chapters: Paper[] = [
 ];
 
 const bookB3Chapters: Paper[] = [
+  makePaper(
+    "b3-fullbook",
+    "Full Book B3 Exam",
+    toQuestions(bookB3 as unknown as RawNumberQuestion[], "Book B3 — Boiler Safety Controls"),
+  ),
   makePaper(
     "b3-chp1",
     "Pressure Relief Valves",
