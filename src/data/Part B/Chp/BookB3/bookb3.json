@@ -1,0 +1,1652 @@
+[
+  {
+    "number": 1,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "If a safety valve simmers after a try lever test, the operator should:",
+    "options": {
+      "A": "Plug the safety valve outlet",
+      "B": "Fit a gag to the safety valve",
+      "C": "Reduce boiler pressure and call the team leader",
+      "D": "Operate the try lever several times to blow away foreign material",
+      "E": "Reduce the boiler pressure"
+    },
+    "correctAnswer": "D",
+    "explanation": "Simmering after a try lever test is often caused by foreign material or scale caught between the disc and seat. Operating the try lever several times allows steam flow to clear away the debris."
+  },
+  {
+    "number": 2,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "What does the boiler inspector install to prevent tampering with a safety valve setting?",
+    "options": {
+      "A": "A plug",
+      "B": "A restraining order",
+      "C": "A seal",
+      "D": "A gag",
+      "E": "A cover plate"
+    },
+    "correctAnswer": "C",
+    "explanation": "Boiler inspectors place an official seal on the safety valve adjusting mechanism to prevent unauthorized adjustments or tampering with set points."
+  },
+  {
+    "number": 3,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "The lip on a safety valve:",
+    "options": {
+      "A": "Supplies a drain lip for condensate to collect on",
+      "B": "Allows it to close slowly",
+      "C": "Allows it to \"pop\" open",
+      "D": "Makes the valve stronger",
+      "E": "Is only required if the steam is superheated"
+    },
+    "correctAnswer": "C",
+    "explanation": "The lip forming the huddling chamber creates an additional area for escaping steam to act against, producing the rapid additional lifting force required for the valve to pop open sharply."
+  },
+  {
+    "number": 4,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "Two safety valves are required on a high pressure steam boiler that has a heating surface larger than:",
+    "options": {
+      "A": "47 m²",
+      "B": "12 m²",
+      "C": "27 m²",
+      "D": "45 m²",
+      "E": "40 m²"
+    },
+    "correctAnswer": "A",
+    "explanation": "According to ASME Boiler and Pressure Vessel Code standards, power boilers with a heating surface exceeding 47 m² (500 sq ft) must have two or more safety valves."
+  },
+  {
+    "number": 5,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "The blowdown on a safety valve is adjusted by turning the:",
+    "options": {
+      "A": "Valve disc",
+      "B": "Inspector's seal",
+      "C": "Valve seat",
+      "D": "Adjusting nut",
+      "E": "Adjusting ring"
+    },
+    "correctAnswer": "E",
+    "explanation": "Turning the blowdown adjusting ring alters the size/geometry of the huddling chamber escape ports, directly adjusting the valve blowdown pressure range."
+  },
+  {
+    "number": 6,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "To increase the opening pressure of a safety valve:",
+    "options": {
+      "A": "Increase the size of the disc",
+      "B": "Increase spring compression",
+      "C": "Lower the blowdown ring",
+      "D": "Raise the blowdown ring",
+      "E": "Reduce spring compression"
+    },
+    "correctAnswer": "B",
+    "explanation": "Increasing spring compression pushes down harder on the valve disc, requiring higher steam pressure to lift the disc off the seat."
+  },
+  {
+    "number": 7,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "The purpose of the spring in a safety valve is to:",
+    "options": {
+      "A": "Help open the lifting lever",
+      "B": "Adjust the pressure setting of the valve",
+      "C": "Adjust the blowdown of the valve",
+      "D": "Hold down the disc on the seat",
+      "E": "Pull open the valve at popping pressure"
+    },
+    "correctAnswer": "D",
+    "explanation": "The primary function of the compression spring in a safety valve is to exert downward force to hold the disc tightly against its seat until set pressure is reached."
+  },
+  {
+    "number": 8,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "The popping action of a T&P valve used on a potable hot water heater:",
+    "options": {
+      "A": "Is caused by the lip",
+      "B": "Sounds like popcorn",
+      "C": "Is the same as any safety valve",
+      "D": "Is faster than a safety relief",
+      "E": "There is no popping action"
+    },
+    "correctAnswer": "E",
+    "explanation": "Temperature & Pressure (T&P) relief valves on potable water systems open gradually relative to pressure/temperature increases rather than exhibiting a sharp steam 'popping' action."
+  },
+  {
+    "number": 9,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "A safety relief valve is like a safety valve except the safety valve:",
+    "options": {
+      "A": "Is prone to leakage",
+      "B": "May have an isolation valve placed between it and the pressure vessel",
+      "C": "Does not have a blowdown ring or bottom guides",
+      "D": "Must have greater blowdown",
+      "E": "Must discharge directly to the atmosphere"
+    },
+    "correctAnswer": "C",
+    "explanation": "Safety valves feature huddling chambers and blowdown rings to achieve rapid popping action and defined blowdown, whereas safety relief valves used for liquid service omit blowdown rings."
+  },
+  {
+    "number": 10,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "Testing the safety valve on a steam heating boiler by means of the try lever method is considered good practice when carried out on a:",
+    "options": {
+      "A": "Bi-weekly basis",
+      "B": "Six month basis",
+      "C": "Monthly basis",
+      "D": "Yearly basis",
+      "E": "Weekly basis"
+    },
+    "correctAnswer": "C",
+    "explanation": "A monthly try-lever test is standard practice for low-pressure steam heating boilers to ensure the valve stem and internal disc remain free to operate."
+  },
+  {
+    "number": 11,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "Cast iron fittings for a boiler can be deemed to have upper limitations of:",
+    "options": {
+      "A": "1,100 kPa and 173°C",
+      "B": "17,200 kPa and 1,100°C",
+      "C": "1,720 kPa and 230°C",
+      "D": "8,000 kpa and 670°C",
+      "E": "3,000 kPa and 150°C"
+    },
+    "correctAnswer": "C",
+    "explanation": "According to boiler mechanical codes, cast iron boiler fittings are restricted to maximum operating conditions of 1,720 kPa (250 psi) pressure and 230°C temperature."
+  },
+  {
+    "number": 12,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "A stop valve is allowed between the safety valve and the boiler drum when:",
+    "options": {
+      "A": "A rupture disc is placed between the stop valve and the safety valve",
+      "B": "The stop valve is the quick opening type",
+      "C": "The stop valve is locked open",
+      "D": "There is more than one safety valve",
+      "E": "No stop valves are allowed before or after the safety valve"
+    },
+    "correctAnswer": "E",
+    "explanation": "Boiler safety codes strictly forbid installing any stop or isolation valves between the boiler drum and its safety valve, as well as in the discharge piping."
+  },
+  {
+    "number": 13,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "If the safety valve on a steam heating boiler opens, what is the maximum pressure above MAWP that the pressure is allowed to rise?",
+    "options": {
+      "A": "35 psi (5 kPa)",
+      "B": "5 psi (35 kPa)",
+      "C": "15 psi (100 kPa)",
+      "D": "5 kPa (35psi)",
+      "E": "100 kPa (15 psi)"
+    },
+    "correctAnswer": "B",
+    "explanation": "On steam heating boilers (operating up to 15 psi / 100 kPa MAWP), safety valves must prevent boiler pressure from rising more than 5 psi (35 kPa) above MAWP."
+  },
+  {
+    "number": 14,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "Do not open the steam heating boiler safety valve with the test lever unless:",
+    "options": {
+      "A": "There is no load on the boiler",
+      "B": "The boiler inspector requests it",
+      "C": "After 9 p.m. in populated areas",
+      "D": "The boiler is at maximum pressure",
+      "E": "Pressure is up to at least 35 kPa"
+    },
+    "correctAnswer": "E",
+    "explanation": "Safety try lever tests on low-pressure steam boilers require at least 35 kPa (5 psi) of steam pressure to blow out foreign material and prevent seating surface damage."
+  },
+  {
+    "number": 15,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "When mounting safety relief valves on heating boilers:",
+    "options": {
+      "A": "No shut off valves can be installed on the safety valves",
+      "B": "Shut off valves can be installed on inlet and outlet of safety valves",
+      "C": "Shut off valves can be installed between the boiler and safety valve",
+      "D": "Shut off valves can be installed in the discharge line only",
+      "E": "Special shut off valves can be installed with the safety valve"
+    },
+    "correctAnswer": "A",
+    "explanation": "No shut-off valves or obstructions of any kind are permitted between the heating boiler vessel and its safety relief valve, nor on the discharge piping."
+  },
+  {
+    "number": 16,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "If a safety valve capacity is too small then the boiler pressure will:",
+    "options": {
+      "A": "Not rise more than 15% above the MAWP",
+      "B": "Rise more than 6% above the MAWP",
+      "C": "Remain at the MAWP",
+      "D": "Rise to 6% above the MAWP",
+      "E": "Rise 5% above the maximum allowable working pressure (MAWP)"
+    },
+    "correctAnswer": "B",
+    "explanation": "Safety valve capacity must be sufficient so that pressure on power boilers cannot exceed MAWP by more than 6%. An undersized valve will allow pressure to rise beyond 6%."
+  },
+  {
+    "number": 17,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "If you found a safety valve on your heating boiler stuck in the closed position while the boiler was in operation, the best thing to do is:",
+    "options": {
+      "A": "Put the boiler on manual control and notify the inspector",
+      "B": "Shut down the boiler and repair or replace the safety valve",
+      "C": "Tap it with a hammer to free it",
+      "D": "Report it to the HSE department",
+      "E": "Reduce the boiler pressure and continue operating"
+    },
+    "correctAnswer": "B",
+    "explanation": "A stuck safety valve is a critical hazard; the boiler must be shut down immediately to repair or replace the valve safely before returning to operation."
+  },
+  {
+    "number": 18,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "The discharge pipe of a safety valve should be separately supported:",
+    "options": {
+      "A": "In order to prevent leakage at the joint",
+      "B": "So that allowance for expansion prevents stress on the safety valve",
+      "C": "Because the safety valve is not capable of supporting the mass",
+      "D": "So that drainage of the discharge line can occur",
+      "E": "So that the valve can be quickly and easily removed"
+    },
+    "correctAnswer": "B",
+    "explanation": "Discharge piping must be supported independently so thermal expansion and pipe weight do not transmit mechanical stresses onto the safety valve body."
+  },
+  {
+    "number": 19,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "If a boiler has a maximum allowable working pressure of 1000 kPa, what would be the maximum pressure allowed when the safety valve is open?",
+    "options": {
+      "A": "1400 kPa",
+      "B": "1600 kPa",
+      "C": "1060 kPa",
+      "D": "2000 kPa",
+      "E": "2500 kPa"
+    },
+    "correctAnswer": "C",
+    "explanation": "For power boilers, the maximum allowable accumulation of pressure during full discharge is 6% above MAWP (1000 kPa × 1.06 = 1060 kPa)."
+  },
+  {
+    "number": 20,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "To raise the closing pressure of the valve only:",
+    "options": {
+      "A": "Screw the blowdown ring upwards",
+      "B": "Decrease the spring tension",
+      "C": "Increase the spring tension",
+      "D": "Decrease the seat diameter",
+      "E": "Screw the blowdown ring downwards"
+    },
+    "correctAnswer": "E",
+    "explanation": "Screwing the blowdown ring downward allows steam to escape the huddling chamber more easily, shortening blowdown and causing the valve to close at a higher pressure (smaller blowdown differential)."
+  },
+  {
+    "number": 21,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "The only person who can adjust the opening pressure or popping point of a safety valve is:",
+    "options": {
+      "A": "Industrial insurance adjuster",
+      "B": "Engineer",
+      "C": "Person authorized by the manufacturer",
+      "D": "Inspector",
+      "E": "Power engineer"
+    },
+    "correctAnswer": "C",
+    "explanation": "Only the manufacturer or an authorized repair agency certified by the manufacturer/code authority is permitted to alter or adjust popping pressure."
+  },
+  {
+    "number": 22,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "LP boiler safety valves can be repaired:",
+    "options": {
+      "A": "Only by the manufacturer",
+      "B": "Only when authorized by the inspector",
+      "C": "By a licensed boiler operator",
+      "D": "By anyone",
+      "E": "By a qualified boiler operator after permission from the inspector"
+    },
+    "correctAnswer": "A",
+    "explanation": "Low-pressure boiler safety valves cannot be repaired in the field; code requires that repairs or resetting be performed strictly by the original valve manufacturer or authorized valve repair shop."
+  },
+  {
+    "number": 23,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "What is the maximum heating surface for a boiler to have only one safety valve?",
+    "options": {
+      "A": "28 m²",
+      "B": "19 m²",
+      "C": "75 m²",
+      "D": "36 m²",
+      "E": "47 m²"
+    },
+    "correctAnswer": "E",
+    "explanation": "Boilers with a heating surface of 47 m² (500 sq ft) or less are permitted to have a single safety valve."
+  },
+  {
+    "number": 24,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "Prior to performing a “pop” test on the boiler:",
+    "options": {
+      "A": "Verify the accuracy of the boiler pressure gauge",
+      "B": "Verify the operation of the fuel/air control system",
+      "C": "Verify the accuracy of the windbox pressure gauge",
+      "D": "Verify the accuracy of the pressure relief device",
+      "E": "Verify the accuracy of the gas pressure gauge"
+    },
+    "correctAnswer": "A",
+    "explanation": "Before executing an in-service pop test, the operator must verify that the pressure gauge is calibrated and accurate so popping and reseating pressures are correctly recorded."
+  },
+  {
+    "number": 25,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "The huddling chamber escape ports are adjusted by:",
+    "options": {
+      "A": "Blowdown ring",
+      "B": "Lip",
+      "C": "Lock screw",
+      "D": "Disc",
+      "E": "Compression spring"
+    },
+    "correctAnswer": "A",
+    "explanation": "The position of the adjustable blowdown ring controls the restricted escape opening area of the huddling chamber."
+  },
+  {
+    "number": 26,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "If, during the testing of a safety valve, the valve does not open, you would first:",
+    "options": {
+      "A": "Force it open by striking it with a hammer",
+      "B": "Try to open the valve with the lifting lever",
+      "C": "Continue to increase the steam pressure",
+      "D": "Stop the boiler and notify the boiler branch",
+      "E": "Take the boiler out of service"
+    },
+    "correctAnswer": "B",
+    "explanation": "If a safety valve fails to open automatically at set pressure, the operator should attempt to free it safely using the lifting lever before taking further emergency action."
+  },
+  {
+    "number": 27,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "Blowdown on a safety valve is defined as:",
+    "options": {
+      "A": "The difference between actual opening and closing pressures",
+      "B": "Opening the test level to blow steam out",
+      "C": "The adjustment of the pressure setting of the valve",
+      "D": "Increase the pressure drop across the valve",
+      "E": "Draining water from the safety valve"
+    },
+    "correctAnswer": "A",
+    "explanation": "Blowdown is defined as the numerical difference between the pressure at which the safety valve pops open and the lower pressure at which it snaps shut."
+  },
+  {
+    "number": 28,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "The safety valve on a steam heating boiler must never be located:",
+    "options": {
+      "A": "In the highest practicable part of the boiler",
+      "B": "In a vertical position",
+      "C": "To a flange opening in the boiler",
+      "D": "Below lowest permissible water level",
+      "E": "A valveless header connecting steam outlets"
+    },
+    "correctAnswer": "D",
+    "explanation": "Safety valves on steam boilers must always be located above the water line in the steam space to prevent water discharge during relief."
+  },
+  {
+    "number": 29,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "Temperature relief valves can open on a rise in temperature by the expansion of a wax-filled rod or by the:",
+    "options": {
+      "A": "Melting of an element",
+      "B": "Action of a bi-metal strip",
+      "C": "Action of a bellows",
+      "D": "Action of a Bourdon tube",
+      "E": "Melting of a rod and tube"
+    },
+    "correctAnswer": "A",
+    "explanation": "Thermal relief devices operate either via thermal expansion (like wax-filled elements or liquid expansion) or by the melting of a fusible element when safe limits are exceeded."
+  },
+  {
+    "number": 30,
+    "chapter": "chp1",
+    "heading": "Pressure Relief Valves",
+    "question": "Each hot water heating boiler shall have at least _____ officially rated safety relief valve of the automatic reseating type.",
+    "options": {
+      "A": "None",
+      "B": "Some",
+      "C": "One",
+      "D": "Two",
+      "E": "Three"
+    },
+    "correctAnswer": "C",
+    "explanation": "Boiler safety codes dictate that every hot water heating boiler must be fitted with at least one ASME-rated, automatic reseating pressure relief valve."
+  },
+  {
+    "number": 31,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "A high gas pressure fuel cut-off switch:",
+    "options": {
+      "A": "Opens when the gas pressure valve is reset",
+      "B": "Is a normally open switch",
+      "C": "Must be located upstream of an automatic fuel valve",
+      "D": "Opens when the gas pressure exceeds 125% of normal pressure",
+      "E": "Opens when the gas pressure exceeds normal pressure"
+    },
+    "correctAnswer": "D",
+    "explanation": "A high gas pressure fuel cut-off switch is a safety device that monitors the gas supply pressure to the burner. It is set to open its electrical contacts when the gas pressure rises above 125% of normal operating pressure. This interrupts the burner control circuit, causing the automatic fuel shut-off valves to close and stopping the gas supply to prevent unsafe combustion conditions."
+  },
+  {
+    "number": 32,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "A flame failure device:",
+    "options": {
+      "A": "Will control the pressure of the boiler",
+      "B": "Will shut down the flame in the boiler",
+      "C": "Will shut off the fuel to the burner",
+      "D": "Will shut off the steam leaving the boiler",
+      "E": "Must be installed on every high pressure boiler"
+    },
+    "correctAnswer": "C",
+    "explanation": "The core purpose of a flame failure device is to detect the loss of a burner flame and immediately shut off the fuel supply to prevent dangerous unburnt fuel accumulation."
+  },
+  {
+    "number": 33,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "All flame safeguard devices:",
+    "options": {
+      "A": "Are limited to temperatures comfortable to the hand",
+      "B": "Require a photoelectric cell",
+      "C": "Activate an alarm only if flame failure is detected",
+      "D": "Close the main fuel valve in case of pilot flame failure or main burner failure",
+      "E": "Monitor the pilot flame and main burner simultaneously"
+    },
+    "correctAnswer": "D",
+    "explanation": "Flame safeguard controls ensure safety by tripping the main fuel shut-off valves if either the pilot or the main burner flame fails."
+  },
+  {
+    "number": 34,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "Which of the following is a flame, sensing device?",
+    "options": {
+      "A": "Cut-off valve",
+      "B": "Heat sensing control",
+      "C": "Scanner",
+      "D": "Stack relay",
+      "E": "Pilotstat"
+    },
+    "correctAnswer": "C",
+    "explanation": "A flame scanner (or optical detector) is a primary flame sensing device used to monitor burner and pilot combustion status."
+  },
+  {
+    "number": 35,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "Primary controls must be able to shut off a burner within ______ for burners over 120 kW input.",
+    "options": {
+      "A": "40 seconds",
+      "B": "10 seconds",
+      "C": "4 minutes",
+      "D": "0.4 seconds",
+      "E": "4 seconds"
+    },
+    "correctAnswer": "E",
+    "explanation": "Combustion safety standards specify that primary flame safety controls for larger burners (over 120 kW input) must shut off the fuel supply within 4 seconds of a flame failure."
+  },
+  {
+    "number": 36,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "The low fuel oil temperature cut off is:",
+    "options": {
+      "A": "Designed to heat the fuel oil",
+      "B": "Pre ignition interlock",
+      "C": "Turns on an oil heater",
+      "D": "Operated with the flame scanner",
+      "E": "Typically used with natural gas burners"
+    },
+    "correctAnswer": "B",
+    "explanation": "A low fuel oil temperature switch acts as a pre-ignition interlock, preventing burner startup until heavy fuel oil is heated sufficiently to ensure proper atomization."
+  },
+  {
+    "number": 37,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "Main Fuel SSOV are:",
+    "options": {
+      "A": "Quick opening, quick closing",
+      "B": "Slow opening, quick closing",
+      "C": "Manually operated quarter turn",
+      "D": "Quick opening, slow closing",
+      "E": "Slow opening, slow closing"
+    },
+    "correctAnswer": "B",
+    "explanation": "Main safety shut-off valves (SSOV) are typically slow-opening to prevent sudden pressure surges in the burner manifold upon startup, and quick-closing to instantly cut off fuel during a shutdown."
+  },
+  {
+    "number": 38,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "Flame safeguard devices:",
+    "options": {
+      "A": "Are all unaffected by heat",
+      "B": "Should be kept as far away from the fire as possible",
+      "C": "Should not be cleaned",
+      "D": "Should be tested following the manufacturers instructions",
+      "E": "Should be kept cool enough to be touched by hand"
+    },
+    "correctAnswer": "D",
+    "explanation": "To ensure reliable operation and safety compliance, flame safeguard systems and interlocks must always be tested according to the manufacturer's recommended procedures and intervals."
+  },
+  {
+    "number": 39,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "A fire eye of flame scanner keeps the burner circuit energized as long as the burner flame is maintained. This is accomplished through the use of a:",
+    "options": {
+      "A": "Controller",
+      "B": "Control valve",
+      "C": "Recorder",
+      "D": "Electronic amplifier",
+      "E": "Thermocouple"
+    },
+    "correctAnswer": "D",
+    "explanation": "Optical flame scanners convert light signals into electrical current, which is processed through an electronic amplifier to maintain the burner circuit energized."
+  },
+  {
+    "number": 40,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "Quickly closing the main burner manual valve during boiler operation should check the:",
+    "options": {
+      "A": "Flame scanner",
+      "B": "High gas pressure fuel cut off",
+      "C": "Combustion air proving switch",
+      "D": "Low fire interlock switch",
+      "E": "Low gas pressure fuel cut off"
+    },
+    "correctAnswer": "B",
+    "explanation": "Quickly closing the main burner manual valve interrupts the gas supply and causes the burner flame to go out. This allows the operator to verify that the flame safeguard system detects the loss of flame and initiates a safety shutdown by closing the automatic fuel shut-off valves. Note that this procedure checks flame failure response; it does not directly test the high gas pressure switch."
+  },
+  {
+    "number": 41,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "A burner management systems typically requires at least _____ of high fire air flow to establish the purge.",
+    "options": {
+      "A": "10 seconds",
+      "B": "60%",
+      "C": "60 minutes",
+      "D": "10 minutes",
+      "E": "100%"
+    },
+    "correctAnswer": "B",
+    "explanation": "Burner management systems require sufficient airflow during pre-purge cycles, typically requiring at least 60% of high-fire airflow to thoroughly sweep out any unburnt combustible gases from the furnace."
+  },
+  {
+    "number": 42,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "The main types of burner management systems is:",
+    "options": {
+      "A": "Electronic, pneumatic",
+      "B": "Proportional, derivative, integral",
+      "C": "Flame detection, gas pressure, air prover",
+      "D": "Manual, automatic",
+      "E": "Flame relay, primary, programming control"
+    },
+    "correctAnswer": "E",
+    "explanation": "Traditional burner management and combustion safeguard control classifications include flame relays, primary controls, and sequential programming controls."
+  },
+  {
+    "number": 43,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "The function of a flame failure device is to:",
+    "options": {
+      "A": "Shut off the fuel supply when the pressure gets too high",
+      "B": "Shut off the fuel when the burner flame is not detected",
+      "C": "De-energize the fan and feedwater systems",
+      "D": "Shut off the feedwater supply to the boiler",
+      "E": "Shut off the fuel when the fuel temperature is high"
+    },
+    "correctAnswer": "B",
+    "explanation": "A flame failure device monitors the burner flame and instantly stops the fuel flow if the flame is lost."
+  },
+  {
+    "number": 44,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "The burner management system “pilot trial period” is up to:",
+    "options": {
+      "A": "60 seconds",
+      "B": "30 seconds",
+      "C": "45 seconds",
+      "D": "10 seconds",
+      "E": "90 seconds"
+    },
+    "correctAnswer": "D",
+    "explanation": "During burner startup, the pilot trial for ignition (interrupted pilot safety timing) is typically limited to a maximum of 10 seconds to prevent hazardous fuel accumulation."
+  },
+  {
+    "number": 45,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "A flame scanner:\n1. Requires a photoelectric cell\n2. Responds to temperature changes\n3. Requires a clear line of sight to the flame\n4. Produces a steady voltage signal\n\nA) 1, 2, 4\nB) 1, 2, 3, 4\nC) 2, 3\nD) 2, 3, 4\nE) 1, 3",
+    "options": {
+      "A": "1, 2, 4",
+      "B": "1, 2, 3, 4",
+      "C": "2, 3",
+      "D": "2, 3, 4",
+      "E": "1, 3"
+    },
+    "correctAnswer": "E",
+    "explanation": "Optical flame scanners utilize photoelectric cells (1) and require an unobstructed, direct line of sight to the burner flame (3) to detect radiation accurately."
+  },
+  {
+    "number": 46,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "The device found on a SSOV to stop the startup sequence when the SSOV is not fully closed.",
+    "options": {
+      "A": "Quarter turn plug valve",
+      "B": "Safety vent valve",
+      "C": "Solenoid valve",
+      "D": "Proof of closure switch",
+      "E": "High pressure cutoff"
+    },
+    "correctAnswer": "D",
+    "explanation": "A proof-of-closure (leak test / valve seal overtravel) switch verifies that safety shut-off valves are fully closed before allowing a burner pre-purge cycle to start."
+  },
+  {
+    "number": 47,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "When a burner management systems initiates a safety shutdown:",
+    "options": {
+      "A": "An operator must investigate and manually reset the controller",
+      "B": "The manufacturer must be contacted",
+      "C": "The controller must be reset by the manufacturer",
+      "D": "The boiler inspector must be notified",
+      "E": "The boiler will automatically restart when conditions are normal."
+    },
+    "correctAnswer": "A",
+    "explanation": "Following a safety lockout trip, the operator must thoroughly investigate the root cause of the fault and manually reset the combustion safeguard controller."
+  },
+  {
+    "number": 48,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "A thermocouple:",
+    "options": {
+      "A": "Senses infrared light from the flame",
+      "B": "Senses changes in fuel line pressure",
+      "C": "Senses changes in air pressure",
+      "D": "Produces an electric signal",
+      "E": "Consists of two similar wires"
+    },
+    "correctAnswer": "D",
+    "explanation": "A thermocouple generates a small millivolt electrical signal proportional to the temperature difference between its hot and cold junctions."
+  },
+  {
+    "number": 49,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "Main and Pilot Fuel gas shutoff valves are:",
+    "options": {
+      "A": "Slow opening",
+      "B": "Globe valves",
+      "C": "Quarter turn plug valves",
+      "D": "Gate vales",
+      "E": "Slow closing"
+    },
+    "correctAnswer": "C",
+    "explanation": "Main and pilot fuel gas shutoff valves are commonly quarter-turn plug valves. They use a plug with a passage through it that opens or blocks the gas flow when rotated 90 degrees. This design allows the valves to shut off the fuel supply quickly and reliably during an emergency."
+  },
+  {
+    "number": 50,
+    "chapter": "chp2",
+    "heading": "Combustion Safety",
+    "question": "The flame failure device that incorporates a lead sulphide cell must receive _____ to operate.",
+    "options": {
+      "A": "Infrared rays",
+      "B": "Heat and radiation",
+      "C": "Ultraviolet rays",
+      "D": "A digital signal",
+      "E": "Heat from the flame"
+    },
+    "correctAnswer": "A",
+    "explanation": "Lead sulphide (PbS) photoelectric cells are sensitive to infrared radiation (heat rays) emitted by the combustion flame."
+  },
+  {
+    "number": 51,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "Flat gauge glasses are often preferred because:",
+    "options": {
+      "A": "They are more compact",
+      "B": "A light can be installed in front of them",
+      "C": "They are easier to clean",
+      "D": "They can withstand higher pressures",
+      "E": "It is easier to see the level"
+    },
+    "correctAnswer": "D",
+    "explanation": "Flat gauge glasses use heavy glass plates and robust metal frames, allowing them to safely withstand much higher operating pressures than tubular glass."
+  },
+  {
+    "number": 52,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "ASME sect 1 requires the lowest visible water level in a gage glass to be at least ____ above the lowest permissible water level.",
+    "options": {
+      "A": "100 mm",
+      "B": "50 mm",
+      "C": "25 mm",
+      "D": "10 mm",
+      "E": "75 mm"
+    },
+    "correctAnswer": "B",
+    "explanation": "According to ASME Section I (power boilers), the lowest visible water level in the gauge glass must be at least 50 mm (2 inches) above the lowest permissible water level of the boiler."
+  },
+  {
+    "number": 53,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "Gauge glasses show a water level which is:",
+    "options": {
+      "A": "Slightly lower when the glass water density is higher",
+      "B": "The actual vessel level regardless of pressure, temperature or density differences",
+      "C": "Slightly less than the level if the vessel is at a lower temperature",
+      "D": "Slightly higher than boiler level when the pressure is high",
+      "E": "The same if all liquids have the same temperature"
+    },
+    "correctAnswer": "A",
+    "explanation": "The water in an external gauge glass cools down slightly compared to the high-temperature water inside the boiler drum, resulting in a higher density and causing the gauge glass to show a level slightly lower than the actual internal drum level."
+  },
+  {
+    "number": 54,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "The quick closing valves on a water gauge glass requires _____ turn to change from open to closed.",
+    "options": {
+      "A": "Five",
+      "B": "Quarter",
+      "C": "Half",
+      "D": "Two",
+      "E": "Third"
+    },
+    "correctAnswer": "B",
+    "explanation": "Quick-closing gauge glass shutoff valves are designed to operate with a 90-degree (quarter turn) movement from fully open to fully closed."
+  },
+  {
+    "number": 55,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "ASME section 1 requires the connections from water column to a boiler to be:",
+    "options": {
+      "A": "10 mm",
+      "B": "17 mm",
+      "C": "15 mm",
+      "D": "25 mm",
+      "E": "6 mm"
+    },
+    "correctAnswer": "D",
+    "explanation": "ASME Section I specifies a minimum pipe size of 25 mm (1 inch) for connections between the boiler and the water column to prevent blockage by scale and sludge."
+  },
+  {
+    "number": 56,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "ASME sect IV requires the lowest visible part of the gage glass to be at least ____ above the lowest permissible water level.",
+    "options": {
+      "A": "25 mm",
+      "B": "10 mm",
+      "C": "50 mm",
+      "D": "75 mm",
+      "E": "100 mm"
+    },
+    "correctAnswer": "A",
+    "explanation": "For heating boilers under ASME Section IV, the lowest visible water level in the glass must be at least 25 mm (1 inch) above the lowest permissible water level."
+  },
+  {
+    "number": 57,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "Try cocks are:",
+    "options": {
+      "A": "For checking water level while the gauge glass is out of service",
+      "B": "For draining the gauge glass",
+      "C": "Used to blowdown the gage glass",
+      "D": "On the water column drain line",
+      "E": "Operated simultaneously"
+    },
+    "correctAnswer": "A",
+    "explanation": "Try cocks are direct mechanical sample valves mounted on the water column to verify boiler water level independently if the gauge glass is broken, isolated, or out of service."
+  },
+  {
+    "number": 58,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "Low water fuel cut off is used to:",
+    "options": {
+      "A": "Shut off the air when there is a low water level",
+      "B": "Shut off the water when there is a low water level",
+      "C": "Shut off fuel when there is a low air level",
+      "D": "Shut off the fuel when there is a low water level",
+      "E": "Shut off the water when there is a low fuel pressure"
+    },
+    "correctAnswer": "D",
+    "explanation": "A low-water fuel cut-off (LWFC) device immediately de-energizes the burner fuel valves when boiler water drops below safe operating limits to prevent overheating and boiler damage."
+  },
+  {
+    "number": 59,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "Separately mounted gauge glasses are used to provide a __________ indication of level over a certain vertical distance on the vessel.",
+    "options": {
+      "A": "Point",
+      "B": "Overlapping",
+      "C": "Indirect",
+      "D": "Ultrasonic",
+      "E": "Diagonal"
+    },
+    "correctAnswer": "B",
+    "explanation": "Multiple gauge glasses mounted with overlapping visible ranges are used on tall vessels to provide continuous visual tracking of liquid level across a wide vertical span."
+  },
+  {
+    "number": 60,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "When the main operating element is a large diaphragm, the water level indicator is a:",
+    "options": {
+      "A": "Bourdon tube",
+      "B": "Float",
+      "C": "Remote (Hopkinson) type",
+      "D": "Capsule",
+      "E": "Ledoux bell"
+    },
+    "correctAnswer": "C",
+    "explanation": "Remote liquid level indicators (such as Hopkinson types) often use a large diaphragm capsule sensing differential pressure to actuate the remote pointer."
+  },
+  {
+    "number": 61,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "Most low water cut off are:",
+    "options": {
+      "A": "Density operated",
+      "B": "Pressure operated",
+      "C": "Temperature operated",
+      "D": "Flow operated",
+      "E": "Float operated"
+    },
+    "correctAnswer": "E",
+    "explanation": "The majority of industrial low-water fuel cut-offs utilize float mechanisms or probes (electrode types) to sense water level changes directly."
+  },
+  {
+    "number": 62,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "CSA requirements state that boilers that are not under continuous supervision by a licensed power engineer must:",
+    "options": {
+      "A": "Not operate on automatic",
+      "B": "Have two dependent low water cut offs",
+      "C": "Have at least two low water fuel cut off devices",
+      "D": "Must have no shut off devices that can be tested",
+      "E": "Be shut down and automatic controls installed"
+    },
+    "correctAnswer": "C",
+    "explanation": "Unattended or automatically supervised boiler standards (such as CSA B51) mandate the installation of at least two independent low-water fuel cut-off devices."
+  },
+  {
+    "number": 63,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "If a gauge glass breaks, the operator shall immediately:",
+    "options": {
+      "A": "Shut the boiler down",
+      "B": "Isolate the boiler",
+      "C": "Lift the safety valve",
+      "D": "Shut off the steam valve and water valve on the gauge",
+      "E": "Add more water to the boiler"
+    },
+    "correctAnswer": "D",
+    "explanation": "When a gauge glass shatters, the immediate priority is to close the gauge glass steam and water shutoff valves to prevent uncontrolled steam and water discharge."
+  },
+  {
+    "number": 64,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "Each steam heating boiler gauge glass shall be fitted with a drain cock or valve having an unrestricted drain opening of not less than ____ diameter to facilitate cleaning.",
+    "options": {
+      "A": "10 mm",
+      "B": "6 mm",
+      "C": "25 mm",
+      "D": "15 mm",
+      "E": "2 mm"
+    },
+    "correctAnswer": "B",
+    "explanation": "Gauge glass drain connections must have an unrestricted opening of at least 6 mm (1/4 inch) to ensure effective blowing down and clearing of scale or sludge."
+  },
+  {
+    "number": 65,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "Dirt traps are installed on remote water-level indicator:",
+    "options": {
+      "A": "To prevent osmosis from occurring",
+      "B": "To prevent indicating liquid contamination",
+      "C": "To prevent mixing of the indicating liquid with boiler water",
+      "D": "Because of the high amount of suspended solids collecting in the constant head",
+      "E": "So that overfilling of the indicating section is prevented"
+    },
+    "correctAnswer": "B",
+    "explanation": "Dirt traps are installed on remote water-level indicators to catch dirt, rust, scale, and other suspended impurities before they enter and contaminate the indicating liquid. Keeping the indicating liquid clean helps maintain accurate and reliable water-level readings."
+  },
+  {
+    "number": 66,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "When two Low Water Fuel Cut Offs are used, the lower of the two controls shall:",
+    "options": {
+      "A": "Shut off the feedwater flow",
+      "B": "Cause a safety shutdown and lockout",
+      "C": "Cause the feedwater valve to go wide open",
+      "D": "Restart the boiler",
+      "E": "Sound the low level alarm"
+    },
+    "correctAnswer": "B",
+    "explanation": "In dual low-water fuel cut-off setups, the secondary (lower) cut-off acts as a failsafe backup that initiates a hard safety lockout shutdown."
+  },
+  {
+    "number": 67,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "Tubular gauge glasses:",
+    "options": {
+      "A": "Are suitable for pressures up to 3000 kPa",
+      "B": "Are not weakened by misalignment",
+      "C": "Can be of any length",
+      "D": "Indicate the level most accurately",
+      "E": "Do not corrode due to high alkalinity"
+    },
+    "correctAnswer": "A",
+    "explanation": "Tubular gauge glasses have lower pressure structural limits and are typically restricted to lower pressures (usually up to 2000–3000 kPa depending on specific code allowances)."
+  },
+  {
+    "number": 68,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "Gauge glass failures often occur due to:",
+    "options": {
+      "A": "Failure to heat the glass gradually",
+      "B": "Incorrect cleaning",
+      "C": "High steam temperature",
+      "D": "High water level",
+      "E": "Boiler vibration"
+    },
+    "correctAnswer": "A",
+    "explanation": "Thermal shock caused by turning on steam valves too quickly without gradually preheating the glass is a primary cause of gauge glass fracture."
+  },
+  {
+    "number": 69,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "A water gauge shall be fitted with rods or chains so it can be operated from the floor or working platform when it is _____ from the floor.",
+    "options": {
+      "A": "Between 6 and 10 m",
+      "B": "Between 2 and 6 m",
+      "C": "Over 10 m",
+      "D": "Under 2 m",
+      "E": "Over 6 m"
+    },
+    "correctAnswer": "B",
+    "explanation": "When water gauges are located high above the operating floor (typically over 6 meters), operating chains or extension rods must be provided so operators can manipulate the valves safely from below."
+  },
+  {
+    "number": 70,
+    "chapter": "chp3",
+    "heading": "Water Level Safety Controls",
+    "question": "Boilers that require two Low Water Fuel Cutoff devices:",
+    "options": {
+      "A": "Must ensure each is installed in individual float chambers",
+      "B": "Can use both as combination level control/LWFCO devices",
+      "C": "Can save space by installing both in a single column",
+      "D": "Must use only electrode type devices",
+      "E": "Must have full time operators present"
+    },
+    "correctAnswer": "A",
+    "explanation": "To ensure absolute reliability and prevent a single obstruction or failure from disabling both cut-offs, dual LWFC units must be installed in separate float chambers or independent tappings."
+  },
+  {
+    "number": 71,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "ASME Sect IV requires blowoff piping to be at least _____ for 700 kg/hr boilers.",
+    "options": {
+      "A": "DN 50",
+      "B": "DN 25",
+      "C": "DN 40",
+      "D": "DN 32",
+      "E": "DN 20"
+    },
+    "correctAnswer": "D",
+    "explanation": "Under ASME Section IV, the minimum blowoff piping size depends on the boiler's capacity. For a boiler producing 700 kg/hr, the required minimum size is DN 32. This ensures adequate flow when the boiler is blown down and allows accumulated water and sediment to be discharged effectively."
+  },
+  {
+    "number": 72,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "A Hartford loop prevents low water levels in steam heating boilers in the case of:",
+    "options": {
+      "A": "The feedwater pumps quits",
+      "B": "The expansion tank overflows",
+      "C": "The vacuum breaker quits",
+      "D": "The feedwater check valve fails",
+      "E": "The relief valve doesn’t work"
+    },
+    "correctAnswer": "D",
+    "explanation": "The Hartford loop is a piping arrangement that prevents boiler water from siphoning or being forced out of the boiler into the return line should a check valve fail in the return piping."
+  },
+  {
+    "number": 73,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "On a pressure/altitude gage, when the pressure pointer falls below the altitude pointer the:",
+    "options": {
+      "A": "Water is too hot",
+      "B": "Water is too cold",
+      "C": "System is low on water",
+      "D": "Atmospheric pressure is too low",
+      "E": "Boiler is too full"
+    },
+    "correctAnswer": "C",
+    "explanation": "On a combination pressure/altitude gauge, the altitude pointer (movable red hand) indicates the required static head. If the black pressure hand drops below it, the system static head has dropped, indicating the system is low on water."
+  },
+  {
+    "number": 74,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "The current code that covers hot water heating or hot water supply boilers that operate at temperatures not exceeding 120°C is:",
+    "options": {
+      "A": "CSA B52",
+      "B": "ASME Sect IV",
+      "C": "CSA B51",
+      "D": "ASME Sect VII",
+      "E": "ASME Sect 1"
+    },
+    "correctAnswer": "B",
+    "explanation": "ASME Section IV governs Rules for Construction of Heating Boilers (steam heating boilers up to 103 kPa and hot water heating boilers up to 120°C / 1100 kPa)."
+  },
+  {
+    "number": 75,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "The thermometer on a hot water heating boiler must not exceed:",
+    "options": {
+      "A": "100°C",
+      "B": "205°C",
+      "C": "201°C",
+      "D": "20°C",
+      "E": "160°C"
+    },
+    "correctAnswer": "B",
+    "explanation": "The thermometer on a hot water heating boiler must have a scale that does not exceed 205°C (400°F). This limit ensures the temperature can be monitored within the required range for safe boiler operation."
+  },
+  {
+    "number": 76,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "Markings on a fitting must be legible and show the service and material designation, and:",
+    "options": {
+      "A": "ASME reference number",
+      "B": "Year of manufacture",
+      "C": "CSA reference number",
+      "D": "Manufacturer identification",
+      "E": "What country it was manufactured in"
+    },
+    "correctAnswer": "D",
+    "explanation": "Standard code requirements (such as MSS SP-25 and ASME code specifications) require pressure fittings to be permanently marked with the manufacturer's name/trademark, pressure-temperature service rating, and material designation."
+  },
+  {
+    "number": 77,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "In High pressure power boiler blowoff piping, the slow opening valve requires at least ______ turns.",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "correctAnswer": "E",
+    "explanation": "By ASME code definition, a slow-opening valve requires at least five (5) full 360-degree turns of the operating mechanism to move from fully closed to fully open."
+  },
+  {
+    "number": 78,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "When a slow opening and quick opening valves are used in blow off piping for boilers operating over 690 kPa, the slow opening valve is:",
+    "options": {
+      "A": "Downstream of the quick opening",
+      "B": "Operates in the non-moving fluid",
+      "C": "Upstream of the quick opening",
+      "D": "Closest to the boiler",
+      "E": "Attached to the boiler nozzle"
+    },
+    "correctAnswer": "A",
+    "explanation": "In high-pressure blowdown arrangements, the quick-opening valve is installed closest to the boiler (upstream) and opened first into static fluid, while the slow-opening valve is placed downstream to take the throttling and wire-drawing wear."
+  },
+  {
+    "number": 79,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "The minimum size of siphon used on the main Boiler pressure gauge shall be:",
+    "options": {
+      "A": "100 mm",
+      "B": "6 mm",
+      "C": "50 mm",
+      "D": "10 mm",
+      "E": "25 mm"
+    },
+    "correctAnswer": "B",
+    "explanation": "The minimum nominal pipe size for a siphon (pigtail) trap on a boiler steam gauge connection is 6 mm (1/4 in) NPS (or 10 mm for steel/brass schedule depending on code context, with 6 mm being standard nominal pipe/tubing size for small fittings)."
+  },
+  {
+    "number": 80,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "When comparing the boiler pressure and the altitude reading in a closed hot water heating system, the pressure should be _____ than the altitude.",
+    "options": {
+      "A": "Same",
+      "B": "Greater",
+      "C": "Reverse",
+      "D": "Inverse",
+      "E": "Less"
+    },
+    "correctAnswer": "B",
+    "explanation": "In a pressurized closed hot water heating system, operating pressure must be greater than static altitude head to ensure positive pressure at the highest system point."
+  },
+  {
+    "number": 81,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "When a boiler is connected to a common header that has another steam source, each boiler having a manhole shall have ____ stop valves with a free blow drain between them.",
+    "options": {
+      "A": "Several",
+      "B": "Three",
+      "C": "Two",
+      "D": "One",
+      "E": "None"
+    },
+    "correctAnswer": "C",
+    "explanation": "ASME Section I requires two stop valves in series with an ample free-blow drain valve located between them on the steam discharge connection when boilers equipped with manholes are connected to a common steam header."
+  },
+  {
+    "number": 82,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "The main boiler pressure gage must be connected to:",
+    "options": {
+      "A": "The steam space",
+      "B": "The water space",
+      "C": "Feedwater line",
+      "D": "Blowdown line",
+      "E": "Superheater outlet"
+    },
+    "correctAnswer": "A",
+    "explanation": "The main steam pressure gauge must connect directly to the steam space of the boiler drum/shell or to the steam side of the water column."
+  },
+  {
+    "number": 83,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "The purpose of the test connection on a boiler pressure gauge is to:",
+    "options": {
+      "A": "Unplug the siphon tube",
+      "B": "Vent air from the pressure gage",
+      "C": "Install the boiler inspector’s pressure gauge",
+      "D": "Install live steam to the gage",
+      "E": "Test a sample of the steam"
+    },
+    "correctAnswer": "C",
+    "explanation": "The inspector's test connection valve allows an authorized inspector to attach a calibrated master test gauge in parallel to verify the accuracy of the boiler pressure gauge."
+  },
+  {
+    "number": 84,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "To prevent air entering the hot water heating system when it cools down, the expansion tank is:",
+    "options": {
+      "A": "Maintained below the boiler so it remains full",
+      "B": "Shut in when the boiler shuts down",
+      "C": "Equipped with a bladder",
+      "D": "Filled with solid foam",
+      "E": "Placed high above the heating system"
+    },
+    "correctAnswer": "C",
+    "explanation": "Modern closed expansion tanks utilize a flexible rubber diaphragm or bladder separating air from system water to prevent air absorption and maintain positive system pressure."
+  },
+  {
+    "number": 85,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "On a high pressure steam oiler, the main boiler pressure gage dial shall be graduated to approximately _____ of the safety valve set pressure.",
+    "options": {
+      "A": "Half",
+      "B": "Quarter",
+      "C": "Same",
+      "D": "Double",
+      "E": "Triple"
+    },
+    "correctAnswer": "D",
+    "explanation": "ASME Section I specifies that the pressure gauge scale dial should be graduated to approximately double (1.5 to 2 times) the safety valve set pressure, with double being standard practice."
+  },
+  {
+    "number": 86,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "Open expansion tanks are installed:",
+    "options": {
+      "A": "Only on closed systems",
+      "B": "With a nitrogen bladder",
+      "C": "At the lowest point in the system",
+      "D": "At the highest point in the system",
+      "E": "In all modern systems"
+    },
+    "correctAnswer": "D",
+    "explanation": "Open expansion tanks rely on gravity head and must be installed at least 1 meter above the highest point of the hot water heating system."
+  },
+  {
+    "number": 87,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "The expansion tank used on a hot water heating boiler system that is operating less than 200 kPa must be designed for a hydrostatic test pressure of at least:",
+    "options": {
+      "A": "520 kPa",
+      "B": "440 kPa",
+      "C": "200 kPa",
+      "D": "300 kPa",
+      "E": "120 kPa"
+    },
+    "correctAnswer": "A",
+    "explanation": "ASME Section IV requires expansion tanks for heating boilers operating at less than 200 kPa to be built and hydrostatic test-rated to at least 520 kPa."
+  },
+  {
+    "number": 88,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "To prevent damage to a low pressure steam boiler during cool down _______ are often installed.",
+    "options": {
+      "A": "Back flow preventers",
+      "B": "Relief valves",
+      "C": "Siphons",
+      "D": "Vacuum breakers",
+      "E": "Check valves"
+    },
+    "correctAnswer": "D",
+    "explanation": "Vacuum breakers are installed to admit air during boiler cooldown, preventing condensation from pulling a destructive vacuum inside the shell."
+  },
+  {
+    "number": 89,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "Closed expansion tanks are located:",
+    "options": {
+      "A": "Anywhere in the steam system",
+      "B": "At the highest point only",
+      "C": "Only at the lowest point",
+      "D": "Next to the open expansion tank",
+      "E": "Anywhere in the hotwater system"
+    },
+    "correctAnswer": "E",
+    "explanation": "Unlike open expansion tanks which must be at the highest elevation, closed diaphragm/bladder expansion tanks can be located anywhere in the hot water loop (typically near the boiler inlet/suction side of pump)."
+  },
+  {
+    "number": 90,
+    "chapter": "chp4",
+    "heading": "Boiler Fittings",
+    "question": "The correct type of valve used when connecting an altitude gage is:",
+    "options": {
+      "A": "Tee handle",
+      "B": "Check valve",
+      "C": "Globe valve",
+      "D": "Butterfly valve",
+      "E": "Non return valve"
+    },
+    "correctAnswer": "A",
+    "explanation": "Pressure and altitude gauges must be fitted with a shutoff cock or valve equipped with a tee or lever handle aligned with the pipe axis when open."
+  },
+  {
+    "number": 91,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "Modulating combustion controls:",
+    "options": {
+      "A": "Control the draft and feedwater temperature",
+      "B": "Regulate the fuel and air supplies",
+      "C": "Control the back draft damper",
+      "D": "Regulate the steam and feedwater supply",
+      "E": "Control the oil atomizer"
+    },
+    "correctAnswer": "B",
+    "explanation": "Modulating combustion controls vary both the fuel flow and combustion air supply in proportion to boiler steam/heat load demands to maintain stable pressure/temperature and optimum efficiency."
+  },
+  {
+    "number": 92,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "Prior to a boiler safety valve popping during routine boiler operation:",
+    "options": {
+      "A": "The pressure gage should be checked",
+      "B": "A try lever test should be performed",
+      "C": "The high limit switch should open",
+      "D": "The high level alarm should sound",
+      "E": "The feedwater pump should stop"
+    },
+    "correctAnswer": "C",
+    "explanation": "The high limit pressure switch is set below the safety valve set pressure. During an overpressure event, the high limit switch should trip and shut off the burner before boiler pressure rises enough to pop the safety valve."
+  },
+  {
+    "number": 93,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "An Aquastat:",
+    "options": {
+      "A": "Can be located away from its point of measurement",
+      "B": "Is a modulating device",
+      "C": "Measures water flow",
+      "D": "Senses water level",
+      "E": "Is used on steam boilers"
+    },
+    "correctAnswer": "A",
+    "explanation": "An Aquastat utilizing a capillary tube and remote bulb sensor allows the main control switch body to be mounted away from the actual immersion well sensing point on the boiler."
+  },
+  {
+    "number": 94,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "The operating cut off for low pressure steam heating boilers should be set at:",
+    "options": {
+      "A": "70 kPa",
+      "B": "115 kPa",
+      "C": "35 kPa",
+      "D": "100 kPa",
+      "E": "45 kPa"
+    },
+    "correctAnswer": "A",
+    "explanation": "Low-pressure steam heating boilers (operating up to 103 kPa MAWP) typically have their primary operating pressure control cutout set around 70 kPa (approx. 10 psi) to maintain safe operating margins."
+  },
+  {
+    "number": 95,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "The main steam boiler control device used with an ON/OFF combustion fuel control is a/an _____ sensing element.",
+    "options": {
+      "A": "Electronic",
+      "B": "Level",
+      "C": "Pneumatic",
+      "D": "Temperature",
+      "E": "Pressure"
+    },
+    "correctAnswer": "E",
+    "explanation": "ON/OFF combustion control on a steam boiler uses a pressure-sensing element (bellows or Bourdon tube pressure switch) to cycle the burner based on steam pressure."
+  },
+  {
+    "number": 96,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "A device found on the pressure side of a steam boiler operating control switch is a:",
+    "options": {
+      "A": "Test connection for an inspector",
+      "B": "Feedwater pressure gauge",
+      "C": "Siphon",
+      "D": "Combustion air proving switch",
+      "E": "Modutrol motor"
+    },
+    "correctAnswer": "C",
+    "explanation": "A siphon (pigtail loop) must be installed between the steam space and the pressure control switch to trap condensate and protect the internal pressure-sensing element from direct live steam."
+  },
+  {
+    "number": 97,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "Modulating burner controls operate by regulating:",
+    "options": {
+      "A": "Fuel flow and atomizing steam flow",
+      "B": "Fuel temperature and air flow",
+      "C": "Steam flow and fuel flow",
+      "D": "Fuel flow, air flow, and feedwater pressure",
+      "E": "Fuel flow and air flow"
+    },
+    "correctAnswer": "E",
+    "explanation": "Modulating burner controls maintain proper air-fuel ratios across varying load demands by simultaneously positioning fuel valves and air dampers."
+  },
+  {
+    "number": 98,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "The controlled variable in heating boilers with modulating control cause a bellows to operate a:",
+    "options": {
+      "A": "Hydrostat",
+      "B": "Shut down valve",
+      "C": "Alarm",
+      "D": "Mercury switch",
+      "E": "Potentiometer"
+    },
+    "correctAnswer": "E",
+    "explanation": "In modulating boiler control systems, pressure/temperature changes cause expansion or contraction of a bellows, which positions a potentiometer (slidewire resistor) to send a proportional signal to the modulating motor."
+  },
+  {
+    "number": 99,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "An operating pressure control switch for an ON-OFF boiler:",
+    "options": {
+      "A": "Can only have its cut-in setting adjusted",
+      "B": "Operates in conjunction with a Modutrol motor",
+      "C": "Utilizes a resistance coil",
+      "D": "Uses a differential spring to control cut-in/cut-out",
+      "E": "Has an un-adjustable span between cut-in and cut-out"
+    },
+    "correctAnswer": "D",
+    "explanation": "An ON-OFF pressure control switch features a main set-point spring and a differential adjustment spring to independently set the cut-in and cut-out operating pressures."
+  },
+  {
+    "number": 100,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "High limit temperature controls:",
+    "options": {
+      "A": "Increase air flow to the boiler if temperature limits are exceeded",
+      "B": "Shut off the fuel if the water temperature is too high",
+      "C": "Are required under Section II of the ASME Codes",
+      "D": "Open a 3-way mixing valve to add cold water to the hot water to reduce the water temperature",
+      "E": "Are required on steam boilers"
+    },
+    "correctAnswer": "B",
+    "explanation": "High limit temperature controls act as safety interlocks on hot water boilers to de-energize the fuel shutoff valve if water temperature exceeds safe operational limits."
+  },
+  {
+    "number": 101,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "A thermal element is:",
+    "options": {
+      "A": "Used to measure heat content",
+      "B": "A type of open system",
+      "C": "Commonly termed an “Aquastat”",
+      "D": "Capable of sensing temperature and converting it to a pressure signal",
+      "E": "Used to measure pressure"
+    },
+    "correctAnswer": "D",
+    "explanation": "A liquid/vapor-filled thermal element (sensing bulb and capillary tube) senses fluid temperature changes, which expand or contract the fluid to convert temperature changes into a mechanical pressure signal acting on a bellows."
+  },
+  {
+    "number": 102,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "Combustion air safety switches are commonly found:",
+    "options": {
+      "A": "As non-interlocking devices and take no part in a startup",
+      "B": "On gas fired boilers only",
+      "C": "On hot water boilers only",
+      "D": "On natural draft boilers",
+      "E": "On boilers utilizing a forced draft fan"
+    },
+    "correctAnswer": "E",
+    "explanation": "Combustion air proving switches (airflow differential switches) are required safety interlocks on boilers equipped with forced draft or induced draft fans to verify airflow before and during burner operation."
+  },
+  {
+    "number": 103,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "A combustion air proving switch:",
+    "options": {
+      "A": "Senses air temperature",
+      "B": "Detects O₂ in flue gas",
+      "C": "Senses flue gas pressure",
+      "D": "Senses windbox pressure",
+      "E": "Senses O₂ content of the air"
+    },
+    "correctAnswer": "D",
+    "explanation": "A combustion air proving switch measures differential air pressure across the burner windbox or fan inlet/outlet to verify adequate combustion airflow."
+  },
+  {
+    "number": 104,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "A modulating control steam heating boiler:",
+    "options": {
+      "A": "Will have a constant combustion air, flow rate",
+      "B": "Is always fully automatic",
+      "C": "Has very efficient operation",
+      "D": "Cannot operate in a multi-boiler system",
+      "E": "Will have a wide operating pressure range"
+    },
+    "correctAnswer": "C",
+    "explanation": "Modulating control matches fuel and air inputs continuously to load demand, preventing frequent cycling thermal losses and providing highly efficient operation."
+  },
+  {
+    "number": 105,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "What is the purpose of the high limit temperature control on a hot water boiler?",
+    "options": {
+      "A": "To shut down the burner if the water temperature rises too high",
+      "B": "To limit high pressure and temperature from developing",
+      "C": "To allow you to take off the operating control for maintenance without shutting down the boiler",
+      "D": "To take over operating the boiler if the water level control fails",
+      "E": "To prevent the pressure in the boiler rising above 210 kPa gage"
+    },
+    "correctAnswer": "A",
+    "explanation": "The primary safety function of a high limit temperature control on a hot water boiler is to immediately stop fuel flow to the burner if water temperature exceeds the safe maximum setpoint."
+  },
+  {
+    "number": 106,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "A high pressure cut off switch is required on automatically fired steam boilers:",
+    "options": {
+      "A": "To prevent the fuel supply from being shut off",
+      "B": "To prevent steam pressure exceeding the allowable operating pressure",
+      "C": "To prevent high flue gas back pressure",
+      "D": "To prevent loss of feed water flow",
+      "E": "To prevent loss of steam pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": "A high pressure safety cutoff switch opens to interrupt the fuel safety circuit, preventing steam pressure from reaching or exceeding the Maximum Allowable Working Pressure (MAWP)."
+  },
+  {
+    "number": 107,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "A manual HIGH-LOW switch should be switched to “AUTO”:",
+    "options": {
+      "A": "As soon as the main flame has stabilized",
+      "B": "When pressure is too low",
+      "C": "When the boiler has been properly warmed up",
+      "D": "During boiler pre-purge",
+      "E": "Prior to ignition of the main flame"
+    },
+    "correctAnswer": "C",
+    "explanation": "During cold startup, boilers should be fired on low-fire until thoroughly warmed up to avoid thermal stress; once warm, the manual control switch can be moved to AUTO."
+  },
+  {
+    "number": 108,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "The current code that covers hot water heating or hot water supply boilers that operate at temperatures not exceeding 121°C is:",
+    "options": {
+      "A": "Alberta Pressure Equipment Safety Regulation",
+      "B": "ASME Section IV",
+      "C": "Alberta Power Engineers Regulation",
+      "D": "CSA B51",
+      "E": "ASME Section I"
+    },
+    "correctAnswer": "B",
+    "explanation": "ASME Section IV specifies rules for construction and rating of low-pressure heating boilers (steam up to 103 kPa and hot water boilers up to 121°C / 1100 kPa)."
+  },
+  {
+    "number": 109,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "A hot water boiler operating control can be a pressure switch:",
+    "options": {
+      "A": "Which is sensitive to the expansion and contraction of boiler water",
+      "B": "Sensitive to boiler steam pressure",
+      "C": "Which is normally open",
+      "D": "Utilizing a closed liquid filled system",
+      "E": "Sensitive to steam pressure"
+    },
+    "correctAnswer": "D",
+    "explanation": "Hot water boiler temperature controls often utilize a closed, liquid-filled sensing system (fluid expansion bulb/capillary) where liquid pressure changes inside the sealed system operate a pressure switch."
+  },
+  {
+    "number": 110,
+    "chapter": "chp5",
+    "heading": "Firing Rate Controls",
+    "question": "An ON-OFF steam boiler burner operation control:",
+    "options": {
+      "A": "Will maintain a fairly constant steam pressure",
+      "B": "Cannot operate in a multi-boiler system",
+      "C": "Will cycle on and off based on temperature",
+      "D": "Must have a low capacity",
+      "E": "Operates most efficiently at continuous firing"
+    },
+    "correctAnswer": "E",
+    "explanation": "An ON-OFF steam boiler burner is designed to operate most efficiently when it fires continuously rather than repeatedly cycling on and off. Frequent cycling causes heat losses during startup and shutdown and can increase wear on burner components. Continuous firing, when the boiler load allows it, provides more efficient operation."
+  }
+]
