@@ -119,6 +119,16 @@ import b2chp2 from "./Part B/Chp/BookB2/chp2.json";
 import b2chp3 from "./Part B/Chp/BookB2/chp3.json";
 import b2chp4 from "./Part B/Chp/BookB2/chp4.json";
 
+// Part B — Book B3 chapters (no full-book file)
+import b3chp1 from "./Part B/Chp/BookB3/chp1.json";
+import b3chp2 from "./Part B/Chp/BookB3/chp2.json";
+import b3chp3 from "./Part B/Chp/BookB3/chp3.json";
+import b3chp4 from "./Part B/Chp/BookB3/chp4.json";
+import b3chp5 from "./Part B/Chp/BookB3/chp5.json";
+
+// Part B — Book B4 chapters (chp2 still empty, skipping)
+import b4chp1 from "./Part B/Chp/BookB4/chp1.json";
+
 export interface Question {
   id: string | number;
   topic?: string;
@@ -792,6 +802,42 @@ const bookB2Chapters: Paper[] = [
   ),
 ];
 
+const bookB3Chapters: Paper[] = [
+  makePaper(
+    "b3-chp1",
+    "Pressure Relief Valves",
+    toQuestions(b3chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b3-chp2",
+    "Combustion Safety",
+    toQuestions(b3chp2 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b3-chp3",
+    "Water Level Safety Controls",
+    toQuestions(b3chp3 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b3-chp4",
+    "Boiler Fittings",
+    toQuestions(b3chp4 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b3-chp5",
+    "Firing Rate Controls",
+    toQuestions(b3chp5 as unknown as RawNumberQuestion[]),
+  ),
+];
+
+const bookB4Chapters: Paper[] = [
+  makePaper(
+    "b4-chp1",
+    "Boiler Plant Startup",
+    toQuestions(b4chp1 as unknown as RawNumberQuestion[]),
+  ),
+];
+
 function chapterCount(papers: Paper[]): number {
   return papers.reduce((sum, p) => sum + (p.questions?.length ?? 0), 0);
 }
@@ -916,6 +962,18 @@ export const exams: Exam[] = [
         label: "Book B2 — Pumps & Compressors",
         description: `${chapterCount(bookB2Chapters)} questions across ${bookB2Chapters.length} chapters`,
         papers: bookB2Chapters,
+      },
+      {
+        id: "book-b3",
+        label: "Book B3 — Boiler Safety Controls",
+        description: `${chapterCount(bookB3Chapters)} questions across ${bookB3Chapters.length} chapters`,
+        papers: bookB3Chapters,
+      },
+      {
+        id: "book-b4",
+        label: "Book B4 — Plant Operations",
+        description: `${chapterCount(bookB4Chapters)} questions across ${bookB4Chapters.length} chapters`,
+        papers: bookB4Chapters,
       },
     ],
   },
