@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Boiler Operation",
+    "question": "Increasing the continuous blowdown helps to control dissolved solids and foaming, but it also:",
+    "options": {
+      "A": "Decreases chemicals used",
+      "B": "Increase operating costs",
+      "C": "Increases scaling",
+      "D": "Decreases makeup water",
+      "E": "Increases sludge"
+    },
+    "correctAnswer": "B",
+    "explanation": "Continuous blowdown removes hot water and treatment chemicals from the boiler, requiring additional energy, makeup water, and chemical dosing, which increases operating costs."
+  },
+  {
+    "number": 2,
+    "heading": "Boiler Operation",
+    "question": "In the case of a low water level in a steam boiler, after shutting it down, if there is any possibility that the low water level may have resulted in damage.",
+    "options": {
+      "A": "Hydrotest the boiler and if it passes, put it back into service",
+      "B": "Notify the boiler inspector",
+      "C": "Repair the boiler and put it back into service",
+      "D": "Restart the boiler and see if it leaks",
+      "E": "Continue to operate it, but at a lower pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": "If a low water condition occurs and overheating or damage is suspected, safety regulations require notifying the jurisdictional boiler inspector before inspection and repair."
+  },
+  {
+    "number": 3,
+    "heading": "Boiler Operation",
+    "question": "On an automatically fired boilers, if the blower starts and stops after 5 seconds, one thing you should check is:",
+    "options": {
+      "A": "Improper electrode setting",
+      "B": "Flame detector is not detecting flame",
+      "C": "Low air pressure switch",
+      "D": "Main gas test valve is open",
+      "E": "Obstruction of fire eye tube"
+    },
+    "correctAnswer": "C",
+    "explanation": "If the forced draft fan stops almost immediately during pre-purge, it indicates that the combustion air flow switch (low air pressure switch) failed to prove airflow."
+  },
+  {
+    "number": 4,
+    "heading": "Boiler Operation",
+    "question": "If the expansion tank is flooded, the expanding water during heating cycles will:",
+    "options": {
+      "A": "Vapour lock the circulating pump",
+      "B": "Cause the flow to reverse",
+      "C": "Cause the safety valve to open",
+      "D": "Cause the boiler to stop heating",
+      "E": "Turn into steam"
+    },
+    "correctAnswer": "C",
+    "explanation": "Without an air or gas cushion in a waterlogged (flooded) expansion tank, thermal expansion rapidly increases system pressure, opening the safety relief valve."
+  },
+  {
+    "number": 5,
+    "heading": "Boiler Operation",
+    "question": "When starting an automatically fired boiler, the problem experienced when an ignitor is grounded out or has a broken wire is:",
+    "options": {
+      "A": "Low fire switch inoperable",
+      "B": "Main flame unstable",
+      "C": "Spark but no flame",
+      "D": "Low air flow",
+      "E": "Lack of spark"
+    },
+    "correctAnswer": "E",
+    "explanation": "A grounded ignition electrode or broken lead prevents high voltage from bridging the spark gap, resulting in a total lack of spark during the ignition trial."
+  },
+  {
+    "number": 6,
+    "heading": "Boiler Operation",
+    "question": "The best location to feed make up water into a steam boiler system is:",
+    "options": {
+      "A": "Into the condensate return tank",
+      "B": "Into the boiler feedwater pump discharge",
+      "C": "Into the steam drum",
+      "D": "Into the blowdown line",
+      "E": "Into the deaerator vent"
+    },
+    "correctAnswer": "A",
+    "explanation": "Feeding makeup water into the condensate return receiver allows it to mix with returning condensate and pass through feedwater heating/deaeration before entering the boiler."
+  },
+  {
+    "number": 7,
+    "heading": "Boiler Operation",
+    "question": "The primary indicator of level in any steam boiler is:",
+    "options": {
+      "A": "Boiler master",
+      "B": "Feedwater controller",
+      "C": "Gauge glass",
+      "D": "Remote level indicator",
+      "E": "Level recorder"
+    },
+    "correctAnswer": "C",
+    "explanation": "The direct-reading gauge glass (water column glass) is the primary, direct visual indicator of water level on a steam boiler."
+  },
+  {
+    "number": 8,
+    "heading": "Boiler Operation",
+    "question": "To determine if the bladder in the expansion tank is ruptured or has enough pressure:",
+    "options": {
+      "A": "Increase the water pressure to see if it leaks",
+      "B": "Measure the diameter of the tank",
+      "C": "Check the altitude gauge",
+      "D": "Shut down the system and dismantle the expansion tank",
+      "E": "Use a tire pressure gauge"
+    },
+    "correctAnswer": "E",
+    "explanation": "The pre-charge air pressure of a bladder-type expansion tank is checked at the Schrader valve using a standard tire pressure gauge when isolated/depressurized."
+  },
+  {
+    "number": 9,
+    "heading": "Boiler Operation",
+    "question": "In a steam boiler damage can occur to downstream piping and equipment like turbines if:",
+    "options": {
+      "A": "The steam is too hot",
+      "B": "There is high water level",
+      "C": "The steam is not hot enough",
+      "D": "The burner flame is weak due to bad air/fuel ratio",
+      "E": "There is low water level"
+    },
+    "correctAnswer": "B",
+    "explanation": "High water levels cause water carryover into the steam lines, leading to severe water hammer and erosion or mechanical damage to steam turbines."
+  },
+  {
+    "number": 10,
+    "heading": "Boiler Operation",
+    "question": "A common solution to flame failure shutdown is:",
+    "options": {
+      "A": "Lower the boiler pressure",
+      "B": "Increase firing rate",
+      "C": "Decrease firing rate",
+      "D": "Clean the lens",
+      "E": "Add water"
+    },
+    "correctAnswer": "D",
+    "explanation": "Dirty or soot-covered optical flame scanner lenses (fire-eye) prevent the scanner from detecting the flame, causing nuisance flame failure trips; cleaning the lens resolves this issue."
+  },
+  {
+    "number": 11,
+    "heading": "Boiler Operation",
+    "question": "Hot water heating boilers must have their temperature controls set between ______ and _____ degrees Celsius.",
+    "options": {
+      "A": "100, 120",
+      "B": "10, 100",
+      "C": "100, 1100",
+      "D": "75, 120",
+      "E": "20, 70"
+    },
+    "correctAnswer": "D",
+    "explanation": "Operating temperature controls for hot water heating boilers are typically set within the standard range of 75°C to 120°C (without exceeding maximum low-pressure limits)."
+  },
+  {
+    "number": 12,
+    "heading": "Boiler Operation",
+    "question": "To ensure safe operation of steam boilers, the operators must check their boilers every:",
+    "options": {
+      "A": "Only when instructed by the boiler owner",
+      "B": "Year",
+      "C": "Day",
+      "D": "Minute",
+      "E": "Month"
+    },
+    "correctAnswer": "C",
+    "explanation": "Power engineering and safety regulations require daily routine checks, testing, and inspections of operating steam boilers."
+  },
+  {
+    "number": 13,
+    "heading": "Boiler Operation",
+    "question": "The frequency of blowdown or blowoff for hot water heating boilers is:",
+    "options": {
+      "A": "Only when instructed by the inspector",
+      "B": "Every shutdown",
+      "C": "Rarely",
+      "D": "Daily",
+      "E": "Frequently"
+    },
+    "correctAnswer": "C",
+    "explanation": "Unlike steam boilers, hot water heating boilers operate in a closed system and are blown down rarely (or only during maintenance) to prevent introducing fresh oxygenated makeup water."
+  },
+  {
+    "number": 14,
+    "heading": "Boiler Operation",
+    "question": "Overly rapid boiler warmup could ultimately result in:",
+    "options": {
+      "A": "Damage to turbines",
+      "B": "Chimney explosion",
+      "C": "Pressure explosion",
+      "D": "Damage to the feedwater pump",
+      "E": "Furnace explosion"
+    },
+    "correctAnswer": "C",
+    "explanation": "Rapid heating causes severe non-uniform thermal expansion and localized stress, which can weaken structural pressure components and potentially lead to a pressure explosion."
+  },
+  {
+    "number": 15,
+    "heading": "Boiler Operation",
+    "question": "The set operating pressure of a steam boiler must be below the safety valve pressure to:",
+    "options": {
+      "A": "Prevent simmering and allow the blowdown",
+      "B": "Allow simmering and prevent the safety valve blowdown",
+      "C": "Prevent simmering and prevent the blowdown of the safety valve",
+      "D": "Allow simmering and allow the blowdown of the safety valve",
+      "E": "Prevent the safety valve from lifting and blowing down"
+    },
+    "correctAnswer": "A",
+    "explanation": "The boiler's normal operating pressure must be set below the safety valve's opening pressure. This creates enough pressure difference for the safety valve to close properly after lifting, allowing blowdown (the pressure drop between opening and closing). It also prevents simmering, which occurs when steam leaks past the valve seat just below its opening pressure."
+  },
+  {
+    "number": 16,
+    "heading": "Boiler Operation",
+    "question": "If an explosion occurs, the ______ of the boiler or pressure equipment must notify the proper authority.",
+    "options": {
+      "A": "Maintenance manager",
+      "B": "Boiler Inspector",
+      "C": "Person in charge",
+      "D": "Company safety manager",
+      "E": "Company engineer"
+    },
+    "correctAnswer": "C",
+    "explanation": "Jurisdictional safety acts mandate that the chief engineer or person in charge of the boiler plant must immediately report any accident or explosion to the authority."
+  },
+  {
+    "number": 17,
+    "heading": "Boiler Operation",
+    "question": "Hot water heating boilers should have their operating pressure at _______ below the relief valve pressure.",
+    "options": {
+      "A": "25 kPa or 75% of relief valve pressure, whichever is greater",
+      "B": "35 kPa below the relief valve setting",
+      "C": "The higher of either 70 kPa or 25% of the relief pressure",
+      "D": "The lower of either 70 kPa or 25% of the relief pressure",
+      "E": "The higher of either 50 kPa or 10% of the relief pressure"
+    },
+    "correctAnswer": "C",
+    "explanation": "Standard code guidelines mandate that operating pressure in hot water boilers be at least 70 kPa or 25% of relief valve setting (whichever is higher) below the relief valve setpoint."
+  },
+  {
+    "number": 18,
+    "heading": "Boiler Operation",
+    "question": "Waterside scale and fireside soot deposits:",
+    "options": {
+      "A": "Reduce operating costs",
+      "B": "Decrease heating surface fouling",
+      "C": "Increase heat transfer",
+      "D": "Decrease boiler efficiency",
+      "E": "Increase boiler efficiency"
+    },
+    "correctAnswer": "D",
+    "explanation": "Both soot on the fireside and scale on the waterside act as thermal insulators, reducing heat transfer into boiler water and decreasing overall boiler efficiency."
+  },
+  {
+    "number": 19,
+    "heading": "Boiler Operation",
+    "question": "Although there are many automatic safeguards, the ________ is the first and last line of defence.",
+    "options": {
+      "A": "Jurisdictional inspector",
+      "B": "Boiler operator",
+      "C": "Boiler master",
+      "D": "ASME code",
+      "E": "Chief engineer"
+    },
+    "correctAnswer": "B",
+    "explanation": "Automated controls can fail; the trained boiler operator monitoring operations remains the primary defense against plant accidents."
+  },
+  {
+    "number": 20,
+    "heading": "Boiler Operation",
+    "question": "ASME CSD-1 recommends level controls in a low pressure boilers should be tested:",
+    "options": {
+      "A": "Monthly",
+      "B": "Daily",
+      "C": "Weekly",
+      "D": "Hourly",
+      "E": "Semi annually"
+    },
+    "correctAnswer": "C",
+    "explanation": "ASME CSD-1 recommends that level controls on operating low-pressure boilers be tested weekly to verify that they are functioning properly. Regular testing helps ensure that the controls detect unsafe water levels and shut down the burner when necessary, protecting the boiler from low-water damage."
+  }
+]

@@ -192,8 +192,8 @@
       "D": "Flame scanner bypass",
       "E": "A five minute timer"
     },
-    "correctAnswer": "C",
-    "explanation": "Modulating burner controls are interlocked to force the burner to start at low-fire automatically to minimize thermal shock and ensure safe ignition."
+    "correctAnswer": "A",
+    "explanation": "On boilers equipped with fully modulating burner controls, startup is performed on manual control at the low-fire position. This allows the operator to keep the burner at a low firing rate during startup, helping establish stable combustion and gradually warm the boiler before increasing the firing rate."
   },
   {
     "number": 15,

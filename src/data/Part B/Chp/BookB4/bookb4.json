@@ -1,0 +1,1710 @@
+[
+  {
+    "number": 1,
+    "heading": "Boiler Plant Startup",
+    "question": "Reducing the risk of equipment fires is accomplished through operators maintaining:",
+    "options": {
+      "A": "Smoke detectors",
+      "B": "Good house keeping practices",
+      "C": "Fire hoses",
+      "D": "Fire extinguishers",
+      "E": "Nothing flammable in the worksite"
+    },
+    "correctAnswer": "B",
+    "explanation": "Maintaining good housekeeping practices by eliminating oil leaks, rag accumulation, and combustible debris is the most fundamental way operators reduce equipment fire hazards."
+  },
+  {
+    "number": 2,
+    "heading": "Boiler Plant Startup",
+    "question": "A walk down is:",
+    "options": {
+      "A": "The main drain system blow down separation tank",
+      "B": "The stairs at the back of the boiler to the feedwater pumps",
+      "C": "The path between the shift engineers office and the boiler",
+      "D": "Part of the boiler inspectors equipment",
+      "E": "Following and checking the entire fuel system from storage tank to burner"
+    },
+    "correctAnswer": "E",
+    "explanation": "A walk down is a systematic visual inspection where the operator physically follows and inspects lines, valves, and equipment (such as the fuel system) from source to burner."
+  },
+  {
+    "number": 3,
+    "heading": "Boiler Plant Startup",
+    "question": "After starting any boiler, the fuel supply system is inspected during a second:",
+    "options": {
+      "A": "Annual inspection",
+      "B": "Walk down",
+      "C": "Startup",
+      "D": "Shutdown",
+      "E": "Purge"
+    },
+    "correctAnswer": "B",
+    "explanation": "Once the boiler is running, operators perform a second walk down of the fuel system to inspect for leaks, proper pressures, and normal operation under live conditions."
+  },
+  {
+    "number": 4,
+    "heading": "Boiler Plant Startup",
+    "question": "When working around machinery, motors and rotating shafts, operators must be careful to:",
+    "options": {
+      "A": "Never step over rotating equipment",
+      "B": "Only check machinery with a mechanic",
+      "C": "Feel the rotating shafts for vibration using the back of the hand",
+      "D": "Never go near the machinery",
+      "E": "Always observe the non running equipment"
+    },
+    "correctAnswer": "A",
+    "explanation": "Operators must never step over or reach across moving/rotating machinery, as clothing or limbs can get caught in shafts or couplings."
+  },
+  {
+    "number": 5,
+    "heading": "Boiler Plant Startup",
+    "question": "The first thing to do before starting a hot water heating boiler:",
+    "options": {
+      "A": "Blowdown the boiler",
+      "B": "Check for a valid inspection certificate",
+      "C": "Fill the boiler to operating level",
+      "D": "Close the vents",
+      "E": "Light the pilot"
+    },
+    "correctAnswer": "B",
+    "explanation": "Before initiating any mechanical startup procedures on a boiler, the operator must verify that a valid certificate of inspection is legally posted and up to date."
+  },
+  {
+    "number": 6,
+    "heading": "Boiler Plant Startup",
+    "question": "Handhole and manhole gaskets are sometimes coated with ______ to prevent them from sticking.",
+    "options": {
+      "A": "Grease",
+      "B": "Paint",
+      "C": "Graphite paste",
+      "D": "Water",
+      "E": "Oil"
+    },
+    "correctAnswer": "C",
+    "explanation": "Applying graphite paste or anti-seize compound to gaskets prevents them from baking onto metal seating surfaces, allowing clean release during future inspection."
+  },
+  {
+    "number": 7,
+    "heading": "Boiler Plant Startup",
+    "question": "When testing the pilot flame detector, a zero flame signal should lockout the startup within:",
+    "options": {
+      "A": "60 seconds",
+      "B": "0.4 seconds",
+      "C": "4 seconds",
+      "D": "4 attempts at ignition",
+      "E": "4 minutes"
+    },
+    "correctAnswer": "C",
+    "explanation": "Standard flame safeguard safety timing requires the controller to initiate a safety shutdown/lockout within 4 seconds if no flame signal is detected during pilot trial for ignition."
+  },
+  {
+    "number": 8,
+    "heading": "Boiler Plant Startup",
+    "question": "After all other checks are complete, and verified as ready for startup, the final operator action before ignition sequence is initiated is:",
+    "options": {
+      "A": "Send a notice to the boiler inspector",
+      "B": "Close the vent valves",
+      "C": "Open the drain valves",
+      "D": "Fill the boiler with water",
+      "E": "Push the reset on the interlocks"
+    },
+    "correctAnswer": "E",
+    "explanation": "Resetting the safety interlocks and safety shutdown circuit is the final manual control action required to initiate the automatic ignition sequence."
+  },
+  {
+    "number": 9,
+    "heading": "Boiler Plant Startup",
+    "question": "Before anything else when preparing to start a steam boiler:",
+    "options": {
+      "A": "Blowdown the boiler",
+      "B": "Check for a valid inspection certificate",
+      "C": "Fill the boiler to operating level",
+      "D": "Light the pilot",
+      "E": "Close the vents"
+    },
+    "correctAnswer": "B",
+    "explanation": "Checking for a valid inspection certificate is mandatory before starting any pressure vessel or boiler."
+  },
+  {
+    "number": 10,
+    "heading": "Boiler Plant Startup",
+    "question": "Verification of combustion air availability before startup includes checking:",
+    "options": {
+      "A": "Bearings, fuel pressure, screens",
+      "B": "Bearings, belts, lubrication, steam traps",
+      "C": "Bearings and lubrication, inlet screens, relief valves",
+      "D": "Bearings, belts, dampers, frost",
+      "E": "Free movement of dampers, bearings, water level"
+    },
+    "correctAnswer": "D",
+    "explanation": "Checking combustion air availability involves verifying fan bearings, drive belts, free movement of louvers/dampers, and ensuring fresh air intake louvers are not blocked by frost or snow."
+  },
+  {
+    "number": 11,
+    "heading": "Boiler Plant Startup",
+    "question": "Heavy fuel oil should be heated to _____ before it can be atomized and burned.",
+    "options": {
+      "A": "75°C",
+      "B": "95°C",
+      "C": "150°C",
+      "D": "120°C",
+      "E": "55°C"
+    },
+    "correctAnswer": "B",
+    "explanation": "Heavy fuel oils (such as No. 6 oil) must be heated to approximately 95°C (200°F) to reduce viscosity sufficiently for proper burner atomization."
+  },
+  {
+    "number": 12,
+    "heading": "Boiler Plant Startup",
+    "question": "High and low fuel gas pressure cut-offs are included in:",
+    "options": {
+      "A": "Permissives",
+      "B": "Post-ignition interlocks",
+      "C": "Shut down sequence",
+      "D": "Deaerator interlocks",
+      "E": "Temperature alarms"
+    },
+    "correctAnswer": "A",
+    "explanation": "High and low fuel gas pressure cut-off switches are pre-ignition permissives that must be satisfied before the burner management system allows startup."
+  },
+  {
+    "number": 13,
+    "heading": "Boiler Plant Startup",
+    "question": "Final inspection inside the boiler drums before closing them includes:",
+    "options": {
+      "A": "Ensuring the deaerator is at the correct level",
+      "B": "Verifying correct oil temperature",
+      "C": "Ensuring all tools are accounted for",
+      "D": "Steam traps are working",
+      "E": "Correct relief valve settings"
+    },
+    "correctAnswer": "C",
+    "explanation": "A critical final check inside boiler drums or internal passes before closing manway doors is verifying that all tools, foreign material, and flashlights have been removed."
+  },
+  {
+    "number": 14,
+    "heading": "Boiler Plant Startup",
+    "question": "On boilers with fully modulating burner controls, the startup is at low fire on:",
+    "options": {
+      "A": "Manual control",
+      "B": "The pilot only",
+      "C": "Automatic control",
+      "D": "Flame scanner bypass",
+      "E": "A five minute timer"
+    },
+    "correctAnswer": "A",
+    "explanation": "On boilers equipped with fully modulating burner controls, startup is performed on manual control at the low-fire position. This allows the operator to keep the burner at a low firing rate during startup, helping establish stable combustion and gradually warm the boiler before increasing the firing rate."
+  },
+  {
+    "number": 15,
+    "heading": "Boiler Plant Startup",
+    "question": "During hot water boiler startup, you must ensure that all boilers are serviced by:",
+    "options": {
+      "A": "The same BMS",
+      "B": "A common ignition system",
+      "C": "The same relief valve",
+      "D": "A common fuel gas shut off",
+      "E": "An expansion tank"
+    },
+    "correctAnswer": "E",
+    "explanation": "All operating hot water boilers in a system must be properly connected to and serviced by an active expansion tank to absorb water expansion."
+  },
+  {
+    "number": 16,
+    "heading": "Boiler Plant Startup",
+    "question": "On a hot water boiler, you should check and record the altitude gauge reading:",
+    "options": {
+      "A": "Before startup",
+      "B": "Before startup only",
+      "C": "After draining the system",
+      "D": "After the system is in service only",
+      "E": "Every hour when the boiler is in operation"
+    },
+    "correctAnswer": "A",
+    "explanation": "Recording static altitude pressure before startup ensures the system is completely full of water and under sufficient static head."
+  },
+  {
+    "number": 17,
+    "heading": "Boiler Plant Startup",
+    "question": "Immediately after starting a pump or fan, the operator must:",
+    "options": {
+      "A": "Check bearing temperatures, discharge pressures, boiler pressure",
+      "B": "Stop the equipment to verify it shuts down correctly",
+      "C": "Verify the amperage being drawn by the motor",
+      "D": "Check pressures, noise, vibration, lubrication",
+      "E": "Check flow and pressure only"
+    },
+    "correctAnswer": "D",
+    "explanation": "Immediately upon starting rotating equipment, operators inspect for proper operating discharge pressure, absence of abnormal noise or vibration, and proper lube oil flow/level."
+  },
+  {
+    "number": 18,
+    "heading": "Boiler Plant Startup",
+    "question": "Before filling the boiler with water the:",
+    "options": {
+      "A": "Blowoff valves and vent valves should be open",
+      "B": "All valves should be opened",
+      "C": "Blowoff valves must be closed and vent valve open",
+      "D": "Blowoff valves and vent valves should be closed",
+      "E": "Blowoff valves must be open and the vent valve closed"
+    },
+    "correctAnswer": "C",
+    "explanation": "When filling a boiler, blowoff valves must be tightly closed to hold water, while drum vent valves must be open to let air escape as water fills the vessel."
+  },
+  {
+    "number": 19,
+    "heading": "Boiler Plant Startup",
+    "question": "When preparing to start an oil fired boiler, an important prestart check is:",
+    "options": {
+      "A": "Ensure the flame is blue with yellow tips",
+      "B": "Ensure the gas pressure is adequate",
+      "C": "Check the stack temperature",
+      "D": "Check the steam traps are working",
+      "E": "Verify the oil is at the correct temperature"
+    },
+    "correctAnswer": "E",
+    "explanation": "For oil-fired systems (especially heavy oil), confirming that fuel oil temperature and viscosity are within specified limits is essential prior to ignition."
+  },
+  {
+    "number": 20,
+    "heading": "Boiler Plant Startup",
+    "question": "Boilers that are new or have been repaired should be boiled out to prevent any greases or oils from causing:",
+    "options": {
+      "A": "Low water levels",
+      "B": "Damage to the refractory",
+      "C": "High boiler pressures",
+      "D": "Foaming",
+      "E": "Corrosion"
+    },
+    "correctAnswer": "D",
+    "explanation": "Chemical boil-out removes oil, grease, and protective coatings left from manufacturing/repairs, which would otherwise cause severe foaming, water carryover, and unstable water levels."
+  },
+  {
+    "number": 21,
+    "heading": "Boiler Startup",
+    "question": "After startup of a steam boiler, it is ________ to double check and verify all water level controls, indicators, and recorders.",
+    "options": {
+      "A": "Important",
+      "B": "Critical",
+      "C": "Required",
+      "D": "Vital",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "Verifying water level controls, indicators, and recorders post-startup is essential for boiler safety, making all the descriptive terms (important, critical, required, vital) correct."
+  },
+  {
+    "number": 22,
+    "heading": "Boiler Startup",
+    "question": "During warmup of a steam boiler, dissolved gases are released through the:",
+    "options": {
+      "A": "Flue stack",
+      "B": "Blow down",
+      "C": "Steam",
+      "D": "Drum vent",
+      "E": "Blow off"
+    },
+    "correctAnswer": "D",
+    "explanation": "The drum vent (boiler vent) is kept open during initial warmup from cold until steam pressure reaches approximately 25-35 kPa to vent non-condensable dissolved gases and air."
+  },
+  {
+    "number": 23,
+    "heading": "Boiler Startup",
+    "question": "The boiler master is:",
+    "options": {
+      "A": "The chief steam engineer",
+      "B": "The emergency shutdown for the boiler",
+      "C": "Steam pressure controller",
+      "D": "The boiler inspector",
+      "E": "The main gas valve"
+    },
+    "correctAnswer": "C",
+    "explanation": "In boiler control systems, the boiler master controller regulates main steam header pressure and sends firing rate demand signals to individual combustion controllers."
+  },
+  {
+    "number": 24,
+    "heading": "Boiler Startup",
+    "question": "A reasonable warm up rate for boilers is:",
+    "options": {
+      "A": "10 degrees per hour",
+      "B": "1 day from cold to hot",
+      "C": "1 hour total",
+      "D": "55 degrees per day",
+      "E": "55 degrees per hour"
+    },
+    "correctAnswer": "E",
+    "explanation": "Standard power engineering practice recommends limiting boiler water temperature rise to approximately 55°C per hour during initial warm-up to prevent thermal stress."
+  },
+  {
+    "number": 25,
+    "heading": "Boiler Startup",
+    "question": "Before boiler ignition sequence can begin, all _______.",
+    "options": {
+      "A": "Permissives must be satisfied",
+      "B": "Gas valves must be open and at pressure",
+      "C": "Boilers and systems must be depressured",
+      "D": "Boilers must be on high fire",
+      "E": "Power must be shut off"
+    },
+    "correctAnswer": "A",
+    "explanation": "The Burner Management System (BMS) requires all pre-ignition permissives (such as low water cut-off, combustion air flow, fuel pressure, and damper positions) to be proven satisfied."
+  },
+  {
+    "number": 26,
+    "heading": "Boiler Startup",
+    "question": "When starting a power boiler burner, the last step is:",
+    "options": {
+      "A": "The operator fills the boiler with water",
+      "B": "The operator resets the SSOV",
+      "C": "The pilot test valve is opened",
+      "D": "The operator slowly opens the main test firing valve",
+      "E": "The operator initiates purge"
+    },
+    "correctAnswer": "D",
+    "explanation": "In a manual or semi-automatic power boiler burner startup sequence, opening the manual main test firing valve (main manual fuel valve) occurs last after pilot flame and permissives are established."
+  },
+  {
+    "number": 27,
+    "heading": "Boiler Startup",
+    "question": "When bringing on a second steam boiler in a system with one boiler already in service. The boiler header can be warmed by:",
+    "options": {
+      "A": "Boiler steam only",
+      "B": "Main header steam only",
+      "C": "Using external heaters",
+      "D": "Filling with hot water",
+      "E": "Boiler or header steam"
+    },
+    "correctAnswer": "E",
+    "explanation": "The interconnecting steam piping and header can be safely warmed up using either steam generated by the incoming boiler or backfeeding steam from the operating main header."
+  },
+  {
+    "number": 28,
+    "heading": "Boiler Startup",
+    "question": "During the warmup period, as the water in the boiler heats up and expands:",
+    "options": {
+      "A": "You need to close the fuel valves to stop the water from expanding",
+      "B": "You can add chemicals to prevent the water from expanding",
+      "C": "You have free time to start reading the manufacturers instructions",
+      "D": "Continuously monitor gauge glass and water level indictors",
+      "E": "You should increase the water flow to compensate for steam production"
+    },
+    "correctAnswer": "D",
+    "explanation": "Thermal expansion increases the visible water level in the gauge glass during warm-up; operators must continuously monitor water levels and drain excess water as required."
+  },
+  {
+    "number": 29,
+    "heading": "Boiler Startup",
+    "question": "When viewing the burner flame, it should:",
+    "options": {
+      "A": "Be yellow with bright blue tips",
+      "B": "Create hot spots on diffusers",
+      "C": "Impinge upon all surfaces",
+      "D": "Not be turbulent",
+      "E": "Never appear smoky or have black tips"
+    },
+    "correctAnswer": "E",
+    "explanation": "A clean, well-adjusted combustion flame must never produce smoke or exhibit dark, smoky tips, which indicate incomplete combustion and soot formation."
+  },
+  {
+    "number": 30,
+    "heading": "Boiler Startup",
+    "question": "When warming up a steam system that has a superheater, it is vital to:",
+    "options": {
+      "A": "Bypass the heat from the burner around the superheater",
+      "B": "Open the superheater vent to ensure flow",
+      "C": "Close the superheater vent to prevent heat loss",
+      "D": "Isolate the superheater from the steam",
+      "E": "Warm the superheater separate from the rest of the boiler"
+    },
+    "correctAnswer": "B",
+    "explanation": "Opening the superheater vent during startup ensures a continuous flow of steam through the tubes to cool them and prevent overheating until the boiler is placed on line."
+  },
+  {
+    "number": 31,
+    "heading": "Boiler Startup",
+    "question": "The pilot is ______ in a hot water heating boiler with a continuous pilot and atmospheric burner.",
+    "options": {
+      "A": "Remotely lit",
+      "B": "Manually lit",
+      "C": "Automatic",
+      "D": "Intermittent",
+      "E": "Not required"
+    },
+    "correctAnswer": "B",
+    "explanation": "A continuous pilot on an atmospheric hot water heating boiler is manually ignited (usually via a match or piezo igniter) and remains lit continuously."
+  },
+  {
+    "number": 32,
+    "heading": "Boiler Startup",
+    "question": "When cutting in steam boilers that do not have non-return valves, after the headers are warmed, the boiler stop valve can slowly opened if:",
+    "options": {
+      "A": "The boiler is on high fire",
+      "B": "The steam pressure in the header is dropping",
+      "C": "The boiler is shut down",
+      "D": "The boiler is base loaded",
+      "E": "The boiler and header pressure are approximately equal"
+    },
+    "correctAnswer": "E",
+    "explanation": "To prevent dangerous pressure shocks, water hammer, or flow reversals when cutting in a boiler without a non-return valve, boiler pressure must equal main header pressure."
+  },
+  {
+    "number": 33,
+    "heading": "Boiler Startup",
+    "question": "Thermal shock can be caused by:",
+    "options": {
+      "A": "Sudden blowdown",
+      "B": "Cold winter air",
+      "C": "A sudden drop in temperature",
+      "D": "Incorrect water treatment",
+      "E": "High outdoor temperature"
+    },
+    "correctAnswer": "C",
+    "explanation": "Thermal shock occurs when boiler metals experience rapid, localized temperature drops or spikes, leading to excessive thermal stresses and potential structural failure."
+  },
+  {
+    "number": 34,
+    "heading": "Boiler Startup",
+    "question": "In a power boiler fuel gas system the combination of SSOVs and safety vent valve are:",
+    "options": {
+      "A": "Not considered a safe way to ensure no gas is entering the furnace",
+      "B": "Not never required",
+      "C": "Effectively a double block and bleed",
+      "D": "Not effective when there is a power failure",
+      "E": "Only required on hot water boilers"
+    },
+    "correctAnswer": "C",
+    "explanation": "Two Safety Shut-Off Valves (SSOVs) with an automatic safety vent valve between them form a double block and bleed system to prevent fuel gas leakage into the furnace."
+  },
+  {
+    "number": 35,
+    "heading": "Boiler Startup",
+    "question": "When cutting in a hot water boiler with other boilers already on line and all using a common expansion tank, it is important to:",
+    "options": {
+      "A": "Depressure the expansion tank",
+      "B": "Check the altitude gauge in the expansion tank",
+      "C": "Increase the pressure in the expansion tank",
+      "D": "Drain the expansion tank",
+      "E": "Make sure there is room in the expansion tank"
+    },
+    "correctAnswer": "E",
+    "explanation": "Ensuring adequate expansion capacity in the expansion tank is vital before opening isolation valves, as incoming water will expand as it reaches full operating temperature."
+  },
+  {
+    "number": 36,
+    "heading": "Boiler Startup",
+    "question": "In a multi boiler facility, when cutting in a hot water boiler:",
+    "options": {
+      "A": "Supply valve should be open, and return valve closed",
+      "B": "Supply and return lines should be shut during warm up",
+      "C": "Supply valve should be closed and return line should be open",
+      "D": "Supply and return lines should be open during warmup",
+      "E": "The relief valve should be removed"
+    },
+    "correctAnswer": "B",
+    "explanation": "During warm-up from cold in a multi-boiler installation, both supply and return stop valves are closed to allow the boiler to heat up uniformly at low fire before cut-in."
+  },
+  {
+    "number": 37,
+    "heading": "Boiler Startup",
+    "question": "When cutting in an additional steam heating boiler in a system already in operation, as the boiler pressure reaches the pressure in the steam main you would:",
+    "options": {
+      "A": "Not touch anything until the inspector okays it",
+      "B": "Open the stop valve slightly",
+      "C": "Continue full firing until above the main pressure",
+      "D": "Shut down the boiler to test the cut outs",
+      "E": "Open the stop valve quickly and fully"
+    },
+    "correctAnswer": "B",
+    "explanation": "When boiler pressure equals main steam header pressure, slowly open (crack) the stop valve slightly to equalize pressure and drain any trapped condensate before opening fully."
+  },
+  {
+    "number": 38,
+    "heading": "Boiler Startup",
+    "question": "When a steam system has only one boiler, the steam lines can be warmed up:",
+    "options": {
+      "A": "One at a time only",
+      "B": "Quickly",
+      "C": "Simultaneously or together at the same time",
+      "D": "Simultaneously or independently",
+      "E": "Using a second portable boiler"
+    },
+    "correctAnswer": "D",
+    "explanation": "Single-boiler steam plants allow system piping to be warmed up simultaneously with the boiler (with stop valves open) or independently after the boiler reaches operating pressure."
+  },
+  {
+    "number": 39,
+    "heading": "Boiler Startup",
+    "question": "During startup of a boiler, if abnormal condition occur, the operator should shut down the boiler and:",
+    "options": {
+      "A": "Continue startup carefully",
+      "B": "Call the boiler inspector",
+      "C": "Immediately try to restart",
+      "D": "Close the pilot and main fuel valves",
+      "E": "Record it in the log book and continue the startup sequence"
+    },
+    "correctAnswer": "D",
+    "explanation": "If any abnormal condition or malfunction occurs during startup, the operator must instantly trip/close the pilot and main fuel valves to establish a safe shutdown state."
+  },
+  {
+    "number": 40,
+    "heading": "Boiler Startup",
+    "question": "The correct order of a typical steam boiler startup sequence is:",
+    "options": {
+      "A": "Purge open, purge complete, fan starts, ignition",
+      "B": "Fan starts, purge starts, purge complete, ignition",
+      "C": "Fan starts, purge starts, main gas open, pilot lights",
+      "D": "Gas valves open, purge start, purge complete, ignition",
+      "E": "Fan starts, purge complete, fan stops, ignition"
+    },
+    "correctAnswer": "B",
+    "explanation": "The proper sequence starts the forced draft fan, initiates pre-purge, verifies purge completion, and then proceeds to pilot ignition."
+  },
+  {
+    "number": 41,
+    "heading": "Boiler Startup",
+    "question": "When cutting in s steam power boiler in a system with boilers already running, to prevent the boilers from working against each other for load, one boiler will typically be:",
+    "options": {
+      "A": "Base loaded",
+      "B": "Designated as back up and put on standby",
+      "C": "Shut down until load is demanded",
+      "D": "Set on manual on high fire",
+      "E": "Put on automatic at a lower pressure setting"
+    },
+    "correctAnswer": "A",
+    "explanation": "In multi-boiler power plants, one or more boilers are base-loaded at steady output while another boiler modulates to handle header pressure swings."
+  },
+  {
+    "number": 42,
+    "heading": "Boiler Startup",
+    "question": "Soon after the boiler is online and operating normally, a flue stack temperature reading is taken and recorded. This temperature is compared against future temperatures to determine:",
+    "options": {
+      "A": "If the boiler is getting cold",
+      "B": "When it is time to clean the ignition system",
+      "C": "If heat transfer surfaces are becoming dirty",
+      "D": "If the outside air temperature is adversely impacting the boiler operation",
+      "E": "If the firing rate is changing"
+    },
+    "correctAnswer": "C",
+    "explanation": "A baseline flue gas temperature reading is recorded so that future increases in stack temperature can alert operators to soot or scale build-up on heat transfer surfaces."
+  },
+  {
+    "number": 43,
+    "heading": "Boiler Startup",
+    "question": "An acceptable method of controlling the warmup of steam boilers headers is to use a:",
+    "options": {
+      "A": "Bypass around the double block and bleed valves",
+      "B": "External heaters",
+      "C": "Bypass around the boiler stop valve",
+      "D": "Bypass around the header block valve",
+      "E": "Leaky valve"
+    },
+    "correctAnswer": "D",
+    "explanation": "A small-diameter bypass line with a valve around the main header block valve is commonly used to meter small steam flows for controlled line warm-up."
+  },
+  {
+    "number": 44,
+    "heading": "Boiler Startup",
+    "question": "High firing rates when warming up a cold boiler:",
+    "options": {
+      "A": "Has no affect on uneven expansion",
+      "B": "Can lead to costly repairs",
+      "C": "Does not cause thermal shock in heating boilers",
+      "D": "Is the best way to warm up large power boilers",
+      "E": "Is acceptable in smaller packaged boilers"
+    },
+    "correctAnswer": "B",
+    "explanation": "Firing a cold boiler at high rates causes severe differential thermal expansion and stress, leading to cracked refractories, leaking tube joints, and costly repairs."
+  },
+  {
+    "number": 45,
+    "heading": "Boiler Startup",
+    "question": "Smoke and condensation during startup:",
+    "options": {
+      "A": "Is not unusual in cold boilers",
+      "B": "Requires immediate shutdown",
+      "C": "Is an indication of a tube failure",
+      "D": "Is normal in hot boilers",
+      "E": "Should be report to the inspector"
+    },
+    "correctAnswer": "A",
+    "explanation": "During cold startup, combustion chamber surfaces are cool, which temporarily causes localized condensation and light smoke until normal operating temperatures are established."
+  },
+  {
+    "number": 46,
+    "heading": "Boiler Startup",
+    "question": "The operator actions required during a startup with a semi automatic burner ignition system must be:",
+    "options": {
+      "A": "Done after the boiler is warmed up",
+      "B": "Complete within a set time",
+      "C": "Adjusted to suit the requirements of the operator",
+      "D": "Signed off by the safety department between each step",
+      "E": "Completed before the startup sequence begins"
+    },
+    "correctAnswer": "B",
+    "explanation": "Semi-automatic burner management systems enforce strict safety timing windows; manual operator actions must be performed within these set time frames or the system locks out."
+  },
+  {
+    "number": 47,
+    "heading": "Boiler Startup",
+    "question": "When starting a hot water heating boiler with atmospheric burners, you need to allow at least ______ for the purge each time with the gas valves closed.",
+    "options": {
+      "A": "1 minute",
+      "B": "5 minutes",
+      "C": "5 seconds",
+      "D": "1 hour",
+      "E": "30 minutes"
+    },
+    "correctAnswer": "B",
+    "explanation": "Natural draft atmospheric burner systems rely on natural convection; code safety rules require a minimum 5-minute natural draft purge period with gas valves closed prior to lighting."
+  },
+  {
+    "number": 48,
+    "heading": "Boiler Startup",
+    "question": "Soon after the excitement of the ignition is done, the boiler operator should complete a full walk down of the ________.",
+    "options": {
+      "A": "Instrumentation drawings to review the ignition settings",
+      "B": "Blowdown system to ensure it is ready",
+      "C": "The cooling tower fill lines to look for leaks",
+      "D": "The control room panels to help the control room operator",
+      "E": "Fuel system to ensure no leaks"
+    },
+    "correctAnswer": "E",
+    "explanation": "Immediately after proving stable ignition, a thorough walk down of the fuel supply piping, valves, and burner manifold is performed to verify zero fuel leaks under live pressure."
+  },
+  {
+    "number": 49,
+    "heading": "Boiler Startup",
+    "question": "In all steam plants, it is imperative that before steam is introduced into cold lines:",
+    "options": {
+      "A": "The boilers are firing at high rate",
+      "B": "The lines are purged with air",
+      "C": "All low point drains are open",
+      "D": "The boilers are on manual and low fire",
+      "E": "The boiler pressure is maximum"
+    },
+    "correctAnswer": "C",
+    "explanation": "Opening low-point line drains before admitting steam is critical to clear accumulated water and condensate, preventing destructive water hammer."
+  },
+  {
+    "number": 50,
+    "heading": "Boiler Startup",
+    "question": "A hot water heating boiler should be maintained on ________ until the water temperature is at the normal operating temperature.",
+    "options": {
+      "A": "Low fire",
+      "B": "Pilot only",
+      "C": "Intermittent fire",
+      "D": "High fire",
+      "E": "Automatic firing"
+    },
+    "correctAnswer": "A",
+    "explanation": "Hot water boilers must be kept on manual low-fire during startup until water temperature approaches normal operating range to avoid thermal shock."
+  },
+  {
+    "number": 51,
+    "heading": "Boiler Operation",
+    "question": "Increasing the continuous blowdown helps to control dissolved solids and foaming, but it also:",
+    "options": {
+      "A": "Decreases chemicals used",
+      "B": "Increase operating costs",
+      "C": "Increases scaling",
+      "D": "Decreases makeup water",
+      "E": "Increases sludge"
+    },
+    "correctAnswer": "B",
+    "explanation": "Continuous blowdown removes hot water and treatment chemicals from the boiler, requiring additional energy, makeup water, and chemical dosing, which increases operating costs."
+  },
+  {
+    "number": 52,
+    "heading": "Boiler Operation",
+    "question": "In the case of a low water level in a steam boiler, after shutting it down, if there is any possibility that the low water level may have resulted in damage.",
+    "options": {
+      "A": "Hydrotest the boiler and if it passes, put it back into service",
+      "B": "Notify the boiler inspector",
+      "C": "Repair the boiler and put it back into service",
+      "D": "Restart the boiler and see if it leaks",
+      "E": "Continue to operate it, but at a lower pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": "If a low water condition occurs and overheating or damage is suspected, safety regulations require notifying the jurisdictional boiler inspector before inspection and repair."
+  },
+  {
+    "number": 53,
+    "heading": "Boiler Operation",
+    "question": "On an automatically fired boilers, if the blower starts and stops after 5 seconds, one thing you should check is:",
+    "options": {
+      "A": "Improper electrode setting",
+      "B": "Flame detector is not detecting flame",
+      "C": "Low air pressure switch",
+      "D": "Main gas test valve is open",
+      "E": "Obstruction of fire eye tube"
+    },
+    "correctAnswer": "C",
+    "explanation": "If the forced draft fan stops almost immediately during pre-purge, it indicates that the combustion air flow switch (low air pressure switch) failed to prove airflow."
+  },
+  {
+    "number": 54,
+    "heading": "Boiler Operation",
+    "question": "If the expansion tank is flooded, the expanding water during heating cycles will:",
+    "options": {
+      "A": "Vapour lock the circulating pump",
+      "B": "Cause the flow to reverse",
+      "C": "Cause the safety valve to open",
+      "D": "Cause the boiler to stop heating",
+      "E": "Turn into steam"
+    },
+    "correctAnswer": "C",
+    "explanation": "Without an air or gas cushion in a waterlogged (flooded) expansion tank, thermal expansion rapidly increases system pressure, opening the safety relief valve."
+  },
+  {
+    "number": 55,
+    "heading": "Boiler Operation",
+    "question": "When starting an automatically fired boiler, the problem experienced when an ignitor is grounded out or has a broken wire is:",
+    "options": {
+      "A": "Low fire switch inoperable",
+      "B": "Main flame unstable",
+      "C": "Spark but no flame",
+      "D": "Low air flow",
+      "E": "Lack of spark"
+    },
+    "correctAnswer": "E",
+    "explanation": "A grounded ignition electrode or broken lead prevents high voltage from bridging the spark gap, resulting in a total lack of spark during the ignition trial."
+  },
+  {
+    "number": 56,
+    "heading": "Boiler Operation",
+    "question": "The best location to feed make up water into a steam boiler system is:",
+    "options": {
+      "A": "Into the condensate return tank",
+      "B": "Into the boiler feedwater pump discharge",
+      "C": "Into the steam drum",
+      "D": "Into the blowdown line",
+      "E": "Into the deaerator vent"
+    },
+    "correctAnswer": "A",
+    "explanation": "Feeding makeup water into the condensate return receiver allows it to mix with returning condensate and pass through feedwater heating/deaeration before entering the boiler."
+  },
+  {
+    "number": 57,
+    "heading": "Boiler Operation",
+    "question": "The primary indicator of level in any steam boiler is:",
+    "options": {
+      "A": "Boiler master",
+      "B": "Feedwater controller",
+      "C": "Gauge glass",
+      "D": "Remote level indicator",
+      "E": "Level recorder"
+    },
+    "correctAnswer": "C",
+    "explanation": "The direct-reading gauge glass (water column glass) is the primary, direct visual indicator of water level on a steam boiler."
+  },
+  {
+    "number": 58,
+    "heading": "Boiler Operation",
+    "question": "To determine if the bladder in the expansion tank is ruptured or has enough pressure:",
+    "options": {
+      "A": "Increase the water pressure to see if it leaks",
+      "B": "Measure the diameter of the tank",
+      "C": "Check the altitude gauge",
+      "D": "Shut down the system and dismantle the expansion tank",
+      "E": "Use a tire pressure gauge"
+    },
+    "correctAnswer": "E",
+    "explanation": "The pre-charge air pressure of a bladder-type expansion tank is checked at the Schrader valve using a standard tire pressure gauge when isolated/depressurized."
+  },
+  {
+    "number": 59,
+    "heading": "Boiler Operation",
+    "question": "In a steam boiler damage can occur to downstream piping and equipment like turbines if:",
+    "options": {
+      "A": "The steam is too hot",
+      "B": "There is high water level",
+      "C": "The steam is not hot enough",
+      "D": "The burner flame is weak due to bad air/fuel ratio",
+      "E": "There is low water level"
+    },
+    "correctAnswer": "B",
+    "explanation": "High water levels cause water carryover into the steam lines, leading to severe water hammer and erosion or mechanical damage to steam turbines."
+  },
+  {
+    "number": 60,
+    "heading": "Boiler Operation",
+    "question": "A common solution to flame failure shutdown is:",
+    "options": {
+      "A": "Lower the boiler pressure",
+      "B": "Increase firing rate",
+      "C": "Decrease firing rate",
+      "D": "Clean the lens",
+      "E": "Add water"
+    },
+    "correctAnswer": "D",
+    "explanation": "Dirty or soot-covered optical flame scanner lenses (fire-eye) prevent the scanner from detecting the flame, causing nuisance flame failure trips; cleaning the lens resolves this issue."
+  },
+  {
+    "number": 61,
+    "heading": "Boiler Operation",
+    "question": "Hot water heating boilers must have their temperature controls set between ______ and _____ degrees Celsius.",
+    "options": {
+      "A": "100, 120",
+      "B": "10, 100",
+      "C": "100, 1100",
+      "D": "75, 120",
+      "E": "20, 70"
+    },
+    "correctAnswer": "D",
+    "explanation": "Operating temperature controls for hot water heating boilers are typically set within the standard range of 75°C to 120°C (without exceeding maximum low-pressure limits)."
+  },
+  {
+    "number": 62,
+    "heading": "Boiler Operation",
+    "question": "To ensure safe operation of steam boilers, the operators must check their boilers every:",
+    "options": {
+      "A": "Only when instructed by the boiler owner",
+      "B": "Year",
+      "C": "Day",
+      "D": "Minute",
+      "E": "Month"
+    },
+    "correctAnswer": "C",
+    "explanation": "Power engineering and safety regulations require daily routine checks, testing, and inspections of operating steam boilers."
+  },
+  {
+    "number": 63,
+    "heading": "Boiler Operation",
+    "question": "The frequency of blowdown or blowoff for hot water heating boilers is:",
+    "options": {
+      "A": "Only when instructed by the inspector",
+      "B": "Every shutdown",
+      "C": "Rarely",
+      "D": "Daily",
+      "E": "Frequently"
+    },
+    "correctAnswer": "C",
+    "explanation": "Unlike steam boilers, hot water heating boilers operate in a closed system and are blown down rarely (or only during maintenance) to prevent introducing fresh oxygenated makeup water."
+  },
+  {
+    "number": 64,
+    "heading": "Boiler Operation",
+    "question": "Overly rapid boiler warmup could ultimately result in:",
+    "options": {
+      "A": "Damage to turbines",
+      "B": "Chimney explosion",
+      "C": "Pressure explosion",
+      "D": "Damage to the feedwater pump",
+      "E": "Furnace explosion"
+    },
+    "correctAnswer": "C",
+    "explanation": "Rapid heating causes severe non-uniform thermal expansion and localized stress, which can weaken structural pressure components and potentially lead to a pressure explosion."
+  },
+  {
+    "number": 65,
+    "heading": "Boiler Operation",
+    "question": "The set operating pressure of a steam boiler must be below the safety valve pressure to:",
+    "options": {
+      "A": "Prevent simmering and allow the blowdown",
+      "B": "Allow simmering and prevent the safety valve blowdown",
+      "C": "Prevent simmering and prevent the blowdown of the safety valve",
+      "D": "Allow simmering and allow the blowdown of the safety valve",
+      "E": "Prevent the safety valve from lifting and blowing down"
+    },
+    "correctAnswer": "A",
+    "explanation": "The boiler's normal operating pressure must be set below the safety valve's opening pressure. This creates enough pressure difference for the safety valve to close properly after lifting, allowing blowdown (the pressure drop between opening and closing). It also prevents simmering, which occurs when steam leaks past the valve seat just below its opening pressure."
+  },
+  {
+    "number": 66,
+    "heading": "Boiler Operation",
+    "question": "If an explosion occurs, the ______ of the boiler or pressure equipment must notify the proper authority.",
+    "options": {
+      "A": "Maintenance manager",
+      "B": "Boiler Inspector",
+      "C": "Person in charge",
+      "D": "Company safety manager",
+      "E": "Company engineer"
+    },
+    "correctAnswer": "C",
+    "explanation": "Jurisdictional safety acts mandate that the chief engineer or person in charge of the boiler plant must immediately report any accident or explosion to the authority."
+  },
+  {
+    "number": 67,
+    "heading": "Boiler Operation",
+    "question": "Hot water heating boilers should have their operating pressure at _______ below the relief valve pressure.",
+    "options": {
+      "A": "25 kPa or 75% of relief valve pressure, whichever is greater",
+      "B": "35 kPa below the relief valve setting",
+      "C": "The higher of either 70 kPa or 25% of the relief pressure",
+      "D": "The lower of either 70 kPa or 25% of the relief pressure",
+      "E": "The higher of either 50 kPa or 10% of the relief pressure"
+    },
+    "correctAnswer": "C",
+    "explanation": "Standard code guidelines mandate that operating pressure in hot water boilers be at least 70 kPa or 25% of relief valve setting (whichever is higher) below the relief valve setpoint."
+  },
+  {
+    "number": 68,
+    "heading": "Boiler Operation",
+    "question": "Waterside scale and fireside soot deposits:",
+    "options": {
+      "A": "Reduce operating costs",
+      "B": "Decrease heating surface fouling",
+      "C": "Increase heat transfer",
+      "D": "Decrease boiler efficiency",
+      "E": "Increase boiler efficiency"
+    },
+    "correctAnswer": "D",
+    "explanation": "Both soot on the fireside and scale on the waterside act as thermal insulators, reducing heat transfer into boiler water and decreasing overall boiler efficiency."
+  },
+  {
+    "number": 69,
+    "heading": "Boiler Operation",
+    "question": "Although there are many automatic safeguards, the ________ is the first and last line of defence.",
+    "options": {
+      "A": "Jurisdictional inspector",
+      "B": "Boiler operator",
+      "C": "Boiler master",
+      "D": "ASME code",
+      "E": "Chief engineer"
+    },
+    "correctAnswer": "B",
+    "explanation": "Automated controls can fail; the trained boiler operator monitoring operations remains the primary defense against plant accidents."
+  },
+  {
+    "number": 70,
+    "heading": "Boiler Operation",
+    "question": "ASME CSD-1 recommends level controls in a low pressure boilers should be tested:",
+    "options": {
+      "A": "Monthly",
+      "B": "Daily",
+      "C": "Weekly",
+      "D": "Hourly",
+      "E": "Semi annually"
+    },
+    "correctAnswer": "C",
+    "explanation": "ASME CSD-1 recommends that level controls on operating low-pressure boilers be tested weekly to verify that they are functioning properly. Regular testing helps ensure that the controls detect unsafe water levels and shut down the burner when necessary, protecting the boiler from low-water damage."
+  },
+  {
+    "number": 71,
+    "heading": "Operational Checks",
+    "question": "Logs books are typically maintained available in storage for:",
+    "options": {
+      "A": "100 years",
+      "B": "7 years",
+      "C": "1 year",
+      "D": "50 years",
+      "E": "The life of the boiler"
+    },
+    "correctAnswer": "B",
+    "explanation": "Standard jurisdictional and plant record-keeping rules require boiler operating log books to be retained in storage for at least 7 years."
+  },
+  {
+    "number": 72,
+    "heading": "Operational Checks",
+    "question": "The boiler log is:",
+    "options": {
+      "A": "Is kept in the plant managers office",
+      "B": "A legal document",
+      "C": "Not really required",
+      "D": "Is only used when there are accidents",
+      "E": "Not available for review by operators"
+    },
+    "correctAnswer": "B",
+    "explanation": "The boiler log book is an official, legally binding document required by safety regulations to record daily operational checks, incidents, and maintenance."
+  },
+  {
+    "number": 73,
+    "heading": "Operational Checks",
+    "question": "When tightening packing nuts on steam boiler gauge glasses, it is important to:",
+    "options": {
+      "A": "Remove the gauge glass from the boiler",
+      "B": "Depressure the gauge glass",
+      "C": "Cool the gauge glass by spraying cold water on it",
+      "D": "Shut down the boiler and depressure it",
+      "E": "Tighten them slowly if still under pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": "Always isolate and depressurize the gauge glass assembly before tightening packing nuts to prevent glass breakage and severe steam burns."
+  },
+  {
+    "number": 74,
+    "heading": "Operational Checks",
+    "question": "A safety valve accumulation test is performed:",
+    "options": {
+      "A": "Annually",
+      "B": "To verify the safety valve capacity",
+      "C": "Monthly",
+      "D": "Semi annually",
+      "E": "To determine the volume inside the safety valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "An accumulation test is conducted (typically upon initial commissioning or major alterations) to prove that the safety valve relieving capacity is sufficient to prevent boiler pressure from exceeding maximum allowable limits."
+  },
+  {
+    "number": 75,
+    "heading": "Operational Checks",
+    "question": "The pressure control operating switch should be:",
+    "options": {
+      "A": "Never tested",
+      "B": "Tested annually",
+      "C": "Tested in the presence of a boiler inspector",
+      "D": "Tested weekly",
+      "E": "Observed during normal operation"
+    },
+    "correctAnswer": "E",
+    "explanation": "During routine shift rounds and normal operation, the operator continuously observes the operating pressure switch to verify it cuts out and cuts in at proper pressure setpoints."
+  },
+  {
+    "number": 76,
+    "heading": "Operational Checks",
+    "question": "When testing safety valves (or anytime they pop) it is important to:",
+    "options": {
+      "A": "Notify the inspector",
+      "B": "Record popping and closing pressures",
+      "C": "Lower the boiler pressure to 75% of normal working pressure",
+      "D": "Gag them so they don’t pop again",
+      "E": "Remove and repair the safety valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "Whenever a safety valve opens, the exact popping (opening) pressure and reseating (closing) pressure must be observed and logged in the boiler log book."
+  },
+  {
+    "number": 77,
+    "heading": "Operational Checks",
+    "question": "What is the popping range and blowdown for a safety valve on a high pressure steam boiler who’s safety valve is set to open at 3500 kPa.",
+    "options": {
+      "A": "Range 3395-3605 kPa, and blowdown 15 kPa",
+      "B": "Range 3430-3570 kPa, and blowdown 70 kPa",
+      "C": "Range 3465-3535 kPa, and blowdown 80 kPa",
+      "D": "Range 3430-3570 kPa, and blowdown 105 kPa",
+      "E": "Range 3395-3605 kPa, and blowdown 70 kPa"
+    },
+    "correctAnswer": "B",
+    "explanation": "For a safety valve set at 3500 kPa, the popping pressure range is 3430–3570 kPa (±2% of the set pressure). The specified blowdown is 70 kPa. Blowdown is the pressure difference between when the safety valve opens and when it closes. Therefore, the correct combination is a popping range of 3430–3570 kPa and a blowdown of 70 kPa"
+  },
+  {
+    "number": 78,
+    "heading": "Operational Checks",
+    "question": "On a steam heating boiler, the safety valve should be replaced if it does not operate correctly within the range of:",
+    "options": {
+      "A": "50-100 kPa",
+      "B": "85-115 kPa",
+      "C": "100-120 kPa",
+      "D": "75-85 kPa",
+      "E": "85-100 kPa"
+    },
+    "correctAnswer": "B",
+    "explanation": "On a low-pressure steam heating boiler (100 kPa standard working pressure), the safety valve setpoint tolerance range is 85 kPa to 115 kPa (100 kPa ± 15 kPa)."
+  },
+  {
+    "number": 79,
+    "heading": "Operational Checks",
+    "question": "The boiler log contains information about:",
+    "options": {
+      "A": "Maintenance",
+      "B": "Testing",
+      "C": "Adjustment of controls",
+      "D": "Abnormal operating conditions",
+      "E": "All of these and more are put into the boiler log"
+    },
+    "correctAnswer": "E",
+    "explanation": "The boiler log book records all plant operational events including maintenance work, safety control testing, control adjustments, and abnormal occurrences."
+  },
+  {
+    "number": 80,
+    "heading": "Operational Checks",
+    "question": "The try lever should not be attempted on a power boiler unless the current pressure is _____ of the relief valve pressure.",
+    "options": {
+      "A": "95%",
+      "B": "100%",
+      "C": "50%",
+      "D": "75%",
+      "E": "35%"
+    },
+    "correctAnswer": "D",
+    "explanation": "ASME guidelines mandate that a manual try lever test must only be performed when boiler pressure is at least 75% of the safety valve set pressure to ensure sufficient force to lift the disc cleanly without damaging valve seats."
+  },
+  {
+    "number": 81,
+    "heading": "Operational Checks",
+    "question": "A Standard Operating Procedure is effective at ensuring work is done:",
+    "options": {
+      "A": "With no expensive parts",
+      "B": "In a consistent manner",
+      "C": "Without a safe work permit",
+      "D": "As cheaply as possible",
+      "E": "As quickly as possible"
+    },
+    "correctAnswer": "B",
+    "explanation": "Standard Operating Procedures (SOPs) provide step-by-step instructions to ensure tasks are executed safely and consistently by all operating personnel."
+  },
+  {
+    "number": 82,
+    "heading": "Operational Checks",
+    "question": "From a distance, the boiler water level in the gauge glass should be seen to be:",
+    "options": {
+      "A": "Near the bottom",
+      "B": "Invisible if the water is clear",
+      "C": "Only visible close up with a flashlight",
+      "D": "About half",
+      "E": "Near the top"
+    },
+    "correctAnswer": "D",
+    "explanation": "During normal steady-state boiler operation, the water level visible in the gauge glass should be maintained near the normal operating water level, which is approximately at the halfway point."
+  },
+  {
+    "number": 83,
+    "heading": "Operational Checks",
+    "question": "During operator rounds, you should check the brine tank of the zeolite softeners to ensure:",
+    "options": {
+      "A": "The brine tank is filled to the top with salt",
+      "B": "The brine tank is flushed clean",
+      "C": "The brine tank is completely drained",
+      "D": "There is no salt remaining in the brine tank",
+      "E": "Undissolved salt is present in the brine tank"
+    },
+    "correctAnswer": "E",
+    "explanation": "To ensure a fully saturated salt solution (brine) for softener regeneration, undissolved solid salt must always be present at the bottom/body of the brine tank."
+  },
+  {
+    "number": 84,
+    "heading": "Operational Checks",
+    "question": "A typical operator check of the boiler feed water pump is:",
+    "options": {
+      "A": "Hardness, pH, conductivity",
+      "B": "Windbox pressure, fan rotation, linkage",
+      "C": "Bearing temperatures and discharge pressure only",
+      "D": "Vibration, leaks, noise, inlet and outlet pressure",
+      "E": "Discharge pressure only"
+    },
+    "correctAnswer": "D",
+    "explanation": "Routine physical walkdown checks of rotating equipment like feedwater pumps include monitoring vibration levels, seal leakage, abnormal noise, and suction/discharge pressures."
+  },
+  {
+    "number": 85,
+    "heading": "Operational Checks",
+    "question": "When a boiler operator comes on shift, they should review the records and logs:",
+    "options": {
+      "A": "Before the end of that shift",
+      "B": "Since the last time they were on shift",
+      "C": "For the previous day",
+      "D": "Only if needed",
+      "E": "For the previous shift"
+    },
+    "correctAnswer": "B",
+    "explanation": "To maintain complete situational awareness of plant status and changes, an incoming operator should review all log entries recorded since their own last shift on duty."
+  },
+  {
+    "number": 86,
+    "heading": "Operational Checks",
+    "question": "Flame rods used in oil burners should be checked regularly for:",
+    "options": {
+      "A": "Dirty lens",
+      "B": "Carbon buildup",
+      "C": "Rust",
+      "D": "Plugging",
+      "E": "Internal pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": "Flame rods (ionization sensors) located near oil burner nozzles accumulate conductive soot/carbon deposits which cause short circuits and false flame detection signals."
+  },
+  {
+    "number": 87,
+    "heading": "Operational Checks",
+    "question": "When testing a low level cutoff by isolating the boiler and allowing the boiler level to slowly drop by steaming, while constantly watching the gauge glass, if the boiler does not trip when the level drops to the lowest visible level in the gauge glass, the operator must:",
+    "options": {
+      "A": "Immediately add water or trip the boiler",
+      "B": "Continue watching until it trips",
+      "C": "Wait until the low level alarm indicates there is a problem",
+      "D": "Close the steam outlet valve immediately",
+      "E": "Decrease the firing rate on the boiler"
+    },
+    "correctAnswer": "A",
+    "explanation": "If the water level drops to the bottom of the gauge glass without triggering the low water cut-off shutdown, the operator must act immediately to trip the fuel supply or add feedwater to prevent dangerous low-water overheating."
+  },
+  {
+    "number": 88,
+    "heading": "Operational Checks",
+    "question": "An advantage to testing low water level cutoffs by rapidly draining the float chamber is:",
+    "options": {
+      "A": "It flushes out the drain lines",
+      "B": "It too quick to detect a low level",
+      "C": "The gauge glass level will not change",
+      "D": "The boiler will not trip",
+      "E": "It discharges sediment from the float chamber"
+    },
+    "correctAnswer": "E",
+    "explanation": "Blowing down or rapidly draining the low water cut-off float chamber flushes out accumulated sludge, mud, and sediment that could otherwise jam the float mechanism."
+  },
+  {
+    "number": 89,
+    "heading": "Operational Checks",
+    "question": "Flow switches to prevent firing in low flow conditions are installed on:",
+    "options": {
+      "A": "Boilers with superheaters",
+      "B": "Low pressure steam boilers",
+      "C": "Cast iron boilers",
+      "D": "Copper tube hot water boilers",
+      "E": "High pressure steam boilers"
+    },
+    "correctAnswer": "D",
+    "explanation": "Copper tube boilers contain very little water volume and rely on positive water circulation; a flow switch is mandatory to cut off firing immediately if water flow drops."
+  },
+  {
+    "number": 90,
+    "heading": "Operational Checks",
+    "question": "To test the flame failure device on a boiler:",
+    "options": {
+      "A": "Follow manufacturers instructions",
+      "B": "Wait until a normal flame failure occurs during operations, and record the results",
+      "C": "Jumper the shutdowns out and simulate a low flame electronically",
+      "D": "Bypass the shutdowns and disconnect the wires",
+      "E": "Pull the flame rod out and cover it"
+    },
+    "correctAnswer": "A",
+    "explanation": "Testing safety controls like flame failure detection systems must strictly follow the equipment manufacturer's specified testing procedure to ensure safety."
+  },
+  {
+    "number": 91,
+    "heading": "Shutdown Procedures",
+    "question": "Boilers that are on shutdown on standby are usually layed up using the _____ method.",
+    "options": {
+      "A": "Hot standby",
+      "B": "Dry layup",
+      "C": "Drained and hot",
+      "D": "Maintained at full pressure",
+      "E": "Wet layup"
+    },
+    "correctAnswer": "E",
+    "explanation": "Boilers placed on standby that may be needed back online on short notice are typically layed up wet (filled with chemically treated water or under a nitrogen blanket)."
+  },
+  {
+    "number": 92,
+    "heading": "Shutdown Procedures",
+    "question": "Wet layup of steam boiler that are being kept out of service for a period of time, but must remain ready to be put back online with short notice should:",
+    "options": {
+      "A": "Maintain the boiler completely full of water to prevent oxygen from entering the boiler",
+      "B": "Kept running at all times",
+      "C": "Dismantled and new parts ordered",
+      "D": "Should be layed up dry",
+      "E": "Be drained completely and dried out"
+    },
+    "correctAnswer": "A",
+    "explanation": "During wet layup, the boiler is filled completely with chemically treated water (or maintained under positive pressure) to exclude air and prevent oxygen corrosion."
+  },
+  {
+    "number": 93,
+    "heading": "Shutdown Procedures",
+    "question": "During a steam boiler dry layup, the amount of quicklime used per cubic meter is:",
+    "options": {
+      "A": "0.88 kg",
+      "B": "1.27 kg",
+      "C": "0.32 kg",
+      "D": "0.79 kg",
+      "E": "1.13 kg"
+    },
+    "correctAnswer": "E",
+    "explanation": "Standard power engineering guidelines specify approximately 1.13 kg of quicklime (calcium oxide) per cubic meter of boiler volume (or ~3 lbs per 100 cu ft) for dry layup moisture absorption."
+  },
+  {
+    "number": 94,
+    "heading": "Shutdown Procedures",
+    "question": "Steam boilers on standby that are layed up with water in them, should have their pH adjusted to:",
+    "options": {
+      "A": "5.5",
+      "B": "12",
+      "C": "7",
+      "D": "8",
+      "E": "10"
+    },
+    "correctAnswer": "E",
+    "explanation": "During wet layup, water alkalinity is elevated to a target pH of approximately 10 (often around 10 to 11) using caustic soda or hydrasine/sulfite treatment to protect against corrosion."
+  },
+  {
+    "number": 95,
+    "heading": "Shutdown Procedures",
+    "question": "A boiler on wet layup should maintain a nitrogen blanket of:",
+    "options": {
+      "A": "40 kPa",
+      "B": "100 kPa",
+      "C": "10 Kpa",
+      "D": "0 kPa",
+      "E": "200 kPa"
+    },
+    "correctAnswer": "E",
+    "explanation": "When using a nitrogen capping/blanketing system during wet layup, nitrogen pressure is maintained at approximately 35–200 kPa (commonly specified up to ~200 kPa or held around positive overpressure) to keep oxygen out."
+  },
+  {
+    "number": 96,
+    "heading": "Shutdown Procedures",
+    "question": "When a competent operator shuts down and locks out a boiler, they will:",
+    "options": {
+      "A": "Lock out the water and steam systems only",
+      "B": "Only lockout the steam system",
+      "C": "Follow manufacturers recommendation only",
+      "D": "Use double locks on all gas lines",
+      "E": "Follow site specific procedures"
+    },
+    "correctAnswer": "E",
+    "explanation": "Lockout/tagout operations must strictly comply with established facility/site-specific energy isolation procedures (SOPs) and safety regulations."
+  },
+  {
+    "number": 97,
+    "heading": "Shutdown Procedures",
+    "question": "During the summer layup period, hot water boilers are usually:",
+    "options": {
+      "A": "Kept full of chemically treated water",
+      "B": "Refilled with fresh municipal water",
+      "C": "Maintained full of caustic soda",
+      "D": "Drained and dried out",
+      "E": "Dismantled and dried"
+    },
+    "correctAnswer": "A",
+    "explanation": "Seasonal hot water heating boilers are usually layed up wet during summer months, kept completely full of properly treated boiler water to prevent oxygen ingress."
+  },
+  {
+    "number": 98,
+    "heading": "Shutdown Procedures",
+    "question": "When preparing to remove a hot water boiler from service, all of these are done prior to closing the fuel gas valve except:",
+    "options": {
+      "A": "Blowdown the boiler to remove sediment",
+      "B": "Perform a try lever test on the safety relief valve",
+      "C": "Lock out the boiler draft fan",
+      "D": "Test operating and limit controls",
+      "E": "Test the water chemistry"
+    },
+    "correctAnswer": "C",
+    "explanation": "Locking out electrical systems like the draft fan is an isolation step performed AFTER the burner is safely shut down and fuel valves are closed, not prior."
+  },
+  {
+    "number": 99,
+    "heading": "Shutdown Procedures",
+    "question": "The steam drum vent is opened at approximately 35 kPa during shutdown to:",
+    "options": {
+      "A": "Prevent a vacuum from forming in the boiler",
+      "B": "Vent oxygen and carbon dioxide",
+      "C": "Place a second pressure gauge on the vent",
+      "D": "Verify the when there is no longer steam in the boiler",
+      "E": "Vent the non-condensable gases"
+    },
+    "correctAnswer": "A",
+    "explanation": "Opening the drum vent as steam pressure drops to ~35 kPa breaks the vacuum created by condensing steam, preventing structural atmospheric pressure damage."
+  },
+  {
+    "number": 100,
+    "heading": "Shutdown Procedures",
+    "question": "Blowdown on steam boilers is increased before shutting down to:",
+    "options": {
+      "A": "Discharge sediment and sludge",
+      "B": "Make room for fresh water and chemicals",
+      "C": "Lower the boiler level",
+      "D": "Test the level controls",
+      "E": "Verify the low level shutdown"
+    },
+    "correctAnswer": "A",
+    "explanation": "Increasing blowdown prior to shutdown flushes out accumulated suspended solids, scale particles, and bottom sludge while the water is still in circulation."
+  },
+  {
+    "number": 101,
+    "heading": "Shutdown Procedures",
+    "question": "When boilers are layed up for long periods in freezing conditions, the chosen method is usually:",
+    "options": {
+      "A": "Heated layup while maintaining a pilot",
+      "B": "Dry layup",
+      "C": "Wet layup",
+      "D": "Wet layup with antifreeze",
+      "E": "Dry layup with a small flame to maintain temperature above freezing"
+    },
+    "correctAnswer": "B",
+    "explanation": "If a boiler is out of service in ambient temperatures below freezing, it must be layed up dry (completely drained and dried with desiccants) to prevent freeze damage to pressure parts."
+  },
+  {
+    "number": 102,
+    "heading": "Shutdown Procedures",
+    "question": "When a boiler is locked out by a competent operator:",
+    "options": {
+      "A": "Maintenance activities can proceed immediately",
+      "B": "It must be approved by an inspector",
+      "C": "The plant manager must double check the procedure",
+      "D": "A second competent operator must verify correctness",
+      "E": "The safety department must verify the correct type of locks are used"
+    },
+    "correctAnswer": "D",
+    "explanation": "Safe plant operating procedures require that once a boiler is isolated and locked out by an operator, a second qualified operator must independently verify all isolation points before work begins."
+  },
+  {
+    "number": 103,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "To minimize the chance of damage to pipes and equipment caused by water hammer, it is best to close valves:",
+    "options": {
+      "A": "Very slowly at 25 seconds / inch diameter",
+      "B": "So that it takes 30 seconds to close any size valve",
+      "C": "At a rate of 25 seconds for every 5 mm of pipe diameter",
+      "D": "Slowly at 5 seconds/ inch diameter",
+      "E": "Quickly so there is no opportunity for water hammer"
+    },
+    "correctAnswer": "D",
+    "explanation": "To minimize water hammer, valves should be closed slowly at approximately 5 seconds per inch of pipe diameter. Closing a valve gradually prevents sudden changes in water flow and pressure, reducing pressure surges that can damage pipes, valves, and connected equipment."
+  },
+  {
+    "number": 104,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "All fire water pumps should have an annual _______.",
+    "options": {
+      "A": "Replacement",
+      "B": "Rebuild",
+      "C": "Flow test",
+      "D": "No-flow test",
+      "E": "Oil change"
+    },
+    "correctAnswer": "C",
+    "explanation": "NFPA standards and jurisdictional fire codes mandate an annual full flow test for all fire water pumps to verify pump performance, flow rate, and pressure output."
+  },
+  {
+    "number": 105,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Standby feedwater pumps are commonly run:",
+    "options": {
+      "A": "Hourly",
+      "B": "Weekly",
+      "C": "Annually",
+      "D": "Every other month",
+      "E": "Daily"
+    },
+    "correctAnswer": "B",
+    "explanation": "Standby auxiliary boiler feedwater pumps are routinely test-run on a weekly basis to ensure operational availability in the event of a primary pump failure."
+  },
+  {
+    "number": 106,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "A properly operating pressure relief valve will prevent the pressure in a steam boiler from rising more than _____ above the maximum allowable working pressure.",
+    "options": {
+      "A": "35 kPa",
+      "B": "100 kPa",
+      "C": "5%",
+      "D": "3%",
+      "E": "6%"
+    },
+    "correctAnswer": "E",
+    "explanation": "According to ASME Boiler and Pressure Vessel Code requirements, safety valves must prevent boiler pressure from rising more than 6% above the Maximum Allowable Working Pressure (MAWP)."
+  },
+  {
+    "number": 107,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Emergency and standby generators should inspected ____ and operated under load _____.",
+    "options": {
+      "A": "Annually, annually",
+      "B": "Monthly, semi annually",
+      "C": "Daily, weekly",
+      "D": "Every shift, daily",
+      "E": "Weekly, monthly"
+    },
+    "correctAnswer": "E",
+    "explanation": "Emergency power supply systems should undergo routine visual/physical inspections weekly and be tested under load on a monthly schedule."
+  },
+  {
+    "number": 108,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Taking and recording plant readings during operator rounds does not help to:",
+    "options": {
+      "A": "Assess operating conditions",
+      "B": "Record statistics for Human Resources department",
+      "C": "Improve understanding of the plant equipment",
+      "D": "Diagnose problems",
+      "E": "Determine operating trends"
+    },
+    "correctAnswer": "B",
+    "explanation": "Operator log sheets and round readings monitor technical conditions, equipment trends, and operating anomalies; they are not used to collect HR statistics."
+  },
+  {
+    "number": 109,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Plants equipped with Emergency Power Supply Systems will have:",
+    "options": {
+      "A": "Backup generators driven by battery packs",
+      "B": "An backup solar power generating facility for use during the day when there are no clouds",
+      "C": "Backup generators driven by prime movers",
+      "D": "Backup generators driven by electric motors",
+      "E": "An emergency connection to a hydroelectric facility"
+    },
+    "correctAnswer": "C",
+    "explanation": "Emergency power supply systems utilize emergency backup generators driven by internal combustion prime movers (such as diesel engines or natural gas turbines)."
+  },
+  {
+    "number": 110,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "In the case of an overpressure event, the operator should shut down the boiler and:",
+    "options": {
+      "A": "Inspect the furnace and flue stack",
+      "B": "Pressure test it with air to finds the leaks",
+      "C": "Restart it but operate it at half pressure for a month",
+      "D": "Inspect the internal and external pressure components",
+      "E": "Restart it slowly to determine if there are any leaks"
+    },
+    "correctAnswer": "D",
+    "explanation": "Following an overpressure incident, the boiler must be shut down and thoroughly inspected both internally and externally for thermal distortion, yield deformation, or structural damage."
+  },
+  {
+    "number": 111,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Internal damage to the valve trim of the boiler feedwater valve could result in:",
+    "options": {
+      "A": "Water hammer in the condensate return lines",
+      "B": "Foaming and scaling inside the boiler",
+      "C": "A false indication that the valve is open while the boiler level is dropping",
+      "D": "A significant reduction in stack temperature",
+      "E": "A drop in steam pressure and consequent reduction steam temperature"
+    },
+    "correctAnswer": "C",
+    "explanation": "Mechanical failure or detachment of the internal valve trim can disconnect the valve stem from the plug, giving a false external position indication while blocking feedwater flow."
+  },
+  {
+    "number": 112,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "If a boiler operates with the level below the lowest visible level in the gauge glass, it should be shut down, cooled, and inspected due to:",
+    "options": {
+      "A": "The water column needs to be lowered to show lower water levels",
+      "B": "There could have been priming and water may have carried over the top of the boiler into the steam lines",
+      "C": "The gauge glass needs to be repaired or replaced",
+      "D": "It is possible the level was below the upper heating surfaces and there could be overheating damage",
+      "E": "The gauge glass needs to be cleaned since it is impossible to operate with the level out of the visible area of the gauge glass"
+    },
+    "correctAnswer": "D",
+    "explanation": "Operating with water below the visible gauge glass level risks uncovering heat transfer surfaces, exposing pressure components to severe overheating, blistering, or catastrophic failure."
+  },
+  {
+    "number": 113,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "When a boiler or furnace explosion occurs, it must be reported:",
+    "options": {
+      "A": "Only if the inspector asks",
+      "B": "During annual inspection",
+      "C": "Only to the plant manager",
+      "D": "Promptly",
+      "E": "Only if someone was hurt"
+    },
+    "correctAnswer": "D",
+    "explanation": "Jurisdictional safety regulations mandate that any boiler or pressure vessel explosion/accident must be reported promptly to the jurisdictional authority."
+  },
+  {
+    "number": 114,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Emergency _________ is often supplied to critical equipment like hydrogen coolant systems to allow safe system shutdown during power failures.",
+    "options": {
+      "A": "Wind generated power",
+      "B": "DC battery power",
+      "C": "Hydrogen conversion cell power",
+      "D": "Nuclear fusion power",
+      "E": "Solar generated power"
+    },
+    "correctAnswer": "B",
+    "explanation": "DC battery banks provide reliable uninterruptible emergency power to critical safety systems, controls, emergency lube oil pumps, and hydrogen seal systems."
+  },
+  {
+    "number": 115,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "When a forced draft fan fails, the operator should ensure the main gas and pilot gas valves are closed and:",
+    "options": {
+      "A": "Open the inlet and outlet dampers wide",
+      "B": "Increase the boiler blowdown",
+      "C": "Depressure the boiler",
+      "D": "Open the main fuel gas bypass and relight the boiler",
+      "E": "Close the fan inlet damper"
+    },
+    "correctAnswer": "E",
+    "explanation": "If the forced draft fan fails, the main gas and pilot gas valves must be closed immediately to stop fuel from entering the furnace. The fan inlet damper should also be closed to prevent unwanted or uncontrolled airflow through the failed fan. The boiler must remain shut down until the fan problem is repaired and the proper purge and startup procedures are completed."
+  },
+  {
+    "number": 116,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Reliability predictions of equipment can be made thanks to:",
+    "options": {
+      "A": "Breakdown maintenance practices",
+      "B": "Government reports",
+      "C": "Expensive software",
+      "D": "Good maintenance records",
+      "E": "Google searches"
+    },
+    "correctAnswer": "D",
+    "explanation": "Comprehensive historical maintenance records allow plant personnel to track failure frequencies, identify trends, and accurately predict equipment reliability."
+  },
+  {
+    "number": 117,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "When a total plant power failure occurs that results in loss of power boilers, one of the first things the operator must ensure:",
+    "options": {
+      "A": "Boiler chemical feed is shut off to prevent over filling the boiler",
+      "B": "Boiler blowdowns are closed to prevent loss of boiler level",
+      "C": "Steam traps are closed to prevent losing all the steam in the headers",
+      "D": "All turbines are tripped immediately to maintain header pressure",
+      "E": "Superheater vents are open to guarantee flow and prevent overheating"
+    },
+    "correctAnswer": "E",
+    "explanation": "During a total plant power outage with residual furnace heat, superheater vents must be opened to establish steam flow and protect uncooled superheater tubes."
+  },
+  {
+    "number": 118,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Fire water pumps should be run for ____ if connected to a diesel engine and _____ if connected to an electric motor.",
+    "options": {
+      "A": "10 minutes, 30 minutes",
+      "B": "1 hour, 2 hours",
+      "C": "All day, 1 hour",
+      "D": "30 minutes, 10 minutes",
+      "E": "6 hours, 1 hour"
+    },
+    "correctAnswer": "D",
+    "explanation": "Standard fire pump testing procedures specify running diesel engine driven fire pumps for 30 minutes (to allow engine warmup) and electric motor driven pumps for 10 minutes."
+  },
+  {
+    "number": 119,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "If the preventative maintenance checks identify a concern, the operator should:",
+    "options": {
+      "A": "Immediately try to fix the equipment themselves",
+      "B": "Wait until the equipment breaks before reporting it",
+      "C": "Create a work order",
+      "D": "Ignore the problem until someone else also finds it",
+      "E": "Tell the maintenance manager to create a work order"
+    },
+    "correctAnswer": "C",
+    "explanation": "Operators discovering equipment deficiencies during routine PM checks should formally log and generate a maintenance work order."
+  },
+  {
+    "number": 120,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "A preventative maintenance system:",
+    "options": {
+      "A": "Does not include vibration monitoring",
+      "B": "Cannot save the company any money",
+      "C": "Excludes safety valve testing",
+      "D": "Is only done in very large companies",
+      "E": "Provides early detection of equipment problems"
+    },
+    "correctAnswer": "E",
+    "explanation": "Preventative and predictive maintenance systems are designed to detect emerging equipment defects early before catastrophic failure occurs."
+  },
+  {
+    "number": 121,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "To protect the boiler feedwater pumps from cavitation and damage:",
+    "options": {
+      "A": "A cavitation alarm is connected to the pump",
+      "B": "The deaerator low low level switch will shut down the pumps",
+      "C": "The pump is designed with a special intake that prevents any chance of cavitation",
+      "D": "The boiler feedwater pumps are made from indestructible materials",
+      "E": "The pumps will have an automatic recycle valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "A low-low water level condition in the deaerator storage tank trips the boiler feedwater pumps to protect them against loss of Net Positive Suction Head (NPSH) and destructive cavitation."
+  },
+  {
+    "number": 122,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "When a low water level incident occurs in a boiler, if there is any signs of damage to the heating surfaces, the operator must:",
+    "options": {
+      "A": "Refill the boiler right away and restart the boiler",
+      "B": "Continue operating as usual until a leak is seen",
+      "C": "Notify the inspector",
+      "D": "Inspect the boiler, and if there are no leaks, restart it",
+      "E": "Notify the safety department"
+    },
+    "correctAnswer": "C",
+    "explanation": "If a low water event results in visible overheating or structural damage to pressure parts, safety regulations require notifying the boiler inspector prior to repair or restart."
+  }
+]

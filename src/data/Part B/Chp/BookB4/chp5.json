@@ -1,0 +1,170 @@
+[
+  {
+    "number": 1,
+    "heading": "Shutdown Procedures",
+    "question": "Boilers that are on shutdown on standby are usually layed up using the _____ method.",
+    "options": {
+      "A": "Hot standby",
+      "B": "Dry layup",
+      "C": "Drained and hot",
+      "D": "Maintained at full pressure",
+      "E": "Wet layup"
+    },
+    "correctAnswer": "E",
+    "explanation": "Boilers placed on standby that may be needed back online on short notice are typically layed up wet (filled with chemically treated water or under a nitrogen blanket)."
+  },
+  {
+    "number": 2,
+    "heading": "Shutdown Procedures",
+    "question": "Wet layup of steam boiler that are being kept out of service for a period of time, but must remain ready to be put back online with short notice should:",
+    "options": {
+      "A": "Maintain the boiler completely full of water to prevent oxygen from entering the boiler",
+      "B": "Kept running at all times",
+      "C": "Dismantled and new parts ordered",
+      "D": "Should be layed up dry",
+      "E": "Be drained completely and dried out"
+    },
+    "correctAnswer": "A",
+    "explanation": "During wet layup, the boiler is filled completely with chemically treated water (or maintained under positive pressure) to exclude air and prevent oxygen corrosion."
+  },
+  {
+    "number": 3,
+    "heading": "Shutdown Procedures",
+    "question": "During a steam boiler dry layup, the amount of quicklime used per cubic meter is:",
+    "options": {
+      "A": "0.88 kg",
+      "B": "1.27 kg",
+      "C": "0.32 kg",
+      "D": "0.79 kg",
+      "E": "1.13 kg"
+    },
+    "correctAnswer": "E",
+    "explanation": "Standard power engineering guidelines specify approximately 1.13 kg of quicklime (calcium oxide) per cubic meter of boiler volume (or ~3 lbs per 100 cu ft) for dry layup moisture absorption."
+  },
+  {
+    "number": 4,
+    "heading": "Shutdown Procedures",
+    "question": "Steam boilers on standby that are layed up with water in them, should have their pH adjusted to:",
+    "options": {
+      "A": "5.5",
+      "B": "12",
+      "C": "7",
+      "D": "8",
+      "E": "10"
+    },
+    "correctAnswer": "E",
+    "explanation": "During wet layup, water alkalinity is elevated to a target pH of approximately 10 (often around 10 to 11) using caustic soda or hydrasine/sulfite treatment to protect against corrosion."
+  },
+  {
+    "number": 5,
+    "heading": "Shutdown Procedures",
+    "question": "A boiler on wet layup should maintain a nitrogen blanket of:",
+    "options": {
+      "A": "40 kPa",
+      "B": "100 kPa",
+      "C": "10 Kpa",
+      "D": "0 kPa",
+      "E": "200 kPa"
+    },
+    "correctAnswer": "E",
+    "explanation": "When using a nitrogen capping/blanketing system during wet layup, nitrogen pressure is maintained at approximately 35–200 kPa (commonly specified up to ~200 kPa or held around positive overpressure) to keep oxygen out."
+  },
+  {
+    "number": 6,
+    "heading": "Shutdown Procedures",
+    "question": "When a competent operator shuts down and locks out a boiler, they will:",
+    "options": {
+      "A": "Lock out the water and steam systems only",
+      "B": "Only lockout the steam system",
+      "C": "Follow manufacturers recommendation only",
+      "D": "Use double locks on all gas lines",
+      "E": "Follow site specific procedures"
+    },
+    "correctAnswer": "E",
+    "explanation": "Lockout/tagout operations must strictly comply with established facility/site-specific energy isolation procedures (SOPs) and safety regulations."
+  },
+  {
+    "number": 7,
+    "heading": "Shutdown Procedures",
+    "question": "During the summer layup period, hot water boilers are usually:",
+    "options": {
+      "A": "Kept full of chemically treated water",
+      "B": "Refilled with fresh municipal water",
+      "C": "Maintained full of caustic soda",
+      "D": "Drained and dried out",
+      "E": "Dismantled and dried"
+    },
+    "correctAnswer": "A",
+    "explanation": "Seasonal hot water heating boilers are usually layed up wet during summer months, kept completely full of properly treated boiler water to prevent oxygen ingress."
+  },
+  {
+    "number": 8,
+    "heading": "Shutdown Procedures",
+    "question": "When preparing to remove a hot water boiler from service, all of these are done prior to closing the fuel gas valve except:",
+    "options": {
+      "A": "Blowdown the boiler to remove sediment",
+      "B": "Perform a try lever test on the safety relief valve",
+      "C": "Lock out the boiler draft fan",
+      "D": "Test operating and limit controls",
+      "E": "Test the water chemistry"
+    },
+    "correctAnswer": "C",
+    "explanation": "Locking out electrical systems like the draft fan is an isolation step performed AFTER the burner is safely shut down and fuel valves are closed, not prior."
+  },
+  {
+    "number": 9,
+    "heading": "Shutdown Procedures",
+    "question": "The steam drum vent is opened at approximately 35 kPa during shutdown to:",
+    "options": {
+      "A": "Prevent a vacuum from forming in the boiler",
+      "B": "Vent oxygen and carbon dioxide",
+      "C": "Place a second pressure gauge on the vent",
+      "D": "Verify the when there is no longer steam in the boiler",
+      "E": "Vent the non-condensable gases"
+    },
+    "correctAnswer": "A",
+    "explanation": "Opening the drum vent as steam pressure drops to ~35 kPa breaks the vacuum created by condensing steam, preventing structural atmospheric pressure damage."
+  },
+  {
+    "number": 10,
+    "heading": "Shutdown Procedures",
+    "question": "Blowdown on steam boilers is increased before shutting down to:",
+    "options": {
+      "A": "Discharge sediment and sludge",
+      "B": "Make room for fresh water and chemicals",
+      "C": "Lower the boiler level",
+      "D": "Test the level controls",
+      "E": "Verify the low level shutdown"
+    },
+    "correctAnswer": "A",
+    "explanation": "Increasing blowdown prior to shutdown flushes out accumulated suspended solids, scale particles, and bottom sludge while the water is still in circulation."
+  },
+  {
+    "number": 11,
+    "heading": "Shutdown Procedures",
+    "question": "When boilers are layed up for long periods in freezing conditions, the chosen method is usually:",
+    "options": {
+      "A": "Heated layup while maintaining a pilot",
+      "B": "Dry layup",
+      "C": "Wet layup",
+      "D": "Wet layup with antifreeze",
+      "E": "Dry layup with a small flame to maintain temperature above freezing"
+    },
+    "correctAnswer": "B",
+    "explanation": "If a boiler is out of service in ambient temperatures below freezing, it must be layed up dry (completely drained and dried with desiccants) to prevent freeze damage to pressure parts."
+  },
+  {
+    "number": 12,
+    "heading": "Shutdown Procedures",
+    "question": "When a boiler is locked out by a competent operator:",
+    "options": {
+      "A": "Maintenance activities can proceed immediately",
+      "B": "It must be approved by an inspector",
+      "C": "The plant manager must double check the procedure",
+      "D": "A second competent operator must verify correctness",
+      "E": "The safety department must verify the correct type of locks are used"
+    },
+    "correctAnswer": "D",
+    "explanation": "Safe plant operating procedures require that once a boiler is isolated and locked out by an operator, a second qualified operator must independently verify all isolation points before work begins."
+  }
+]

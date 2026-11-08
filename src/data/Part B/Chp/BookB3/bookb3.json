@@ -663,7 +663,7 @@
     "number": 45,
     "chapter": "chp2",
     "heading": "Combustion Safety",
-    "question": "A flame scanner:\n1. Requires a photoelectric cell\n2. Responds to temperature changes\n3. Requires a clear line of sight to the flame\n4. Produces a steady voltage signal\n\nA) 1, 2, 4\nB) 1, 2, 3, 4\nC) 2, 3\nD) 2, 3, 4\nE) 1, 3",
+    "question": "A flame scanner:\n1. Requires a photoelectric cell\n2. Responds to temperature changes\n3. Requires a clear line of sight to the flame\n4. Produces a steady voltage signal",
     "options": {
       "A": "1, 2, 4",
       "B": "1, 2, 3, 4",

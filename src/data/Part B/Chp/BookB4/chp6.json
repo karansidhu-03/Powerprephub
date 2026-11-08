@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "To minimize the chance of damage to pipes and equipment caused by water hammer, it is best to close valves:",
+    "options": {
+      "A": "Very slowly at 25 seconds / inch diameter",
+      "B": "So that it takes 30 seconds to close any size valve",
+      "C": "At a rate of 25 seconds for every 5 mm of pipe diameter",
+      "D": "Slowly at 5 seconds/ inch diameter",
+      "E": "Quickly so there is no opportunity for water hammer"
+    },
+    "correctAnswer": "D",
+    "explanation": "To minimize water hammer, valves should be closed slowly at approximately 5 seconds per inch of pipe diameter. Closing a valve gradually prevents sudden changes in water flow and pressure, reducing pressure surges that can damage pipes, valves, and connected equipment."
+  },
+  {
+    "number": 2,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "All fire water pumps should have an annual _______.",
+    "options": {
+      "A": "Replacement",
+      "B": "Rebuild",
+      "C": "Flow test",
+      "D": "No-flow test",
+      "E": "Oil change"
+    },
+    "correctAnswer": "C",
+    "explanation": "NFPA standards and jurisdictional fire codes mandate an annual full flow test for all fire water pumps to verify pump performance, flow rate, and pressure output."
+  },
+  {
+    "number": 3,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Standby feedwater pumps are commonly run:",
+    "options": {
+      "A": "Hourly",
+      "B": "Weekly",
+      "C": "Annually",
+      "D": "Every other month",
+      "E": "Daily"
+    },
+    "correctAnswer": "B",
+    "explanation": "Standby auxiliary boiler feedwater pumps are routinely test-run on a weekly basis to ensure operational availability in the event of a primary pump failure."
+  },
+  {
+    "number": 4,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "A properly operating pressure relief valve will prevent the pressure in a steam boiler from rising more than _____ above the maximum allowable working pressure.",
+    "options": {
+      "A": "35 kPa",
+      "B": "100 kPa",
+      "C": "5%",
+      "D": "3%",
+      "E": "6%"
+    },
+    "correctAnswer": "E",
+    "explanation": "According to ASME Boiler and Pressure Vessel Code requirements, safety valves must prevent boiler pressure from rising more than 6% above the Maximum Allowable Working Pressure (MAWP)."
+  },
+  {
+    "number": 5,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Emergency and standby generators should inspected ____ and operated under load _____.",
+    "options": {
+      "A": "Annually, annually",
+      "B": "Monthly, semi annually",
+      "C": "Daily, weekly",
+      "D": "Every shift, daily",
+      "E": "Weekly, monthly"
+    },
+    "correctAnswer": "E",
+    "explanation": "Emergency power supply systems should undergo routine visual/physical inspections weekly and be tested under load on a monthly schedule."
+  },
+  {
+    "number": 6,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Taking and recording plant readings during operator rounds does not help to:",
+    "options": {
+      "A": "Assess operating conditions",
+      "B": "Record statistics for Human Resources department",
+      "C": "Improve understanding of the plant equipment",
+      "D": "Diagnose problems",
+      "E": "Determine operating trends"
+    },
+    "correctAnswer": "B",
+    "explanation": "Operator log sheets and round readings monitor technical conditions, equipment trends, and operating anomalies; they are not used to collect HR statistics."
+  },
+  {
+    "number": 7,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Plants equipped with Emergency Power Supply Systems will have:",
+    "options": {
+      "A": "Backup generators driven by battery packs",
+      "B": "An backup solar power generating facility for use during the day when there are no clouds",
+      "C": "Backup generators driven by prime movers",
+      "D": "Backup generators driven by electric motors",
+      "E": "An emergency connection to a hydroelectric facility"
+    },
+    "correctAnswer": "C",
+    "explanation": "Emergency power supply systems utilize emergency backup generators driven by internal combustion prime movers (such as diesel engines or natural gas turbines)."
+  },
+  {
+    "number": 8,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "In the case of an overpressure event, the operator should shut down the boiler and:",
+    "options": {
+      "A": "Inspect the furnace and flue stack",
+      "B": "Pressure test it with air to finds the leaks",
+      "C": "Restart it but operate it at half pressure for a month",
+      "D": "Inspect the internal and external pressure components",
+      "E": "Restart it slowly to determine if there are any leaks"
+    },
+    "correctAnswer": "D",
+    "explanation": "Following an overpressure incident, the boiler must be shut down and thoroughly inspected both internally and externally for thermal distortion, yield deformation, or structural damage."
+  },
+  {
+    "number": 9,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Internal damage to the valve trim of the boiler feedwater valve could result in:",
+    "options": {
+      "A": "Water hammer in the condensate return lines",
+      "B": "Foaming and scaling inside the boiler",
+      "C": "A false indication that the valve is open while the boiler level is dropping",
+      "D": "A significant reduction in stack temperature",
+      "E": "A drop in steam pressure and consequent reduction steam temperature"
+    },
+    "correctAnswer": "C",
+    "explanation": "Mechanical failure or detachment of the internal valve trim can disconnect the valve stem from the plug, giving a false external position indication while blocking feedwater flow."
+  },
+  {
+    "number": 10,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "If a boiler operates with the level below the lowest visible level in the gauge glass, it should be shut down, cooled, and inspected due to:",
+    "options": {
+      "A": "The water column needs to be lowered to show lower water levels",
+      "B": "There could have been priming and water may have carried over the top of the boiler into the steam lines",
+      "C": "The gauge glass needs to be repaired or replaced",
+      "D": "It is possible the level was below the upper heating surfaces and there could be overheating damage",
+      "E": "The gauge glass needs to be cleaned since it is impossible to operate with the level out of the visible area of the gauge glass"
+    },
+    "correctAnswer": "D",
+    "explanation": "Operating with water below the visible gauge glass level risks uncovering heat transfer surfaces, exposing pressure components to severe overheating, blistering, or catastrophic failure."
+  },
+  {
+    "number": 11,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "When a boiler or furnace explosion occurs, it must be reported:",
+    "options": {
+      "A": "Only if the inspector asks",
+      "B": "During annual inspection",
+      "C": "Only to the plant manager",
+      "D": "Promptly",
+      "E": "Only if someone was hurt"
+    },
+    "correctAnswer": "D",
+    "explanation": "Jurisdictional safety regulations mandate that any boiler or pressure vessel explosion/accident must be reported promptly to the jurisdictional authority."
+  },
+  {
+    "number": 12,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Emergency _________ is often supplied to critical equipment like hydrogen coolant systems to allow safe system shutdown during power failures.",
+    "options": {
+      "A": "Wind generated power",
+      "B": "DC battery power",
+      "C": "Hydrogen conversion cell power",
+      "D": "Nuclear fusion power",
+      "E": "Solar generated power"
+    },
+    "correctAnswer": "B",
+    "explanation": "DC battery banks provide reliable uninterruptible emergency power to critical safety systems, controls, emergency lube oil pumps, and hydrogen seal systems."
+  },
+  {
+    "number": 13,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "When a forced draft fan fails, the operator should ensure the main gas and pilot gas valves are closed and:",
+    "options": {
+      "A": "Open the inlet and outlet dampers wide",
+      "B": "Increase the boiler blowdown",
+      "C": "Depressure the boiler",
+      "D": "Open the main fuel gas bypass and relight the boiler",
+      "E": "Close the fan inlet damper"
+    },
+    "correctAnswer": "E",
+    "explanation": "If the forced draft fan fails, the main gas and pilot gas valves must be closed immediately to stop fuel from entering the furnace. The fan inlet damper should also be closed to prevent unwanted or uncontrolled airflow through the failed fan. The boiler must remain shut down until the fan problem is repaired and the proper purge and startup procedures are completed."
+  },
+  {
+    "number": 14,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Reliability predictions of equipment can be made thanks to:",
+    "options": {
+      "A": "Breakdown maintenance practices",
+      "B": "Government reports",
+      "C": "Expensive software",
+      "D": "Good maintenance records",
+      "E": "Google searches"
+    },
+    "correctAnswer": "D",
+    "explanation": "Comprehensive historical maintenance records allow plant personnel to track failure frequencies, identify trends, and accurately predict equipment reliability."
+  },
+  {
+    "number": 15,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "When a total plant power failure occurs that results in loss of power boilers, one of the first things the operator must ensure:",
+    "options": {
+      "A": "Boiler chemical feed is shut off to prevent over filling the boiler",
+      "B": "Boiler blowdowns are closed to prevent loss of boiler level",
+      "C": "Steam traps are closed to prevent losing all the steam in the headers",
+      "D": "All turbines are tripped immediately to maintain header pressure",
+      "E": "Superheater vents are open to guarantee flow and prevent overheating"
+    },
+    "correctAnswer": "E",
+    "explanation": "During a total plant power outage with residual furnace heat, superheater vents must be opened to establish steam flow and protect uncooled superheater tubes."
+  },
+  {
+    "number": 16,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "Fire water pumps should be run for ____ if connected to a diesel engine and _____ if connected to an electric motor.",
+    "options": {
+      "A": "10 minutes, 30 minutes",
+      "B": "1 hour, 2 hours",
+      "C": "All day, 1 hour",
+      "D": "30 minutes, 10 minutes",
+      "E": "6 hours, 1 hour"
+    },
+    "correctAnswer": "D",
+    "explanation": "Standard fire pump testing procedures specify running diesel engine driven fire pumps for 30 minutes (to allow engine warmup) and electric motor driven pumps for 10 minutes."
+  },
+  {
+    "number": 17,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "If the preventative maintenance checks identify a concern, the operator should:",
+    "options": {
+      "A": "Immediately try to fix the equipment themselves",
+      "B": "Wait until the equipment breaks before reporting it",
+      "C": "Create a work order",
+      "D": "Ignore the problem until someone else also finds it",
+      "E": "Tell the maintenance manager to create a work order"
+    },
+    "correctAnswer": "C",
+    "explanation": "Operators discovering equipment deficiencies during routine PM checks should formally log and generate a maintenance work order."
+  },
+  {
+    "number": 18,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "A preventative maintenance system:",
+    "options": {
+      "A": "Does not include vibration monitoring",
+      "B": "Cannot save the company any money",
+      "C": "Excludes safety valve testing",
+      "D": "Is only done in very large companies",
+      "E": "Provides early detection of equipment problems"
+    },
+    "correctAnswer": "E",
+    "explanation": "Preventative and predictive maintenance systems are designed to detect emerging equipment defects early before catastrophic failure occurs."
+  },
+  {
+    "number": 19,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "To protect the boiler feedwater pumps from cavitation and damage:",
+    "options": {
+      "A": "A cavitation alarm is connected to the pump",
+      "B": "The deaerator low low level switch will shut down the pumps",
+      "C": "The pump is designed with a special intake that prevents any chance of cavitation",
+      "D": "The boiler feedwater pumps are made from indestructible materials",
+      "E": "The pumps will have an automatic recycle valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "A low-low water level condition in the deaerator storage tank trips the boiler feedwater pumps to protect them against loss of Net Positive Suction Head (NPSH) and destructive cavitation."
+  },
+  {
+    "number": 20,
+    "heading": "Boiler Plant Monitoring and Reporting",
+    "question": "When a low water level incident occurs in a boiler, if there is any signs of damage to the heating surfaces, the operator must:",
+    "options": {
+      "A": "Refill the boiler right away and restart the boiler",
+      "B": "Continue operating as usual until a leak is seen",
+      "C": "Notify the inspector",
+      "D": "Inspect the boiler, and if there are no leaks, restart it",
+      "E": "Notify the safety department"
+    },
+    "correctAnswer": "C",
+    "explanation": "If a low water event results in visible overheating or structural damage to pressure parts, safety regulations require notifying the boiler inspector prior to repair or restart."
+  }
+]

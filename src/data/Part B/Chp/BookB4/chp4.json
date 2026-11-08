@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Operational Checks",
+    "question": "Logs books are typically maintained available in storage for:",
+    "options": {
+      "A": "100 years",
+      "B": "7 years",
+      "C": "1 year",
+      "D": "50 years",
+      "E": "The life of the boiler"
+    },
+    "correctAnswer": "B",
+    "explanation": "Standard jurisdictional and plant record-keeping rules require boiler operating log books to be retained in storage for at least 7 years."
+  },
+  {
+    "number": 2,
+    "heading": "Operational Checks",
+    "question": "The boiler log is:",
+    "options": {
+      "A": "Is kept in the plant managers office",
+      "B": "A legal document",
+      "C": "Not really required",
+      "D": "Is only used when there are accidents",
+      "E": "Not available for review by operators"
+    },
+    "correctAnswer": "B",
+    "explanation": "The boiler log book is an official, legally binding document required by safety regulations to record daily operational checks, incidents, and maintenance."
+  },
+  {
+    "number": 3,
+    "heading": "Operational Checks",
+    "question": "When tightening packing nuts on steam boiler gauge glasses, it is important to:",
+    "options": {
+      "A": "Remove the gauge glass from the boiler",
+      "B": "Depressure the gauge glass",
+      "C": "Cool the gauge glass by spraying cold water on it",
+      "D": "Shut down the boiler and depressure it",
+      "E": "Tighten them slowly if still under pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": "Always isolate and depressurize the gauge glass assembly before tightening packing nuts to prevent glass breakage and severe steam burns."
+  },
+  {
+    "number": 4,
+    "heading": "Operational Checks",
+    "question": "A safety valve accumulation test is performed:",
+    "options": {
+      "A": "Annually",
+      "B": "To verify the safety valve capacity",
+      "C": "Monthly",
+      "D": "Semi annually",
+      "E": "To determine the volume inside the safety valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "An accumulation test is conducted (typically upon initial commissioning or major alterations) to prove that the safety valve relieving capacity is sufficient to prevent boiler pressure from exceeding maximum allowable limits."
+  },
+  {
+    "number": 5,
+    "heading": "Operational Checks",
+    "question": "The pressure control operating switch should be:",
+    "options": {
+      "A": "Never tested",
+      "B": "Tested annually",
+      "C": "Tested in the presence of a boiler inspector",
+      "D": "Tested weekly",
+      "E": "Observed during normal operation"
+    },
+    "correctAnswer": "E",
+    "explanation": "During routine shift rounds and normal operation, the operator continuously observes the operating pressure switch to verify it cuts out and cuts in at proper pressure setpoints."
+  },
+  {
+    "number": 6,
+    "heading": "Operational Checks",
+    "question": "When testing safety valves (or anytime they pop) it is important to:",
+    "options": {
+      "A": "Notify the inspector",
+      "B": "Record popping and closing pressures",
+      "C": "Lower the boiler pressure to 75% of normal working pressure",
+      "D": "Gag them so they don’t pop again",
+      "E": "Remove and repair the safety valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "Whenever a safety valve opens, the exact popping (opening) pressure and reseating (closing) pressure must be observed and logged in the boiler log book."
+  },
+  {
+    "number": 7,
+    "heading": "Operational Checks",
+    "question": "What is the popping range and blowdown for a safety valve on a high pressure steam boiler who’s safety valve is set to open at 3500 kPa.",
+    "options": {
+      "A": "Range 3395-3605 kPa, and blowdown 15 kPa",
+      "B": "Range 3430-3570 kPa, and blowdown 70 kPa",
+      "C": "Range 3465-3535 kPa, and blowdown 80 kPa",
+      "D": "Range 3430-3570 kPa, and blowdown 105 kPa",
+      "E": "Range 3395-3605 kPa, and blowdown 70 kPa"
+    },
+    "correctAnswer": "B",
+    "explanation": "For a safety valve set at 3500 kPa, the popping pressure range is 3430–3570 kPa (±2% of the set pressure). The specified blowdown is 70 kPa. Blowdown is the pressure difference between when the safety valve opens and when it closes. Therefore, the correct combination is a popping range of 3430–3570 kPa and a blowdown of 70 kPa"
+  },
+  {
+    "number": 8,
+    "heading": "Operational Checks",
+    "question": "On a steam heating boiler, the safety valve should be replaced if it does not operate correctly within the range of:",
+    "options": {
+      "A": "50-100 kPa",
+      "B": "85-115 kPa",
+      "C": "100-120 kPa",
+      "D": "75-85 kPa",
+      "E": "85-100 kPa"
+    },
+    "correctAnswer": "B",
+    "explanation": "On a low-pressure steam heating boiler (100 kPa standard working pressure), the safety valve setpoint tolerance range is 85 kPa to 115 kPa (100 kPa ± 15 kPa)."
+  },
+  {
+    "number": 9,
+    "heading": "Operational Checks",
+    "question": "The boiler log contains information about:",
+    "options": {
+      "A": "Maintenance",
+      "B": "Testing",
+      "C": "Adjustment of controls",
+      "D": "Abnormal operating conditions",
+      "E": "All of these and more are put into the boiler log"
+    },
+    "correctAnswer": "E",
+    "explanation": "The boiler log book records all plant operational events including maintenance work, safety control testing, control adjustments, and abnormal occurrences."
+  },
+  {
+    "number": 10,
+    "heading": "Operational Checks",
+    "question": "The try lever should not be attempted on a power boiler unless the current pressure is _____ of the relief valve pressure.",
+    "options": {
+      "A": "95%",
+      "B": "100%",
+      "C": "50%",
+      "D": "75%",
+      "E": "35%"
+    },
+    "correctAnswer": "D",
+    "explanation": "ASME guidelines mandate that a manual try lever test must only be performed when boiler pressure is at least 75% of the safety valve set pressure to ensure sufficient force to lift the disc cleanly without damaging valve seats."
+  },
+  {
+    "number": 11,
+    "heading": "Operational Checks",
+    "question": "A Standard Operating Procedure is effective at ensuring work is done:",
+    "options": {
+      "A": "With no expensive parts",
+      "B": "In a consistent manner",
+      "C": "Without a safe work permit",
+      "D": "As cheaply as possible",
+      "E": "As quickly as possible"
+    },
+    "correctAnswer": "B",
+    "explanation": "Standard Operating Procedures (SOPs) provide step-by-step instructions to ensure tasks are executed safely and consistently by all operating personnel."
+  },
+  {
+    "number": 12,
+    "heading": "Operational Checks",
+    "question": "From a distance, the boiler water level in the gauge glass should be seen to be:",
+    "options": {
+      "A": "Near the bottom",
+      "B": "Invisible if the water is clear",
+      "C": "Only visible close up with a flashlight",
+      "D": "About half",
+      "E": "Near the top"
+    },
+    "correctAnswer": "D",
+    "explanation": "During normal steady-state boiler operation, the water level visible in the gauge glass should be maintained near the normal operating water level, which is approximately at the halfway point."
+  },
+  {
+    "number": 13,
+    "heading": "Operational Checks",
+    "question": "During operator rounds, you should check the brine tank of the zeolite softeners to ensure:",
+    "options": {
+      "A": "The brine tank is filled to the top with salt",
+      "B": "The brine tank is flushed clean",
+      "C": "The brine tank is completely drained",
+      "D": "There is no salt remaining in the brine tank",
+      "E": "Undissolved salt is present in the brine tank"
+    },
+    "correctAnswer": "E",
+    "explanation": "To ensure a fully saturated salt solution (brine) for softener regeneration, undissolved solid salt must always be present at the bottom/body of the brine tank."
+  },
+  {
+    "number": 14,
+    "heading": "Operational Checks",
+    "question": "A typical operator check of the boiler feed water pump is:",
+    "options": {
+      "A": "Hardness, pH, conductivity",
+      "B": "Windbox pressure, fan rotation, linkage",
+      "C": "Bearing temperatures and discharge pressure only",
+      "D": "Vibration, leaks, noise, inlet and outlet pressure",
+      "E": "Discharge pressure only"
+    },
+    "correctAnswer": "D",
+    "explanation": "Routine physical walkdown checks of rotating equipment like feedwater pumps include monitoring vibration levels, seal leakage, abnormal noise, and suction/discharge pressures."
+  },
+  {
+    "number": 15,
+    "heading": "Operational Checks",
+    "question": "When a boiler operator comes on shift, they should review the records and logs:",
+    "options": {
+      "A": "Before the end of that shift",
+      "B": "Since the last time they were on shift",
+      "C": "For the previous day",
+      "D": "Only if needed",
+      "E": "For the previous shift"
+    },
+    "correctAnswer": "B",
+    "explanation": "To maintain complete situational awareness of plant status and changes, an incoming operator should review all log entries recorded since their own last shift on duty."
+  },
+  {
+    "number": 16,
+    "heading": "Operational Checks",
+    "question": "Flame rods used in oil burners should be checked regularly for:",
+    "options": {
+      "A": "Dirty lens",
+      "B": "Carbon buildup",
+      "C": "Rust",
+      "D": "Plugging",
+      "E": "Internal pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": "Flame rods (ionization sensors) located near oil burner nozzles accumulate conductive soot/carbon deposits which cause short circuits and false flame detection signals."
+  },
+  {
+    "number": 17,
+    "heading": "Operational Checks",
+    "question": "When testing a low level cutoff by isolating the boiler and allowing the boiler level to slowly drop by steaming, while constantly watching the gauge glass, if the boiler does not trip when the level drops to the lowest visible level in the gauge glass, the operator must:",
+    "options": {
+      "A": "Immediately add water or trip the boiler",
+      "B": "Continue watching until it trips",
+      "C": "Wait until the low level alarm indicates there is a problem",
+      "D": "Close the steam outlet valve immediately",
+      "E": "Decrease the firing rate on the boiler"
+    },
+    "correctAnswer": "A",
+    "explanation": "If the water level drops to the bottom of the gauge glass without triggering the low water cut-off shutdown, the operator must act immediately to trip the fuel supply or add feedwater to prevent dangerous low-water overheating."
+  },
+  {
+    "number": 18,
+    "heading": "Operational Checks",
+    "question": "An advantage to testing low water level cutoffs by rapidly draining the float chamber is:",
+    "options": {
+      "A": "It flushes out the drain lines",
+      "B": "It too quick to detect a low level",
+      "C": "The gauge glass level will not change",
+      "D": "The boiler will not trip",
+      "E": "It discharges sediment from the float chamber"
+    },
+    "correctAnswer": "E",
+    "explanation": "Blowing down or rapidly draining the low water cut-off float chamber flushes out accumulated sludge, mud, and sediment that could otherwise jam the float mechanism."
+  },
+  {
+    "number": 19,
+    "heading": "Operational Checks",
+    "question": "Flow switches to prevent firing in low flow conditions are installed on:",
+    "options": {
+      "A": "Boilers with superheaters",
+      "B": "Low pressure steam boilers",
+      "C": "Cast iron boilers",
+      "D": "Copper tube hot water boilers",
+      "E": "High pressure steam boilers"
+    },
+    "correctAnswer": "D",
+    "explanation": "Copper tube boilers contain very little water volume and rely on positive water circulation; a flow switch is mandatory to cut off firing immediately if water flow drops."
+  },
+  {
+    "number": 20,
+    "heading": "Operational Checks",
+    "question": "To test the flame failure device on a boiler:",
+    "options": {
+      "A": "Follow manufacturers instructions",
+      "B": "Wait until a normal flame failure occurs during operations, and record the results",
+      "C": "Jumper the shutdowns out and simulate a low flame electronically",
+      "D": "Bypass the shutdowns and disconnect the wires",
+      "E": "Pull the flame rod out and cover it"
+    },
+    "correctAnswer": "A",
+    "explanation": "Testing safety controls like flame failure detection systems must strictly follow the equipment manufacturer's specified testing procedure to ensure safety."
+  }
+]
