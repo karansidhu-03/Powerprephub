@@ -1,0 +1,422 @@
+[
+  {
+    "number": 1,
+    "heading": "Pressure Relief Valves",
+    "question": "If a safety valve simmers after a try lever test, the operator should:",
+    "options": {
+      "A": "Plug the safety valve outlet",
+      "B": "Fit a gag to the safety valve",
+      "C": "Reduce boiler pressure and call the team leader",
+      "D": "Operate the try lever several times to blow away foreign material",
+      "E": "Reduce the boiler pressure"
+    },
+    "correctAnswer": "D",
+    "explanation": "Simmering after a try lever test is often caused by foreign material or scale caught between the disc and seat. Operating the try lever several times allows steam flow to clear away the debris."
+  },
+  {
+    "number": 2,
+    "heading": "Pressure Relief Valves",
+    "question": "What does the boiler inspector install to prevent tampering with a safety valve setting?",
+    "options": {
+      "A": "A plug",
+      "B": "A restraining order",
+      "C": "A seal",
+      "D": "A gag",
+      "E": "A cover plate"
+    },
+    "correctAnswer": "C",
+    "explanation": "Boiler inspectors place an official seal on the safety valve adjusting mechanism to prevent unauthorized adjustments or tampering with set points."
+  },
+  {
+    "number": 3,
+    "heading": "Pressure Relief Valves",
+    "question": "The lip on a safety valve:",
+    "options": {
+      "A": "Supplies a drain lip for condensate to collect on",
+      "B": "Allows it to close slowly",
+      "C": "Allows it to \"pop\" open",
+      "D": "Makes the valve stronger",
+      "E": "Is only required if the steam is superheated"
+    },
+    "correctAnswer": "C",
+    "explanation": "The lip forming the huddling chamber creates an additional area for escaping steam to act against, producing the rapid additional lifting force required for the valve to pop open sharply."
+  },
+  {
+    "number": 4,
+    "heading": "Pressure Relief Valves",
+    "question": "Two safety valves are required on a high pressure steam boiler that has a heating surface larger than:",
+    "options": {
+      "A": "47 m²",
+      "B": "12 m²",
+      "C": "27 m²",
+      "D": "45 m²",
+      "E": "40 m²"
+    },
+    "correctAnswer": "A",
+    "explanation": "According to ASME Boiler and Pressure Vessel Code standards, power boilers with a heating surface exceeding 47 m² (500 sq ft) must have two or more safety valves."
+  },
+  {
+    "number": 5,
+    "heading": "Pressure Relief Valves",
+    "question": "The blowdown on a safety valve is adjusted by turning the:",
+    "options": {
+      "A": "Valve disc",
+      "B": "Inspector's seal",
+      "C": "Valve seat",
+      "D": "Adjusting nut",
+      "E": "Adjusting ring"
+    },
+    "correctAnswer": "E",
+    "explanation": "Turning the blowdown adjusting ring alters the size/geometry of the huddling chamber escape ports, directly adjusting the valve blowdown pressure range."
+  },
+  {
+    "number": 6,
+    "heading": "Pressure Relief Valves",
+    "question": "To increase the opening pressure of a safety valve:",
+    "options": {
+      "A": "Increase the size of the disc",
+      "B": "Increase spring compression",
+      "C": "Lower the blowdown ring",
+      "D": "Raise the blowdown ring",
+      "E": "Reduce spring compression"
+    },
+    "correctAnswer": "B",
+    "explanation": "Increasing spring compression pushes down harder on the valve disc, requiring higher steam pressure to lift the disc off the seat."
+  },
+  {
+    "number": 7,
+    "heading": "Pressure Relief Valves",
+    "question": "The purpose of the spring in a safety valve is to:",
+    "options": {
+      "A": "Help open the lifting lever",
+      "B": "Adjust the pressure setting of the valve",
+      "C": "Adjust the blowdown of the valve",
+      "D": "Hold down the disc on the seat",
+      "E": "Pull open the valve at popping pressure"
+    },
+    "correctAnswer": "D",
+    "explanation": "The primary function of the compression spring in a safety valve is to exert downward force to hold the disc tightly against its seat until set pressure is reached."
+  },
+  {
+    "number": 8,
+    "heading": "Pressure Relief Valves",
+    "question": "The popping action of a T&P valve used on a potable hot water heater:",
+    "options": {
+      "A": "Is caused by the lip",
+      "B": "Sounds like popcorn",
+      "C": "Is the same as any safety valve",
+      "D": "Is faster than a safety relief",
+      "E": "There is no popping action"
+    },
+    "correctAnswer": "E",
+    "explanation": "Temperature & Pressure (T&P) relief valves on potable water systems open gradually relative to pressure/temperature increases rather than exhibiting a sharp steam 'popping' action."
+  },
+  {
+    "number": 9,
+    "heading": "Pressure Relief Valves",
+    "question": "A safety relief valve is like a safety valve except the safety valve:",
+    "options": {
+      "A": "Is prone to leakage",
+      "B": "May have an isolation valve placed between it and the pressure vessel",
+      "C": "Does not have a blowdown ring or bottom guides",
+      "D": "Must have greater blowdown",
+      "E": "Must discharge directly to the atmosphere"
+    },
+    "correctAnswer": "C",
+    "explanation": "Safety valves feature huddling chambers and blowdown rings to achieve rapid popping action and defined blowdown, whereas safety relief valves used for liquid service omit blowdown rings."
+  },
+  {
+    "number": 10,
+    "heading": "Pressure Relief Valves",
+    "question": "Testing the safety valve on a steam heating boiler by means of the try lever method is considered good practice when carried out on a:",
+    "options": {
+      "A": "Bi-weekly basis",
+      "B": "Six month basis",
+      "C": "Monthly basis",
+      "D": "Yearly basis",
+      "E": "Weekly basis"
+    },
+    "correctAnswer": "C",
+    "explanation": "A monthly try-lever test is standard practice for low-pressure steam heating boilers to ensure the valve stem and internal disc remain free to operate."
+  },
+  {
+    "number": 11,
+    "heading": "Pressure Relief Valves",
+    "question": "Cast iron fittings for a boiler can be deemed to have upper limitations of:",
+    "options": {
+      "A": "1,100 kPa and 173°C",
+      "B": "17,200 kPa and 1,100°C",
+      "C": "1,720 kPa and 230°C",
+      "D": "8,000 kpa and 670°C",
+      "E": "3,000 kPa and 150°C"
+    },
+    "correctAnswer": "C",
+    "explanation": "According to boiler mechanical codes, cast iron boiler fittings are restricted to maximum operating conditions of 1,720 kPa (250 psi) pressure and 230°C temperature."
+  },
+  {
+    "number": 12,
+    "heading": "Pressure Relief Valves",
+    "question": "A stop valve is allowed between the safety valve and the boiler drum when:",
+    "options": {
+      "A": "A rupture disc is placed between the stop valve and the safety valve",
+      "B": "The stop valve is the quick opening type",
+      "C": "The stop valve is locked open",
+      "D": "There is more than one safety valve",
+      "E": "No stop valves are allowed before or after the safety valve"
+    },
+    "correctAnswer": "E",
+    "explanation": "Boiler safety codes strictly forbid installing any stop or isolation valves between the boiler drum and its safety valve, as well as in the discharge piping."
+  },
+  {
+    "number": 13,
+    "heading": "Pressure Relief Valves",
+    "question": "If the safety valve on a steam heating boiler opens, what is the maximum pressure above MAWP that the pressure is allowed to rise?",
+    "options": {
+      "A": "35 psi (5 kPa)",
+      "B": "5 psi (35 kPa)",
+      "C": "15 psi (100 kPa)",
+      "D": "5 kPa (35psi)",
+      "E": "100 kPa (15 psi)"
+    },
+    "correctAnswer": "B",
+    "explanation": "On steam heating boilers (operating up to 15 psi / 100 kPa MAWP), safety valves must prevent boiler pressure from rising more than 5 psi (35 kPa) above MAWP."
+  },
+  {
+    "number": 14,
+    "heading": "Pressure Relief Valves",
+    "question": "Do not open the steam heating boiler safety valve with the test lever unless:",
+    "options": {
+      "A": "There is no load on the boiler",
+      "B": "The boiler inspector requests it",
+      "C": "After 9 p.m. in populated areas",
+      "D": "The boiler is at maximum pressure",
+      "E": "Pressure is up to at least 35 kPa"
+    },
+    "correctAnswer": "E",
+    "explanation": "Safety try lever tests on low-pressure steam boilers require at least 35 kPa (5 psi) of steam pressure to blow out foreign material and prevent seating surface damage."
+  },
+  {
+    "number": 15,
+    "heading": "Pressure Relief Valves",
+    "question": "When mounting safety relief valves on heating boilers:",
+    "options": {
+      "A": "No shut off valves can be installed on the safety valves",
+      "B": "Shut off valves can be installed on inlet and outlet of safety valves",
+      "C": "Shut off valves can be installed between the boiler and safety valve",
+      "D": "Shut off valves can be installed in the discharge line only",
+      "E": "Special shut off valves can be installed with the safety valve"
+    },
+    "correctAnswer": "A",
+    "explanation": "No shut-off valves or obstructions of any kind are permitted between the heating boiler vessel and its safety relief valve, nor on the discharge piping."
+  },
+  {
+    "number": 16,
+    "heading": "Pressure Relief Valves",
+    "question": "If a safety valve capacity is too small then the boiler pressure will:",
+    "options": {
+      "A": "Not rise more than 15% above the MAWP",
+      "B": "Rise more than 6% above the MAWP",
+      "C": "Remain at the MAWP",
+      "D": "Rise to 6% above the MAWP",
+      "E": "Rise 5% above the maximum allowable working pressure (MAWP)"
+    },
+    "correctAnswer": "B",
+    "explanation": "Safety valve capacity must be sufficient so that pressure on power boilers cannot exceed MAWP by more than 6%. An undersized valve will allow pressure to rise beyond 6%."
+  },
+  {
+    "number": 17,
+    "heading": "Pressure Relief Valves",
+    "question": "If you found a safety valve on your heating boiler stuck in the closed position while the boiler was in operation, the best thing to do is:",
+    "options": {
+      "A": "Put the boiler on manual control and notify the inspector",
+      "B": "Shut down the boiler and repair or replace the safety valve",
+      "C": "Tap it with a hammer to free it",
+      "D": "Report it to the HSE department",
+      "E": "Reduce the boiler pressure and continue operating"
+    },
+    "correctAnswer": "B",
+    "explanation": "A stuck safety valve is a critical hazard; the boiler must be shut down immediately to repair or replace the valve safely before returning to operation."
+  },
+  {
+    "number": 18,
+    "heading": "Pressure Relief Valves",
+    "question": "The discharge pipe of a safety valve should be separately supported:",
+    "options": {
+      "A": "In order to prevent leakage at the joint",
+      "B": "So that allowance for expansion prevents stress on the safety valve",
+      "C": "Because the safety valve is not capable of supporting the mass",
+      "D": "So that drainage of the discharge line can occur",
+      "E": "So that the valve can be quickly and easily removed"
+    },
+    "correctAnswer": "B",
+    "explanation": "Discharge piping must be supported independently so thermal expansion and pipe weight do not transmit mechanical stresses onto the safety valve body."
+  },
+  {
+    "number": 19,
+    "heading": "Pressure Relief Valves",
+    "question": "If a boiler has a maximum allowable working pressure of 1000 kPa, what would be the maximum pressure allowed when the safety valve is open?",
+    "options": {
+      "A": "1400 kPa",
+      "B": "1600 kPa",
+      "C": "1060 kPa",
+      "D": "2000 kPa",
+      "E": "2500 kPa"
+    },
+    "correctAnswer": "C",
+    "explanation": "For power boilers, the maximum allowable accumulation of pressure during full discharge is 6% above MAWP (1000 kPa × 1.06 = 1060 kPa)."
+  },
+  {
+    "number": 20,
+    "heading": "Pressure Relief Valves",
+    "question": "To raise the closing pressure of the valve only:",
+    "options": {
+      "A": "Screw the blowdown ring upwards",
+      "B": "Decrease the spring tension",
+      "C": "Increase the spring tension",
+      "D": "Decrease the seat diameter",
+      "E": "Screw the blowdown ring downwards"
+    },
+    "correctAnswer": "E",
+    "explanation": "Screwing the blowdown ring downward allows steam to escape the huddling chamber more easily, shortening blowdown and causing the valve to close at a higher pressure (smaller blowdown differential)."
+  },
+  {
+    "number": 21,
+    "heading": "Pressure Relief Valves",
+    "question": "The only person who can adjust the opening pressure or popping point of a safety valve is:",
+    "options": {
+      "A": "Industrial insurance adjuster",
+      "B": "Engineer",
+      "C": "Person authorized by the manufacturer",
+      "D": "Inspector",
+      "E": "Power engineer"
+    },
+    "correctAnswer": "C",
+    "explanation": "Only the manufacturer or an authorized repair agency certified by the manufacturer/code authority is permitted to alter or adjust popping pressure."
+  },
+  {
+    "number": 22,
+    "heading": "Pressure Relief Valves",
+    "question": "LP boiler safety valves can be repaired:",
+    "options": {
+      "A": "Only by the manufacturer",
+      "B": "Only when authorized by the inspector",
+      "C": "By a licensed boiler operator",
+      "D": "By anyone",
+      "E": "By a qualified boiler operator after permission from the inspector"
+    },
+    "correctAnswer": "A",
+    "explanation": "Low-pressure boiler safety valves cannot be repaired in the field; code requires that repairs or resetting be performed strictly by the original valve manufacturer or authorized valve repair shop."
+  },
+  {
+    "number": 23,
+    "heading": "Pressure Relief Valves",
+    "question": "What is the maximum heating surface for a boiler to have only one safety valve?",
+    "options": {
+      "A": "28 m²",
+      "B": "19 m²",
+      "C": "75 m²",
+      "D": "36 m²",
+      "E": "47 m²"
+    },
+    "correctAnswer": "E",
+    "explanation": "Boilers with a heating surface of 47 m² (500 sq ft) or less are permitted to have a single safety valve."
+  },
+  {
+    "number": 24,
+    "heading": "Pressure Relief Valves",
+    "question": "Prior to performing a “pop” test on the boiler:",
+    "options": {
+      "A": "Verify the accuracy of the boiler pressure gauge",
+      "B": "Verify the operation of the fuel/air control system",
+      "C": "Verify the accuracy of the windbox pressure gauge",
+      "D": "Verify the accuracy of the pressure relief device",
+      "E": "Verify the accuracy of the gas pressure gauge"
+    },
+    "correctAnswer": "A",
+    "explanation": "Before executing an in-service pop test, the operator must verify that the pressure gauge is calibrated and accurate so popping and reseating pressures are correctly recorded."
+  },
+  {
+    "number": 25,
+    "heading": "Pressure Relief Valves",
+    "question": "The huddling chamber escape ports are adjusted by:",
+    "options": {
+      "A": "Blowdown ring",
+      "B": "Lip",
+      "C": "Lock screw",
+      "D": "Disc",
+      "E": "Compression spring"
+    },
+    "correctAnswer": "A",
+    "explanation": "The position of the adjustable blowdown ring controls the restricted escape opening area of the huddling chamber."
+  },
+  {
+    "number": 26,
+    "heading": "Pressure Relief Valves",
+    "question": "If, during the testing of a safety valve, the valve does not open, you would first:",
+    "options": {
+      "A": "Force it open by striking it with a hammer",
+      "B": "Try to open the valve with the lifting lever",
+      "C": "Continue to increase the steam pressure",
+      "D": "Stop the boiler and notify the boiler branch",
+      "E": "Take the boiler out of service"
+    },
+    "correctAnswer": "B",
+    "explanation": "If a safety valve fails to open automatically at set pressure, the operator should attempt to free it safely using the lifting lever before taking further emergency action."
+  },
+  {
+    "number": 27,
+    "heading": "Pressure Relief Valves",
+    "question": "Blowdown on a safety valve is defined as:",
+    "options": {
+      "A": "The difference between actual opening and closing pressures",
+      "B": "Opening the test level to blow steam out",
+      "C": "The adjustment of the pressure setting of the valve",
+      "D": "Increase the pressure drop across the valve",
+      "E": "Draining water from the safety valve"
+    },
+    "correctAnswer": "A",
+    "explanation": "Blowdown is defined as the numerical difference between the pressure at which the safety valve pops open and the lower pressure at which it snaps shut."
+  },
+  {
+    "number": 28,
+    "heading": "Pressure Relief Valves",
+    "question": "The safety valve on a steam heating boiler must never be located:",
+    "options": {
+      "A": "In the highest practicable part of the boiler",
+      "B": "In a vertical position",
+      "C": "To a flange opening in the boiler",
+      "D": "Below lowest permissible water level",
+      "E": "A valveless header connecting steam outlets"
+    },
+    "correctAnswer": "D",
+    "explanation": "Safety valves on steam boilers must always be located above the water line in the steam space to prevent water discharge during relief."
+  },
+  {
+    "number": 29,
+    "heading": "Pressure Relief Valves",
+    "question": "Temperature relief valves can open on a rise in temperature by the expansion of a wax-filled rod or by the:",
+    "options": {
+      "A": "Melting of an element",
+      "B": "Action of a bi-metal strip",
+      "C": "Action of a bellows",
+      "D": "Action of a Bourdon tube",
+      "E": "Melting of a rod and tube"
+    },
+    "correctAnswer": "A",
+    "explanation": "Thermal relief devices operate either via thermal expansion (like wax-filled elements or liquid expansion) or by the melting of a fusible element when safe limits are exceeded."
+  },
+  {
+    "number": 30,
+    "heading": "Pressure Relief Valves",
+    "question": "Each hot water heating boiler shall have at least _____ officially rated safety relief valve of the automatic reseating type.",
+    "options": {
+      "A": "None",
+      "B": "Some",
+      "C": "One",
+      "D": "Two",
+      "E": "Three"
+    },
+    "correctAnswer": "C",
+    "explanation": "Boiler safety codes dictate that every hot water heating boiler must be fitted with at least one ASME-rated, automatic reseating pressure relief valve."
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Boiler Fittings",
+    "question": "ASME Sect IV requires blowoff piping to be at least _____ for 700 kg/hr boilers.",
+    "options": {
+      "A": "DN 50",
+      "B": "DN 25",
+      "C": "DN 40",
+      "D": "DN 32",
+      "E": "DN 20"
+    },
+    "correctAnswer": "D",
+    "explanation": "Under ASME Section IV, the minimum blowoff piping size depends on the boiler's capacity. For a boiler producing 700 kg/hr, the required minimum size is DN 32. This ensures adequate flow when the boiler is blown down and allows accumulated water and sediment to be discharged effectively."
+  },
+  {
+    "number": 2,
+    "heading": "Boiler Fittings",
+    "question": "A Hartford loop prevents low water levels in steam heating boilers in the case of:",
+    "options": {
+      "A": "The feedwater pumps quits",
+      "B": "The expansion tank overflows",
+      "C": "The vacuum breaker quits",
+      "D": "The feedwater check valve fails",
+      "E": "The relief valve doesn’t work"
+    },
+    "correctAnswer": "D",
+    "explanation": "The Hartford loop is a piping arrangement that prevents boiler water from siphoning or being forced out of the boiler into the return line should a check valve fail in the return piping."
+  },
+  {
+    "number": 3,
+    "heading": "Boiler Fittings",
+    "question": "On a pressure/altitude gage, when the pressure pointer falls below the altitude pointer the:",
+    "options": {
+      "A": "Water is too hot",
+      "B": "Water is too cold",
+      "C": "System is low on water",
+      "D": "Atmospheric pressure is too low",
+      "E": "Boiler is too full"
+    },
+    "correctAnswer": "C",
+    "explanation": "On a combination pressure/altitude gauge, the altitude pointer (movable red hand) indicates the required static head. If the black pressure hand drops below it, the system static head has dropped, indicating the system is low on water."
+  },
+  {
+    "number": 4,
+    "heading": "Boiler Fittings",
+    "question": "The current code that covers hot water heating or hot water supply boilers that operate at temperatures not exceeding 120°C is:",
+    "options": {
+      "A": "CSA B52",
+      "B": "ASME Sect IV",
+      "C": "CSA B51",
+      "D": "ASME Sect VII",
+      "E": "ASME Sect 1"
+    },
+    "correctAnswer": "B",
+    "explanation": "ASME Section IV governs Rules for Construction of Heating Boilers (steam heating boilers up to 103 kPa and hot water heating boilers up to 120°C / 1100 kPa)."
+  },
+  {
+    "number": 5,
+    "heading": "Boiler Fittings",
+    "question": "The thermometer on a hot water heating boiler must not exceed:",
+    "options": {
+      "A": "100°C",
+      "B": "205°C",
+      "C": "201°C",
+      "D": "20°C",
+      "E": "160°C"
+    },
+    "correctAnswer": "B",
+    "explanation": "The thermometer on a hot water heating boiler must have a scale that does not exceed 205°C (400°F). This limit ensures the temperature can be monitored within the required range for safe boiler operation."
+  },
+  {
+    "number": 6,
+    "heading": "Boiler Fittings",
+    "question": "Markings on a fitting must be legible and show the service and material designation, and:",
+    "options": {
+      "A": "ASME reference number",
+      "B": "Year of manufacture",
+      "C": "CSA reference number",
+      "D": "Manufacturer identification",
+      "E": "What country it was manufactured in"
+    },
+    "correctAnswer": "D",
+    "explanation": "Standard code requirements (such as MSS SP-25 and ASME code specifications) require pressure fittings to be permanently marked with the manufacturer's name/trademark, pressure-temperature service rating, and material designation."
+  },
+  {
+    "number": 7,
+    "heading": "Boiler Fittings",
+    "question": "In High pressure power boiler blowoff piping, the slow opening valve requires at least ______ turns.",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "correctAnswer": "E",
+    "explanation": "By ASME code definition, a slow-opening valve requires at least five (5) full 360-degree turns of the operating mechanism to move from fully closed to fully open."
+  },
+  {
+    "number": 8,
+    "heading": "Boiler Fittings",
+    "question": "When a slow opening and quick opening valves are used in blow off piping for boilers operating over 690 kPa, the slow opening valve is:",
+    "options": {
+      "A": "Downstream of the quick opening",
+      "B": "Operates in the non-moving fluid",
+      "C": "Upstream of the quick opening",
+      "D": "Closest to the boiler",
+      "E": "Attached to the boiler nozzle"
+    },
+    "correctAnswer": "A",
+    "explanation": "In high-pressure blowdown arrangements, the quick-opening valve is installed closest to the boiler (upstream) and opened first into static fluid, while the slow-opening valve is placed downstream to take the throttling and wire-drawing wear."
+  },
+  {
+    "number": 9,
+    "heading": "Boiler Fittings",
+    "question": "The minimum size of siphon used on the main Boiler pressure gauge shall be:",
+    "options": {
+      "A": "100 mm",
+      "B": "6 mm",
+      "C": "50 mm",
+      "D": "10 mm",
+      "E": "25 mm"
+    },
+    "correctAnswer": "B",
+    "explanation": "The minimum nominal pipe size for a siphon (pigtail) trap on a boiler steam gauge connection is 6 mm (1/4 in) NPS (or 10 mm for steel/brass schedule depending on code context, with 6 mm being standard nominal pipe/tubing size for small fittings)."
+  },
+  {
+    "number": 10,
+    "heading": "Boiler Fittings",
+    "question": "When comparing the boiler pressure and the altitude reading in a closed hot water heating system, the pressure should be _____ than the altitude.",
+    "options": {
+      "A": "Same",
+      "B": "Greater",
+      "C": "Reverse",
+      "D": "Inverse",
+      "E": "Less"
+    },
+    "correctAnswer": "B",
+    "explanation": "In a pressurized closed hot water heating system, operating pressure must be greater than static altitude head to ensure positive pressure at the highest system point."
+  },
+  {
+    "number": 11,
+    "heading": "Boiler Fittings",
+    "question": "When a boiler is connected to a common header that has another steam source, each boiler having a manhole shall have ____ stop valves with a free blow drain between them.",
+    "options": {
+      "A": "Several",
+      "B": "Three",
+      "C": "Two",
+      "D": "One",
+      "E": "None"
+    },
+    "correctAnswer": "C",
+    "explanation": "ASME Section I requires two stop valves in series with an ample free-blow drain valve located between them on the steam discharge connection when boilers equipped with manholes are connected to a common steam header."
+  },
+  {
+    "number": 12,
+    "heading": "Boiler Fittings",
+    "question": "The main boiler pressure gage must be connected to:",
+    "options": {
+      "A": "The steam space",
+      "B": "The water space",
+      "C": "Feedwater line",
+      "D": "Blowdown line",
+      "E": "Superheater outlet"
+    },
+    "correctAnswer": "A",
+    "explanation": "The main steam pressure gauge must connect directly to the steam space of the boiler drum/shell or to the steam side of the water column."
+  },
+  {
+    "number": 13,
+    "heading": "Boiler Fittings",
+    "question": "The purpose of the test connection on a boiler pressure gauge is to:",
+    "options": {
+      "A": "Unplug the siphon tube",
+      "B": "Vent air from the pressure gage",
+      "C": "Install the boiler inspector’s pressure gauge",
+      "D": "Install live steam to the gage",
+      "E": "Test a sample of the steam"
+    },
+    "correctAnswer": "C",
+    "explanation": "The inspector's test connection valve allows an authorized inspector to attach a calibrated master test gauge in parallel to verify the accuracy of the boiler pressure gauge."
+  },
+  {
+    "number": 14,
+    "heading": "Boiler Fittings",
+    "question": "To prevent air entering the hot water heating system when it cools down, the expansion tank is:",
+    "options": {
+      "A": "Maintained below the boiler so it remains full",
+      "B": "Shut in when the boiler shuts down",
+      "C": "Equipped with a bladder",
+      "D": "Filled with solid foam",
+      "E": "Placed high above the heating system"
+    },
+    "correctAnswer": "C",
+    "explanation": "Modern closed expansion tanks utilize a flexible rubber diaphragm or bladder separating air from system water to prevent air absorption and maintain positive system pressure."
+  },
+  {
+    "number": 15,
+    "heading": "Boiler Fittings",
+    "question": "On a high pressure steam oiler, the main boiler pressure gage dial shall be graduated to approximately _____ of the safety valve set pressure.",
+    "options": {
+      "A": "Half",
+      "B": "Quarter",
+      "C": "Same",
+      "D": "Double",
+      "E": "Triple"
+    },
+    "correctAnswer": "D",
+    "explanation": "ASME Section I specifies that the pressure gauge scale dial should be graduated to approximately double (1.5 to 2 times) the safety valve set pressure, with double being standard practice."
+  },
+  {
+    "number": 16,
+    "heading": "Boiler Fittings",
+    "question": "Open expansion tanks are installed:",
+    "options": {
+      "A": "Only on closed systems",
+      "B": "With a nitrogen bladder",
+      "C": "At the lowest point in the system",
+      "D": "At the highest point in the system",
+      "E": "In all modern systems"
+    },
+    "correctAnswer": "D",
+    "explanation": "Open expansion tanks rely on gravity head and must be installed at least 1 meter above the highest point of the hot water heating system."
+  },
+  {
+    "number": 17,
+    "heading": "Boiler Fittings",
+    "question": "The expansion tank used on a hot water heating boiler system that is operating less than 200 kPa must be designed for a hydrostatic test pressure of at least:",
+    "options": {
+      "A": "520 kPa",
+      "B": "440 kPa",
+      "C": "200 kPa",
+      "D": "300 kPa",
+      "E": "120 kPa"
+    },
+    "correctAnswer": "A",
+    "explanation": "ASME Section IV requires expansion tanks for heating boilers operating at less than 200 kPa to be built and hydrostatic test-rated to at least 520 kPa."
+  },
+  {
+    "number": 18,
+    "heading": "Boiler Fittings",
+    "question": "To prevent damage to a low pressure steam boiler during cool down _______ are often installed.",
+    "options": {
+      "A": "Back flow preventers",
+      "B": "Relief valves",
+      "C": "Siphons",
+      "D": "Vacuum breakers",
+      "E": "Check valves"
+    },
+    "correctAnswer": "D",
+    "explanation": "Vacuum breakers are installed to admit air during boiler cooldown, preventing condensation from pulling a destructive vacuum inside the shell."
+  },
+  {
+    "number": 19,
+    "heading": "Boiler Fittings",
+    "question": "Closed expansion tanks are located:",
+    "options": {
+      "A": "Anywhere in the steam system",
+      "B": "At the highest point only",
+      "C": "Only at the lowest point",
+      "D": "Next to the open expansion tank",
+      "E": "Anywhere in the hotwater system"
+    },
+    "correctAnswer": "E",
+    "explanation": "Unlike open expansion tanks which must be at the highest elevation, closed diaphragm/bladder expansion tanks can be located anywhere in the hot water loop (typically near the boiler inlet/suction side of pump)."
+  },
+  {
+    "number": 20,
+    "heading": "Boiler Fittings",
+    "question": "The correct type of valve used when connecting an altitude gage is:",
+    "options": {
+      "A": "Tee handle",
+      "B": "Check valve",
+      "C": "Globe valve",
+      "D": "Butterfly valve",
+      "E": "Non return valve"
+    },
+    "correctAnswer": "A",
+    "explanation": "Pressure and altitude gauges must be fitted with a shutoff cock or valve equipped with a tee or lever handle aligned with the pipe axis when open."
+  }
+]

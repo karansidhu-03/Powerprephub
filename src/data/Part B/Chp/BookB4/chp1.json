@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Boiler Plant Startup",
+    "question": "Reducing the risk of equipment fires is accomplished through operators maintaining:",
+    "options": {
+      "A": "Smoke detectors",
+      "B": "Good house keeping practices",
+      "C": "Fire hoses",
+      "D": "Fire extinguishers",
+      "E": "Nothing flammable in the worksite"
+    },
+    "correctAnswer": "B",
+    "explanation": "Maintaining good housekeeping practices by eliminating oil leaks, rag accumulation, and combustible debris is the most fundamental way operators reduce equipment fire hazards."
+  },
+  {
+    "number": 2,
+    "heading": "Boiler Plant Startup",
+    "question": "A walk down is:",
+    "options": {
+      "A": "The main drain system blow down separation tank",
+      "B": "The stairs at the back of the boiler to the feedwater pumps",
+      "C": "The path between the shift engineers office and the boiler",
+      "D": "Part of the boiler inspectors equipment",
+      "E": "Following and checking the entire fuel system from storage tank to burner"
+    },
+    "correctAnswer": "E",
+    "explanation": "A walk down is a systematic visual inspection where the operator physically follows and inspects lines, valves, and equipment (such as the fuel system) from source to burner."
+  },
+  {
+    "number": 3,
+    "heading": "Boiler Plant Startup",
+    "question": "After starting any boiler, the fuel supply system is inspected during a second:",
+    "options": {
+      "A": "Annual inspection",
+      "B": "Walk down",
+      "C": "Startup",
+      "D": "Shutdown",
+      "E": "Purge"
+    },
+    "correctAnswer": "B",
+    "explanation": "Once the boiler is running, operators perform a second walk down of the fuel system to inspect for leaks, proper pressures, and normal operation under live conditions."
+  },
+  {
+    "number": 4,
+    "heading": "Boiler Plant Startup",
+    "question": "When working around machinery, motors and rotating shafts, operators must be careful to:",
+    "options": {
+      "A": "Never step over rotating equipment",
+      "B": "Only check machinery with a mechanic",
+      "C": "Feel the rotating shafts for vibration using the back of the hand",
+      "D": "Never go near the machinery",
+      "E": "Always observe the non running equipment"
+    },
+    "correctAnswer": "A",
+    "explanation": "Operators must never step over or reach across moving/rotating machinery, as clothing or limbs can get caught in shafts or couplings."
+  },
+  {
+    "number": 5,
+    "heading": "Boiler Plant Startup",
+    "question": "The first thing to do before starting a hot water heating boiler:",
+    "options": {
+      "A": "Blowdown the boiler",
+      "B": "Check for a valid inspection certificate",
+      "C": "Fill the boiler to operating level",
+      "D": "Close the vents",
+      "E": "Light the pilot"
+    },
+    "correctAnswer": "B",
+    "explanation": "Before initiating any mechanical startup procedures on a boiler, the operator must verify that a valid certificate of inspection is legally posted and up to date."
+  },
+  {
+    "number": 6,
+    "heading": "Boiler Plant Startup",
+    "question": "Handhole and manhole gaskets are sometimes coated with ______ to prevent them from sticking.",
+    "options": {
+      "A": "Grease",
+      "B": "Paint",
+      "C": "Graphite paste",
+      "D": "Water",
+      "E": "Oil"
+    },
+    "correctAnswer": "C",
+    "explanation": "Applying graphite paste or anti-seize compound to gaskets prevents them from baking onto metal seating surfaces, allowing clean release during future inspection."
+  },
+  {
+    "number": 7,
+    "heading": "Boiler Plant Startup",
+    "question": "When testing the pilot flame detector, a zero flame signal should lockout the startup within:",
+    "options": {
+      "A": "60 seconds",
+      "B": "0.4 seconds",
+      "C": "4 seconds",
+      "D": "4 attempts at ignition",
+      "E": "4 minutes"
+    },
+    "correctAnswer": "C",
+    "explanation": "Standard flame safeguard safety timing requires the controller to initiate a safety shutdown/lockout within 4 seconds if no flame signal is detected during pilot trial for ignition."
+  },
+  {
+    "number": 8,
+    "heading": "Boiler Plant Startup",
+    "question": "After all other checks are complete, and verified as ready for startup, the final operator action before ignition sequence is initiated is:",
+    "options": {
+      "A": "Send a notice to the boiler inspector",
+      "B": "Close the vent valves",
+      "C": "Open the drain valves",
+      "D": "Fill the boiler with water",
+      "E": "Push the reset on the interlocks"
+    },
+    "correctAnswer": "E",
+    "explanation": "Resetting the safety interlocks and safety shutdown circuit is the final manual control action required to initiate the automatic ignition sequence."
+  },
+  {
+    "number": 9,
+    "heading": "Boiler Plant Startup",
+    "question": "Before anything else when preparing to start a steam boiler:",
+    "options": {
+      "A": "Blowdown the boiler",
+      "B": "Check for a valid inspection certificate",
+      "C": "Fill the boiler to operating level",
+      "D": "Light the pilot",
+      "E": "Close the vents"
+    },
+    "correctAnswer": "B",
+    "explanation": "Checking for a valid inspection certificate is mandatory before starting any pressure vessel or boiler."
+  },
+  {
+    "number": 10,
+    "heading": "Boiler Plant Startup",
+    "question": "Verification of combustion air availability before startup includes checking:",
+    "options": {
+      "A": "Bearings, fuel pressure, screens",
+      "B": "Bearings, belts, lubrication, steam traps",
+      "C": "Bearings and lubrication, inlet screens, relief valves",
+      "D": "Bearings, belts, dampers, frost",
+      "E": "Free movement of dampers, bearings, water level"
+    },
+    "correctAnswer": "D",
+    "explanation": "Checking combustion air availability involves verifying fan bearings, drive belts, free movement of louvers/dampers, and ensuring fresh air intake louvers are not blocked by frost or snow."
+  },
+  {
+    "number": 11,
+    "heading": "Boiler Plant Startup",
+    "question": "Heavy fuel oil should be heated to _____ before it can be atomized and burned.",
+    "options": {
+      "A": "75°C",
+      "B": "95°C",
+      "C": "150°C",
+      "D": "120°C",
+      "E": "55°C"
+    },
+    "correctAnswer": "B",
+    "explanation": "Heavy fuel oils (such as No. 6 oil) must be heated to approximately 95°C (200°F) to reduce viscosity sufficiently for proper burner atomization."
+  },
+  {
+    "number": 12,
+    "heading": "Boiler Plant Startup",
+    "question": "High and low fuel gas pressure cut-offs are included in:",
+    "options": {
+      "A": "Permissives",
+      "B": "Post-ignition interlocks",
+      "C": "Shut down sequence",
+      "D": "Deaerator interlocks",
+      "E": "Temperature alarms"
+    },
+    "correctAnswer": "A",
+    "explanation": "High and low fuel gas pressure cut-off switches are pre-ignition permissives that must be satisfied before the burner management system allows startup."
+  },
+  {
+    "number": 13,
+    "heading": "Boiler Plant Startup",
+    "question": "Final inspection inside the boiler drums before closing them includes:",
+    "options": {
+      "A": "Ensuring the deaerator is at the correct level",
+      "B": "Verifying correct oil temperature",
+      "C": "Ensuring all tools are accounted for",
+      "D": "Steam traps are working",
+      "E": "Correct relief valve settings"
+    },
+    "correctAnswer": "C",
+    "explanation": "A critical final check inside boiler drums or internal passes before closing manway doors is verifying that all tools, foreign material, and flashlights have been removed."
+  },
+  {
+    "number": 14,
+    "heading": "Boiler Plant Startup",
+    "question": "On boilers with fully modulating burner controls, the startup is at low fire on:",
+    "options": {
+      "A": "Manual control",
+      "B": "The pilot only",
+      "C": "Automatic control",
+      "D": "Flame scanner bypass",
+      "E": "A five minute timer"
+    },
+    "correctAnswer": "C",
+    "explanation": "Modulating burner controls are interlocked to force the burner to start at low-fire automatically to minimize thermal shock and ensure safe ignition."
+  },
+  {
+    "number": 15,
+    "heading": "Boiler Plant Startup",
+    "question": "During hot water boiler startup, you must ensure that all boilers are serviced by:",
+    "options": {
+      "A": "The same BMS",
+      "B": "A common ignition system",
+      "C": "The same relief valve",
+      "D": "A common fuel gas shut off",
+      "E": "An expansion tank"
+    },
+    "correctAnswer": "E",
+    "explanation": "All operating hot water boilers in a system must be properly connected to and serviced by an active expansion tank to absorb water expansion."
+  },
+  {
+    "number": 16,
+    "heading": "Boiler Plant Startup",
+    "question": "On a hot water boiler, you should check and record the altitude gauge reading:",
+    "options": {
+      "A": "Before startup",
+      "B": "Before startup only",
+      "C": "After draining the system",
+      "D": "After the system is in service only",
+      "E": "Every hour when the boiler is in operation"
+    },
+    "correctAnswer": "A",
+    "explanation": "Recording static altitude pressure before startup ensures the system is completely full of water and under sufficient static head."
+  },
+  {
+    "number": 17,
+    "heading": "Boiler Plant Startup",
+    "question": "Immediately after starting a pump or fan, the operator must:",
+    "options": {
+      "A": "Check bearing temperatures, discharge pressures, boiler pressure",
+      "B": "Stop the equipment to verify it shuts down correctly",
+      "C": "Verify the amperage being drawn by the motor",
+      "D": "Check pressures, noise, vibration, lubrication",
+      "E": "Check flow and pressure only"
+    },
+    "correctAnswer": "D",
+    "explanation": "Immediately upon starting rotating equipment, operators inspect for proper operating discharge pressure, absence of abnormal noise or vibration, and proper lube oil flow/level."
+  },
+  {
+    "number": 18,
+    "heading": "Boiler Plant Startup",
+    "question": "Before filling the boiler with water the:",
+    "options": {
+      "A": "Blowoff valves and vent valves should be open",
+      "B": "All valves should be opened",
+      "C": "Blowoff valves must be closed and vent valve open",
+      "D": "Blowoff valves and vent valves should be closed",
+      "E": "Blowoff valves must be open and the vent valve closed"
+    },
+    "correctAnswer": "C",
+    "explanation": "When filling a boiler, blowoff valves must be tightly closed to hold water, while drum vent valves must be open to let air escape as water fills the vessel."
+  },
+  {
+    "number": 19,
+    "heading": "Boiler Plant Startup",
+    "question": "When preparing to start an oil fired boiler, an important prestart check is:",
+    "options": {
+      "A": "Ensure the flame is blue with yellow tips",
+      "B": "Ensure the gas pressure is adequate",
+      "C": "Check the stack temperature",
+      "D": "Check the steam traps are working",
+      "E": "Verify the oil is at the correct temperature"
+    },
+    "correctAnswer": "E",
+    "explanation": "For oil-fired systems (especially heavy oil), confirming that fuel oil temperature and viscosity are within specified limits is essential prior to ignition."
+  },
+  {
+    "number": 20,
+    "heading": "Boiler Plant Startup",
+    "question": "Boilers that are new or have been repaired should be boiled out to prevent any greases or oils from causing:",
+    "options": {
+      "A": "Low water levels",
+      "B": "Damage to the refractory",
+      "C": "High boiler pressures",
+      "D": "Foaming",
+      "E": "Corrosion"
+    },
+    "correctAnswer": "D",
+    "explanation": "Chemical boil-out removes oil, grease, and protective coatings left from manufacturing/repairs, which would otherwise cause severe foaming, water carryover, and unstable water levels."
+  }
+]

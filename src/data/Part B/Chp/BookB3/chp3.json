@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Water Level Safety Controls",
+    "question": "Flat gauge glasses are often preferred because:",
+    "options": {
+      "A": "They are more compact",
+      "B": "A light can be installed in front of them",
+      "C": "They are easier to clean",
+      "D": "They can withstand higher pressures",
+      "E": "It is easier to see the level"
+    },
+    "correctAnswer": "D",
+    "explanation": "Flat gauge glasses use heavy glass plates and robust metal frames, allowing them to safely withstand much higher operating pressures than tubular glass."
+  },
+  {
+    "number": 2,
+    "heading": "Water Level Safety Controls",
+    "question": "ASME sect 1 requires the lowest visible water level in a gage glass to be at least ____ above the lowest permissible water level.",
+    "options": {
+      "A": "100 mm",
+      "B": "50 mm",
+      "C": "25 mm",
+      "D": "10 mm",
+      "E": "75 mm"
+    },
+    "correctAnswer": "B",
+    "explanation": "According to ASME Section I (power boilers), the lowest visible water level in the gauge glass must be at least 50 mm (2 inches) above the lowest permissible water level of the boiler."
+  },
+  {
+    "number": 3,
+    "heading": "Water Level Safety Controls",
+    "question": "Gauge glasses show a water level which is:",
+    "options": {
+      "A": "Slightly lower when the glass water density is higher",
+      "B": "The actual vessel level regardless of pressure, temperature or density differences",
+      "C": "Slightly less than the level if the vessel is at a lower temperature",
+      "D": "Slightly higher than boiler level when the pressure is high",
+      "E": "The same if all liquids have the same temperature"
+    },
+    "correctAnswer": "A",
+    "explanation": "The water in an external gauge glass cools down slightly compared to the high-temperature water inside the boiler drum, resulting in a higher density and causing the gauge glass to show a level slightly lower than the actual internal drum level."
+  },
+  {
+    "number": 4,
+    "heading": "Water Level Safety Controls",
+    "question": "The quick closing valves on a water gauge glass requires _____ turn to change from open to closed.",
+    "options": {
+      "A": "Five",
+      "B": "Quarter",
+      "C": "Half",
+      "D": "Two",
+      "E": "Third"
+    },
+    "correctAnswer": "B",
+    "explanation": "Quick-closing gauge glass shutoff valves are designed to operate with a 90-degree (quarter turn) movement from fully open to fully closed."
+  },
+  {
+    "number": 5,
+    "heading": "Water Level Safety Controls",
+    "question": "ASME section 1 requires the connections from water column to a boiler to be:",
+    "options": {
+      "A": "10 mm",
+      "B": "17 mm",
+      "C": "15 mm",
+      "D": "25 mm",
+      "E": "6 mm"
+    },
+    "correctAnswer": "D",
+    "explanation": "ASME Section I specifies a minimum pipe size of 25 mm (1 inch) for connections between the boiler and the water column to prevent blockage by scale and sludge."
+  },
+  {
+    "number": 6,
+    "heading": "Water Level Safety Controls",
+    "question": "ASME sect IV requires the lowest visible part of the gage glass to be at least ____ above the lowest permissible water level.",
+    "options": {
+      "A": "25 mm",
+      "B": "10 mm",
+      "C": "50 mm",
+      "D": "75 mm",
+      "E": "100 mm"
+    },
+    "correctAnswer": "A",
+    "explanation": "For heating boilers under ASME Section IV, the lowest visible water level in the glass must be at least 25 mm (1 inch) above the lowest permissible water level."
+  },
+  {
+    "number": 7,
+    "heading": "Water Level Safety Controls",
+    "question": "Try cocks are:",
+    "options": {
+      "A": "For checking water level while the gauge glass is out of service",
+      "B": "For draining the gauge glass",
+      "C": "Used to blowdown the gage glass",
+      "D": "On the water column drain line",
+      "E": "Operated simultaneously"
+    },
+    "correctAnswer": "A",
+    "explanation": "Try cocks are direct mechanical sample valves mounted on the water column to verify boiler water level independently if the gauge glass is broken, isolated, or out of service."
+  },
+  {
+    "number": 8,
+    "heading": "Water Level Safety Controls",
+    "question": "Low water fuel cut off is used to:",
+    "options": {
+      "A": "Shut off the air when there is a low water level",
+      "B": "Shut off the water when there is a low water level",
+      "C": "Shut off fuel when there is a low air level",
+      "D": "Shut off the fuel when there is a low water level",
+      "E": "Shut off the water when there is a low fuel pressure"
+    },
+    "correctAnswer": "D",
+    "explanation": "A low-water fuel cut-off (LWFC) device immediately de-energizes the burner fuel valves when boiler water drops below safe operating limits to prevent overheating and boiler damage."
+  },
+  {
+    "number": 9,
+    "heading": "Water Level Safety Controls",
+    "question": "Separately mounted gauge glasses are used to provide a __________ indication of level over a certain vertical distance on the vessel.",
+    "options": {
+      "A": "Point",
+      "B": "Overlapping",
+      "C": "Indirect",
+      "D": "Ultrasonic",
+      "E": "Diagonal"
+    },
+    "correctAnswer": "B",
+    "explanation": "Multiple gauge glasses mounted with overlapping visible ranges are used on tall vessels to provide continuous visual tracking of liquid level across a wide vertical span."
+  },
+  {
+    "number": 10,
+    "heading": "Water Level Safety Controls",
+    "question": "When the main operating element is a large diaphragm, the water level indicator is a:",
+    "options": {
+      "A": "Bourdon tube",
+      "B": "Float",
+      "C": "Remote (Hopkinson) type",
+      "D": "Capsule",
+      "E": "Ledoux bell"
+    },
+    "correctAnswer": "C",
+    "explanation": "Remote liquid level indicators (such as Hopkinson types) often use a large diaphragm capsule sensing differential pressure to actuate the remote pointer."
+  },
+  {
+    "number": 11,
+    "heading": "Water Level Safety Controls",
+    "question": "Most low water cut off are:",
+    "options": {
+      "A": "Density operated",
+      "B": "Pressure operated",
+      "C": "Temperature operated",
+      "D": "Flow operated",
+      "E": "Float operated"
+    },
+    "correctAnswer": "E",
+    "explanation": "The majority of industrial low-water fuel cut-offs utilize float mechanisms or probes (electrode types) to sense water level changes directly."
+  },
+  {
+    "number": 12,
+    "heading": "Water Level Safety Controls",
+    "question": "CSA requirements state that boilers that are not under continuous supervision by a licensed power engineer must:",
+    "options": {
+      "A": "Not operate on automatic",
+      "B": "Have two dependent low water cut offs",
+      "C": "Have at least two low water fuel cut off devices",
+      "D": "Must have no shut off devices that can be tested",
+      "E": "Be shut down and automatic controls installed"
+    },
+    "correctAnswer": "C",
+    "explanation": "Unattended or automatically supervised boiler standards (such as CSA B51) mandate the installation of at least two independent low-water fuel cut-off devices."
+  },
+  {
+    "number": 13,
+    "heading": "Water Level Safety Controls",
+    "question": "If a gauge glass breaks, the operator shall immediately:",
+    "options": {
+      "A": "Shut the boiler down",
+      "B": "Isolate the boiler",
+      "C": "Lift the safety valve",
+      "D": "Shut off the steam valve and water valve on the gauge",
+      "E": "Add more water to the boiler"
+    },
+    "correctAnswer": "D",
+    "explanation": "When a gauge glass shatters, the immediate priority is to close the gauge glass steam and water shutoff valves to prevent uncontrolled steam and water discharge."
+  },
+  {
+    "number": 14,
+    "heading": "Water Level Safety Controls",
+    "question": "Each steam heating boiler gauge glass shall be fitted with a drain cock or valve having an unrestricted drain opening of not less than ____ diameter to facilitate cleaning.",
+    "options": {
+      "A": "10 mm",
+      "B": "6 mm",
+      "C": "25 mm",
+      "D": "15 mm",
+      "E": "2 mm"
+    },
+    "correctAnswer": "B",
+    "explanation": "Gauge glass drain connections must have an unrestricted opening of at least 6 mm (1/4 inch) to ensure effective blowing down and clearing of scale or sludge."
+  },
+  {
+    "number": 15,
+    "heading": "Water Level Safety Controls",
+    "question": "Dirt traps are installed on remote water-level indicator:",
+    "options": {
+      "A": "To prevent osmosis from occurring",
+      "B": "To prevent indicating liquid contamination",
+      "C": "To prevent mixing of the indicating liquid with boiler water",
+      "D": "Because of the high amount of suspended solids collecting in the constant head",
+      "E": "So that overfilling of the indicating section is prevented"
+    },
+    "correctAnswer": "B",
+    "explanation": "Dirt traps are installed on remote water-level indicators to catch dirt, rust, scale, and other suspended impurities before they enter and contaminate the indicating liquid. Keeping the indicating liquid clean helps maintain accurate and reliable water-level readings."
+  },
+  {
+    "number": 16,
+    "heading": "Water Level Safety Controls",
+    "question": "When two Low Water Fuel Cut Offs are used, the lower of the two controls shall:",
+    "options": {
+      "A": "Shut off the feedwater flow",
+      "B": "Cause a safety shutdown and lockout",
+      "C": "Cause the feedwater valve to go wide open",
+      "D": "Restart the boiler",
+      "E": "Sound the low level alarm"
+    },
+    "correctAnswer": "B",
+    "explanation": "In dual low-water fuel cut-off setups, the secondary (lower) cut-off acts as a failsafe backup that initiates a hard safety lockout shutdown."
+  },
+  {
+    "number": 17,
+    "heading": "Water Level Safety Controls",
+    "question": "Tubular gauge glasses:",
+    "options": {
+      "A": "Are suitable for pressures up to 3000 kPa",
+      "B": "Are not weakened by misalignment",
+      "C": "Can be of any length",
+      "D": "Indicate the level most accurately",
+      "E": "Do not corrode due to high alkalinity"
+    },
+    "correctAnswer": "A",
+    "explanation": "Tubular gauge glasses have lower pressure structural limits and are typically restricted to lower pressures (usually up to 2000–3000 kPa depending on specific code allowances)."
+  },
+  {
+    "number": 18,
+    "heading": "Water Level Safety Controls",
+    "question": "Gauge glass failures often occur due to:",
+    "options": {
+      "A": "Failure to heat the glass gradually",
+      "B": "Incorrect cleaning",
+      "C": "High steam temperature",
+      "D": "High water level",
+      "E": "Boiler vibration"
+    },
+    "correctAnswer": "A",
+    "explanation": "Thermal shock caused by turning on steam valves too quickly without gradually preheating the glass is a primary cause of gauge glass fracture."
+  },
+  {
+    "number": 19,
+    "heading": "Water Level Safety Controls",
+    "question": "A water gauge shall be fitted with rods or chains so it can be operated from the floor or working platform when it is _____ from the floor.",
+    "options": {
+      "A": "Between 6 and 10 m",
+      "B": "Between 2 and 6 m",
+      "C": "Over 10 m",
+      "D": "Under 2 m",
+      "E": "Over 6 m"
+    },
+    "correctAnswer": "B",
+    "explanation": "When water gauges are located high above the operating floor (typically over 6 meters), operating chains or extension rods must be provided so operators can manipulate the valves safely from below."
+  },
+  {
+    "number": 20,
+    "heading": "Water Level Safety Controls",
+    "question": "Boilers that require two Low Water Fuel Cutoff devices:",
+    "options": {
+      "A": "Must ensure each is installed in individual float chambers",
+      "B": "Can use both as combination level control/LWFCO devices",
+      "C": "Can save space by installing both in a single column",
+      "D": "Must use only electrode type devices",
+      "E": "Must have full time operators present"
+    },
+    "correctAnswer": "A",
+    "explanation": "To ensure absolute reliability and prevent a single obstruction or failure from disabling both cut-offs, dual LWFC units must be installed in separate float chambers or independent tappings."
+  }
+]

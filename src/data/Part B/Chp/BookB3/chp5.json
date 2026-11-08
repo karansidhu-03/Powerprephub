@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Firing Rate Controls",
+    "question": "Modulating combustion controls:",
+    "options": {
+      "A": "Control the draft and feedwater temperature",
+      "B": "Regulate the fuel and air supplies",
+      "C": "Control the back draft damper",
+      "D": "Regulate the steam and feedwater supply",
+      "E": "Control the oil atomizer"
+    },
+    "correctAnswer": "B",
+    "explanation": "Modulating combustion controls vary both the fuel flow and combustion air supply in proportion to boiler steam/heat load demands to maintain stable pressure/temperature and optimum efficiency."
+  },
+  {
+    "number": 2,
+    "heading": "Firing Rate Controls",
+    "question": "Prior to a boiler safety valve popping during routine boiler operation:",
+    "options": {
+      "A": "The pressure gage should be checked",
+      "B": "A try lever test should be performed",
+      "C": "The high limit switch should open",
+      "D": "The high level alarm should sound",
+      "E": "The feedwater pump should stop"
+    },
+    "correctAnswer": "C",
+    "explanation": "The high limit pressure switch is set below the safety valve set pressure. During an overpressure event, the high limit switch should trip and shut off the burner before boiler pressure rises enough to pop the safety valve."
+  },
+  {
+    "number": 3,
+    "heading": "Firing Rate Controls",
+    "question": "An Aquastat:",
+    "options": {
+      "A": "Can be located away from its point of measurement",
+      "B": "Is a modulating device",
+      "C": "Measures water flow",
+      "D": "Senses water level",
+      "E": "Is used on steam boilers"
+    },
+    "correctAnswer": "A",
+    "explanation": "An Aquastat utilizing a capillary tube and remote bulb sensor allows the main control switch body to be mounted away from the actual immersion well sensing point on the boiler."
+  },
+  {
+    "number": 4,
+    "heading": "Firing Rate Controls",
+    "question": "The operating cut off for low pressure steam heating boilers should be set at:",
+    "options": {
+      "A": "70 kPa",
+      "B": "115 kPa",
+      "C": "35 kPa",
+      "D": "100 kPa",
+      "E": "45 kPa"
+    },
+    "correctAnswer": "A",
+    "explanation": "Low-pressure steam heating boilers (operating up to 103 kPa MAWP) typically have their primary operating pressure control cutout set around 70 kPa (approx. 10 psi) to maintain safe operating margins."
+  },
+  {
+    "number": 5,
+    "heading": "Firing Rate Controls",
+    "question": "The main steam boiler control device used with an ON/OFF combustion fuel control is a/an _____ sensing element.",
+    "options": {
+      "A": "Electronic",
+      "B": "Level",
+      "C": "Pneumatic",
+      "D": "Temperature",
+      "E": "Pressure"
+    },
+    "correctAnswer": "E",
+    "explanation": "ON/OFF combustion control on a steam boiler uses a pressure-sensing element (bellows or Bourdon tube pressure switch) to cycle the burner based on steam pressure."
+  },
+  {
+    "number": 6,
+    "heading": "Firing Rate Controls",
+    "question": "A device found on the pressure side of a steam boiler operating control switch is a:",
+    "options": {
+      "A": "Test connection for an inspector",
+      "B": "Feedwater pressure gauge",
+      "C": "Siphon",
+      "D": "Combustion air proving switch",
+      "E": "Modutrol motor"
+    },
+    "correctAnswer": "C",
+    "explanation": "A siphon (pigtail loop) must be installed between the steam space and the pressure control switch to trap condensate and protect the internal pressure-sensing element from direct live steam."
+  },
+  {
+    "number": 7,
+    "heading": "Firing Rate Controls",
+    "question": "Modulating burner controls operate by regulating:",
+    "options": {
+      "A": "Fuel flow and atomizing steam flow",
+      "B": "Fuel temperature and air flow",
+      "C": "Steam flow and fuel flow",
+      "D": "Fuel flow, air flow, and feedwater pressure",
+      "E": "Fuel flow and air flow"
+    },
+    "correctAnswer": "E",
+    "explanation": "Modulating burner controls maintain proper air-fuel ratios across varying load demands by simultaneously positioning fuel valves and air dampers."
+  },
+  {
+    "number": 8,
+    "heading": "Firing Rate Controls",
+    "question": "The controlled variable in heating boilers with modulating control cause a bellows to operate a:",
+    "options": {
+      "A": "Hydrostat",
+      "B": "Shut down valve",
+      "C": "Alarm",
+      "D": "Mercury switch",
+      "E": "Potentiometer"
+    },
+    "correctAnswer": "E",
+    "explanation": "In modulating boiler control systems, pressure/temperature changes cause expansion or contraction of a bellows, which positions a potentiometer (slidewire resistor) to send a proportional signal to the modulating motor."
+  },
+  {
+    "number": 9,
+    "heading": "Firing Rate Controls",
+    "question": "An operating pressure control switch for an ON-OFF boiler:",
+    "options": {
+      "A": "Can only have its cut-in setting adjusted",
+      "B": "Operates in conjunction with a Modutrol motor",
+      "C": "Utilizes a resistance coil",
+      "D": "Uses a differential spring to control cut-in/cut-out",
+      "E": "Has an un-adjustable span between cut-in and cut-out"
+    },
+    "correctAnswer": "D",
+    "explanation": "An ON-OFF pressure control switch features a main set-point spring and a differential adjustment spring to independently set the cut-in and cut-out operating pressures."
+  },
+  {
+    "number": 10,
+    "heading": "Firing Rate Controls",
+    "question": "High limit temperature controls:",
+    "options": {
+      "A": "Increase air flow to the boiler if temperature limits are exceeded",
+      "B": "Shut off the fuel if the water temperature is too high",
+      "C": "Are required under Section II of the ASME Codes",
+      "D": "Open a 3-way mixing valve to add cold water to the hot water to reduce the water temperature",
+      "E": "Are required on steam boilers"
+    },
+    "correctAnswer": "B",
+    "explanation": "High limit temperature controls act as safety interlocks on hot water boilers to de-energize the fuel shutoff valve if water temperature exceeds safe operational limits."
+  },
+  {
+    "number": 11,
+    "heading": "Firing Rate Controls",
+    "question": "A thermal element is:",
+    "options": {
+      "A": "Used to measure heat content",
+      "B": "A type of open system",
+      "C": "Commonly termed an “Aquastat”",
+      "D": "Capable of sensing temperature and converting it to a pressure signal",
+      "E": "Used to measure pressure"
+    },
+    "correctAnswer": "D",
+    "explanation": "A liquid/vapor-filled thermal element (sensing bulb and capillary tube) senses fluid temperature changes, which expand or contract the fluid to convert temperature changes into a mechanical pressure signal acting on a bellows."
+  },
+  {
+    "number": 12,
+    "heading": "Firing Rate Controls",
+    "question": "Combustion air safety switches are commonly found:",
+    "options": {
+      "A": "As non-interlocking devices and take no part in a startup",
+      "B": "On gas fired boilers only",
+      "C": "On hot water boilers only",
+      "D": "On natural draft boilers",
+      "E": "On boilers utilizing a forced draft fan"
+    },
+    "correctAnswer": "E",
+    "explanation": "Combustion air proving switches (airflow differential switches) are required safety interlocks on boilers equipped with forced draft or induced draft fans to verify airflow before and during burner operation."
+  },
+  {
+    "number": 13,
+    "heading": "Firing Rate Controls",
+    "question": "A combustion air proving switch:",
+    "options": {
+      "A": "Senses air temperature",
+      "B": "Detects O₂ in flue gas",
+      "C": "Senses flue gas pressure",
+      "D": "Senses windbox pressure",
+      "E": "Senses O₂ content of the air"
+    },
+    "correctAnswer": "D",
+    "explanation": "A combustion air proving switch measures differential air pressure across the burner windbox or fan inlet/outlet to verify adequate combustion airflow."
+  },
+  {
+    "number": 14,
+    "heading": "Firing Rate Controls",
+    "question": "A modulating control steam heating boiler:",
+    "options": {
+      "A": "Will have a constant combustion air, flow rate",
+      "B": "Is always fully automatic",
+      "C": "Has very efficient operation",
+      "D": "Cannot operate in a multi-boiler system",
+      "E": "Will have a wide operating pressure range"
+    },
+    "correctAnswer": "C",
+    "explanation": "Modulating control matches fuel and air inputs continuously to load demand, preventing frequent cycling thermal losses and providing highly efficient operation."
+  },
+  {
+    "number": 15,
+    "heading": "Firing Rate Controls",
+    "question": "What is the purpose of the high limit temperature control on a hot water boiler?",
+    "options": {
+      "A": "To shut down the burner if the water temperature rises too high",
+      "B": "To limit high pressure and temperature from developing",
+      "C": "To allow you to take off the operating control for maintenance without shutting down the boiler",
+      "D": "To take over operating the boiler if the water level control fails",
+      "E": "To prevent the pressure in the boiler rising above 210 kPa gage"
+    },
+    "correctAnswer": "A",
+    "explanation": "The primary safety function of a high limit temperature control on a hot water boiler is to immediately stop fuel flow to the burner if water temperature exceeds the safe maximum setpoint."
+  },
+  {
+    "number": 16,
+    "heading": "Firing Rate Controls",
+    "question": "A high pressure cut off switch is required on automatically fired steam boilers:",
+    "options": {
+      "A": "To prevent the fuel supply from being shut off",
+      "B": "To prevent steam pressure exceeding the allowable operating pressure",
+      "C": "To prevent high flue gas back pressure",
+      "D": "To prevent loss of feed water flow",
+      "E": "To prevent loss of steam pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": "A high pressure safety cutoff switch opens to interrupt the fuel safety circuit, preventing steam pressure from reaching or exceeding the Maximum Allowable Working Pressure (MAWP)."
+  },
+  {
+    "number": 17,
+    "heading": "Firing Rate Controls",
+    "question": "A manual HIGH-LOW switch should be switched to “AUTO”:",
+    "options": {
+      "A": "As soon as the main flame has stabilized",
+      "B": "When pressure is too low",
+      "C": "When the boiler has been properly warmed up",
+      "D": "During boiler pre-purge",
+      "E": "Prior to ignition of the main flame"
+    },
+    "correctAnswer": "C",
+    "explanation": "During cold startup, boilers should be fired on low-fire until thoroughly warmed up to avoid thermal stress; once warm, the manual control switch can be moved to AUTO."
+  },
+  {
+    "number": 18,
+    "heading": "Firing Rate Controls",
+    "question": "The current code that covers hot water heating or hot water supply boilers that operate at temperatures not exceeding 121°C is:",
+    "options": {
+      "A": "Alberta Pressure Equipment Safety Regulation",
+      "B": "ASME Section IV",
+      "C": "Alberta Power Engineers Regulation",
+      "D": "CSA B51",
+      "E": "ASME Section I"
+    },
+    "correctAnswer": "B",
+    "explanation": "ASME Section IV specifies rules for construction and rating of low-pressure heating boilers (steam up to 103 kPa and hot water boilers up to 121°C / 1100 kPa)."
+  },
+  {
+    "number": 19,
+    "heading": "Firing Rate Controls",
+    "question": "A hot water boiler operating control can be a pressure switch:",
+    "options": {
+      "A": "Which is sensitive to the expansion and contraction of boiler water",
+      "B": "Sensitive to boiler steam pressure",
+      "C": "Which is normally open",
+      "D": "Utilizing a closed liquid filled system",
+      "E": "Sensitive to steam pressure"
+    },
+    "correctAnswer": "D",
+    "explanation": "Hot water boiler temperature controls often utilize a closed, liquid-filled sensing system (fluid expansion bulb/capillary) where liquid pressure changes inside the sealed system operate a pressure switch."
+  },
+  {
+    "number": 20,
+    "heading": "Firing Rate Controls",
+    "question": "An ON-OFF steam boiler burner operation control:",
+    "options": {
+      "A": "Will maintain a fairly constant steam pressure",
+      "B": "Cannot operate in a multi-boiler system",
+      "C": "Will cycle on and off based on temperature",
+      "D": "Must have a low capacity",
+      "E": "Operates most efficiently at continuous firing"
+    },
+    "correctAnswer": "E",
+    "explanation": "An ON-OFF steam boiler burner is designed to operate most efficiently when it fires continuously rather than repeatedly cycling on and off. Frequent cycling causes heat losses during startup and shutdown and can increase wear on burner components. Continuous firing, when the boiler load allows it, provides more efficient operation."
+  }
+]

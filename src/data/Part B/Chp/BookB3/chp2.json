@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Combustion Safety",
+    "question": "A high gas pressure fuel cut-off switch:",
+    "options": {
+      "A": "Opens when the gas pressure valve is reset",
+      "B": "Is a normally open switch",
+      "C": "Must be located upstream of an automatic fuel valve",
+      "D": "Opens when the gas pressure exceeds 125% of normal pressure",
+      "E": "Opens when the gas pressure exceeds normal pressure"
+    },
+    "correctAnswer": "D",
+    "explanation": "A high gas pressure fuel cut-off switch is a safety device that monitors the gas supply pressure to the burner. It is set to open its electrical contacts when the gas pressure rises above 125% of normal operating pressure. This interrupts the burner control circuit, causing the automatic fuel shut-off valves to close and stopping the gas supply to prevent unsafe combustion conditions."
+  },
+  {
+    "number": 2,
+    "heading": "Combustion Safety",
+    "question": "A flame failure device:",
+    "options": {
+      "A": "Will control the pressure of the boiler",
+      "B": "Will shut down the flame in the boiler",
+      "C": "Will shut off the fuel to the burner",
+      "D": "Will shut off the steam leaving the boiler",
+      "E": "Must be installed on every high pressure boiler"
+    },
+    "correctAnswer": "C",
+    "explanation": "The core purpose of a flame failure device is to detect the loss of a burner flame and immediately shut off the fuel supply to prevent dangerous unburnt fuel accumulation."
+  },
+  {
+    "number": 3,
+    "heading": "Combustion Safety",
+    "question": "All flame safeguard devices:",
+    "options": {
+      "A": "Are limited to temperatures comfortable to the hand",
+      "B": "Require a photoelectric cell",
+      "C": "Activate an alarm only if flame failure is detected",
+      "D": "Close the main fuel valve in case of pilot flame failure or main burner failure",
+      "E": "Monitor the pilot flame and main burner simultaneously"
+    },
+    "correctAnswer": "D",
+    "explanation": "Flame safeguard controls ensure safety by tripping the main fuel shut-off valves if either the pilot or the main burner flame fails."
+  },
+  {
+    "number": 4,
+    "heading": "Combustion Safety",
+    "question": "Which of the following is a flame, sensing device?",
+    "options": {
+      "A": "Cut-off valve",
+      "B": "Heat sensing control",
+      "C": "Scanner",
+      "D": "Stack relay",
+      "E": "Pilotstat"
+    },
+    "correctAnswer": "C",
+    "explanation": "A flame scanner (or optical detector) is a primary flame sensing device used to monitor burner and pilot combustion status."
+  },
+  {
+    "number": 5,
+    "heading": "Combustion Safety",
+    "question": "Primary controls must be able to shut off a burner within ______ for burners over 120 kW input.",
+    "options": {
+      "A": "40 seconds",
+      "B": "10 seconds",
+      "C": "4 minutes",
+      "D": "0.4 seconds",
+      "E": "4 seconds"
+    },
+    "correctAnswer": "E",
+    "explanation": "Combustion safety standards specify that primary flame safety controls for larger burners (over 120 kW input) must shut off the fuel supply within 4 seconds of a flame failure."
+  },
+  {
+    "number": 6,
+    "heading": "Combustion Safety",
+    "question": "The low fuel oil temperature cut off is:",
+    "options": {
+      "A": "Designed to heat the fuel oil",
+      "B": "Pre ignition interlock",
+      "C": "Turns on an oil heater",
+      "D": "Operated with the flame scanner",
+      "E": "Typically used with natural gas burners"
+    },
+    "correctAnswer": "B",
+    "explanation": "A low fuel oil temperature switch acts as a pre-ignition interlock, preventing burner startup until heavy fuel oil is heated sufficiently to ensure proper atomization."
+  },
+  {
+    "number": 7,
+    "heading": "Combustion Safety",
+    "question": "Main Fuel SSOV are:",
+    "options": {
+      "A": "Quick opening, quick closing",
+      "B": "Slow opening, quick closing",
+      "C": "Manually operated quarter turn",
+      "D": "Quick opening, slow closing",
+      "E": "Slow opening, slow closing"
+    },
+    "correctAnswer": "B",
+    "explanation": "Main safety shut-off valves (SSOV) are typically slow-opening to prevent sudden pressure surges in the burner manifold upon startup, and quick-closing to instantly cut off fuel during a shutdown."
+  },
+  {
+    "number": 8,
+    "heading": "Combustion Safety",
+    "question": "Flame safeguard devices:",
+    "options": {
+      "A": "Are all unaffected by heat",
+      "B": "Should be kept as far away from the fire as possible",
+      "C": "Should not be cleaned",
+      "D": "Should be tested following the manufacturers instructions",
+      "E": "Should be kept cool enough to be touched by hand"
+    },
+    "correctAnswer": "D",
+    "explanation": "To ensure reliable operation and safety compliance, flame safeguard systems and interlocks must always be tested according to the manufacturer's recommended procedures and intervals."
+  },
+  {
+    "number": 9,
+    "heading": "Combustion Safety",
+    "question": "A fire eye of flame scanner keeps the burner circuit energized as long as the burner flame is maintained. This is accomplished through the use of a:",
+    "options": {
+      "A": "Controller",
+      "B": "Control valve",
+      "C": "Recorder",
+      "D": "Electronic amplifier",
+      "E": "Thermocouple"
+    },
+    "correctAnswer": "D",
+    "explanation": "Optical flame scanners convert light signals into electrical current, which is processed through an electronic amplifier to maintain the burner circuit energized."
+  },
+  {
+    "number": 10,
+    "heading": "Combustion Safety",
+    "question": "Quickly closing the main burner manual valve during boiler operation should check the:",
+    "options": {
+      "A": "Flame scanner",
+      "B": "High gas pressure fuel cut off",
+      "C": "Combustion air proving switch",
+      "D": "Low fire interlock switch",
+      "E": "Low gas pressure fuel cut off"
+    },
+    "correctAnswer": "B",
+    "explanation": "Quickly closing the main burner manual valve interrupts the gas supply and causes the burner flame to go out. This allows the operator to verify that the flame safeguard system detects the loss of flame and initiates a safety shutdown by closing the automatic fuel shut-off valves. Note that this procedure checks flame failure response; it does not directly test the high gas pressure switch."
+  },
+  {
+    "number": 11,
+    "heading": "Combustion Safety",
+    "question": "A burner management systems typically requires at least _____ of high fire air flow to establish the purge.",
+    "options": {
+      "A": "10 seconds",
+      "B": "60%",
+      "C": "60 minutes",
+      "D": "10 minutes",
+      "E": "100%"
+    },
+    "correctAnswer": "B",
+    "explanation": "Burner management systems require sufficient airflow during pre-purge cycles, typically requiring at least 60% of high-fire airflow to thoroughly sweep out any unburnt combustible gases from the furnace."
+  },
+  {
+    "number": 12,
+    "heading": "Combustion Safety",
+    "question": "The main types of burner management systems is:",
+    "options": {
+      "A": "Electronic, pneumatic",
+      "B": "Proportional, derivative, integral",
+      "C": "Flame detection, gas pressure, air prover",
+      "D": "Manual, automatic",
+      "E": "Flame relay, primary, programming control"
+    },
+    "correctAnswer": "E",
+    "explanation": "Traditional burner management and combustion safeguard control classifications include flame relays, primary controls, and sequential programming controls."
+  },
+  {
+    "number": 13,
+    "heading": "Combustion Safety",
+    "question": "The function of a flame failure device is to:",
+    "options": {
+      "A": "Shut off the fuel supply when the pressure gets too high",
+      "B": "Shut off the fuel when the burner flame is not detected",
+      "C": "De-energize the fan and feedwater systems",
+      "D": "Shut off the feedwater supply to the boiler",
+      "E": "Shut off the fuel when the fuel temperature is high"
+    },
+    "correctAnswer": "B",
+    "explanation": "A flame failure device monitors the burner flame and instantly stops the fuel flow if the flame is lost."
+  },
+  {
+    "number": 14,
+    "heading": "Combustion Safety",
+    "question": "The burner management system “pilot trial period” is up to:",
+    "options": {
+      "A": "60 seconds",
+      "B": "30 seconds",
+      "C": "45 seconds",
+      "D": "10 seconds",
+      "E": "90 seconds"
+    },
+    "correctAnswer": "D",
+    "explanation": "During burner startup, the pilot trial for ignition (interrupted pilot safety timing) is typically limited to a maximum of 10 seconds to prevent hazardous fuel accumulation."
+  },
+  {
+    "number": 15,
+    "heading": "Combustion Safety",
+    "question": "A flame scanner:\n1. Requires a photoelectric cell\n2. Responds to temperature changes\n3. Requires a clear line of sight to the flame\n4. Produces a steady voltage signal\n\nA) 1, 2, 4\nB) 1, 2, 3, 4\nC) 2, 3\nD) 2, 3, 4\nE) 1, 3",
+    "options": {
+      "A": "1, 2, 4",
+      "B": "1, 2, 3, 4",
+      "C": "2, 3",
+      "D": "2, 3, 4",
+      "E": "1, 3"
+    },
+    "correctAnswer": "E",
+    "explanation": "Optical flame scanners utilize photoelectric cells (1) and require an unobstructed, direct line of sight to the burner flame (3) to detect radiation accurately."
+  },
+  {
+    "number": 16,
+    "heading": "Combustion Safety",
+    "question": "The device found on a SSOV to stop the startup sequence when the SSOV is not fully closed.",
+    "options": {
+      "A": "Quarter turn plug valve",
+      "B": "Safety vent valve",
+      "C": "Solenoid valve",
+      "D": "Proof of closure switch",
+      "E": "High pressure cutoff"
+    },
+    "correctAnswer": "D",
+    "explanation": "A proof-of-closure (leak test / valve seal overtravel) switch verifies that safety shut-off valves are fully closed before allowing a burner pre-purge cycle to start."
+  },
+  {
+    "number": 17,
+    "heading": "Combustion Safety",
+    "question": "When a burner management systems initiates a safety shutdown:",
+    "options": {
+      "A": "An operator must investigate and manually reset the controller",
+      "B": "The manufacturer must be contacted",
+      "C": "The controller must be reset by the manufacturer",
+      "D": "The boiler inspector must be notified",
+      "E": "The boiler will automatically restart when conditions are normal."
+    },
+    "correctAnswer": "A",
+    "explanation": "Following a safety lockout trip, the operator must thoroughly investigate the root cause of the fault and manually reset the combustion safeguard controller."
+  },
+  {
+    "number": 18,
+    "heading": "Combustion Safety",
+    "question": "A thermocouple:",
+    "options": {
+      "A": "Senses infrared light from the flame",
+      "B": "Senses changes in fuel line pressure",
+      "C": "Senses changes in air pressure",
+      "D": "Produces an electric signal",
+      "E": "Consists of two similar wires"
+    },
+    "correctAnswer": "D",
+    "explanation": "A thermocouple generates a small millivolt electrical signal proportional to the temperature difference between its hot and cold junctions."
+  },
+  {
+    "number": 19,
+    "heading": "Combustion Safety",
+    "question": "Main and Pilot Fuel gas shutoff valves are:",
+    "options": {
+      "A": "Slow opening",
+      "B": "Globe valves",
+      "C": "Quarter turn plug valves",
+      "D": "Gate vales",
+      "E": "Slow closing"
+    },
+    "correctAnswer": "C",
+    "explanation": "Main and pilot fuel gas shutoff valves are commonly quarter-turn plug valves. They use a plug with a passage through it that opens or blocks the gas flow when rotated 90 degrees. This design allows the valves to shut off the fuel supply quickly and reliably during an emergency."
+  },
+  {
+    "number": 20,
+    "heading": "Combustion Safety",
+    "question": "The flame failure device that incorporates a lead sulphide cell must receive _____ to operate.",
+    "options": {
+      "A": "Infrared rays",
+      "B": "Heat and radiation",
+      "C": "Ultraviolet rays",
+      "D": "A digital signal",
+      "E": "Heat from the flame"
+    },
+    "correctAnswer": "A",
+    "explanation": "Lead sulphide (PbS) photoelectric cells are sensitive to infrared radiation (heat rays) emitted by the combustion flame."
+  }
+]
