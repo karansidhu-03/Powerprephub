@@ -127,8 +127,14 @@ import b3chp3 from "./Part B/Chp/BookB3/chp3.json";
 import b3chp4 from "./Part B/Chp/BookB3/chp4.json";
 import b3chp5 from "./Part B/Chp/BookB3/chp5.json";
 
-// Part B — Book B4 chapters (chp2 still empty, skipping)
+// Part B — Book B4 full book + chapters
+import bookB4 from "./Part B/Chp/BookB4/bookb4.json";
 import b4chp1 from "./Part B/Chp/BookB4/chp1.json";
+import b4chp2 from "./Part B/Chp/BookB4/chp2.json";
+import b4chp3 from "./Part B/Chp/BookB4/chp3.json";
+import b4chp4 from "./Part B/Chp/BookB4/chp4.json";
+import b4chp5 from "./Part B/Chp/BookB4/chp5.json";
+import b4chp6 from "./Part B/Chp/BookB4/chp6.json";
 
 export interface Question {
   id: string | number;
@@ -838,9 +844,39 @@ const bookB3Chapters: Paper[] = [
 
 const bookB4Chapters: Paper[] = [
   makePaper(
+    "b4-fullbook",
+    "Full Book B4 Exam",
+    toQuestions(bookB4 as unknown as RawNumberQuestion[], "Book B4 — Plant Operations"),
+  ),
+  makePaper(
     "b4-chp1",
     "Boiler Plant Startup",
     toQuestions(b4chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b4-chp2",
+    "Boiler Startup",
+    toQuestions(b4chp2 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b4-chp3",
+    "Boiler Operation",
+    toQuestions(b4chp3 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b4-chp4",
+    "Operational Checks",
+    toQuestions(b4chp4 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b4-chp5",
+    "Shutdown Procedures",
+    toQuestions(b4chp5 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b4-chp6",
+    "Monitoring & Reporting",
+    toQuestions(b4chp6 as unknown as RawNumberQuestion[]),
   ),
 ];
 
