@@ -1,5 +1,5 @@
 [
-  [{
+  {
     "number": 1,
     "heading": "Energy Plant Maintenance I",
     "question": "When drilling speed is too fast, it results in:",
@@ -279,4 +279,4 @@
     "correctAnswer": "C",
     "explanation": "Mill files feature a single row of parallel teeth (single cut) designed for smooth finishing and sharpening applications."
   }
-]]
+]
