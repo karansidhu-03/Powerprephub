@@ -143,6 +143,9 @@ import b5chp2 from "./Part B/Chp/BookB5/chp2.json";
 import b5chp3 from "./Part B/Chp/BookB5/chp3.json";
 import b5chp4 from "./Part B/Chp/BookB5/chp4.json";
 
+// Part B — Book B6 chapters
+import b6chp1 from "./Part B/Chp/BookB6/chp1.json";
+
 export interface Question {
   id: string | number;
   topic?: string;
@@ -915,6 +918,14 @@ const bookB5Chapters: Paper[] = [
   ),
 ];
 
+const bookB6Chapters: Paper[] = [
+  makePaper(
+    "b6-chp1",
+    "External Boiler Water Treatment",
+    toQuestions(b6chp1 as unknown as RawNumberQuestion[]),
+  ),
+];
+
 function chapterCount(papers: Paper[]): number {
   return papers.reduce((sum, p) => sum + (p.questions?.length ?? 0), 0);
 }
@@ -1057,6 +1068,12 @@ export const exams: Exam[] = [
         label: "Book B5 — Plant Maintenance",
         description: `${chapterCount(bookB5Chapters)} questions across ${bookB5Chapters.length} chapters`,
         papers: bookB5Chapters,
+      },
+      {
+        id: "book-b6",
+        label: "Book B6 — Water Treatment",
+        description: `${chapterCount(bookB6Chapters)} questions across ${bookB6Chapters.length} chapters`,
+        papers: bookB6Chapters,
       },
     ],
   },

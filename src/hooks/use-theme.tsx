@@ -17,8 +17,7 @@ const ThemeContext = createContext<ThemeContextValue | null>(null);
 
 const STORAGE_KEY = "exam-theme";
 
-function getInitialTheme(): Theme {
-  if (typeof document === "undefined") return "light";
+function readStoredTheme(): Theme {
   const stored = localStorage.getItem(STORAGE_KEY);
   if (stored === "light" || stored === "dark") return stored;
   return window.matchMedia("(prefers-color-scheme: dark)").matches
@@ -27,7 +26,11 @@ function getInitialTheme(): Theme {
 }
 
 export function ThemeProvider({ children }: { children: React.ReactNode }) {
-  const [theme, setTheme] = useState<Theme>(getInitialTheme);
+  const [theme, setTheme] = useState<Theme>("light");
+
+  useEffect(() => {
+    setTheme(readStoredTheme());
+  }, []);
 
   useEffect(() => {
     const root = document.documentElement;
