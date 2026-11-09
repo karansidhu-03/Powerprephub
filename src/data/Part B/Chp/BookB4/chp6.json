@@ -1,282 +1,282 @@
 [
   {
     "number": 1,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "To minimize the chance of damage to pipes and equipment caused by water hammer, it is best to close valves:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "When drilling speed is too fast, it results in:",
     "options": {
-      "A": "Very slowly at 25 seconds / inch diameter",
-      "B": "So that it takes 30 seconds to close any size valve",
-      "C": "At a rate of 25 seconds for every 5 mm of pipe diameter",
-      "D": "Slowly at 5 seconds/ inch diameter",
-      "E": "Quickly so there is no opportunity for water hammer"
+      "A": "The hole will be too deep",
+      "B": "The drill bit will get struck and break",
+      "C": "The metal will melt",
+      "D": "The drill bit will fail due to centrifugal forces",
+      "E": "It will dull the drill"
     },
-    "correctAnswer": "D",
-    "explanation": "To minimize water hammer, valves should be closed slowly at approximately 5 seconds per inch of pipe diameter. Closing a valve gradually prevents sudden changes in water flow and pressure, reducing pressure surges that can damage pipes, valves, and connected equipment."
+    "correctAnswer": "E",
+    "explanation": "Excessive drilling speed generates high frictional heat, which softens the cutting edges of the drill bit and rapidly dulls it."
   },
   {
     "number": 2,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "All fire water pumps should have an annual _______.",
+    "heading": "Energy Plant Maintenance I",
+    "question": "Taper, plug and bottoming are types of:",
     "options": {
-      "A": "Replacement",
-      "B": "Rebuild",
-      "C": "Flow test",
-      "D": "No-flow test",
-      "E": "Oil change"
+      "A": "Dies",
+      "B": "Punches",
+      "C": "Files",
+      "D": "Taps",
+      "E": "Wrenches"
     },
-    "correctAnswer": "C",
-    "explanation": "NFPA standards and jurisdictional fire codes mandate an annual full flow test for all fire water pumps to verify pump performance, flow rate, and pressure output."
+    "correctAnswer": "D",
+    "explanation": "Taper, plug, and bottoming are the three standard styles of hand taps used for cutting internal threads."
   },
   {
     "number": 3,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "Standby feedwater pumps are commonly run:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "When using a file properly:",
     "options": {
-      "A": "Hourly",
-      "B": "Weekly",
-      "C": "Annually",
-      "D": "Every other month",
-      "E": "Daily"
+      "A": "No force is required",
+      "B": "Apply force on the back stroke",
+      "C": "Avoid using a handle",
+      "D": "Apply force on the forward stroke only",
+      "E": "Apply force in both directions"
     },
-    "correctAnswer": "B",
-    "explanation": "Standby auxiliary boiler feedwater pumps are routinely test-run on a weekly basis to ensure operational availability in the event of a primary pump failure."
+    "correctAnswer": "D",
+    "explanation": "Downward and forward pressure should be applied only on the forward cutting stroke, easing pressure or lifting slightly on the return stroke to prevent dulling the teeth."
   },
   {
     "number": 4,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "A properly operating pressure relief valve will prevent the pressure in a steam boiler from rising more than _____ above the maximum allowable working pressure.",
+    "heading": "Energy Plant Maintenance I",
+    "question": "In order to check the trueness of a flat surface, one would use a:",
     "options": {
-      "A": "35 kPa",
-      "B": "100 kPa",
-      "C": "5%",
-      "D": "3%",
-      "E": "6%"
+      "A": "Surface plate",
+      "B": "Vernier caliper",
+      "C": "Hermaphrodite divider",
+      "D": "Layout bench",
+      "E": "Machinist's square"
     },
-    "correctAnswer": "E",
-    "explanation": "According to ASME Boiler and Pressure Vessel Code requirements, safety valves must prevent boiler pressure from rising more than 6% above the Maximum Allowable Working Pressure (MAWP)."
+    "correctAnswer": "A",
+    "explanation": "A precision surface plate provides an accurate reference plane used in conjunction with blueing or dial indicators to test surface flatness."
   },
   {
     "number": 5,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "Emergency and standby generators should inspected ____ and operated under load _____.",
+    "heading": "Energy Plant Maintenance I",
+    "question": "The tap drill is always smaller than the tap so as to leave sufficient material for the tap to produce _____ percent of the full thread.",
     "options": {
-      "A": "Annually, annually",
-      "B": "Monthly, semi annually",
-      "C": "Daily, weekly",
-      "D": "Every shift, daily",
-      "E": "Weekly, monthly"
+      "A": "75",
+      "B": "50",
+      "C": "25",
+      "D": "30",
+      "E": "40"
     },
-    "correctAnswer": "E",
-    "explanation": "Emergency power supply systems should undergo routine visual/physical inspections weekly and be tested under load on a monthly schedule."
+    "correctAnswer": "A",
+    "explanation": "Standard tap drill charts are sized to leave enough material to cut approximately 75 percent of full thread depth, providing optimal fastener strength without overloading the tap."
   },
   {
     "number": 6,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "Taking and recording plant readings during operator rounds does not help to:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "Cracked grinding wheels:",
     "options": {
-      "A": "Assess operating conditions",
-      "B": "Record statistics for Human Resources department",
-      "C": "Improve understanding of the plant equipment",
-      "D": "Diagnose problems",
-      "E": "Determine operating trends"
+      "A": "Should be kept in a special toolbox",
+      "B": "Should be replace under their \"lifetime\" warranty",
+      "C": "Must be used carefully and cautiously if injury is to be prevented",
+      "D": "Are best disposed of",
+      "E": "Should be of no concern to the user"
     },
-    "correctAnswer": "B",
-    "explanation": "Operator log sheets and round readings monitor technical conditions, equipment trends, and operating anomalies; they are not used to collect HR statistics."
+    "correctAnswer": "D",
+    "explanation": "Cracked grinding wheels are structurally compromised and can shatter catastrophically under centrifugal force; they must be discarded immediately."
   },
   {
     "number": 7,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "Plants equipped with Emergency Power Supply Systems will have:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "A tap with the marking M4 would indicate a:",
     "options": {
-      "A": "Backup generators driven by battery packs",
-      "B": "An backup solar power generating facility for use during the day when there are no clouds",
-      "C": "Backup generators driven by prime movers",
-      "D": "Backup generators driven by electric motors",
-      "E": "An emergency connection to a hydroelectric facility"
+      "A": "Tap with metallic threads",
+      "B": "Metric thread, 4 cm nominal diameter of the thread",
+      "C": "Metric thread, 4 mm nominal diameter of the thread",
+      "D": "Metric thread",
+      "E": "Metric thread, 4 threads per mm"
     },
     "correctAnswer": "C",
-    "explanation": "Emergency power supply systems utilize emergency backup generators driven by internal combustion prime movers (such as diesel engines or natural gas turbines)."
+    "explanation": "The 'M' designation denotes an ISO metric thread, and the number 4 specifies a nominal major diameter of 4 millimeters."
   },
   {
     "number": 8,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "In the case of an overpressure event, the operator should shut down the boiler and:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "An important safety check when using any grinder is to ensure:",
     "options": {
-      "A": "Inspect the furnace and flue stack",
-      "B": "Pressure test it with air to finds the leaks",
-      "C": "Restart it but operate it at half pressure for a month",
-      "D": "Inspect the internal and external pressure components",
-      "E": "Restart it slowly to determine if there are any leaks"
+      "A": "The grinder is designed for right handed people",
+      "B": "The guard is removed",
+      "C": "Wheel speed is correct",
+      "D": "The power is turned on",
+      "E": "The grinder is light weight"
     },
-    "correctAnswer": "D",
-    "explanation": "Following an overpressure incident, the boiler must be shut down and thoroughly inspected both internally and externally for thermal distortion, yield deformation, or structural damage."
+    "correctAnswer": "C",
+    "explanation": "Verifying that the grinder RPM does not exceed the maximum safe operating speed rating of the grinding wheel is vital to prevent wheel explosion."
   },
   {
     "number": 9,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "Internal damage to the valve trim of the boiler feedwater valve could result in:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "Micrometers are available in a variety of types and are used mainly for the measurement of:",
     "options": {
-      "A": "Water hammer in the condensate return lines",
-      "B": "Foaming and scaling inside the boiler",
-      "C": "A false indication that the valve is open while the boiler level is dropping",
-      "D": "A significant reduction in stack temperature",
-      "E": "A drop in steam pressure and consequent reduction steam temperature"
+      "A": "The density of the boiler flue gases for pollution control",
+      "B": "Outside, inside, and depth dimensions of relatively small openings of objects",
+      "C": "Vertical, perpendicular and parallel distances in assembly of power plant machines",
+      "D": "Length, width, and thickness of the boiler house structure",
+      "E": "Dissolved solids in boiler water"
     },
-    "correctAnswer": "C",
-    "explanation": "Mechanical failure or detachment of the internal valve trim can disconnect the valve stem from the plug, giving a false external position indication while blocking feedwater flow."
+    "correctAnswer": "B",
+    "explanation": "Micrometers are high-precision measuring instruments designed to measure outside dimensions, inside dimensions, and depth with extreme accuracy."
   },
   {
     "number": 10,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "If a boiler operates with the level below the lowest visible level in the gauge glass, it should be shut down, cooled, and inspected due to:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "Copper sulphate may be used:",
     "options": {
-      "A": "The water column needs to be lowered to show lower water levels",
-      "B": "There could have been priming and water may have carried over the top of the boiler into the steam lines",
-      "C": "The gauge glass needs to be repaired or replaced",
-      "D": "It is possible the level was below the upper heating surfaces and there could be overheating damage",
-      "E": "The gauge glass needs to be cleaned since it is impossible to operate with the level out of the visible area of the gauge glass"
+      "A": "As a thread cutting fluid",
+      "B": "For lubricating very fine threads such as those in a micrometer",
+      "C": "Coating tools in order to prevent rusting",
+      "D": "To free nuts which are corroded to bolts",
+      "E": "As a marking material"
     },
-    "correctAnswer": "D",
-    "explanation": "Operating with water below the visible gauge glass level risks uncovering heat transfer surfaces, exposing pressure components to severe overheating, blistering, or catastrophic failure."
+    "correctAnswer": "E",
+    "explanation": "Copper sulphate solution (layout dye) is brushed onto metal surfaces to leave a thin copper coating that highlights scribed layout lines."
   },
   {
     "number": 11,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "When a boiler or furnace explosion occurs, it must be reported:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "Whatever the size of a micrometer, the working parts can only move a distance of:",
     "options": {
-      "A": "Only if the inspector asks",
-      "B": "During annual inspection",
-      "C": "Only to the plant manager",
-      "D": "Promptly",
-      "E": "Only if someone was hurt"
+      "A": "30 mm",
+      "B": "200 mm",
+      "C": "25 mm",
+      "D": "300 mm",
+      "E": "250 mm"
     },
-    "correctAnswer": "D",
-    "explanation": "Jurisdictional safety regulations mandate that any boiler or pressure vessel explosion/accident must be reported promptly to the jurisdictional authority."
+    "correctAnswer": "C",
+    "explanation": "Standard micrometer spindles have a travel range of 25 mm (or 1 inch), requiring different frame sizes for larger dimension measurements."
   },
   {
     "number": 12,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "Emergency _________ is often supplied to critical equipment like hydrogen coolant systems to allow safe system shutdown during power failures.",
+    "heading": "Energy Plant Maintenance I",
+    "question": "Chalk or _____ may be used to rub on the surface of rough castings as a marking material.",
     "options": {
-      "A": "Wind generated power",
-      "B": "DC battery power",
-      "C": "Hydrogen conversion cell power",
-      "D": "Nuclear fusion power",
-      "E": "Solar generated power"
+      "A": "Aluminum sulphate",
+      "B": "Wax",
+      "C": "Blue vitriol",
+      "D": "Grinding compound",
+      "E": "Soap stone"
     },
-    "correctAnswer": "B",
-    "explanation": "DC battery banks provide reliable uninterruptible emergency power to critical safety systems, controls, emergency lube oil pumps, and hydrogen seal systems."
+    "correctAnswer": "E",
+    "explanation": "Soapstone or chalk is ideal for marking rough castings or dark surfaces where standard layout dye is ineffective."
   },
   {
     "number": 13,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "When a forced draft fan fails, the operator should ensure the main gas and pilot gas valves are closed and:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "A screwdriver having a square tip is known as:",
     "options": {
-      "A": "Open the inlet and outlet dampers wide",
-      "B": "Increase the boiler blowdown",
-      "C": "Depressure the boiler",
-      "D": "Open the main fuel gas bypass and relight the boiler",
-      "E": "Close the fan inlet damper"
+      "A": "A slot",
+      "B": "A Jacobson",
+      "C": "A Robertson",
+      "D": "A Phillips",
+      "E": "An Allen"
     },
-    "correctAnswer": "E",
-    "explanation": "If the forced draft fan fails, the main gas and pilot gas valves must be closed immediately to stop fuel from entering the furnace. The fan inlet damper should also be closed to prevent unwanted or uncontrolled airflow through the failed fan. The boiler must remain shut down until the fan problem is repaired and the proper purge and startup procedures are completed."
+    "correctAnswer": "C",
+    "explanation": "A Robertson screwdriver features a distinctive square tapered tip designed to fit snugly into matching square socket screws."
   },
   {
     "number": 14,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "Reliability predictions of equipment can be made thanks to:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "Pipe wrenches should not be used on:",
     "options": {
-      "A": "Breakdown maintenance practices",
-      "B": "Government reports",
-      "C": "Expensive software",
-      "D": "Good maintenance records",
-      "E": "Google searches"
+      "A": "Metal Pipes",
+      "B": "Production tubing",
+      "C": "Nuts and bolts",
+      "D": "Pipe fittings",
+      "E": "Drill pipe"
     },
-    "correctAnswer": "D",
-    "explanation": "Comprehensive historical maintenance records allow plant personnel to track failure frequencies, identify trends, and accurately predict equipment reliability."
+    "correctAnswer": "C",
+    "explanation": "Pipe wrench jaws have hardened, serrated teeth that bite into metal and will severely damage nuts, bolts, and finished machine surfaces."
   },
   {
     "number": 15,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "When a total plant power failure occurs that results in loss of power boilers, one of the first things the operator must ensure:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "Adjustable wrenches should only be used:",
     "options": {
-      "A": "Boiler chemical feed is shut off to prevent over filling the boiler",
-      "B": "Boiler blowdowns are closed to prevent loss of boiler level",
-      "C": "Steam traps are closed to prevent losing all the steam in the headers",
-      "D": "All turbines are tripped immediately to maintain header pressure",
-      "E": "Superheater vents are open to guarantee flow and prevent overheating"
+      "A": "With the turning force applied to the fixed jaw",
+      "B": "On piping",
+      "C": "With a universal joint",
+      "D": "With the turning force applied to the moving jaw",
+      "E": "To tap threads"
     },
-    "correctAnswer": "E",
-    "explanation": "During a total plant power outage with residual furnace heat, superheater vents must be opened to establish steam flow and protect uncooled superheater tubes."
+    "correctAnswer": "A",
+    "explanation": "Pulling so that force is applied against the stationary/fixed jaw prevents the adjustable jaw from springing open and slipping off the fastener."
   },
   {
     "number": 16,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "Fire water pumps should be run for ____ if connected to a diesel engine and _____ if connected to an electric motor.",
+    "heading": "Energy Plant Maintenance I",
+    "question": "A dressing tool is used to:",
     "options": {
-      "A": "10 minutes, 30 minutes",
-      "B": "1 hour, 2 hours",
-      "C": "All day, 1 hour",
-      "D": "30 minutes, 10 minutes",
-      "E": "6 hours, 1 hour"
+      "A": "Fit a new handle into a hammer head",
+      "B": "Square the edges of a grinding wheel",
+      "C": "Re-set the teeth of a saw",
+      "D": "Clean the measuring contact surfaces of a micrometer",
+      "E": "Clean the grooves of a file"
     },
-    "correctAnswer": "D",
-    "explanation": "Standard fire pump testing procedures specify running diesel engine driven fire pumps for 30 minutes (to allow engine warmup) and electric motor driven pumps for 10 minutes."
+    "correctAnswer": "B",
+    "explanation": "A wheel dresser is used to clean loading, true out unbalance, and square the edges or face of a grinding wheel."
   },
   {
     "number": 17,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "If the preventative maintenance checks identify a concern, the operator should:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "When drilling in metal it is important to:",
     "options": {
-      "A": "Immediately try to fix the equipment themselves",
-      "B": "Wait until the equipment breaks before reporting it",
-      "C": "Create a work order",
-      "D": "Ignore the problem until someone else also finds it",
-      "E": "Tell the maintenance manager to create a work order"
+      "A": "Use a portable drill",
+      "B": "Thread the hole before drilling",
+      "C": "Hold the drill vertically",
+      "D": "Grind a flat spot first",
+      "E": "Centre punch the location"
     },
-    "correctAnswer": "C",
-    "explanation": "Operators discovering equipment deficiencies during routine PM checks should formally log and generate a maintenance work order."
+    "correctAnswer": "E",
+    "explanation": "Center punching provides an indentation that guides the drill point and prevents it from wandering or walking across the metal surface."
   },
   {
     "number": 18,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "A preventative maintenance system:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "A collet is:",
     "options": {
-      "A": "Does not include vibration monitoring",
-      "B": "Cannot save the company any money",
-      "C": "Excludes safety valve testing",
-      "D": "Is only done in very large companies",
-      "E": "Provides early detection of equipment problems"
+      "A": "A type of face spanner wrench",
+      "B": "A type of hole punch",
+      "C": "Used to make a square hole in a piece of plate",
+      "D": "A holder for an adjustable thread die",
+      "E": "The moving part of a micrometer"
     },
-    "correctAnswer": "E",
-    "explanation": "Preventative and predictive maintenance systems are designed to detect emerging equipment defects early before catastrophic failure occurs."
+    "correctAnswer": "D",
+    "explanation": "In tool and threading applications, a collet or die stock holder is used to securely hold and turn adjustable circular thread-cutting dies."
   },
   {
     "number": 19,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "To protect the boiler feedwater pumps from cavitation and damage:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "The correct tool to tighten fasteners to the correct tightness on bearing caps is:",
     "options": {
-      "A": "A cavitation alarm is connected to the pump",
-      "B": "The deaerator low low level switch will shut down the pumps",
-      "C": "The pump is designed with a special intake that prevents any chance of cavitation",
-      "D": "The boiler feedwater pumps are made from indestructible materials",
-      "E": "The pumps will have an automatic recycle valve"
+      "A": "Spanner wrench",
+      "B": "Box end wrench",
+      "C": "Torque wrench",
+      "D": "Pipe wrench",
+      "E": "Soft faced hammer"
     },
-    "correctAnswer": "B",
-    "explanation": "A low-low water level condition in the deaerator storage tank trips the boiler feedwater pumps to protect them against loss of Net Positive Suction Head (NPSH) and destructive cavitation."
+    "correctAnswer": "C",
+    "explanation": "A torque wrench is required to tighten critical fasteners such as bearing cap bolts to exact manufacturer torque specifications."
   },
   {
     "number": 20,
-    "heading": "Boiler Plant Monitoring and Reporting",
-    "question": "When a low water level incident occurs in a boiler, if there is any signs of damage to the heating surfaces, the operator must:",
+    "heading": "Energy Plant Maintenance I",
+    "question": "A file which is always single cut is the:",
     "options": {
-      "A": "Refill the boiler right away and restart the boiler",
-      "B": "Continue operating as usual until a leak is seen",
-      "C": "Notify the inspector",
-      "D": "Inspect the boiler, and if there are no leaks, restart it",
-      "E": "Notify the safety department"
+      "A": "Knife file",
+      "B": "Warding file",
+      "C": "Mill file",
+      "D": "Pillar file",
+      "E": "Hand file"
     },
     "correctAnswer": "C",
-    "explanation": "If a low water event results in visible overheating or structural damage to pressure parts, safety regulations require notifying the boiler inspector prior to repair or restart."
+    "explanation": "Mill files feature a single row of parallel teeth (single cut) designed for smooth finishing and sharpening applications."
   }
 ]

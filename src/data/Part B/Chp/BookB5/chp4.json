@@ -1,0 +1,254 @@
+[
+  {
+    "number": 1,
+    "heading": "Boiler Cleaning",
+    "question": "A hydrostatic test on a high pressure steam boiler:",
+    "options": {
+      "A": "Will test the high pressure steam fuel cut off",
+      "B": "Must only be done by the inspector",
+      "C": "Must be done according to jurisdictional regulations",
+      "D": "Must be done before every start up of a boiler",
+      "E": "Should be done with the Chief Engineer present"
+    },
+    "correctAnswer": "C",
+    "explanation": "Hydrostatic testing must strictly comply with jurisdictional regulations and ASME code guidelines governing test pressure, water temperature, and safety precautions."
+  },
+  {
+    "number": 2,
+    "heading": "Boiler Cleaning",
+    "question": "One of the legal responsibilities of the engineer during an inspection is:",
+    "options": {
+      "A": "To notify the Workers' Compensation Board of the inspection",
+      "B": "To be in possession of an inspection certificate",
+      "C": "To allow the inspector onto the premises, but only during working hours",
+      "D": "Point out any known or suspected defects to the inspector",
+      "E": "To have at least two staff members present at all times"
+    },
+    "correctAnswer": "D",
+    "explanation": "Power engineering regulations legally obligate the operating engineer or owner to point out any known or suspected defects, cracks, or leaks to the boiler inspector."
+  },
+  {
+    "number": 3,
+    "heading": "Boiler Cleaning",
+    "question": "What is the water pressure a boiler is subject to when a hydrostatic test is being carried out?",
+    "options": {
+      "A": "1/2 times normal operating pressure",
+      "B": "Operating pressure",
+      "C": "1/2 normal operating pressure",
+      "D": "2 times the setting of the lowest set safety valve",
+      "E": "1 1/2 times normal operating pressure"
+    },
+    "correctAnswer": "E",
+    "explanation": "A standard hydrostatic pressure test on a boiler is carried out at 1.5 times (1 1/2 times) the maximum allowable working pressure (MAWP) or lowest safety valve setting."
+  },
+  {
+    "number": 4,
+    "heading": "Boiler Cleaning",
+    "question": "When the boiler is removed from service, it can be drained once the temperature reaches approximately:",
+    "options": {
+      "A": "65°C",
+      "B": "70°C",
+      "C": "90°C",
+      "D": "150°C",
+      "E": "50°C"
+    },
+    "correctAnswer": "C",
+    "explanation": "When a boiler is removed from service, it should be allowed to cool before draining. The water temperature should reach approximately 90°C before draining. This helps reduce the risk of thermal shock, sudden temperature changes, and damage to boiler components. Remember: Allow the boiler to cool to approximately 90°C before draining."
+  },
+  {
+    "number": 5,
+    "heading": "Boiler Cleaning",
+    "question": "An inhibitor, when added to acid will:",
+    "options": {
+      "A": "Make the acid compatible with the sewer system for disposal",
+      "B": "Cause foaming in the boiler",
+      "C": "Strengthen the acid thereby shortening the cleaning procedure",
+      "D": "Prevent the acid from attacking the boiler metal",
+      "E": "Minimise the effect the acid has on the metal"
+    },
+    "correctAnswer": "E",
+    "explanation": "Inhibitors are chemical agents added to acid cleaning solutions to minimize or prevent acid attack on the bare parent metal of the boiler while allowing scale dissolution."
+  },
+  {
+    "number": 6,
+    "heading": "Boiler Cleaning",
+    "question": "A boiler inspection:",
+    "options": {
+      "A": "Is done with the owners permission only",
+      "B": "Is only required after a boiler has been operating 3 years",
+      "C": "Must be done whenever the boiler inspector requests it",
+      "D": "Is only required if an accident occurs",
+      "E": "Must be done after every shut down of the boiler"
+    },
+    "correctAnswer": "C",
+    "explanation": "A boiler inspection is a legal requirement and must be granted whenever requested by an authorized jurisdictional boiler inspector."
+  },
+  {
+    "number": 7,
+    "heading": "Boiler Cleaning",
+    "question": "External inspection includes:",
+    "options": {
+      "A": "Inspect all auxiliary equipment and pressure vessels",
+      "B": "Check the plant records, log books, etc",
+      "C": "Check the operation of each safety shutdown device",
+      "D": "Observe operation and maintenance practice",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "An external inspection while the boiler is in operation encompasses checking auxiliary equipment, reviewing logbooks, testing safety shutdown devices, and observing overall maintenance practices."
+  },
+  {
+    "number": 8,
+    "heading": "Boiler Cleaning",
+    "question": "Just before entering the waterside of the boiler it is important to:",
+    "options": {
+      "A": "Obtain permission to do so from plant management",
+      "B": "Ensure the Chief Engineer is aware of your intent",
+      "C": "Notify the inspector in writing of your intent to do so",
+      "D": "Be wearing self-contained breathing apparatus SCBA",
+      "E": "Test the atmosphere"
+    },
+    "correctAnswer": "E",
+    "explanation": "Prior to entering the drum or waterside of a boiler (confined space), atmospheric testing for oxygen levels and toxic/flammable gases is mandatory."
+  },
+  {
+    "number": 9,
+    "heading": "Boiler Cleaning",
+    "question": "Before cleaning the waterside and as far as is possible:",
+    "options": {
+      "A": "Tubes should be \"turbined\"",
+      "B": "A scale sample should be taken and an analysis done",
+      "C": "All drum internals should be removed",
+      "D": "Mud drum sludge should be completely removed",
+      "E": "A visual inspection of pressure parts should be completed"
+    },
+    "correctAnswer": "E",
+    "explanation": "Before washing or cleaning away deposits on the waterside, a thorough preliminary visual inspection of internal pressure parts should be completed to document baseline condition and scale buildup."
+  },
+  {
+    "number": 10,
+    "heading": "Boiler Cleaning",
+    "question": "The most popular acid for boiler cleaning is:",
+    "options": {
+      "A": "Sulphuric",
+      "B": "Chelate",
+      "C": "Hydrochloric",
+      "D": "Phosphoric",
+      "E": "Nitric"
+    },
+    "correctAnswer": "C",
+    "explanation": "Inhibited hydrochloric acid is the most widely used and cost-effective acid for chemical cleaning of industrial boilers."
+  },
+  {
+    "number": 11,
+    "heading": "Boiler Cleaning",
+    "question": "Chemical cleaning of smaller boilers is not usually done because:",
+    "options": {
+      "A": "They do not have adequate support for the high density of the chemicals",
+      "B": "Of the small surface area which the chemical contacts",
+      "C": "It is impossible to get the chemical circulating adequately",
+      "D": "Of the thin metal of which they are manufactured",
+      "E": "The cost to do so is not warranted or justified"
+    },
+    "correctAnswer": "E",
+    "explanation": "Chemical cleaning requires specialized pumps, piping, neutralizing steps, and chemical disposal; for smaller boilers, the financial cost is rarely justified compared to mechanical cleaning."
+  },
+  {
+    "number": 12,
+    "heading": "Boiler Cleaning",
+    "question": "The recommended procedures for a boiler inspection are stated in the:",
+    "options": {
+      "A": "ASME Boiler and Pressure Vessel Code, Section I",
+      "B": "Alberta Pressure Equipment Safety Regulation",
+      "C": "CSA B51 Boiler Pressure Vessel and Pressure Piping Code",
+      "D": "ASME Boiler and Pressure Vessel Code, Section VII",
+      "E": "ASME Boiler and Pressure Vessel Code, Section IV"
+    },
+    "correctAnswer": "D",
+    "explanation": "ASME Boiler and Pressure Vessel Code, Section VII provides recommended guidelines and procedures for the care, maintenance, and inspection of power boilers."
+  },
+  {
+    "number": 13,
+    "heading": "Boiler Cleaning",
+    "question": "A relatively safer chemical used in boiler cleaning and treatment is:",
+    "options": {
+      "A": "Sodium hydroxide",
+      "B": "Chelates",
+      "C": "Trisodium phosphate",
+      "D": "Caustic soda",
+      "E": "Hydrazine"
+    },
+    "correctAnswer": "B",
+    "explanation": "Chelates (chelating agents like EDTA and NTA) are relatively safe, less corrosive organic chemicals used for continuous or periodic cleaning and scale removal compared to mineral acids."
+  },
+  {
+    "number": 14,
+    "heading": "Boiler Cleaning",
+    "question": "For an alkaline boil out, the boiler is maintained at a desired steam pressure for about:",
+    "options": {
+      "A": "16 hours",
+      "B": "48 hours",
+      "C": "24 hours",
+      "D": "8 hours",
+      "E": "12 hours"
+    },
+    "correctAnswer": "B",
+    "explanation": "During an alkaline boil-out, the boiler is filled with water containing alkaline cleaning chemicals, such as caustic soda and trisodium phosphate. The boiler is heated and maintained at the required steam pressure for approximately 48 hours. This allows the chemicals enough time to loosen and remove oil, grease, and other manufacturing residues from the boiler's internal surfaces. Remember: Alkaline boil-out = 48 hours (2 days)."
+  },
+  {
+    "number": 15,
+    "heading": "Boiler Cleaning",
+    "question": "When cooling down a steam boiler that has been taken out of service, a vent valve on the steam drum should be opened to prevent a vacuum at:",
+    "options": {
+      "A": "0 Kpa",
+      "B": "100 kPa",
+      "C": "90 degrees",
+      "D": "50% load",
+      "E": "175 kPa"
+    },
+    "correctAnswer": "E",
+    "explanation": "When cooling a boiler, the drum vent valve is opened when pressure drops to approximately 175 kPa (or 15-20 psi) to prevent creating a atmospheric vacuum inside the vessel."
+  },
+  {
+    "number": 16,
+    "heading": "Boiler Cleaning",
+    "question": "The external inspection of a boiler:",
+    "options": {
+      "A": "May include making sure the furnace refractory is in order",
+      "B": "May include making sure the exterior of the tubes are in good condition",
+      "C": "Must be done after the boiler has been drained",
+      "D": "May include making sure the tubes are free of scale",
+      "E": "May include making sure the valves are in good operating condition"
+    },
+    "correctAnswer": "E",
+    "explanation": "An external inspection is conducted while the boiler is operating and includes checking the external condition and operational readiness of valves, controls, and fittings."
+  },
+  {
+    "number": 17,
+    "heading": "Boiler Cleaning",
+    "question": "A boiler has been in operation for one year and is now taken off the line for cleaning, repair and inspection. The boiler is one of three in a battery and the other two will remain in operation. This one boiler is to be drained and cooled. Before any person is allowed to enter the boiler drum, the correct safety procedure requires that the:",
+    "options": {
+      "A": "Main steam, blow down, blow off, and feedwater valves be closed, chained and tagged",
+      "B": "Person is equipped with the correct kind of tools and a list of required repairs",
+      "C": "Worker is provided with a safety kit for confined space entry",
+      "D": "Worker is provided with a safety line, first aid kit, and hard hat",
+      "E": "Drum be vented, the safety valve gagged, and all ashes and soot removed from the fire box"
+    },
+    "correctAnswer": "A",
+    "explanation": "When a boiler is part of a battery with common headers, all connected steam, blowdown, and feedwater isolation valves must be securely closed, locked/chained, and tagged out (and preferably blanked) before drum entry."
+  },
+  {
+    "number": 18,
+    "heading": "Boiler Cleaning",
+    "question": "A hydrostatic test should be applied to a boiler:",
+    "options": {
+      "A": "At the request of the owner",
+      "B": "Once per week",
+      "C": "At the request of the boiler inspector",
+      "D": "Once per year",
+      "E": "Every shift"
+    },
+    "correctAnswer": "C",
+    "explanation": "A hydrostatic test is performed after major pressure component repairs or whenever explicitly requested by the authorized boiler inspector."
+  }
+]

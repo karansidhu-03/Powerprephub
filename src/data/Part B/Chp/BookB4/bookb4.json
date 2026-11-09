@@ -1326,8 +1326,8 @@
       "D": "0 kPa",
       "E": "200 kPa"
     },
-    "correctAnswer": "E",
-    "explanation": "When using a nitrogen capping/blanketing system during wet layup, nitrogen pressure is maintained at approximately 35–200 kPa (commonly specified up to ~200 kPa or held around positive overpressure) to keep oxygen out."
+    "correctAnswer": "A",
+    "explanation": "During wet layup, a nitrogen blanket is maintained at approximately 40 kPa to create a positive pressure inside the boiler. This prevents air (oxygen) from entering the boiler and causing corrosion of internal metal surfaces. The nitrogen blanket helps protect the boiler while it is out of service."
   },
   {
     "number": 96,

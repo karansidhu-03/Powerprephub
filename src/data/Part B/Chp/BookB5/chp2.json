@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Energy Plant Maintenance II",
+    "question": "Wire rope classified as 8 x 12 means it has:",
+    "options": {
+      "A": "A factor of safety of 8 and is 12 metres long",
+      "B": "8 strands with 12 wires per strand",
+      "C": "12 strands with 8 wires per strand",
+      "D": "A factor of safety of 12 and is 8 metres long",
+      "E": "None of the above"
+    },
+    "correctAnswer": "B",
+    "explanation": "In wire rope classification, the first number denotes the number of strands, and the second number denotes the number of individual wires per strand."
+  },
+  {
+    "number": 2,
+    "heading": "Energy Plant Maintenance II",
+    "question": "When a ladder is found to be defective it must be removed from service and:",
+    "options": {
+      "A": "Used only for house work",
+      "B": "Safety tag affixed to not use",
+      "C": "Sold to local workers",
+      "D": "Disposed of immediately",
+      "E": "Used only for low level work"
+    },
+    "correctAnswer": "B",
+    "explanation": "When a ladder is found to be defective, it must be immediately removed from service and clearly tagged with a 'DO NOT USE' or 'DANGER' safety tag. This warns workers not to use the ladder accidentally. The ladder must remain out of service until it is properly repaired and inspected or safely disposed of."
+  },
+  {
+    "number": 3,
+    "heading": "Energy Plant Maintenance II",
+    "question": "Prior to hoisting an object it is very important to:",
+    "options": {
+      "A": "Measure the width",
+      "B": "Measure its length",
+      "C": "Attach at least two slings",
+      "D": "Know or calculate the mass",
+      "E": "Know the route required"
+    },
+    "correctAnswer": "D",
+    "explanation": "Knowing or accurately calculating the mass/weight of the load is a mandatory prerequisite to select correct rigging equipment and ensure crane capacity limits are not exceeded."
+  },
+  {
+    "number": 4,
+    "heading": "Energy Plant Maintenance II",
+    "question": "A single pole scaffold:",
+    "options": {
+      "A": "Is free standing from the building",
+      "B": "Must be made of pipe",
+      "C": "Is always made of metal",
+      "D": "Places no load on the building",
+      "E": "Is partially supported by a building"
+    },
+    "correctAnswer": "E",
+    "explanation": "A single-pole scaffold is supported by a single row of uprights/poles on the outside and is tied to or partially supported by the structure or building on the inside."
+  },
+  {
+    "number": 5,
+    "heading": "Energy Plant Maintenance II",
+    "question": "Platforms should have a _____ edge going around them to prevent objects from rolling off.",
+    "options": {
+      "A": "Raised",
+      "B": "Wire",
+      "C": "Square",
+      "D": "Magnetic",
+      "E": "Metal"
+    },
+    "correctAnswer": "A",
+    "explanation": "Platforms and scaffolding decks require toe boards or raised edges to prevent tools, materials, and debris from rolling or sliding off and striking personnel below."
+  },
+  {
+    "number": 6,
+    "heading": "Energy Plant Maintenance II",
+    "question": "Stove bolt nuts are usually:",
+    "options": {
+      "A": "Left hand thread",
+      "B": "Hexagonal",
+      "C": "Self locking",
+      "D": "Fine thread",
+      "E": "Square"
+    },
+    "correctAnswer": "E",
+    "explanation": "Stove bolts are commonly paired with square nuts for general assembly applications."
+  },
+  {
+    "number": 7,
+    "heading": "Energy Plant Maintenance II",
+    "question": "An M24 coarse thread bolt has:",
+    "options": {
+      "A": "3 threads per mm",
+      "B": "2 mm per thread",
+      "C": "3 mm per thread",
+      "D": "3.5 threads per mm",
+      "E": "3.5 mm per thread"
+    },
+    "correctAnswer": "C",
+    "explanation": "According to ISO metric coarse thread standards, an M24 bolt has a standard thread pitch of 3 mm. Thread pitch is the distance between two adjacent threads, measured in millimetres. This means the distance from one thread to the next is 3 mm. Remember: M24 represents a nominal bolt diameter of 24 mm, while 3 mm represents the thread pitch."
+  },
+  {
+    "number": 8,
+    "heading": "Energy Plant Maintenance II",
+    "question": "A rung ladder should:",
+    "options": {
+      "A": "Always have at least one rail touching the support",
+      "B": "Be inclined with a 5:1 slope",
+      "C": "Never be able to conduct electricity",
+      "D": "Be inclined with a 4:1 slope",
+      "E": "Not be equipped with rubber feet, only metal ones"
+    },
+    "correctAnswer": "D",
+    "explanation": "Portable extension and straight ladders must be set up at a safe inclination ratio of 4:1 (one horizontal unit out for every four vertical units up)."
+  },
+  {
+    "number": 9,
+    "heading": "Energy Plant Maintenance II",
+    "question": "Ladders constructed on the job must comply with the:",
+    "options": {
+      "A": "ASME codes",
+      "B": "CSA codes",
+      "C": "WCB suggestions",
+      "D": "Fire Department guidelines",
+      "E": "WCB regulations"
+    },
+    "correctAnswer": "E",
+    "explanation": "Job-built ladders must strictly follow construction specifications outlined in local Workers' Compensation Board (WCB) regulations or occupational health and safety codes."
+  },
+  {
+    "number": 10,
+    "heading": "Energy Plant Maintenance II",
+    "question": "The top of a ladder should extend approximately _____ above the level of the upper landing to which it provides access.",
+    "options": {
+      "A": "1.0 m",
+      "B": "2 m",
+      "C": "0.2 m",
+      "D": "0.3 m",
+      "E": "0.5 m"
+    },
+    "correctAnswer": "A",
+    "explanation": "A portable ladder should extend approximately 1.0 metre (1000 mm) above the upper landing it provides access to. This extra length gives workers a secure handhold when climbing on or off the ladder, reducing the risk of slipping or falling. Remember: the ladder should extend about 1 metre above the landing."
+  },
+  {
+    "number": 11,
+    "heading": "Energy Plant Maintenance II",
+    "question": "A government agency that covers several aspects of work platforms is the:",
+    "options": {
+      "A": "Boilers and Pressure Vessels Branch",
+      "B": "Hoisting and Rigging Regulations",
+      "C": "Industrial Accident Prevention Association",
+      "D": "Hoisting and Elevator Regulations",
+      "E": "Workers' Compensation Board Regulations"
+    },
+    "correctAnswer": "E",
+    "explanation": "Workers' Compensation Board (WCB) or provincial occupational health and safety regulations govern scaffolding, staging, and elevated work platform safety."
+  },
+  {
+    "number": 12,
+    "heading": "Energy Plant Maintenance II",
+    "question": "To prevent damage to a work surface while fastening with bolts:",
+    "options": {
+      "A": "Use toothed lock washers",
+      "B": "Use flat washers",
+      "C": "Use castle nuts only",
+      "D": "Do not over-tighten a nut",
+      "E": "Use a lubricant during threading and tightening"
+    },
+    "correctAnswer": "B",
+    "explanation": "Flat washers distribute the clamping load over a larger surface area, preventing the bolt head or nut from marring or crushing the underlying material."
+  },
+  {
+    "number": 13,
+    "heading": "Energy Plant Maintenance II",
+    "question": "A yellow scaffold tag indicates:",
+    "options": {
+      "A": "The scaffold is safe to use but there are hazards",
+      "B": "The scaffold is unsafe",
+      "C": "The scaffold is almost unsafe to use",
+      "D": "The scaffold is only safe for 1 person at a time",
+      "E": "The scaffold needs repair"
+    },
+    "correctAnswer": "A",
+    "explanation": "A yellow scaffold tag serves as a caution warning that the scaffold is functional and safe to use under specific conditions or with mandatory personal fall arrest equipment due to potential hazards."
+  },
+  {
+    "number": 14,
+    "heading": "Energy Plant Maintenance II",
+    "question": "The maximum percentage error we should use when calculating the mass of a light object is:",
+    "options": {
+      "A": "5%",
+      "B": "20%",
+      "C": "10%",
+      "D": "3%",
+      "E": "15%"
+    },
+    "correctAnswer": "B",
+    "explanation": "When calculating the mass of a light object for lifting or rigging, the maximum allowable percentage error is 20%. This means the calculated mass may differ from the actual mass by up to 20%. Accurate load calculations are important to ensure the lifting equipment is not overloaded and the lift is performed safely."
+  },
+  {
+    "number": 15,
+    "heading": "Energy Plant Maintenance II",
+    "question": "A knot used to pull at right angles to a pipe or pole is the:",
+    "options": {
+      "A": "Clove hitch",
+      "B": "Reef knot",
+      "C": "Timber hitch",
+      "D": "Bowline",
+      "E": "Round turn and two half hitches"
+    },
+    "correctAnswer": "A",
+    "explanation": "A clove hitch is exceptionally effective for securing a rope perpendicularly around cylindrical objects like pipes, posts, or poles for pulling."
+  },
+  {
+    "number": 16,
+    "heading": "Energy Plant Maintenance II",
+    "question": "An eye made by using a Crosby clip will have a strength factor of:",
+    "options": {
+      "A": "50%",
+      "B": "90%",
+      "C": "75%",
+      "D": "80%",
+      "E": "95%"
+    },
+    "correctAnswer": "D",
+    "explanation": "Properly installed wire rope clip (Crosby clip) terminations retain approximately 80% of the wire rope's nominal breaking strength."
+  },
+  {
+    "number": 17,
+    "heading": "Energy Plant Maintenance II",
+    "question": "When using a step ladder it is best to:",
+    "options": {
+      "A": "Have two co-workers hold the ladder steady",
+      "B": "Have a 4:1 slope on the rung side",
+      "C": "Place both feet on the top platform if extra height is required",
+      "D": "Secure the ladder with a rope",
+      "E": "Not work higher than the top three rungs"
+    },
+    "correctAnswer": "E",
+    "explanation": "For stability and fall prevention, workers should never stand on or work from the top cap or top two/three steps of a stepladder."
+  },
+  {
+    "number": 18,
+    "heading": "Energy Plant Maintenance II",
+    "question": "When working on a platform it is important to:",
+    "options": {
+      "A": "Construct it yourself",
+      "B": "Warn people on the ground of hazards",
+      "C": "Notify the applicable government agency of usage",
+      "D": "Always wear a lifeline harness",
+      "E": "Ensure the harness is attached to the scaffold"
+    },
+    "correctAnswer": "B",
+    "explanation": "Protecting workers and personnel below by warning them of overhead work, falling object hazards, or dropped tools is a critical safety requirement."
+  },
+  {
+    "number": 19,
+    "heading": "Energy Plant Maintenance II",
+    "question": "Electricians prefer fiberglass ladders because:",
+    "options": {
+      "A": "They are stronger",
+      "B": "They are more compact",
+      "C": "They come in longer lengths",
+      "D": "They are lighter",
+      "E": "They do not conduct electricity"
+    },
+    "correctAnswer": "E",
+    "explanation": "Fiberglass is a non-conductive composite material, making fiberglass ladders the mandatory choice for electrical work to prevent electrocution hazards."
+  },
+  {
+    "number": 20,
+    "heading": "Energy Plant Maintenance II",
+    "question": "Castle nuts are used:",
+    "options": {
+      "A": "With a split pin",
+      "B": "To hold shims in place",
+      "C": "For locking square nuts in place",
+      "D": "To lock the bolt in place",
+      "E": "With a square pin"
+    },
+    "correctAnswer": "A",
+    "explanation": "Castle nuts feature slotted notches on top designed to accommodate a cotter pin (split pin) passing through a drilled bolt hole to lock the fastener securely against vibration."
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Boiler Maintenance",
+    "question": "When working inside a steel heating boiler, which of the following safety precautions should you take?\n1. The boiler must be cooled and vented\n2. The valves must be closed and locked and all lines to and from the boiler must be blanked\n3. You may use ungrounded wiring\n4. Always have one worker standing outside whenever anyone is inside the boiler",
+    "options": {
+      "A": "1, 2, 4",
+      "B": "1, 2, 3",
+      "C": "2, 3",
+      "D": "2, 3, 4",
+      "E": "1, 2, 3, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "When entering a boiler (a confined space), the vessel must be properly cooled and vented, all isolation valves locked out and lines blanked, and a standby safety watch positioned outside. Ungrounded wiring is extremely dangerous and strictly prohibited."
+  },
+  {
+    "number": 2,
+    "heading": "Boiler Maintenance",
+    "question": "Before a welder is allowed to weld on a boiler, he must have a:",
+    "options": {
+      "A": "Certain minimum number of years of experience",
+      "B": "Certificate of qualification",
+      "C": "Performance qualification card",
+      "D": "Welding test conducted",
+      "E": "Certificate of qualification and a performance qualification card"
+    },
+    "correctAnswer": "E",
+    "explanation": "Pressure welding on boilers and pressure vessels requires the welder to possess both a valid Certificate of Qualification and a Performance Qualification Card for the specific welding procedure."
+  },
+  {
+    "number": 3,
+    "heading": "Boiler Maintenance",
+    "question": "Laying up a boiler means:",
+    "options": {
+      "A": "Preparing the boiler for a period of storage",
+      "B": "Preparing a boiler for start up",
+      "C": "Raising the boiler",
+      "D": "Setting the boiler on its foundation",
+      "E": "Taking the boiler down for an annual overhaul"
+    },
+    "correctAnswer": "A",
+    "explanation": "Laying up a boiler refers to taking it out of service and preparing it for a period of short-term or long-term storage (either wet or dry) to protect against corrosion."
+  },
+  {
+    "number": 4,
+    "heading": "Boiler Maintenance",
+    "question": "A black light crack detection utilises ultraviolet light and:",
+    "options": {
+      "A": "A radium solution",
+      "B": "An infrared solution",
+      "C": "Opaque dye",
+      "D": "Iridescent powder",
+      "E": "Fluorescent penetrant"
+    },
+    "correctAnswer": "E",
+    "explanation": "Fluorescent penetrant inspection (a type of liquid penetrant testing) uses a fluorescent dye penetrant that glows under ultraviolet (black) light to reveal surface-breaking cracks."
+  },
+  {
+    "number": 5,
+    "heading": "Boiler Maintenance",
+    "question": "A steam heating boiler that is to be shut down for six months during the summer should be:",
+    "options": {
+      "A": "Drained, thoroughly dried out, quick lime placed inside and left open",
+      "B": "Drained, thoroughly dried out, quick lime placed inside and closed up",
+      "C": "Left with the water at normal working level but opened up to atmosphere",
+      "D": "Left with the water at normal working level and pressurised with air to 50 kPa",
+      "E": "Filled completely with water and the vent left open to atmosphere"
+    },
+    "correctAnswer": "B",
+    "explanation": "For a 6-month seasonal shutdown (dry layup), the boiler is completely drained, dried out, a desiccant such as quicklime (calcium oxide) is placed inside to absorb moisture, and the vessel is sealed tight."
+  },
+  {
+    "number": 6,
+    "heading": "Boiler Maintenance",
+    "question": "A water tank should be installed above the boiler and attached to the vent connection during a wet lay up in order to:",
+    "options": {
+      "A": "Prevent water vapour from entering the power plant",
+      "B": "Hold the manway doors closed",
+      "C": "Prevent air from entering the boiler during water contraction",
+      "D": "Permit the injection of chemicals",
+      "E": "Prevent the wastage of chemicals"
+    },
+    "correctAnswer": "C",
+    "explanation": "During wet layup, an overhead surge/expansion tank attached to the vent maintains a positive head of treated water to prevent air (oxygen) from drawing into the boiler as water cools and contracts."
+  },
+  {
+    "number": 7,
+    "heading": "Boiler Maintenance",
+    "question": "The boiler operator should be alert for steam leaks in connections because if a leak was to persist for any length of time, it may result in:",
+    "options": {
+      "A": "Loss of steam and reduced efficiency",
+      "B": "Erosion of the sealing surfaces",
+      "C": "The accumulation of salt deposits around the leak",
+      "D": "A reduction in the condensate returns",
+      "E": "Water damage due to the condensing steam"
+    },
+    "correctAnswer": "B",
+    "explanation": "Persistent steam leaks cause wire-drawing and high-velocity erosion (flute cutting) on metal flange faces, gasket seating surfaces, and valve seats."
+  },
+  {
+    "number": 8,
+    "heading": "Boiler Maintenance",
+    "question": "When the fireside of a boiler is first opened up, small leak seepage spots can be detected by:",
+    "options": {
+      "A": "Hissing sounds",
+      "B": "Water on the furnace floor",
+      "C": "White salt deposits resulting from water evaporation",
+      "D": "Water running down the tubes",
+      "E": "Ultraviolet light"
+    },
+    "correctAnswer": "C",
+    "explanation": "When water evaporates from small tube/joint seepage spots on a cold fireside, it leaves behind noticeable white crusty salt deposits (boiler water treatment solids)."
+  },
+  {
+    "number": 9,
+    "heading": "Boiler Maintenance",
+    "question": "Boiler furnace refractory should be _____ to prolong its life.",
+    "options": {
+      "A": "Oiled to prevent corrosion",
+      "B": "Painted with heat resistant paint",
+      "C": "Wire brushed",
+      "D": "Washed with a high-pressure hose",
+      "E": "Wash coated with a dilute solution of heat resistant cement"
+    },
+    "correctAnswer": "E",
+    "explanation": "Applying a wash coat of dilute high-temperature heat-resistant refractory cement helps seal fine surface cracks and extend the operating life of boiler furnace refractory."
+  },
+  {
+    "number": 10,
+    "heading": "Boiler Maintenance",
+    "question": "It is recommended that a new boiler be shut down, drained, opened up, flushed out and inspected after the first _____ months of operation.",
+    "options": {
+      "A": "Six",
+      "B": "Twelve",
+      "C": "Three",
+      "D": "Two",
+      "E": "Nine"
+    },
+    "correctAnswer": "C",
+    "explanation": "Standard power engineering recommendations specify that a newly commissioned boiler should be shut down, drained, opened, flushed, and thoroughly inspected after its initial 3 months of operation."
+  },
+  {
+    "number": 11,
+    "heading": "Boiler Maintenance",
+    "question": "Who should be responsible for doing frequent boiler inspections?",
+    "options": {
+      "A": "The Boiler Inspector",
+      "B": "The Owner",
+      "C": "The Chief Inspector",
+      "D": "The Insurance Agent",
+      "E": "The Steam Plant operator"
+    },
+    "correctAnswer": "E",
+    "explanation": "The certified steam plant operator on duty is directly responsible for carrying out routine daily, weekly, and frequent operational checks and visual inspections of the boiler."
+  },
+  {
+    "number": 12,
+    "heading": "Boiler Maintenance",
+    "question": "The final step in replacing a firetube is:",
+    "options": {
+      "A": "Firing the boiler up to normal working pressure",
+      "B": "A light re-expansion",
+      "C": "Filling the boiler with water and checking for leaks",
+      "D": "Annealing the tube ends",
+      "E": "Applying a hydrostatic test"
+    },
+    "correctAnswer": "E",
+    "explanation": "After replacing a firetube, expanding, and beading the tube ends, a hydrostatic pressure test is applied as the final verification of seal tightness before returning the boiler to service."
+  },
+  {
+    "number": 13,
+    "heading": "Boiler Maintenance",
+    "question": "A substance that will absorb humidity inside a boiler during dry lay up is:",
+    "options": {
+      "A": "Activated alumina",
+      "B": "Sodium chloride",
+      "C": "Zeolite",
+      "D": "Sodium sulphite",
+      "E": "Lime soda"
+    },
+    "correctAnswer": "A",
+    "explanation": "Activated alumina (or quicklime/silica gel) is a highly effective desiccant used inside boiler drums during dry layup to absorb atmospheric humidity and prevent corrosion."
+  },
+  {
+    "number": 14,
+    "heading": "Boiler Maintenance",
+    "question": "The interior of firetubes are cleaned to remove deposits of:",
+    "options": {
+      "A": "Corrosion",
+      "B": "Salt",
+      "C": "Algae",
+      "D": "Scale",
+      "E": "Soot"
+    },
+    "correctAnswer": "E",
+    "explanation": "Firetubes carry hot combustion gases inside the tubes; their internal surfaces must be periodically brushed or blown to clean out accumulated soot deposits."
+  },
+  {
+    "number": 15,
+    "heading": "Boiler Maintenance",
+    "question": "Boilers that are maintained on hot standby should be:",
+    "options": {
+      "A": "Left with a fire in the furnace",
+      "B": "Dried out on the water side",
+      "C": "Nitrogen capped",
+      "D": "Steam capped",
+      "E": "Drained"
+    },
+    "correctAnswer": "D",
+    "explanation": "Boilers maintained on hot standby should be steam capped. This means maintaining a small positive steam pressure inside the boiler to prevent air (oxygen) from entering. Oxygen can cause corrosion of the boiler's internal metal surfaces. Steam capping also keeps the boiler warm and ready for a quick restart when needed."
+  },
+  {
+    "number": 16,
+    "heading": "Boiler Maintenance",
+    "question": "A tube beading tool is used:",
+    "options": {
+      "A": "To cut fire tubes",
+      "B": "To unfasten fire tubes from the tube sheet",
+      "C": "On firetube boilers",
+      "D": "To fasten the stays in the tube sheet",
+      "E": "On watertube boilers"
+    },
+    "correctAnswer": "C",
+    "explanation": "A tube beading tool is used on firetube boilers to curl and bead the protruding ends of firetubes tightly against the tube sheet after expanding."
+  },
+  {
+    "number": 17,
+    "heading": "Boiler Maintenance",
+    "question": "A boiler circulating pump gland should have some leakage:",
+    "options": {
+      "A": "In order to keep the motor amperage down",
+      "B": "To prevent the packing from drying out",
+      "C": "So that the shaft sleeve will take the wear",
+      "D": "In order for the stuffing box to run at the desired high temperature",
+      "E": "So the operator can tell when the pump becomes vapour bound"
+    },
+    "correctAnswer": "B",
+    "explanation": "A packed stuffing box gland on a centrifugal pump requires a slight continuous leakage of liquid to lubricate and cool the packing rings, preventing them from drying out and scorching the shaft."
+  },
+  {
+    "number": 18,
+    "heading": "Boiler Maintenance",
+    "question": "A tube expander is used for:",
+    "options": {
+      "A": "Repairing cracks in leaking tube",
+      "B": "Expanding the tube end",
+      "C": "Making the tube longer",
+      "D": "Bending tubes",
+      "E": "Making the tube stronger"
+    },
+    "correctAnswer": "B",
+    "explanation": "A mechanical roller tube expander is used to expand the outside diameter of a tube end snugly against the tube sheet hole to create a pressure-tight, leak-proof mechanical joint."
+  },
+  {
+    "number": 19,
+    "heading": "Boiler Maintenance",
+    "question": "When plugging off a tube in a boiler, the plug taper should be:",
+    "options": {
+      "A": "20 to 1",
+      "B": "7.5 to 1",
+      "C": "10 to 1",
+      "D": "2 to 1",
+      "E": "5 to 1"
+    },
+    "correctAnswer": "A",
+    "explanation": "When plugging off a boiler tube, the plug should have a taper of 20 to 1. This gradual taper allows the plug to fit tightly inside the tube when driven into position, creating a secure seal and preventing water or steam leakage."
+  },
+  {
+    "number": 20,
+    "heading": "Boiler Maintenance",
+    "question": "Fire tube failures failure occurs due to all of these except:",
+    "options": {
+      "A": "Over firing",
+      "B": "Corrosion",
+      "C": "Inspection",
+      "D": "Poor water circulation",
+      "E": "Poor water treatment"
+    },
+    "correctAnswer": "C",
+    "explanation": "Over-firing, waterside/fireside corrosion, poor water circulation, and inadequate water treatment cause tube failure. Routine inspection is a preventative safety practice, not a cause of failure."
+  }
+]

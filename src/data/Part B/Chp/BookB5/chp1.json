@@ -1,0 +1,242 @@
+[
+  {
+    "number": 1,
+    "heading": "Energy Plant Maintenance I",
+    "question": "When drilling speed is too fast, it results in:",
+    "options": {
+      "A": "The hole will be too deep",
+      "B": "The drill bit will get struck and break",
+      "C": "The metal will melt",
+      "D": "The drill bit will fail due to centrifugal forces",
+      "E": "It will dull the drill"
+    }
+  },
+  {
+    "number": 2,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Taper, plug and bottoming are types of:",
+    "options": {
+      "A": "Dies",
+      "B": "Punches",
+      "C": "Files",
+      "D": "Taps",
+      "E": "Wrenches"
+    }
+  },
+  {
+    "number": 3,
+    "heading": "Energy Plant Maintenance I",
+    "question": "When using a file properly:",
+    "options": {
+      "A": "No force is required",
+      "B": "Apply force on the back stroke",
+      "C": "Avoid using a handle",
+      "D": "Apply force on the forward stroke only",
+      "E": "Apply force in both directions"
+    }
+  },
+  {
+    "number": 4,
+    "heading": "Energy Plant Maintenance I",
+    "question": "In order to check the trueness of a flat surface, one would use a:",
+    "options": {
+      "A": "Surface plate",
+      "B": "Vernier caliper",
+      "C": "Hermaphrodite divider",
+      "D": "Layout bench",
+      "E": "Machinist's square"
+    }
+  },
+  {
+    "number": 5,
+    "heading": "Energy Plant Maintenance I",
+    "question": "The tap drill is always smaller than the tap so as to leave sufficient material for the tap to produce _____ percent of the full thread.",
+    "options": {
+      "A": "75",
+      "B": "50",
+      "C": "25",
+      "D": "30",
+      "E": "40"
+    }
+  },
+  {
+    "number": 6,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Cracked grinding wheels:",
+    "options": {
+      "A": "Should be kept in a special toolbox",
+      "B": "Should be replace under their \"lifetime\" warranty",
+      "C": "Must be used carefully and cautiously if injury is to be prevented",
+      "D": "Are best disposed of",
+      "E": "Should be of no concern to the user"
+    }
+  },
+  {
+    "number": 7,
+    "heading": "Energy Plant Maintenance I",
+    "question": "A tap with the marking M4 would indicate a:",
+    "options": {
+      "A": "Tap with metallic threads",
+      "B": "Metric thread, 4 cm nominal diameter of the thread",
+      "C": "Metric thread, 4 mm nominal diameter of the thread",
+      "D": "Metric thread",
+      "E": "Metric thread, 4 threads per mm"
+    }
+  },
+  {
+    "number": 8,
+    "heading": "Energy Plant Maintenance I",
+    "question": "An important safety check when using any grinder is to ensure:",
+    "options": {
+      "A": "The grinder is designed for right handed people",
+      "B": "The guard is removed",
+      "C": "Wheel speed is correct",
+      "D": "The power is turned on",
+      "E": "The grinder is light weight"
+    }
+  },
+  {
+    "number": 9,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Micrometers are available in a variety of types and are used mainly for the measurement of:",
+    "options": {
+      "A": "The density of the boiler flue gases for pollution control",
+      "B": "Outside, inside, and depth dimensions of relatively small openings of objects",
+      "C": "Vertical, perpendicular and parallel distances in assembly of power plant machines",
+      "D": "Length, width, and thickness of the boiler house structure",
+      "E": "Dissolved solids in boiler water"
+    }
+  },
+  {
+    "number": 10,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Copper sulphate may be used:",
+    "options": {
+      "A": "As a thread cutting fluid",
+      "B": "For lubricating very fine threads such as those in a micrometer",
+      "C": "Coating tools in order to prevent rusting",
+      "D": "To free nuts which are corroded to bolts",
+      "E": "As a marking material"
+    }
+  },
+  {
+    "number": 11,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Whatever the size of a micrometer, the working parts can only move a distance of:",
+    "options": {
+      "A": "30 mm",
+      "B": "200 mm",
+      "C": "25 mm",
+      "D": "300 mm",
+      "E": "250 mm"
+    }
+  },
+  {
+    "number": 12,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Chalk or _____ may be used to rub on the surface of rough castings as a marking material.",
+    "options": {
+      "A": "Aluminum sulphate",
+      "B": "Wax",
+      "C": "Blue vitriol",
+      "D": "Grinding compound",
+      "E": "Soap stone"
+    }
+  },
+  {
+    "number": 13,
+    "heading": "Energy Plant Maintenance I",
+    "question": "A screwdriver having a square tip is known as:",
+    "options": {
+      "A": "A slot",
+      "B": "A Jacobson",
+      "C": "A Robertson",
+      "D": "A Phillips",
+      "E": "An Allen"
+    }
+  },
+  {
+    "number": 14,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Pipe wrenches should not be used on:",
+    "options": {
+      "A": "Metal Pipes",
+      "B": "Production tubing",
+      "C": "Nuts and bolts",
+      "D": "Pipe fittings",
+      "E": "Drill pipe"
+    }
+  },
+  {
+    "number": 15,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Adjustable wrenches should only be used:",
+    "options": {
+      "A": "With the turning force applied to the fixed jaw",
+      "B": "On piping",
+      "C": "With a universal joint",
+      "D": "With the turning force applied to the moving jaw",
+      "E": "To tap threads"
+    }
+  },
+  {
+    "number": 16,
+    "heading": "Energy Plant Maintenance I",
+    "question": "A dressing tool is used to:",
+    "options": {
+      "A": "Fit a new handle into a hammer head",
+      "B": "Square the edges of a grinding wheel",
+      "C": "Re-set the teeth of a saw",
+      "D": "Clean the measuring contact surfaces of a micrometer",
+      "E": "Clean the grooves of a file"
+    }
+  },
+  {
+    "number": 17,
+    "heading": "Energy Plant Maintenance I",
+    "question": "When drilling in metal it is important to:",
+    "options": {
+      "A": "Use a portable drill",
+      "B": "Thread the hole before drilling",
+      "C": "Hold the drill vertically",
+      "D": "Grind a flat spot first",
+      "E": "Centre punch the location"
+    }
+  },
+  {
+    "number": 18,
+    "heading": "Energy Plant Maintenance I",
+    "question": "A collet is:",
+    "options": {
+      "A": "A type of face spanner wrench",
+      "B": "A type of hole punch",
+      "C": "Used to make a square hole in a piece of plate",
+      "D": "A holder for an adjustable thread die",
+      "E": "The moving part of a micrometer"
+    }
+  },
+  {
+    "number": 19,
+    "heading": "Energy Plant Maintenance I",
+    "question": "The correct tool to tighten fasteners to the correct tightness on bearing caps is:",
+    "options": {
+      "A": "Spanner wrench",
+      "B": "Box end wrench",
+      "C": "Torque wrench",
+      "D": "Pipe wrench",
+      "E": "Soft faced hammer"
+    }
+  },
+  {
+    "number": 20,
+    "heading": "Energy Plant Maintenance I",
+    "question": "A file which is always single cut is the:",
+    "options": {
+      "A": "Knife file",
+      "B": "Warding file",
+      "C": "Mill file",
+      "D": "Pillar file",
+      "E": "Hand file"
+    }
+  }
+]

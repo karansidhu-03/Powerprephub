@@ -1,0 +1,1054 @@
+[
+  {
+    "number": 1,
+    "heading": "Energy Plant Maintenance I",
+    "question": "When drilling speed is too fast, it results in:",
+    "options": {
+      "A": "The hole will be too deep",
+      "B": "The drill bit will get struck and break",
+      "C": "The metal will melt",
+      "D": "The drill bit will fail due to centrifugal forces",
+      "E": "It will dull the drill"
+    }
+  },
+  {
+    "number": 2,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Taper, plug and bottoming are types of:",
+    "options": {
+      "A": "Dies",
+      "B": "Punches",
+      "C": "Files",
+      "D": "Taps",
+      "E": "Wrenches"
+    }
+  },
+  {
+    "number": 3,
+    "heading": "Energy Plant Maintenance I",
+    "question": "When using a file properly:",
+    "options": {
+      "A": "No force is required",
+      "B": "Apply force on the back stroke",
+      "C": "Avoid using a handle",
+      "D": "Apply force on the forward stroke only",
+      "E": "Apply force in both directions"
+    }
+  },
+  {
+    "number": 4,
+    "heading": "Energy Plant Maintenance I",
+    "question": "In order to check the trueness of a flat surface, one would use a:",
+    "options": {
+      "A": "Surface plate",
+      "B": "Vernier caliper",
+      "C": "Hermaphrodite divider",
+      "D": "Layout bench",
+      "E": "Machinist's square"
+    }
+  },
+  {
+    "number": 5,
+    "heading": "Energy Plant Maintenance I",
+    "question": "The tap drill is always smaller than the tap so as to leave sufficient material for the tap to produce _____ percent of the full thread.",
+    "options": {
+      "A": "75",
+      "B": "50",
+      "C": "25",
+      "D": "30",
+      "E": "40"
+    }
+  },
+  {
+    "number": 6,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Cracked grinding wheels:",
+    "options": {
+      "A": "Should be kept in a special toolbox",
+      "B": "Should be replace under their \"lifetime\" warranty",
+      "C": "Must be used carefully and cautiously if injury is to be prevented",
+      "D": "Are best disposed of",
+      "E": "Should be of no concern to the user"
+    }
+  },
+  {
+    "number": 7,
+    "heading": "Energy Plant Maintenance I",
+    "question": "A tap with the marking M4 would indicate a:",
+    "options": {
+      "A": "Tap with metallic threads",
+      "B": "Metric thread, 4 cm nominal diameter of the thread",
+      "C": "Metric thread, 4 mm nominal diameter of the thread",
+      "D": "Metric thread",
+      "E": "Metric thread, 4 threads per mm"
+    }
+  },
+  {
+    "number": 8,
+    "heading": "Energy Plant Maintenance I",
+    "question": "An important safety check when using any grinder is to ensure:",
+    "options": {
+      "A": "The grinder is designed for right handed people",
+      "B": "The guard is removed",
+      "C": "Wheel speed is correct",
+      "D": "The power is turned on",
+      "E": "The grinder is light weight"
+    }
+  },
+  {
+    "number": 9,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Micrometers are available in a variety of types and are used mainly for the measurement of:",
+    "options": {
+      "A": "The density of the boiler flue gases for pollution control",
+      "B": "Outside, inside, and depth dimensions of relatively small openings of objects",
+      "C": "Vertical, perpendicular and parallel distances in assembly of power plant machines",
+      "D": "Length, width, and thickness of the boiler house structure",
+      "E": "Dissolved solids in boiler water"
+    }
+  },
+  {
+    "number": 10,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Copper sulphate may be used:",
+    "options": {
+      "A": "As a thread cutting fluid",
+      "B": "For lubricating very fine threads such as those in a micrometer",
+      "C": "Coating tools in order to prevent rusting",
+      "D": "To free nuts which are corroded to bolts",
+      "E": "As a marking material"
+    }
+  },
+  {
+    "number": 11,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Whatever the size of a micrometer, the working parts can only move a distance of:",
+    "options": {
+      "A": "30 mm",
+      "B": "200 mm",
+      "C": "25 mm",
+      "D": "300 mm",
+      "E": "250 mm"
+    }
+  },
+  {
+    "number": 12,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Chalk or _____ may be used to rub on the surface of rough castings as a marking material.",
+    "options": {
+      "A": "Aluminum sulphate",
+      "B": "Wax",
+      "C": "Blue vitriol",
+      "D": "Grinding compound",
+      "E": "Soap stone"
+    }
+  },
+  {
+    "number": 13,
+    "heading": "Energy Plant Maintenance I",
+    "question": "A screwdriver having a square tip is known as:",
+    "options": {
+      "A": "A slot",
+      "B": "A Jacobson",
+      "C": "A Robertson",
+      "D": "A Phillips",
+      "E": "An Allen"
+    }
+  },
+  {
+    "number": 14,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Pipe wrenches should not be used on:",
+    "options": {
+      "A": "Metal Pipes",
+      "B": "Production tubing",
+      "C": "Nuts and bolts",
+      "D": "Pipe fittings",
+      "E": "Drill pipe"
+    }
+  },
+  {
+    "number": 15,
+    "heading": "Energy Plant Maintenance I",
+    "question": "Adjustable wrenches should only be used:",
+    "options": {
+      "A": "With the turning force applied to the fixed jaw",
+      "B": "On piping",
+      "C": "With a universal joint",
+      "D": "With the turning force applied to the moving jaw",
+      "E": "To tap threads"
+    }
+  },
+  {
+    "number": 16,
+    "heading": "Energy Plant Maintenance I",
+    "question": "A dressing tool is used to:",
+    "options": {
+      "A": "Fit a new handle into a hammer head",
+      "B": "Square the edges of a grinding wheel",
+      "C": "Re-set the teeth of a saw",
+      "D": "Clean the measuring contact surfaces of a micrometer",
+      "E": "Clean the grooves of a file"
+    }
+  },
+  {
+    "number": 17,
+    "heading": "Energy Plant Maintenance I",
+    "question": "When drilling in metal it is important to:",
+    "options": {
+      "A": "Use a portable drill",
+      "B": "Thread the hole before drilling",
+      "C": "Hold the drill vertically",
+      "D": "Grind a flat spot first",
+      "E": "Centre punch the location"
+    }
+  },
+  {
+    "number": 18,
+    "heading": "Energy Plant Maintenance I",
+    "question": "A collet is:",
+    "options": {
+      "A": "A type of face spanner wrench",
+      "B": "A type of hole punch",
+      "C": "Used to make a square hole in a piece of plate",
+      "D": "A holder for an adjustable thread die",
+      "E": "The moving part of a micrometer"
+    }
+  },
+  {
+    "number": 19,
+    "heading": "Energy Plant Maintenance I",
+    "question": "The correct tool to tighten fasteners to the correct tightness on bearing caps is:",
+    "options": {
+      "A": "Spanner wrench",
+      "B": "Box end wrench",
+      "C": "Torque wrench",
+      "D": "Pipe wrench",
+      "E": "Soft faced hammer"
+    }
+  },
+  {
+    "number": 20,
+    "heading": "Energy Plant Maintenance I",
+    "question": "A file which is always single cut is the:",
+    "options": {
+      "A": "Knife file",
+      "B": "Warding file",
+      "C": "Mill file",
+      "D": "Pillar file",
+      "E": "Hand file"
+    }
+  },
+  {
+    "number": 21,
+    "heading": "Energy Plant Maintenance II",
+    "question": "Wire rope classified as 8 x 12 means it has:",
+    "options": {
+      "A": "A factor of safety of 8 and is 12 metres long",
+      "B": "8 strands with 12 wires per strand",
+      "C": "12 strands with 8 wires per strand",
+      "D": "A factor of safety of 12 and is 8 metres long",
+      "E": "None of the above"
+    },
+    "correctAnswer": "B",
+    "explanation": "In wire rope classification, the first number denotes the number of strands, and the second number denotes the number of individual wires per strand."
+  },
+  {
+    "number": 22,
+    "heading": "Energy Plant Maintenance II",
+    "question": "When a ladder is found to be defective it must be removed from service and:",
+    "options": {
+      "A": "Used only for house work",
+      "B": "Safety tag affixed to not use",
+      "C": "Sold to local workers",
+      "D": "Disposed of immediately",
+      "E": "Used only for low level work"
+    },
+    "correctAnswer": "B",
+    "explanation": "When a ladder is found to be defective, it must be immediately removed from service and clearly tagged with a 'DO NOT USE' or 'DANGER' safety tag. This warns workers not to use the ladder accidentally. The ladder must remain out of service until it is properly repaired and inspected or safely disposed of."
+  },
+  {
+    "number": 23,
+    "heading": "Energy Plant Maintenance II",
+    "question": "Prior to hoisting an object it is very important to:",
+    "options": {
+      "A": "Measure the width",
+      "B": "Measure its length",
+      "C": "Attach at least two slings",
+      "D": "Know or calculate the mass",
+      "E": "Know the route required"
+    },
+    "correctAnswer": "D",
+    "explanation": "Knowing or accurately calculating the mass/weight of the load is a mandatory prerequisite to select correct rigging equipment and ensure crane capacity limits are not exceeded."
+  },
+  {
+    "number": 24,
+    "heading": "Energy Plant Maintenance II",
+    "question": "A single pole scaffold:",
+    "options": {
+      "A": "Is free standing from the building",
+      "B": "Must be made of pipe",
+      "C": "Is always made of metal",
+      "D": "Places no load on the building",
+      "E": "Is partially supported by a building"
+    },
+    "correctAnswer": "E",
+    "explanation": "A single-pole scaffold is supported by a single row of uprights/poles on the outside and is tied to or partially supported by the structure or building on the inside."
+  },
+  {
+    "number": 25,
+    "heading": "Energy Plant Maintenance II",
+    "question": "Platforms should have a _____ edge going around them to prevent objects from rolling off.",
+    "options": {
+      "A": "Raised",
+      "B": "Wire",
+      "C": "Square",
+      "D": "Magnetic",
+      "E": "Metal"
+    },
+    "correctAnswer": "A",
+    "explanation": "Platforms and scaffolding decks require toe boards or raised edges to prevent tools, materials, and debris from rolling or sliding off and striking personnel below."
+  },
+  {
+    "number": 26,
+    "heading": "Energy Plant Maintenance II",
+    "question": "Stove bolt nuts are usually:",
+    "options": {
+      "A": "Left hand thread",
+      "B": "Hexagonal",
+      "C": "Self locking",
+      "D": "Fine thread",
+      "E": "Square"
+    },
+    "correctAnswer": "E",
+    "explanation": "Stove bolts are commonly paired with square nuts for general assembly applications."
+  },
+  {
+    "number": 27,
+    "heading": "Energy Plant Maintenance II",
+    "question": "An M24 coarse thread bolt has:",
+    "options": {
+      "A": "3 threads per mm",
+      "B": "2 mm per thread",
+      "C": "3 mm per thread",
+      "D": "3.5 threads per mm",
+      "E": "3.5 mm per thread"
+    },
+    "correctAnswer": "C",
+    "explanation": "According to ISO metric coarse thread standards, an M24 bolt has a standard thread pitch of 3 mm. Thread pitch is the distance between two adjacent threads, measured in millimetres. This means the distance from one thread to the next is 3 mm. Remember: M24 represents a nominal bolt diameter of 24 mm, while 3 mm represents the thread pitch."
+  },
+  {
+    "number": 28,
+    "heading": "Energy Plant Maintenance II",
+    "question": "A rung ladder should:",
+    "options": {
+      "A": "Always have at least one rail touching the support",
+      "B": "Be inclined with a 5:1 slope",
+      "C": "Never be able to conduct electricity",
+      "D": "Be inclined with a 4:1 slope",
+      "E": "Not be equipped with rubber feet, only metal ones"
+    },
+    "correctAnswer": "D",
+    "explanation": "Portable extension and straight ladders must be set up at a safe inclination ratio of 4:1 (one horizontal unit out for every four vertical units up)."
+  },
+  {
+    "number": 29,
+    "heading": "Energy Plant Maintenance II",
+    "question": "Ladders constructed on the job must comply with the:",
+    "options": {
+      "A": "ASME codes",
+      "B": "CSA codes",
+      "C": "WCB suggestions",
+      "D": "Fire Department guidelines",
+      "E": "WCB regulations"
+    },
+    "correctAnswer": "E",
+    "explanation": "Job-built ladders must strictly follow construction specifications outlined in local Workers' Compensation Board (WCB) regulations or occupational health and safety codes."
+  },
+  {
+    "number": 30,
+    "heading": "Energy Plant Maintenance II",
+    "question": "The top of a ladder should extend approximately _____ above the level of the upper landing to which it provides access.",
+    "options": {
+      "A": "1.0 m",
+      "B": "2 m",
+      "C": "0.2 m",
+      "D": "0.3 m",
+      "E": "0.5 m"
+    },
+    "correctAnswer": "A",
+    "explanation": "A portable ladder should extend approximately 1.0 metre (1000 mm) above the upper landing it provides access to. This extra length gives workers a secure handhold when climbing on or off the ladder, reducing the risk of slipping or falling. Remember: the ladder should extend about 1 metre above the landing."
+  },
+  {
+    "number": 31,
+    "heading": "Energy Plant Maintenance II",
+    "question": "A government agency that covers several aspects of work platforms is the:",
+    "options": {
+      "A": "Boilers and Pressure Vessels Branch",
+      "B": "Hoisting and Rigging Regulations",
+      "C": "Industrial Accident Prevention Association",
+      "D": "Hoisting and Elevator Regulations",
+      "E": "Workers' Compensation Board Regulations"
+    },
+    "correctAnswer": "E",
+    "explanation": "Workers' Compensation Board (WCB) or provincial occupational health and safety regulations govern scaffolding, staging, and elevated work platform safety."
+  },
+  {
+    "number": 32,
+    "heading": "Energy Plant Maintenance II",
+    "question": "To prevent damage to a work surface while fastening with bolts:",
+    "options": {
+      "A": "Use toothed lock washers",
+      "B": "Use flat washers",
+      "C": "Use castle nuts only",
+      "D": "Do not over-tighten a nut",
+      "E": "Use a lubricant during threading and tightening"
+    },
+    "correctAnswer": "B",
+    "explanation": "Flat washers distribute the clamping load over a larger surface area, preventing the bolt head or nut from marring or crushing the underlying material."
+  },
+  {
+    "number": 33,
+    "heading": "Energy Plant Maintenance II",
+    "question": "A yellow scaffold tag indicates:",
+    "options": {
+      "A": "The scaffold is safe to use but there are hazards",
+      "B": "The scaffold is unsafe",
+      "C": "The scaffold is almost unsafe to use",
+      "D": "The scaffold is only safe for 1 person at a time",
+      "E": "The scaffold needs repair"
+    },
+    "correctAnswer": "A",
+    "explanation": "A yellow scaffold tag serves as a caution warning that the scaffold is functional and safe to use under specific conditions or with mandatory personal fall arrest equipment due to potential hazards."
+  },
+  {
+    "number": 34,
+    "heading": "Energy Plant Maintenance II",
+    "question": "The maximum percentage error we should use when calculating the mass of a light object is:",
+    "options": {
+      "A": "5%",
+      "B": "20%",
+      "C": "10%",
+      "D": "3%",
+      "E": "15%"
+    },
+    "correctAnswer": "B",
+    "explanation": "When calculating the mass of a light object for lifting or rigging, the maximum allowable percentage error is 20%. This means the calculated mass may differ from the actual mass by up to 20%. Accurate load calculations are important to ensure the lifting equipment is not overloaded and the lift is performed safely."
+  },
+  {
+    "number": 35,
+    "heading": "Energy Plant Maintenance II",
+    "question": "A knot used to pull at right angles to a pipe or pole is the:",
+    "options": {
+      "A": "Clove hitch",
+      "B": "Reef knot",
+      "C": "Timber hitch",
+      "D": "Bowline",
+      "E": "Round turn and two half hitches"
+    },
+    "correctAnswer": "A",
+    "explanation": "A clove hitch is exceptionally effective for securing a rope perpendicularly around cylindrical objects like pipes, posts, or poles for pulling."
+  },
+  {
+    "number": 36,
+    "heading": "Energy Plant Maintenance II",
+    "question": "An eye made by using a Crosby clip will have a strength factor of:",
+    "options": {
+      "A": "50%",
+      "B": "90%",
+      "C": "75%",
+      "D": "80%",
+      "E": "95%"
+    },
+    "correctAnswer": "D",
+    "explanation": "Properly installed wire rope clip (Crosby clip) terminations retain approximately 80% of the wire rope's nominal breaking strength."
+  },
+  {
+    "number": 37,
+    "heading": "Energy Plant Maintenance II",
+    "question": "When using a step ladder it is best to:",
+    "options": {
+      "A": "Have two co-workers hold the ladder steady",
+      "B": "Have a 4:1 slope on the rung side",
+      "C": "Place both feet on the top platform if extra height is required",
+      "D": "Secure the ladder with a rope",
+      "E": "Not work higher than the top three rungs"
+    },
+    "correctAnswer": "E",
+    "explanation": "For stability and fall prevention, workers should never stand on or work from the top cap or top two/three steps of a stepladder."
+  },
+  {
+    "number": 38,
+    "heading": "Energy Plant Maintenance II",
+    "question": "When working on a platform it is important to:",
+    "options": {
+      "A": "Construct it yourself",
+      "B": "Warn people on the ground of hazards",
+      "C": "Notify the applicable government agency of usage",
+      "D": "Always wear a lifeline harness",
+      "E": "Ensure the harness is attached to the scaffold"
+    },
+    "correctAnswer": "B",
+    "explanation": "Protecting workers and personnel below by warning them of overhead work, falling object hazards, or dropped tools is a critical safety requirement."
+  },
+  {
+    "number": 39,
+    "heading": "Energy Plant Maintenance II",
+    "question": "Electricians prefer fiberglass ladders because:",
+    "options": {
+      "A": "They are stronger",
+      "B": "They are more compact",
+      "C": "They come in longer lengths",
+      "D": "They are lighter",
+      "E": "They do not conduct electricity"
+    },
+    "correctAnswer": "E",
+    "explanation": "Fiberglass is a non-conductive composite material, making fiberglass ladders the mandatory choice for electrical work to prevent electrocution hazards."
+  },
+  {
+    "number": 40,
+    "heading": "Energy Plant Maintenance II",
+    "question": "Castle nuts are used:",
+    "options": {
+      "A": "With a split pin",
+      "B": "To hold shims in place",
+      "C": "For locking square nuts in place",
+      "D": "To lock the bolt in place",
+      "E": "With a square pin"
+    },
+    "correctAnswer": "A",
+    "explanation": "Castle nuts feature slotted notches on top designed to accommodate a cotter pin (split pin) passing through a drilled bolt hole to lock the fastener securely against vibration."
+  },
+  {
+    "number": 41,
+    "heading": "Boiler Maintenance",
+    "question": "When working inside a steel heating boiler, which of the following safety precautions should you take?\n1. The boiler must be cooled and vented\n2. The valves must be closed and locked and all lines to and from the boiler must be blanked\n3. You may use ungrounded wiring\n4. Always have one worker standing outside whenever anyone is inside the boiler",
+    "options": {
+      "A": "1, 2, 4",
+      "B": "1, 2, 3",
+      "C": "2, 3",
+      "D": "2, 3, 4",
+      "E": "1, 2, 3, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "When entering a boiler (a confined space), the vessel must be properly cooled and vented, all isolation valves locked out and lines blanked, and a standby safety watch positioned outside. Ungrounded wiring is extremely dangerous and strictly prohibited."
+  },
+  {
+    "number": 42,
+    "heading": "Boiler Maintenance",
+    "question": "Before a welder is allowed to weld on a boiler, he must have a:",
+    "options": {
+      "A": "Certain minimum number of years of experience",
+      "B": "Certificate of qualification",
+      "C": "Performance qualification card",
+      "D": "Welding test conducted",
+      "E": "Certificate of qualification and a performance qualification card"
+    },
+    "correctAnswer": "E",
+    "explanation": "Pressure welding on boilers and pressure vessels requires the welder to possess both a valid Certificate of Qualification and a Performance Qualification Card for the specific welding procedure."
+  },
+  {
+    "number": 43,
+    "heading": "Boiler Maintenance",
+    "question": "Laying up a boiler means:",
+    "options": {
+      "A": "Preparing the boiler for a period of storage",
+      "B": "Preparing a boiler for start up",
+      "C": "Raising the boiler",
+      "D": "Setting the boiler on its foundation",
+      "E": "Taking the boiler down for an annual overhaul"
+    },
+    "correctAnswer": "A",
+    "explanation": "Laying up a boiler refers to taking it out of service and preparing it for a period of short-term or long-term storage (either wet or dry) to protect against corrosion."
+  },
+  {
+    "number": 44,
+    "heading": "Boiler Maintenance",
+    "question": "A black light crack detection utilises ultraviolet light and:",
+    "options": {
+      "A": "A radium solution",
+      "B": "An infrared solution",
+      "C": "Opaque dye",
+      "D": "Iridescent powder",
+      "E": "Fluorescent penetrant"
+    },
+    "correctAnswer": "E",
+    "explanation": "Fluorescent penetrant inspection (a type of liquid penetrant testing) uses a fluorescent dye penetrant that glows under ultraviolet (black) light to reveal surface-breaking cracks."
+  },
+  {
+    "number": 45,
+    "heading": "Boiler Maintenance",
+    "question": "A steam heating boiler that is to be shut down for six months during the summer should be:",
+    "options": {
+      "A": "Drained, thoroughly dried out, quick lime placed inside and left open",
+      "B": "Drained, thoroughly dried out, quick lime placed inside and closed up",
+      "C": "Left with the water at normal working level but opened up to atmosphere",
+      "D": "Left with the water at normal working level and pressurised with air to 50 kPa",
+      "E": "Filled completely with water and the vent left open to atmosphere"
+    },
+    "correctAnswer": "B",
+    "explanation": "For a 6-month seasonal shutdown (dry layup), the boiler is completely drained, dried out, a desiccant such as quicklime (calcium oxide) is placed inside to absorb moisture, and the vessel is sealed tight."
+  },
+  {
+    "number": 46,
+    "heading": "Boiler Maintenance",
+    "question": "A water tank should be installed above the boiler and attached to the vent connection during a wet lay up in order to:",
+    "options": {
+      "A": "Prevent water vapour from entering the power plant",
+      "B": "Hold the manway doors closed",
+      "C": "Prevent air from entering the boiler during water contraction",
+      "D": "Permit the injection of chemicals",
+      "E": "Prevent the wastage of chemicals"
+    },
+    "correctAnswer": "C",
+    "explanation": "During wet layup, an overhead surge/expansion tank attached to the vent maintains a positive head of treated water to prevent air (oxygen) from drawing into the boiler as water cools and contracts."
+  },
+  {
+    "number": 47,
+    "heading": "Boiler Maintenance",
+    "question": "The boiler operator should be alert for steam leaks in connections because if a leak was to persist for any length of time, it may result in:",
+    "options": {
+      "A": "Loss of steam and reduced efficiency",
+      "B": "Erosion of the sealing surfaces",
+      "C": "The accumulation of salt deposits around the leak",
+      "D": "A reduction in the condensate returns",
+      "E": "Water damage due to the condensing steam"
+    },
+    "correctAnswer": "B",
+    "explanation": "Persistent steam leaks cause wire-drawing and high-velocity erosion (flute cutting) on metal flange faces, gasket seating surfaces, and valve seats."
+  },
+  {
+    "number": 48,
+    "heading": "Boiler Maintenance",
+    "question": "When the fireside of a boiler is first opened up, small leak seepage spots can be detected by:",
+    "options": {
+      "A": "Hissing sounds",
+      "B": "Water on the furnace floor",
+      "C": "White salt deposits resulting from water evaporation",
+      "D": "Water running down the tubes",
+      "E": "Ultraviolet light"
+    },
+    "correctAnswer": "C",
+    "explanation": "When water evaporates from small tube/joint seepage spots on a cold fireside, it leaves behind noticeable white crusty salt deposits (boiler water treatment solids)."
+  },
+  {
+    "number": 49,
+    "heading": "Boiler Maintenance",
+    "question": "Boiler furnace refractory should be _____ to prolong its life.",
+    "options": {
+      "A": "Oiled to prevent corrosion",
+      "B": "Painted with heat resistant paint",
+      "C": "Wire brushed",
+      "D": "Washed with a high-pressure hose",
+      "E": "Wash coated with a dilute solution of heat resistant cement"
+    },
+    "correctAnswer": "E",
+    "explanation": "Applying a wash coat of dilute high-temperature heat-resistant refractory cement helps seal fine surface cracks and extend the operating life of boiler furnace refractory."
+  },
+  {
+    "number": 50,
+    "heading": "Boiler Maintenance",
+    "question": "It is recommended that a new boiler be shut down, drained, opened up, flushed out and inspected after the first _____ months of operation.",
+    "options": {
+      "A": "Six",
+      "B": "Twelve",
+      "C": "Three",
+      "D": "Two",
+      "E": "Nine"
+    },
+    "correctAnswer": "C",
+    "explanation": "Standard power engineering recommendations specify that a newly commissioned boiler should be shut down, drained, opened, flushed, and thoroughly inspected after its initial 3 months of operation."
+  },
+  {
+    "number": 51,
+    "heading": "Boiler Maintenance",
+    "question": "Who should be responsible for doing frequent boiler inspections?",
+    "options": {
+      "A": "The Boiler Inspector",
+      "B": "The Owner",
+      "C": "The Chief Inspector",
+      "D": "The Insurance Agent",
+      "E": "The Steam Plant operator"
+    },
+    "correctAnswer": "E",
+    "explanation": "The certified steam plant operator on duty is directly responsible for carrying out routine daily, weekly, and frequent operational checks and visual inspections of the boiler."
+  },
+  {
+    "number": 52,
+    "heading": "Boiler Maintenance",
+    "question": "The final step in replacing a firetube is:",
+    "options": {
+      "A": "Firing the boiler up to normal working pressure",
+      "B": "A light re-expansion",
+      "C": "Filling the boiler with water and checking for leaks",
+      "D": "Annealing the tube ends",
+      "E": "Applying a hydrostatic test"
+    },
+    "correctAnswer": "E",
+    "explanation": "After replacing a firetube, expanding, and beading the tube ends, a hydrostatic pressure test is applied as the final verification of seal tightness before returning the boiler to service."
+  },
+  {
+    "number": 53,
+    "heading": "Boiler Maintenance",
+    "question": "A substance that will absorb humidity inside a boiler during dry lay up is:",
+    "options": {
+      "A": "Activated alumina",
+      "B": "Sodium chloride",
+      "C": "Zeolite",
+      "D": "Sodium sulphite",
+      "E": "Lime soda"
+    },
+    "correctAnswer": "A",
+    "explanation": "Activated alumina (or quicklime/silica gel) is a highly effective desiccant used inside boiler drums during dry layup to absorb atmospheric humidity and prevent corrosion."
+  },
+  {
+    "number": 54,
+    "heading": "Boiler Maintenance",
+    "question": "The interior of firetubes are cleaned to remove deposits of:",
+    "options": {
+      "A": "Corrosion",
+      "B": "Salt",
+      "C": "Algae",
+      "D": "Scale",
+      "E": "Soot"
+    },
+    "correctAnswer": "E",
+    "explanation": "Firetubes carry hot combustion gases inside the tubes; their internal surfaces must be periodically brushed or blown to clean out accumulated soot deposits."
+  },
+  {
+    "number": 55,
+    "heading": "Boiler Maintenance",
+    "question": "Boilers that are maintained on hot standby should be:",
+    "options": {
+      "A": "Left with a fire in the furnace",
+      "B": "Dried out on the water side",
+      "C": "Nitrogen capped",
+      "D": "Steam capped",
+      "E": "Drained"
+    },
+    "correctAnswer": "D",
+    "explanation": "Boilers maintained on hot standby should be steam capped. This means maintaining a small positive steam pressure inside the boiler to prevent air (oxygen) from entering. Oxygen can cause corrosion of the boiler's internal metal surfaces. Steam capping also keeps the boiler warm and ready for a quick restart when needed."
+  },
+  {
+    "number": 56,
+    "heading": "Boiler Maintenance",
+    "question": "A tube beading tool is used:",
+    "options": {
+      "A": "To cut fire tubes",
+      "B": "To unfasten fire tubes from the tube sheet",
+      "C": "On firetube boilers",
+      "D": "To fasten the stays in the tube sheet",
+      "E": "On watertube boilers"
+    },
+    "correctAnswer": "C",
+    "explanation": "A tube beading tool is used on firetube boilers to curl and bead the protruding ends of firetubes tightly against the tube sheet after expanding."
+  },
+  {
+    "number": 57,
+    "heading": "Boiler Maintenance",
+    "question": "A boiler circulating pump gland should have some leakage:",
+    "options": {
+      "A": "In order to keep the motor amperage down",
+      "B": "To prevent the packing from drying out",
+      "C": "So that the shaft sleeve will take the wear",
+      "D": "In order for the stuffing box to run at the desired high temperature",
+      "E": "So the operator can tell when the pump becomes vapour bound"
+    },
+    "correctAnswer": "B",
+    "explanation": "A packed stuffing box gland on a centrifugal pump requires a slight continuous leakage of liquid to lubricate and cool the packing rings, preventing them from drying out and scorching the shaft."
+  },
+  {
+    "number": 58,
+    "heading": "Boiler Maintenance",
+    "question": "A tube expander is used for:",
+    "options": {
+      "A": "Repairing cracks in leaking tube",
+      "B": "Expanding the tube end",
+      "C": "Making the tube longer",
+      "D": "Bending tubes",
+      "E": "Making the tube stronger"
+    },
+    "correctAnswer": "B",
+    "explanation": "A mechanical roller tube expander is used to expand the outside diameter of a tube end snugly against the tube sheet hole to create a pressure-tight, leak-proof mechanical joint."
+  },
+  {
+    "number": 59,
+    "heading": "Boiler Maintenance",
+    "question": "When plugging off a tube in a boiler, the plug taper should be:",
+    "options": {
+      "A": "20 to 1",
+      "B": "7.5 to 1",
+      "C": "10 to 1",
+      "D": "2 to 1",
+      "E": "5 to 1"
+    },
+    "correctAnswer": "A",
+    "explanation": "When plugging off a boiler tube, the plug should have a taper of 20 to 1. This gradual taper allows the plug to fit tightly inside the tube when driven into position, creating a secure seal and preventing water or steam leakage."
+  },
+  {
+    "number": 60,
+    "heading": "Boiler Maintenance",
+    "question": "Fire tube failures failure occurs due to all of these except:",
+    "options": {
+      "A": "Over firing",
+      "B": "Corrosion",
+      "C": "Inspection",
+      "D": "Poor water circulation",
+      "E": "Poor water treatment"
+    },
+    "correctAnswer": "C",
+    "explanation": "Over-firing, waterside/fireside corrosion, poor water circulation, and inadequate water treatment cause tube failure. Routine inspection is a preventative safety practice, not a cause of failure."
+  },
+  {
+    "number": 61,
+    "heading": "Boiler Cleaning",
+    "question": "A hydrostatic test on a high pressure steam boiler:",
+    "options": {
+      "A": "Will test the high pressure steam fuel cut off",
+      "B": "Must only be done by the inspector",
+      "C": "Must be done according to jurisdictional regulations",
+      "D": "Must be done before every start up of a boiler",
+      "E": "Should be done with the Chief Engineer present"
+    },
+    "correctAnswer": "C",
+    "explanation": "Hydrostatic testing must strictly comply with jurisdictional regulations and ASME code guidelines governing test pressure, water temperature, and safety precautions."
+  },
+  {
+    "number": 62,
+    "heading": "Boiler Cleaning",
+    "question": "One of the legal responsibilities of the engineer during an inspection is:",
+    "options": {
+      "A": "To notify the Workers' Compensation Board of the inspection",
+      "B": "To be in possession of an inspection certificate",
+      "C": "To allow the inspector onto the premises, but only during working hours",
+      "D": "Point out any known or suspected defects to the inspector",
+      "E": "To have at least two staff members present at all times"
+    },
+    "correctAnswer": "D",
+    "explanation": "Power engineering regulations legally obligate the operating engineer or owner to point out any known or suspected defects, cracks, or leaks to the boiler inspector."
+  },
+  {
+    "number": 63,
+    "heading": "Boiler Cleaning",
+    "question": "What is the water pressure a boiler is subject to when a hydrostatic test is being carried out?",
+    "options": {
+      "A": "1/2 times normal operating pressure",
+      "B": "Operating pressure",
+      "C": "1/2 normal operating pressure",
+      "D": "2 times the setting of the lowest set safety valve",
+      "E": "1 1/2 times normal operating pressure"
+    },
+    "correctAnswer": "E",
+    "explanation": "A standard hydrostatic pressure test on a boiler is carried out at 1.5 times (1 1/2 times) the maximum allowable working pressure (MAWP) or lowest safety valve setting."
+  },
+  {
+    "number": 64,
+    "heading": "Boiler Cleaning",
+    "question": "When the boiler is removed from service, it can be drained once the temperature reaches approximately:",
+    "options": {
+      "A": "65°C",
+      "B": "70°C",
+      "C": "90°C",
+      "D": "150°C",
+      "E": "50°C"
+    },
+    "correctAnswer": "C",
+    "explanation": "When a boiler is removed from service, it should be allowed to cool before draining. The water temperature should reach approximately 90°C before draining. This helps reduce the risk of thermal shock, sudden temperature changes, and damage to boiler components. Remember: Allow the boiler to cool to approximately 90°C before draining."
+  },
+  {
+    "number": 65,
+    "heading": "Boiler Cleaning",
+    "question": "An inhibitor, when added to acid will:",
+    "options": {
+      "A": "Make the acid compatible with the sewer system for disposal",
+      "B": "Cause foaming in the boiler",
+      "C": "Strengthen the acid thereby shortening the cleaning procedure",
+      "D": "Prevent the acid from attacking the boiler metal",
+      "E": "Minimise the effect the acid has on the metal"
+    },
+    "correctAnswer": "E",
+    "explanation": "Inhibitors are chemical agents added to acid cleaning solutions to minimize or prevent acid attack on the bare parent metal of the boiler while allowing scale dissolution."
+  },
+  {
+    "number": 66,
+    "heading": "Boiler Cleaning",
+    "question": "A boiler inspection:",
+    "options": {
+      "A": "Is done with the owners permission only",
+      "B": "Is only required after a boiler has been operating 3 years",
+      "C": "Must be done whenever the boiler inspector requests it",
+      "D": "Is only required if an accident occurs",
+      "E": "Must be done after every shut down of the boiler"
+    },
+    "correctAnswer": "C",
+    "explanation": "A boiler inspection is a legal requirement and must be granted whenever requested by an authorized jurisdictional boiler inspector."
+  },
+  {
+    "number": 67,
+    "heading": "Boiler Cleaning",
+    "question": "External inspection includes:",
+    "options": {
+      "A": "Inspect all auxiliary equipment and pressure vessels",
+      "B": "Check the plant records, log books, etc",
+      "C": "Check the operation of each safety shutdown device",
+      "D": "Observe operation and maintenance practice",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "An external inspection while the boiler is in operation encompasses checking auxiliary equipment, reviewing logbooks, testing safety shutdown devices, and observing overall maintenance practices."
+  },
+  {
+    "number": 68,
+    "heading": "Boiler Cleaning",
+    "question": "Just before entering the waterside of the boiler it is important to:",
+    "options": {
+      "A": "Obtain permission to do so from plant management",
+      "B": "Ensure the Chief Engineer is aware of your intent",
+      "C": "Notify the inspector in writing of your intent to do so",
+      "D": "Be wearing self-contained breathing apparatus SCBA",
+      "E": "Test the atmosphere"
+    },
+    "correctAnswer": "E",
+    "explanation": "Prior to entering the drum or waterside of a boiler (confined space), atmospheric testing for oxygen levels and toxic/flammable gases is mandatory."
+  },
+  {
+    "number": 69,
+    "heading": "Boiler Cleaning",
+    "question": "Before cleaning the waterside and as far as is possible:",
+    "options": {
+      "A": "Tubes should be \"turbined\"",
+      "B": "A scale sample should be taken and an analysis done",
+      "C": "All drum internals should be removed",
+      "D": "Mud drum sludge should be completely removed",
+      "E": "A visual inspection of pressure parts should be completed"
+    },
+    "correctAnswer": "E",
+    "explanation": "Before washing or cleaning away deposits on the waterside, a thorough preliminary visual inspection of internal pressure parts should be completed to document baseline condition and scale buildup."
+  },
+  {
+    "number": 70,
+    "heading": "Boiler Cleaning",
+    "question": "The most popular acid for boiler cleaning is:",
+    "options": {
+      "A": "Sulphuric",
+      "B": "Chelate",
+      "C": "Hydrochloric",
+      "D": "Phosphoric",
+      "E": "Nitric"
+    },
+    "correctAnswer": "C",
+    "explanation": "Inhibited hydrochloric acid is the most widely used and cost-effective acid for chemical cleaning of industrial boilers."
+  },
+  {
+    "number": 71,
+    "heading": "Boiler Cleaning",
+    "question": "Chemical cleaning of smaller boilers is not usually done because:",
+    "options": {
+      "A": "They do not have adequate support for the high density of the chemicals",
+      "B": "Of the small surface area which the chemical contacts",
+      "C": "It is impossible to get the chemical circulating adequately",
+      "D": "Of the thin metal of which they are manufactured",
+      "E": "The cost to do so is not warranted or justified"
+    },
+    "correctAnswer": "E",
+    "explanation": "Chemical cleaning requires specialized pumps, piping, neutralizing steps, and chemical disposal; for smaller boilers, the financial cost is rarely justified compared to mechanical cleaning."
+  },
+  {
+    "number": 72,
+    "heading": "Boiler Cleaning",
+    "question": "The recommended procedures for a boiler inspection are stated in the:",
+    "options": {
+      "A": "ASME Boiler and Pressure Vessel Code, Section I",
+      "B": "Alberta Pressure Equipment Safety Regulation",
+      "C": "CSA B51 Boiler Pressure Vessel and Pressure Piping Code",
+      "D": "ASME Boiler and Pressure Vessel Code, Section VII",
+      "E": "ASME Boiler and Pressure Vessel Code, Section IV"
+    },
+    "correctAnswer": "D",
+    "explanation": "ASME Boiler and Pressure Vessel Code, Section VII provides recommended guidelines and procedures for the care, maintenance, and inspection of power boilers."
+  },
+  {
+    "number": 73,
+    "heading": "Boiler Cleaning",
+    "question": "A relatively safer chemical used in boiler cleaning and treatment is:",
+    "options": {
+      "A": "Sodium hydroxide",
+      "B": "Chelates",
+      "C": "Trisodium phosphate",
+      "D": "Caustic soda",
+      "E": "Hydrazine"
+    },
+    "correctAnswer": "B",
+    "explanation": "Chelates (chelating agents like EDTA and NTA) are relatively safe, less corrosive organic chemicals used for continuous or periodic cleaning and scale removal compared to mineral acids."
+  },
+  {
+    "number": 74,
+    "heading": "Boiler Cleaning",
+    "question": "For an alkaline boil out, the boiler is maintained at a desired steam pressure for about:",
+    "options": {
+      "A": "16 hours",
+      "B": "48 hours",
+      "C": "24 hours",
+      "D": "8 hours",
+      "E": "12 hours"
+    },
+    "correctAnswer": "B",
+    "explanation": "During an alkaline boil-out, the boiler is filled with water containing alkaline cleaning chemicals, such as caustic soda and trisodium phosphate. The boiler is heated and maintained at the required steam pressure for approximately 48 hours. This allows the chemicals enough time to loosen and remove oil, grease, and other manufacturing residues from the boiler's internal surfaces. Remember: Alkaline boil-out = 48 hours (2 days)."
+  },
+  {
+    "number": 75,
+    "heading": "Boiler Cleaning",
+    "question": "When cooling down a steam boiler that has been taken out of service, a vent valve on the steam drum should be opened to prevent a vacuum at:",
+    "options": {
+      "A": "0 Kpa",
+      "B": "100 kPa",
+      "C": "90 degrees",
+      "D": "50% load",
+      "E": "175 kPa"
+    },
+    "correctAnswer": "E",
+    "explanation": "When cooling a boiler, the drum vent valve is opened when pressure drops to approximately 175 kPa (or 15-20 psi) to prevent creating a atmospheric vacuum inside the vessel."
+  },
+  {
+    "number": 76,
+    "heading": "Boiler Cleaning",
+    "question": "The external inspection of a boiler:",
+    "options": {
+      "A": "May include making sure the furnace refractory is in order",
+      "B": "May include making sure the exterior of the tubes are in good condition",
+      "C": "Must be done after the boiler has been drained",
+      "D": "May include making sure the tubes are free of scale",
+      "E": "May include making sure the valves are in good operating condition"
+    },
+    "correctAnswer": "E",
+    "explanation": "An external inspection is conducted while the boiler is operating and includes checking the external condition and operational readiness of valves, controls, and fittings."
+  },
+  {
+    "number": 77,
+    "heading": "Boiler Cleaning",
+    "question": "A boiler has been in operation for one year and is now taken off the line for cleaning, repair and inspection. The boiler is one of three in a battery and the other two will remain in operation. This one boiler is to be drained and cooled. Before any person is allowed to enter the boiler drum, the correct safety procedure requires that the:",
+    "options": {
+      "A": "Main steam, blow down, blow off, and feedwater valves be closed, chained and tagged",
+      "B": "Person is equipped with the correct kind of tools and a list of required repairs",
+      "C": "Worker is provided with a safety kit for confined space entry",
+      "D": "Worker is provided with a safety line, first aid kit, and hard hat",
+      "E": "Drum be vented, the safety valve gagged, and all ashes and soot removed from the fire box"
+    },
+    "correctAnswer": "A",
+    "explanation": "When a boiler is part of a battery with common headers, all connected steam, blowdown, and feedwater isolation valves must be securely closed, locked/chained, and tagged out (and preferably blanked) before drum entry."
+  },
+  {
+    "number": 78,
+    "heading": "Boiler Cleaning",
+    "question": "A hydrostatic test should be applied to a boiler:",
+    "options": {
+      "A": "At the request of the owner",
+      "B": "Once per week",
+      "C": "At the request of the boiler inspector",
+      "D": "Once per year",
+      "E": "Every shift"
+    },
+    "correctAnswer": "C",
+    "explanation": "A hydrostatic test is performed after major pressure component repairs or whenever explicitly requested by the authorized boiler inspector."
+  }
+]
