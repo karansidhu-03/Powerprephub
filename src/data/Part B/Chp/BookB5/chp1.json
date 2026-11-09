@@ -1,5 +1,5 @@
 [
-  {
+  [{
     "number": 1,
     "heading": "Energy Plant Maintenance I",
     "question": "When drilling speed is too fast, it results in:",
@@ -9,7 +9,9 @@
       "C": "The metal will melt",
       "D": "The drill bit will fail due to centrifugal forces",
       "E": "It will dull the drill"
-    }
+    },
+    "correctAnswer": "E",
+    "explanation": "Excessive drilling speed generates high frictional heat, which softens the cutting edges of the drill bit and rapidly dulls it."
   },
   {
     "number": 2,
@@ -21,7 +23,9 @@
       "C": "Files",
       "D": "Taps",
       "E": "Wrenches"
-    }
+    },
+    "correctAnswer": "D",
+    "explanation": "Taper, plug, and bottoming are the three standard styles of hand taps used for cutting internal threads."
   },
   {
     "number": 3,
@@ -33,7 +37,9 @@
       "C": "Avoid using a handle",
       "D": "Apply force on the forward stroke only",
       "E": "Apply force in both directions"
-    }
+    },
+    "correctAnswer": "D",
+    "explanation": "Downward and forward pressure should be applied only on the forward cutting stroke, easing pressure or lifting slightly on the return stroke to prevent dulling the teeth."
   },
   {
     "number": 4,
@@ -45,7 +51,9 @@
       "C": "Hermaphrodite divider",
       "D": "Layout bench",
       "E": "Machinist's square"
-    }
+    },
+    "correctAnswer": "A",
+    "explanation": "A precision surface plate provides an accurate reference plane used in conjunction with blueing or dial indicators to test surface flatness."
   },
   {
     "number": 5,
@@ -57,7 +65,9 @@
       "C": "25",
       "D": "30",
       "E": "40"
-    }
+    },
+    "correctAnswer": "A",
+    "explanation": "Standard tap drill charts are sized to leave enough material to cut approximately 75 percent of full thread depth, providing optimal fastener strength without overloading the tap."
   },
   {
     "number": 6,
@@ -69,7 +79,9 @@
       "C": "Must be used carefully and cautiously if injury is to be prevented",
       "D": "Are best disposed of",
       "E": "Should be of no concern to the user"
-    }
+    },
+    "correctAnswer": "D",
+    "explanation": "Cracked grinding wheels are structurally compromised and can shatter catastrophically under centrifugal force; they must be discarded immediately."
   },
   {
     "number": 7,
@@ -81,7 +93,9 @@
       "C": "Metric thread, 4 mm nominal diameter of the thread",
       "D": "Metric thread",
       "E": "Metric thread, 4 threads per mm"
-    }
+    },
+    "correctAnswer": "C",
+    "explanation": "The 'M' designation denotes an ISO metric thread, and the number 4 specifies a nominal major diameter of 4 millimeters."
   },
   {
     "number": 8,
@@ -93,7 +107,9 @@
       "C": "Wheel speed is correct",
       "D": "The power is turned on",
       "E": "The grinder is light weight"
-    }
+    },
+    "correctAnswer": "C",
+    "explanation": "Verifying that the grinder RPM does not exceed the maximum safe operating speed rating of the grinding wheel is vital to prevent wheel explosion."
   },
   {
     "number": 9,
@@ -105,7 +121,9 @@
       "C": "Vertical, perpendicular and parallel distances in assembly of power plant machines",
       "D": "Length, width, and thickness of the boiler house structure",
       "E": "Dissolved solids in boiler water"
-    }
+    },
+    "correctAnswer": "B",
+    "explanation": "Micrometers are high-precision measuring instruments designed to measure outside dimensions, inside dimensions, and depth with extreme accuracy."
   },
   {
     "number": 10,
@@ -117,7 +135,9 @@
       "C": "Coating tools in order to prevent rusting",
       "D": "To free nuts which are corroded to bolts",
       "E": "As a marking material"
-    }
+    },
+    "correctAnswer": "E",
+    "explanation": "Copper sulphate solution (layout dye) is brushed onto metal surfaces to leave a thin copper coating that highlights scribed layout lines."
   },
   {
     "number": 11,
@@ -129,7 +149,9 @@
       "C": "25 mm",
       "D": "300 mm",
       "E": "250 mm"
-    }
+    },
+    "correctAnswer": "C",
+    "explanation": "Standard micrometer spindles have a travel range of 25 mm (or 1 inch), requiring different frame sizes for larger dimension measurements."
   },
   {
     "number": 12,
@@ -141,7 +163,9 @@
       "C": "Blue vitriol",
       "D": "Grinding compound",
       "E": "Soap stone"
-    }
+    },
+    "correctAnswer": "E",
+    "explanation": "Soapstone or chalk is ideal for marking rough castings or dark surfaces where standard layout dye is ineffective."
   },
   {
     "number": 13,
@@ -153,7 +177,9 @@
       "C": "A Robertson",
       "D": "A Phillips",
       "E": "An Allen"
-    }
+    },
+    "correctAnswer": "C",
+    "explanation": "A Robertson screwdriver features a distinctive square tapered tip designed to fit snugly into matching square socket screws."
   },
   {
     "number": 14,
@@ -165,7 +191,9 @@
       "C": "Nuts and bolts",
       "D": "Pipe fittings",
       "E": "Drill pipe"
-    }
+    },
+    "correctAnswer": "C",
+    "explanation": "Pipe wrench jaws have hardened, serrated teeth that bite into metal and will severely damage nuts, bolts, and finished machine surfaces."
   },
   {
     "number": 15,
@@ -177,7 +205,9 @@
       "C": "With a universal joint",
       "D": "With the turning force applied to the moving jaw",
       "E": "To tap threads"
-    }
+    },
+    "correctAnswer": "A",
+    "explanation": "Pulling so that force is applied against the stationary/fixed jaw prevents the adjustable jaw from springing open and slipping off the fastener."
   },
   {
     "number": 16,
@@ -189,7 +219,9 @@
       "C": "Re-set the teeth of a saw",
       "D": "Clean the measuring contact surfaces of a micrometer",
       "E": "Clean the grooves of a file"
-    }
+    },
+    "correctAnswer": "B",
+    "explanation": "A wheel dresser is used to clean loading, true out unbalance, and square the edges or face of a grinding wheel."
   },
   {
     "number": 17,
@@ -201,7 +233,9 @@
       "C": "Hold the drill vertically",
       "D": "Grind a flat spot first",
       "E": "Centre punch the location"
-    }
+    },
+    "correctAnswer": "E",
+    "explanation": "Center punching provides an indentation that guides the drill point and prevents it from wandering or walking across the metal surface."
   },
   {
     "number": 18,
@@ -213,7 +247,9 @@
       "C": "Used to make a square hole in a piece of plate",
       "D": "A holder for an adjustable thread die",
       "E": "The moving part of a micrometer"
-    }
+    },
+    "correctAnswer": "D",
+    "explanation": "In tool and threading applications, a collet or die stock holder is used to securely hold and turn adjustable circular thread-cutting dies."
   },
   {
     "number": 19,
@@ -225,7 +261,9 @@
       "C": "Torque wrench",
       "D": "Pipe wrench",
       "E": "Soft faced hammer"
-    }
+    },
+    "correctAnswer": "C",
+    "explanation": "A torque wrench is required to tighten critical fasteners such as bearing cap bolts to exact manufacturer torque specifications."
   },
   {
     "number": 20,
@@ -237,6 +275,8 @@
       "C": "Mill file",
       "D": "Pillar file",
       "E": "Hand file"
-    }
+    },
+    "correctAnswer": "C",
+    "explanation": "Mill files feature a single row of parallel teeth (single cut) designed for smooth finishing and sharpening applications."
   }
-]
+]]

@@ -1,0 +1,422 @@
+[
+  {
+    "number": 1,
+    "heading": "External Boiler Water Treatment",
+    "question": "Zeolite can be lost by:",
+    "options": {
+      "A": "Too much brine during regeneration",
+      "B": "High pH",
+      "C": "Flow too high during operation",
+      "D": "The water is too hard",
+      "E": "Flow too high during backwash"
+    },
+    "correctAnswer": "E",
+    "explanation": "Excessive flow velocity during the backwash stage can expand the bed too much and carry lightweight zeolite beads out through the drain."
+  },
+  {
+    "number": 2,
+    "heading": "External Boiler Water Treatment",
+    "question": "Which of the following is required to remove suspended matter from plugged filter beds?",
+    "options": {
+      "A": "Rinsing",
+      "B": "Flushing",
+      "C": "Back flushing",
+      "D": "Regeneration",
+      "E": "Backwashing"
+    },
+    "correctAnswer": "E",
+    "explanation": "Backwashing (reversing water flow upwards through the filter bed) is standard procedure to lift, loosen, and flush out trapped suspended matter from plugged filter beds."
+  },
+  {
+    "number": 3,
+    "heading": "External Boiler Water Treatment",
+    "question": "The regenerator used to regenerate a cation demineralizer is:",
+    "options": {
+      "A": "Sodium hydroxide",
+      "B": "Hydrochloric acid",
+      "C": "Sodium chloride",
+      "D": "Sulphuric acid",
+      "E": "Caustic soda"
+    },
+    "correctAnswer": "D",
+    "explanation": "A cation demineralizer (hydrogen-form cation exchanger) is regenerated using an acid solution, typically sulphuric acid or hydrochloric acid."
+  },
+  {
+    "number": 4,
+    "heading": "External Boiler Water Treatment",
+    "question": "Feedwater for a high pressure boiler should be:",
+    "options": {
+      "A": "Treated with phosphate",
+      "B": "Treated with city water",
+      "C": "Treated with phenolphthalein",
+      "D": "Treated with water",
+      "E": "Softened water"
+    },
+    "correctAnswer": "E",
+    "explanation": "High-pressure boilers require high-purity feedwater to prevent scale formation and carryover; softened water (and often demineralized water) is essential."
+  },
+  {
+    "number": 5,
+    "heading": "External Boiler Water Treatment",
+    "question": "Filter aid usually consists of:",
+    "options": {
+      "A": "Calcium Hydroxide",
+      "B": "Diatomaceous earth",
+      "C": "Sodium Zeolite",
+      "D": "Aluminum Sulfate",
+      "E": "Activated Carbon"
+    },
+    "correctAnswer": "B",
+    "explanation": "Diatomaceous earth is the most common filter aid used in precoat filters to trap extremely fine suspended particles."
+  },
+  {
+    "number": 6,
+    "heading": "External Boiler Water Treatment",
+    "question": "The chemical equation that represents the modification of bicarbonates in hard water by the use of a zeolite softener is:",
+    "options": {
+      "A": "MgSO₄ + Na₂Z = MgZ + Na₂SO₄",
+      "B": "Ca(HCO₃)₂ + Na₂Z = CaZ + 2NaHCO₃",
+      "C": "MgZ + 2NaCl = Na₂ + MgCl₂",
+      "D": "CaZ + 2NaCl = Na₂Z + CaCl₂",
+      "E": "Ca(HCO₃)₂ + Na₂Z = CaZ + NaHCO₃"
+    },
+    "correctAnswer": "B",
+    "explanation": "Calcium bicarbonate reacts with sodium zeolite (Na2Z) to yield calcium zeolite and sodium bicarbonate: Ca(HCO3)2 + Na2Z = CaZ + 2NaHCO3."
+  },
+  {
+    "number": 7,
+    "heading": "External Boiler Water Treatment",
+    "question": "Materials floating on the surface or that are dispersed throughout the water are called:",
+    "options": {
+      "A": "Dissolved solids",
+      "B": "Dissolved matter",
+      "C": "Suspended matter",
+      "D": "Absorbed sludge",
+      "E": "Diluted solids"
+    },
+    "correctAnswer": "C",
+    "explanation": "Suspended matter refers to insoluble particles, debris, or matter floating on or dispersed throughout water."
+  },
+  {
+    "number": 8,
+    "heading": "External Boiler Water Treatment",
+    "question": "Temporary hardness in feedwater is caused by:",
+    "options": {
+      "A": "Magnesium sulphate",
+      "B": "Sodium nitrate",
+      "C": "Magnesium bicarbonate",
+      "D": "Calcium sulphate",
+      "E": "Calcium carbonate"
+    },
+    "correctAnswer": "C",
+    "explanation": "Temporary hardness (carbonate hardness) is caused by bicarbonates of calcium and magnesium, such as magnesium bicarbonate."
+  },
+  {
+    "number": 9,
+    "heading": "External Boiler Water Treatment",
+    "question": "The three main steps to prepare municipal water are remove solids, remove pathogens, and__________.",
+    "options": {
+      "A": "Deaerate",
+      "B": "Deionize",
+      "C": "Reheat",
+      "D": "Disinfect",
+      "E": "Correct the pH"
+    },
+    "correctAnswer": "D",
+    "explanation": "Municipal water preparation standard steps include clarification (removing solids), filtration/disinfection (removing pathogens), and disinfection."
+  },
+  {
+    "number": 10,
+    "heading": "External Boiler Water Treatment",
+    "question": "A disadvantage of using municipal water as a source for boiler feedwater is:",
+    "options": {
+      "A": "Suspended solids",
+      "B": "Low temperatures",
+      "C": "Unreliable supply",
+      "D": "Additional pretreatment is required",
+      "E": "Chlorine"
+    },
+    "correctAnswer": "D",
+    "explanation": "Municipal water often contains residual chlorine, hardness, or dissolved solids that require additional pretreatment (such as softening or deaeration) before boiler use."
+  },
+  {
+    "number": 11,
+    "heading": "External Boiler Water Treatment",
+    "question": "During the regeneration of a sodium zeolite water softener in the “Rinse” stage, the solution going to the sewer contains:",
+    "options": {
+      "A": "Calcium sulphate",
+      "B": "Sodium bicarbonates and sulphates",
+      "C": "Calcium and magnesium salts",
+      "D": "Sulphates and bicarbonates",
+      "E": "Magnesium bicarbonate"
+    },
+    "correctAnswer": "C",
+    "explanation": "During regeneration and rinse stages, calcium and magnesium salts displaced from the zeolite bed (along with excess brine) are washed out to the sewer."
+  },
+  {
+    "number": 12,
+    "heading": "External Boiler Water Treatment",
+    "question": "The zeolite inside a water softener is used to:",
+    "options": {
+      "A": "Exchange soda for calcium and magnesium",
+      "B": "Exchange sodium for calcium and magnesium",
+      "C": "Rinse the softened water",
+      "D": "Regenerate the brine solution",
+      "E": "Exchange calcium for magnesium"
+    },
+    "correctAnswer": "B",
+    "explanation": "The sodium zeolite softening process exchanges sodium ions on the zeolite matrix for calcium and magnesium hardness ions in the water."
+  },
+  {
+    "number": 13,
+    "heading": "External Boiler Water Treatment",
+    "question": "Coagulants added to water:",
+    "options": {
+      "A": "Causes the fine particles to float to the surface",
+      "B": "Remove chemicals not used up",
+      "C": "Remove the dissolved solids",
+      "D": "Make the water soft",
+      "E": "Will remove fine particles more readily"
+    },
+    "correctAnswer": "E",
+    "explanation": "Coagulants (like alum) aggregate fine colloidal particles into larger flocs, allowing them to settle or be filtered out more readily."
+  },
+  {
+    "number": 14,
+    "heading": "External Boiler Water Treatment",
+    "question": "In order to prevent the waste of steam through a deaerator vent, the component used is a:",
+    "options": {
+      "A": "Vent condenser",
+      "B": "Chevron drier",
+      "C": "Scrubber",
+      "D": "Dry pipe",
+      "E": "Cyclone separator"
+    },
+    "correctAnswer": "A",
+    "explanation": "A vent condenser uses incoming cool feedwater to condense and recover steam escaping from the deaerator vent, preventing energy waste."
+  },
+  {
+    "number": 15,
+    "heading": "External Boiler Water Treatment",
+    "question": "Settling Ponds use ____ to remove suspended solids.",
+    "options": {
+      "A": "Filters",
+      "B": "Heat",
+      "C": "Ion exchange",
+      "D": "Gravity",
+      "E": "Centrifugal force"
+    },
+    "correctAnswer": "D",
+    "explanation": "Settling ponds (clarifiers/basins) rely on gravity to allow heavy suspended solids to settle out of the water over time."
+  },
+  {
+    "number": 16,
+    "heading": "External Boiler Water Treatment",
+    "question": "Boiler water with a pH of 6 is considered:",
+    "options": {
+      "A": "Basic",
+      "B": "Acceptable boiler water",
+      "C": "Acidic",
+      "D": "Alkaline",
+      "E": "Neutral"
+    },
+    "correctAnswer": "C",
+    "explanation": "A pH value below 7 is acidic, whereas 7 is neutral and above 7 is basic/alkaline."
+  },
+  {
+    "number": 17,
+    "heading": "External Boiler Water Treatment",
+    "question": "Spray type deaeration:",
+    "options": {
+      "A": "Removes the dissolved gases from the water",
+      "B": "Removes all dissolved gases and solids from the water",
+      "C": "Is done with the aid of chemicals",
+      "D": "Is used to remove calcium and magnesium from the water",
+      "E": "Is used to remove oxygen only"
+    },
+    "correctAnswer": "A",
+    "explanation": "Spray-type deaerators atomize feedwater into fine sprays to strip out and remove dissolved corrosive gases like oxygen and carbon dioxide."
+  },
+  {
+    "number": 18,
+    "heading": "External Boiler Water Treatment",
+    "question": "Hot lime-soda softeners:",
+    "options": {
+      "A": "Are mostly used in small heating plants",
+      "B": "Will remove all dissolved solids from the water",
+      "C": "Are used mostly in large power plants",
+      "D": "Are only used when using well water",
+      "E": "Can treat water quicker than the cold process type"
+    },
+    "correctAnswer": "E",
+    "explanation": "Hot lime-soda softeners operate at elevated temperatures, which significantly accelerates chemical reaction rates, softening water much quicker than cold processes."
+  },
+  {
+    "number": 19,
+    "heading": "External Boiler Water Treatment",
+    "question": "The capacity of a sodium zeolite softener will drop due to zeolite attrition at about _____ per year.",
+    "options": {
+      "A": "1%",
+      "B": "7%",
+      "C": "3%",
+      "D": "5%",
+      "E": "15%"
+    },
+    "correctAnswer": "D",
+    "explanation": "Zeolite beads experience slight mechanical wear and attrition during operation and regeneration, typically resulting in about 5% loss or replacement per year."
+  },
+  {
+    "number": 20,
+    "heading": "External Boiler Water Treatment",
+    "question": "Which of the following is example of dissolved solids?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Carbon Dioxide",
+      "C": "Clay",
+      "D": "Sand",
+      "E": "Magnesium sulphate"
+    },
+    "correctAnswer": "E",
+    "explanation": "Magnesium sulphate is a fully dissolved mineral salt, unlike suspended clay, sand, oxygen gas, or carbon dioxide gas."
+  },
+  {
+    "number": 21,
+    "heading": "External Boiler Water Treatment",
+    "question": "In a zeolite water softener, the scale forming salts are:",
+    "options": {
+      "A": "Changed into non-scale forming sodium salts",
+      "B": "Completely removed",
+      "C": "Blown out",
+      "D": "Filtered out",
+      "E": "Absorbed by the zeolite"
+    },
+    "correctAnswer": "A",
+    "explanation": "A sodium zeolite softener exchanges calcium and magnesium scale-forming ions for non-scale forming sodium ions."
+  },
+  {
+    "number": 22,
+    "heading": "External Boiler Water Treatment",
+    "question": "Zeolite of a sodium zeolite softener may be discharged to the sewer during the:",
+    "options": {
+      "A": "Slow rinse stage of regeneration",
+      "B": "Service stage",
+      "C": "Fast rinse stage of regeneration",
+      "D": "Injection stage of regeneration",
+      "E": "Backwash stage of regeneration"
+    },
+    "correctAnswer": "E",
+    "explanation": "Excessive backwash flow rate can fluidize the resin bed too aggressively and cause loss of zeolite beads out the backwash drain to the sewer."
+  },
+  {
+    "number": 23,
+    "heading": "External Boiler Water Treatment",
+    "question": "Water filters must be cleaned:",
+    "options": {
+      "A": "If the water becomes hard",
+      "B": "By backwashing the filter media",
+      "C": "When the dissolved solids are high",
+      "D": "Once per shift",
+      "E": "By chemically cleaning the filter media"
+    },
+    "correctAnswer": "B",
+    "explanation": "Water filters accumulate trapped particulate matter and must be cleaned periodically by backwashing the filter media."
+  },
+  {
+    "number": 24,
+    "heading": "External Boiler Water Treatment",
+    "question": "If the feedwater is neutral, its pH value is:",
+    "options": {
+      "A": "9",
+      "B": "5",
+      "C": "7",
+      "D": "0",
+      "E": "13"
+    },
+    "correctAnswer": "C",
+    "explanation": "A neutral aqueous solution has a pH of exactly 7 at standard conditions."
+  },
+  {
+    "number": 25,
+    "heading": "External Boiler Water Treatment",
+    "question": "The type of feedwater treatment that uses membrane technology:",
+    "options": {
+      "A": "Carbon Filter",
+      "B": "Ion Exchange",
+      "C": "Clarification",
+      "D": "Deaeration",
+      "E": "Reverse Osmosis"
+    },
+    "correctAnswer": "E",
+    "explanation": "Reverse osmosis uses semipermeable membranes and high pressure to reject dissolved solids and impurities from water, representing membrane technology."
+  },
+  {
+    "number": 26,
+    "heading": "External Boiler Water Treatment",
+    "question": "The regenerator used to regenerate an anion demineralizer is:",
+    "options": {
+      "A": "Hydrochloric acid",
+      "B": "Caustic Soda",
+      "C": "Sulfamic acid",
+      "D": "Sulphuric acid",
+      "E": "Sodium chloride"
+    },
+    "correctAnswer": "B",
+    "explanation": "An anion demineralizer (strong base anion resin) is regenerated using a caustic soda (sodium hydroxide) solution."
+  },
+  {
+    "number": 27,
+    "heading": "External Boiler Water Treatment",
+    "question": "Boiler water with an alkalinity that is too high will likely:",
+    "options": {
+      "A": "Have grooving on its surfaces",
+      "B": "Show signs of pitting",
+      "C": "Have a lot of scale",
+      "D": "Have a low pH",
+      "E": "Foam"
+    },
+    "correctAnswer": "E",
+    "explanation": "Excessive alkalinity in boiler water causes severe foaming, priming, and can lead to caustic embrittlement."
+  },
+  {
+    "number": 28,
+    "heading": "External Boiler Water Treatment",
+    "question": "Suspended matter must be removed from feedwater to:\n1. Prevent erosion of metal\n2. Prevent foaming in the boiler\n3. Prevent reduced heat exchange\n4. Eliminate the formation of lethal gases",
+    "options": {
+      "A": "1, 2, 4",
+      "B": "2, 3, 4",
+      "C": "1, 3, 4",
+      "D": "1, 2, 3",
+      "E": "2, 3"
+    },
+    "correctAnswer": "D",
+    "explanation": "Removing suspended matter prevents erosion of piping/valves, prevents foaming/priming in the boiler, and maintains clean heat transfer surfaces to avoid reduced heat exchange (Items 1, 2, and 3)."
+  },
+  {
+    "number": 29,
+    "heading": "External Boiler Water Treatment",
+    "question": "Corrosion due to poor feedwater can cause:",
+    "options": {
+      "A": "Decreased steam pressure",
+      "B": "Increased steam pressure",
+      "C": "Tube failure",
+      "D": "Increase in boiler efficiency",
+      "E": "Slag deposits in superheaters"
+    },
+    "correctAnswer": "C",
+    "explanation": "Severe waterside corrosion and scaling caused by poor feedwater quality thin the metal walls, eventually leading to catastrophic tube failure or rupture."
+  },
+  {
+    "number": 30,
+    "heading": "External Boiler Water Treatment",
+    "question": "Filters are used:",
+    "options": {
+      "A": "For external water treatment",
+      "B": "To remove dissolved solids",
+      "C": "To remove hardness",
+      "D": "To remove calcium bicarbonates",
+      "E": "For internal treatment"
+    },
+    "correctAnswer": "A",
+    "explanation": "External water treatment filters are installed outside the boiler system to pretreat raw makeup water before it enters the boiler plant."
+  }
+]
