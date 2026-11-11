@@ -145,6 +145,10 @@ import b5chp4 from "./Part B/Chp/BookB5/chp4.json";
 
 // Part B — Book B6 chapters
 import b6chp1 from "./Part B/Chp/BookB6/chp1.json";
+import b6chp2 from "./Part B/Chp/BookB6/chp2.json";
+import b6chp3 from "./Part B/Chp/BookB6/chp3.json";
+import b6chp4 from "./Part B/Chp/BookB6/chp4.json";
+import b6chp5 from "./Part B/Chp/BookB6/chp5.json";
 
 export interface Question {
   id: string | number;
@@ -923,6 +927,26 @@ const bookB6Chapters: Paper[] = [
     "b6-chp1",
     "External Boiler Water Treatment",
     toQuestions(b6chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b6-chp2",
+    "Internal Boiler Water Treatment",
+    toQuestions(b6chp2 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b6-chp3",
+    "Condensate Treatment",
+    toQuestions(b6chp3 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b6-chp4",
+    "Cooling Tower & Condenser Water Treatment",
+    toQuestions(b6chp4 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b6-chp5",
+    "Recirculating Water Treatment",
+    toQuestions(b6chp5 as unknown as RawNumberQuestion[]),
   ),
 ];
 
