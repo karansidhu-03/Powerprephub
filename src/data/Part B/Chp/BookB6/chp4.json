@@ -1,0 +1,240 @@
+[
+  {
+    "number": 1,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Because cooling towers use open air to cool them, the amount of ______ is usually quite high.",
+    "options": {
+      "A": "Dissolved oxygen",
+      "B": "Sand",
+      "C": "Avian waste",
+      "D": "Chlorides",
+      "E": "Heating"
+    },
+    "correctAnswer": "A",
+    "explanation": "Because cooling towers continuously scrub and contact large volumes of atmospheric air, the water becomes saturated with dissolved oxygen."
+  },
+  {
+    "number": 2,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Polyaculates and organic phosphorous compounds are added to cooling tower water to:",
+    "options": {
+      "A": "Decrease avian dropping",
+      "B": "Decrease algae",
+      "C": "Reduce scaling",
+      "D": "Increase pH",
+      "E": "Increase life of wooden structures"
+    },
+    "correctAnswer": "C",
+    "explanation": "Polyacrylates (polymers) and organic phosphorus compounds (phosphonates) are widely used as scale inhibitors and dispersants to prevent calcium and magnesium scale deposition."
+  },
+  {
+    "number": 3,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Sludge in the cooling tower basin is removed by:",
+    "options": {
+      "A": "Injecting biocide",
+      "B": "Flushing it out with a high pressure hose",
+      "C": "Using an excavator",
+      "D": "Side stream filtration",
+      "E": "Draining the cooling tower"
+    },
+    "correctAnswer": "D",
+    "explanation": "Side stream filtration continuously removes suspended solids, silt, and sludge from the cooling tower water. A portion of the circulating water is passed through filters, which capture and remove these impurities before returning the cleaned water to the system. This helps prevent sludge buildup in the cooling tower basin and keeps the water clean."
+  },
+  {
+    "number": 4,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "An solution containing zinc that coats the surfaces of a cooling water system to protect it from corrosion is:",
+    "options": {
+      "A": "Cathodic inhibitor",
+      "B": "Chlorine",
+      "C": "Biocide",
+      "D": "Oxygenated Zinc crystals",
+      "E": "Sacrificial anode"
+    },
+    "correctAnswer": "A",
+    "explanation": "Zinc-based treatments act as cathodic corrosion inhibitors, precipitating a protective film on cathodic areas of metal surfaces."
+  },
+  {
+    "number": 5,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "A good way to minimize wood deterioration is:",
+    "options": {
+      "A": "Avoid use of biocides",
+      "B": "Use sacrificial anodes",
+      "C": "Avoid wood treated with creosote",
+      "D": "Use additional hardware to secure the wood tightly",
+      "E": "Use redwood"
+    },
+    "correctAnswer": "E",
+    "explanation": "Using naturally durable woods like redwood or Douglas fir (properly pressure-treated) significantly increases structural resistance to biological decay and chemical attack."
+  },
+  {
+    "number": 6,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Biological fouling includes algae, fungi, bacteria and:",
+    "options": {
+      "A": "Deposition of solids",
+      "B": "Sand",
+      "C": "Rust",
+      "D": "Bird feathers",
+      "E": "Scaling"
+    },
+    "correctAnswer": "D",
+    "explanation": "Biological fouling is caused by living organisms such as algae, fungi, and bacteria, which grow and accumulate on surfaces in cooling water systems. They can form slimy deposits called biofilms. Bird feathers are physical debris, not biological fouling, so option D is technically incorrect."
+  },
+  {
+    "number": 7,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Erosion can be reduced with the help of:",
+    "options": {
+      "A": "Glycol",
+      "B": "Zinc Cathodes",
+      "C": "Soluble oils",
+      "D": "Filters",
+      "E": "Sacrificial Anode"
+    },
+    "correctAnswer": "D",
+    "explanation": "Installing filters or strainers removes abrasive suspended solids from the circulating water, thereby reducing mechanical erosion of piping and heat exchanger tubes."
+  },
+  {
+    "number": 8,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Impurities in cooling tower water can result in:",
+    "options": {
+      "A": "Deterioration of wood components",
+      "B": "Plugging of heat exchanger tubes",
+      "C": "Growth of slime",
+      "D": "Deterioration of metal components",
+      "E": "All of these problems are possible"
+    },
+    "correctAnswer": "E",
+    "explanation": "Poor cooling water quality causes wood delignification, tube plugging, microbial slime growth, and metal corrosion."
+  },
+  {
+    "number": 9,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Biofilms can:",
+    "options": {
+      "A": "Increase operating costs",
+      "B": "Increase heat exchanger efficiency",
+      "C": "Reduce friction and thus increase flow rates",
+      "D": "Protect steel piping",
+      "E": "Protect wooden parts of the cooling tower"
+    },
+    "correctAnswer": "A",
+    "explanation": "Biofilms act as thermal insulators and restrict water flow, drastically reducing heat transfer efficiency and increasing pumping energy and operating costs."
+  },
+  {
+    "number": 10,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "The best way to determine the types and concentrations of biological organisms in the slime is:",
+    "options": {
+      "A": "Use corrosion coupons",
+      "B": "Visual inspection",
+      "C": "Use dip slides",
+      "D": "Do a TDS test",
+      "E": "Send a sample to a specialist lab"
+    },
+    "correctAnswer": "E",
+    "explanation": "Sending a slime sample to a specialist laboratory is the best way to accurately identify the types of biological organisms present and determine their concentrations. Laboratory testing can identify specific bacteria, fungi, algae, and other microorganisms and measure their populations. Dip slides provide only a general estimate of microbial growth and cannot identify all organisms present."
+  },
+  {
+    "number": 11,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Cycle methods to control dissolved solids include make-up proportional blowdown and:",
+    "options": {
+      "A": "pH base blowdown",
+      "B": "Mixed blowdown",
+      "C": "Conductivity based blowdown",
+      "D": "Total blowdown",
+      "E": "Derivative blowdown"
+    },
+    "correctAnswer": "C",
+    "explanation": "Automatic blowdown systems in cooling towers are typically controlled via conductivity controllers that bleed off water when dissolved solids exceed set limits."
+  },
+  {
+    "number": 12,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Shock feeding of biocides is usually done:",
+    "options": {
+      "A": "At every meal",
+      "B": "Once per year",
+      "C": "Twice a week",
+      "D": "Twice per year",
+      "E": "Every day"
+    },
+    "correctAnswer": "C",
+    "explanation": "To effectively control microbial growth and prevent bacteria from developing immunity, oxidizing and non-oxidizing biocides are typically slug-fed or shock-fed periodically (e.g., twice a week)."
+  },
+  {
+    "number": 13,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "One of the main causes of wood deterioration is:",
+    "options": {
+      "A": "Galvanic attach",
+      "B": "Under deposit corrosion",
+      "C": "Scaling",
+      "D": "Delignification",
+      "E": "Stress corrosion cracking"
+    },
+    "correctAnswer": "D",
+    "explanation": "Delignification (often caused by excess chlorine or high alkalinity) breaks down the lignin binder holding wood cellulose fibers together in cooling towers."
+  },
+  {
+    "number": 14,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "The most important way to ensure the health of a cooling tower system is:",
+    "options": {
+      "A": "Keep the water heavily dosed with chemicals",
+      "B": "Add as much new clean water as possible each day",
+      "C": "Blow down as much water as possible",
+      "D": "Send samples to an off-site lab",
+      "E": "Visual inspection"
+    },
+    "correctAnswer": "E",
+    "explanation": "Regular visual inspections of distribution basins, fill, drift eliminators, and basins are crucial for early detection of scaling, biological growth, and structural defects."
+  },
+  {
+    "number": 15,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Increasing the temperature of the cooling tower water by 20 degrees could result in corrosion:",
+    "options": {
+      "A": "Decelerating",
+      "B": "Tripling",
+      "C": "Decreasing",
+      "D": "Doubling",
+      "E": "Stopping"
+    },
+    "correctAnswer": "D",
+    "explanation": "As a general rule of chemical kinetics, electrochemical corrosion rates double for roughly every 10°C (or ~18-20°F) rise in temperature."
+  },
+  {
+    "number": 16,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Tests that are useful in managing corrosion are coupons and:",
+    "options": {
+      "A": "pH",
+      "B": "Conductivity",
+      "C": "Biological activity",
+      "D": "Hardness",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "A",
+    "explanation": "Corrosion coupons and pH tests are useful tools for managing corrosion in cooling tower systems. Corrosion coupons measure the actual rate of metal corrosion over time, while pH testing helps ensure the water remains within the proper range to minimize corrosion and protect metal surfaces."
+  },
+  {
+    "number": 17,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "The device that is often installed inside a condenser to protect the metal from corrosion is:",
+    "options": {
+      "A": "Corrosion cell",
+      "B": "Sacrificial cathode",
+      "C": "Sacrificial anode",
+      "D": "Filters and screens",
+      "E": "Biocide"
+    },
+    "correctAnswer": "C",
+    "explanation": "Sacrificial anodes (such as zinc or magnesium blocks) are installed in water boxes and condensers to corrode preferentially and protect expensive ferrous metal components."
+  }
+]

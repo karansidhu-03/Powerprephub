@@ -1,0 +1,1514 @@
+[
+  {
+    "number": 1,
+    "heading": "External Boiler Water Treatment",
+    "question": "Zeolite can be lost by:",
+    "options": {
+      "A": "Too much brine during regeneration",
+      "B": "High pH",
+      "C": "Flow too high during operation",
+      "D": "The water is too hard",
+      "E": "Flow too high during backwash"
+    },
+    "correctAnswer": "E",
+    "explanation": "Excessive flow velocity during the backwash stage can expand the bed too much and carry lightweight zeolite beads out through the drain."
+  },
+  {
+    "number": 2,
+    "heading": "External Boiler Water Treatment",
+    "question": "Which of the following is required to remove suspended matter from plugged filter beds?",
+    "options": {
+      "A": "Rinsing",
+      "B": "Flushing",
+      "C": "Back flushing",
+      "D": "Regeneration",
+      "E": "Backwashing"
+    },
+    "correctAnswer": "E",
+    "explanation": "Backwashing (reversing water flow upwards through the filter bed) is standard procedure to lift, loosen, and flush out trapped suspended matter from plugged filter beds."
+  },
+  {
+    "number": 3,
+    "heading": "External Boiler Water Treatment",
+    "question": "The regenerator used to regenerate a cation demineralizer is:",
+    "options": {
+      "A": "Sodium hydroxide",
+      "B": "Hydrochloric acid",
+      "C": "Sodium chloride",
+      "D": "Sulphuric acid",
+      "E": "Caustic soda"
+    },
+    "correctAnswer": "D",
+    "explanation": "A cation demineralizer (hydrogen-form cation exchanger) is regenerated using an acid solution, typically sulphuric acid or hydrochloric acid."
+  },
+  {
+    "number": 4,
+    "heading": "External Boiler Water Treatment",
+    "question": "Feedwater for a high pressure boiler should be:",
+    "options": {
+      "A": "Treated with phosphate",
+      "B": "Treated with city water",
+      "C": "Treated with phenolphthalein",
+      "D": "Treated with water",
+      "E": "Softened water"
+    },
+    "correctAnswer": "E",
+    "explanation": "High-pressure boilers require high-purity feedwater to prevent scale formation and carryover; softened water (and often demineralized water) is essential."
+  },
+  {
+    "number": 5,
+    "heading": "External Boiler Water Treatment",
+    "question": "Filter aid usually consists of:",
+    "options": {
+      "A": "Calcium Hydroxide",
+      "B": "Diatomaceous earth",
+      "C": "Sodium Zeolite",
+      "D": "Aluminum Sulfate",
+      "E": "Activated Carbon"
+    },
+    "correctAnswer": "B",
+    "explanation": "Diatomaceous earth is the most common filter aid used in precoat filters to trap extremely fine suspended particles."
+  },
+  {
+    "number": 6,
+    "heading": "External Boiler Water Treatment",
+    "question": "The chemical equation that represents the modification of bicarbonates in hard water by the use of a zeolite softener is:",
+    "options": {
+      "A": "MgSO₄ + Na₂Z = MgZ + Na₂SO₄",
+      "B": "Ca(HCO₃)₂ + Na₂Z = CaZ + 2NaHCO₃",
+      "C": "MgZ + 2NaCl = Na₂ + MgCl₂",
+      "D": "CaZ + 2NaCl = Na₂Z + CaCl₂",
+      "E": "Ca(HCO₃)₂ + Na₂Z = CaZ + NaHCO₃"
+    },
+    "correctAnswer": "B",
+    "explanation": "Calcium bicarbonate reacts with sodium zeolite (Na2Z) to yield calcium zeolite and sodium bicarbonate: Ca(HCO3)2 + Na2Z = CaZ + 2NaHCO3."
+  },
+  {
+    "number": 7,
+    "heading": "External Boiler Water Treatment",
+    "question": "Materials floating on the surface or that are dispersed throughout the water are called:",
+    "options": {
+      "A": "Dissolved solids",
+      "B": "Dissolved matter",
+      "C": "Suspended matter",
+      "D": "Absorbed sludge",
+      "E": "Diluted solids"
+    },
+    "correctAnswer": "C",
+    "explanation": "Suspended matter refers to insoluble particles, debris, or matter floating on or dispersed throughout water."
+  },
+  {
+    "number": 8,
+    "heading": "External Boiler Water Treatment",
+    "question": "Temporary hardness in feedwater is caused by:",
+    "options": {
+      "A": "Magnesium sulphate",
+      "B": "Sodium nitrate",
+      "C": "Magnesium bicarbonate",
+      "D": "Calcium sulphate",
+      "E": "Calcium carbonate"
+    },
+    "correctAnswer": "C",
+    "explanation": "Temporary hardness (carbonate hardness) is caused by bicarbonates of calcium and magnesium, such as magnesium bicarbonate."
+  },
+  {
+    "number": 9,
+    "heading": "External Boiler Water Treatment",
+    "question": "The three main steps to prepare municipal water are remove solids, remove pathogens, and__________.",
+    "options": {
+      "A": "Deaerate",
+      "B": "Deionize",
+      "C": "Reheat",
+      "D": "Disinfect",
+      "E": "Correct the pH"
+    },
+    "correctAnswer": "D",
+    "explanation": "Municipal water preparation standard steps include clarification (removing solids), filtration/disinfection (removing pathogens), and disinfection."
+  },
+  {
+    "number": 10,
+    "heading": "External Boiler Water Treatment",
+    "question": "A disadvantage of using municipal water as a source for boiler feedwater is:",
+    "options": {
+      "A": "Suspended solids",
+      "B": "Low temperatures",
+      "C": "Unreliable supply",
+      "D": "Additional pretreatment is required",
+      "E": "Chlorine"
+    },
+    "correctAnswer": "E",
+    "explanation": "Municipal water is commonly disinfected with chlorine to kill harmful bacteria. However, residual chlorine can damage boiler feedwater treatment equipment and attack ion-exchange resins, reducing their effectiveness. Therefore, chlorine must be removed or neutralized before the water is used as boiler feedwater."
+  },
+  {
+    "number": 11,
+    "heading": "External Boiler Water Treatment",
+    "question": "During the regeneration of a sodium zeolite water softener in the “Rinse” stage, the solution going to the sewer contains:",
+    "options": {
+      "A": "Calcium sulphate",
+      "B": "Sodium bicarbonates and sulphates",
+      "C": "Calcium and magnesium salts",
+      "D": "Sulphates and bicarbonates",
+      "E": "Magnesium bicarbonate"
+    },
+    "correctAnswer": "C",
+    "explanation": "During regeneration and rinse stages, calcium and magnesium salts displaced from the zeolite bed (along with excess brine) are washed out to the sewer."
+  },
+  {
+    "number": 12,
+    "heading": "External Boiler Water Treatment",
+    "question": "The zeolite inside a water softener is used to:",
+    "options": {
+      "A": "Exchange soda for calcium and magnesium",
+      "B": "Exchange sodium for calcium and magnesium",
+      "C": "Rinse the softened water",
+      "D": "Regenerate the brine solution",
+      "E": "Exchange calcium for magnesium"
+    },
+    "correctAnswer": "B",
+    "explanation": "The sodium zeolite softening process exchanges sodium ions on the zeolite matrix for calcium and magnesium hardness ions in the water."
+  },
+  {
+    "number": 13,
+    "heading": "External Boiler Water Treatment",
+    "question": "Coagulants added to water:",
+    "options": {
+      "A": "Causes the fine particles to float to the surface",
+      "B": "Remove chemicals not used up",
+      "C": "Remove the dissolved solids",
+      "D": "Make the water soft",
+      "E": "Will remove fine particles more readily"
+    },
+    "correctAnswer": "E",
+    "explanation": "Coagulants (like alum) aggregate fine colloidal particles into larger flocs, allowing them to settle or be filtered out more readily."
+  },
+  {
+    "number": 14,
+    "heading": "External Boiler Water Treatment",
+    "question": "In order to prevent the waste of steam through a deaerator vent, the component used is a:",
+    "options": {
+      "A": "Vent condenser",
+      "B": "Chevron drier",
+      "C": "Scrubber",
+      "D": "Dry pipe",
+      "E": "Cyclone separator"
+    },
+    "correctAnswer": "A",
+    "explanation": "A vent condenser uses incoming cool feedwater to condense and recover steam escaping from the deaerator vent, preventing energy waste."
+  },
+  {
+    "number": 15,
+    "heading": "External Boiler Water Treatment",
+    "question": "Settling Ponds use ____ to remove suspended solids.",
+    "options": {
+      "A": "Filters",
+      "B": "Heat",
+      "C": "Ion exchange",
+      "D": "Gravity",
+      "E": "Centrifugal force"
+    },
+    "correctAnswer": "D",
+    "explanation": "Settling ponds (clarifiers/basins) rely on gravity to allow heavy suspended solids to settle out of the water over time."
+  },
+  {
+    "number": 16,
+    "heading": "External Boiler Water Treatment",
+    "question": "Boiler water with a pH of 6 is considered:",
+    "options": {
+      "A": "Basic",
+      "B": "Acceptable boiler water",
+      "C": "Acidic",
+      "D": "Alkaline",
+      "E": "Neutral"
+    },
+    "correctAnswer": "C",
+    "explanation": "A pH value below 7 is acidic, whereas 7 is neutral and above 7 is basic/alkaline."
+  },
+  {
+    "number": 17,
+    "heading": "External Boiler Water Treatment",
+    "question": "Spray type deaeration:",
+    "options": {
+      "A": "Removes the dissolved gases from the water",
+      "B": "Removes all dissolved gases and solids from the water",
+      "C": "Is done with the aid of chemicals",
+      "D": "Is used to remove calcium and magnesium from the water",
+      "E": "Is used to remove oxygen only"
+    },
+    "correctAnswer": "A",
+    "explanation": "Spray-type deaerators atomize feedwater into fine sprays to strip out and remove dissolved corrosive gases like oxygen and carbon dioxide."
+  },
+  {
+    "number": 18,
+    "heading": "External Boiler Water Treatment",
+    "question": "Hot lime-soda softeners:",
+    "options": {
+      "A": "Are mostly used in small heating plants",
+      "B": "Will remove all dissolved solids from the water",
+      "C": "Are used mostly in large power plants",
+      "D": "Are only used when using well water",
+      "E": "Can treat water quicker than the cold process type"
+    },
+    "correctAnswer": "E",
+    "explanation": "Hot lime-soda softeners operate at elevated temperatures, which significantly accelerates chemical reaction rates, softening water much quicker than cold processes."
+  },
+  {
+    "number": 19,
+    "heading": "External Boiler Water Treatment",
+    "question": "The capacity of a sodium zeolite softener will drop due to zeolite attrition at about _____ per year.",
+    "options": {
+      "A": "1%",
+      "B": "7%",
+      "C": "3%",
+      "D": "5%",
+      "E": "15%"
+    },
+    "correctAnswer": "C",
+    "explanation": "Zeolite beads gradually wear down, break into smaller particles, and are carried away during normal operation and backwashing. This mechanical wear is called attrition. Over time, it reduces the amount of effective zeolite in the softener, decreasing its capacity by approximately 3% per year."
+  },
+  {
+    "number": 20,
+    "heading": "External Boiler Water Treatment",
+    "question": "Which of the following is example of dissolved solids?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Carbon Dioxide",
+      "C": "Clay",
+      "D": "Sand",
+      "E": "Magnesium sulphate"
+    },
+    "correctAnswer": "E",
+    "explanation": "Magnesium sulphate is a fully dissolved mineral salt, unlike suspended clay, sand, oxygen gas, or carbon dioxide gas."
+  },
+  {
+    "number": 21,
+    "heading": "External Boiler Water Treatment",
+    "question": "In a zeolite water softener, the scale forming salts are:",
+    "options": {
+      "A": "Changed into non-scale forming sodium salts",
+      "B": "Completely removed",
+      "C": "Blown out",
+      "D": "Filtered out",
+      "E": "Absorbed by the zeolite"
+    },
+    "correctAnswer": "A",
+    "explanation": "A sodium zeolite softener exchanges calcium and magnesium scale-forming ions for non-scale forming sodium ions."
+  },
+  {
+    "number": 22,
+    "heading": "External Boiler Water Treatment",
+    "question": "Zeolite of a sodium zeolite softener may be discharged to the sewer during the:",
+    "options": {
+      "A": "Slow rinse stage of regeneration",
+      "B": "Service stage",
+      "C": "Fast rinse stage of regeneration",
+      "D": "Injection stage of regeneration",
+      "E": "Backwash stage of regeneration"
+    },
+    "correctAnswer": "E",
+    "explanation": "Excessive backwash flow rate can fluidize the resin bed too aggressively and cause loss of zeolite beads out the backwash drain to the sewer."
+  },
+  {
+    "number": 23,
+    "heading": "External Boiler Water Treatment",
+    "question": "Water filters must be cleaned:",
+    "options": {
+      "A": "If the water becomes hard",
+      "B": "By backwashing the filter media",
+      "C": "When the dissolved solids are high",
+      "D": "Once per shift",
+      "E": "By chemically cleaning the filter media"
+    },
+    "correctAnswer": "B",
+    "explanation": "Water filters accumulate trapped particulate matter and must be cleaned periodically by backwashing the filter media."
+  },
+  {
+    "number": 24,
+    "heading": "External Boiler Water Treatment",
+    "question": "If the feedwater is neutral, its pH value is:",
+    "options": {
+      "A": "9",
+      "B": "5",
+      "C": "7",
+      "D": "0",
+      "E": "13"
+    },
+    "correctAnswer": "C",
+    "explanation": "A neutral aqueous solution has a pH of exactly 7 at standard conditions."
+  },
+  {
+    "number": 25,
+    "heading": "External Boiler Water Treatment",
+    "question": "The type of feedwater treatment that uses membrane technology:",
+    "options": {
+      "A": "Carbon Filter",
+      "B": "Ion Exchange",
+      "C": "Clarification",
+      "D": "Deaeration",
+      "E": "Reverse Osmosis"
+    },
+    "correctAnswer": "E",
+    "explanation": "Reverse osmosis uses semipermeable membranes and high pressure to reject dissolved solids and impurities from water, representing membrane technology."
+  },
+  {
+    "number": 26,
+    "heading": "External Boiler Water Treatment",
+    "question": "The regenerator used to regenerate an anion demineralizer is:",
+    "options": {
+      "A": "Hydrochloric acid",
+      "B": "Caustic Soda",
+      "C": "Sulfamic acid",
+      "D": "Sulphuric acid",
+      "E": "Sodium chloride"
+    },
+    "correctAnswer": "B",
+    "explanation": "An anion demineralizer (strong base anion resin) is regenerated using a caustic soda (sodium hydroxide) solution."
+  },
+  {
+    "number": 27,
+    "heading": "External Boiler Water Treatment",
+    "question": "Boiler water with an alkalinity that is too high will likely:",
+    "options": {
+      "A": "Have grooving on its surfaces",
+      "B": "Show signs of pitting",
+      "C": "Have a lot of scale",
+      "D": "Have a low pH",
+      "E": "Foam"
+    },
+    "correctAnswer": "E",
+    "explanation": "Excessive alkalinity in boiler water causes severe foaming, priming, and can lead to caustic embrittlement."
+  },
+  {
+    "number": 28,
+    "heading": "External Boiler Water Treatment",
+    "question": "Suspended matter must be removed from feedwater to:\n1. Prevent erosion of metal\n2. Prevent foaming in the boiler\n3. Prevent reduced heat exchange\n4. Eliminate the formation of lethal gases",
+    "options": {
+      "A": "1, 2, 4",
+      "B": "2, 3, 4",
+      "C": "1, 3, 4",
+      "D": "1, 2, 3",
+      "E": "2, 3"
+    },
+    "correctAnswer": "D",
+    "explanation": "Removing suspended matter prevents erosion of piping/valves, prevents foaming/priming in the boiler, and maintains clean heat transfer surfaces to avoid reduced heat exchange (Items 1, 2, and 3)."
+  },
+  {
+    "number": 29,
+    "heading": "External Boiler Water Treatment",
+    "question": "Corrosion due to poor feedwater can cause:",
+    "options": {
+      "A": "Decreased steam pressure",
+      "B": "Increased steam pressure",
+      "C": "Tube failure",
+      "D": "Increase in boiler efficiency",
+      "E": "Slag deposits in superheaters"
+    },
+    "correctAnswer": "C",
+    "explanation": "Severe waterside corrosion and scaling caused by poor feedwater quality thin the metal walls, eventually leading to catastrophic tube failure or rupture."
+  },
+  {
+    "number": 30,
+    "heading": "External Boiler Water Treatment",
+    "question": "Filters are used:",
+    "options": {
+      "A": "For external water treatment",
+      "B": "To remove dissolved solids",
+      "C": "To remove hardness",
+      "D": "To remove calcium bicarbonates",
+      "E": "For internal treatment"
+    },
+    "correctAnswer": "A",
+    "explanation": "External water treatment filters are installed outside the boiler system to pretreat raw makeup water before it enters the boiler plant."
+  },
+  {
+    "number": 31,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "A damaged heat exchanger leaking into the steam system might be detected by:",
+    "options": {
+      "A": "High pH",
+      "B": "High phosphate",
+      "C": "Filming Amines",
+      "D": "Low TDS",
+      "E": "Low phosphate"
+    },
+    "correctAnswer": "E",
+    "explanation": "A damaged heat exchanger can allow steam or condensate to become contaminated or diluted by leaking water. If the incoming water contains little or no phosphate, it dilutes the phosphate-treated condensate, causing phosphate levels to drop. An unexpectedly low phosphate reading may therefore indicate a heat exchanger leak."
+  },
+  {
+    "number": 32,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "A continuous blowoff is:",
+    "options": {
+      "A": "Installed in the steam drum",
+      "B": "Installed in the lower drum",
+      "C": "Used to reduce the dissolved gases in the boiler",
+      "D": "Used to reduce sludge",
+      "E": "Used on every boiler"
+    },
+    "correctAnswer": "A",
+    "explanation": "A continuous blowdown (CBD) line is typically installed in the upper steam drum near the normal water level where dissolved solids are most concentrated."
+  },
+  {
+    "number": 33,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Boiler water foaming may be the result of:",
+    "options": {
+      "A": "High TDS",
+      "B": "Low pH",
+      "C": "Low TDS",
+      "D": "Dissolved gases",
+      "E": "Excessive blowdown"
+    },
+    "correctAnswer": "A",
+    "explanation": "High Total Dissolved Solids (TDS) and suspended matter increase surface tension, leading to boiler water foaming and carryover."
+  },
+  {
+    "number": 34,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Boiler water testing is done in the average power plant every:",
+    "options": {
+      "A": "Time the chief engineer requests it",
+      "B": "Daily",
+      "C": "Time the boiler inspector requests it",
+      "D": "Week",
+      "E": "Month"
+    },
+    "correctAnswer": "B",
+    "explanation": "Boiler water and feedwater testing is performed daily in standard power plant operating routines."
+  },
+  {
+    "number": 35,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Raw water has hardness due to:",
+    "options": {
+      "A": "Phosphates",
+      "B": "Suspended solids",
+      "C": "Dissolved gases",
+      "D": "Organic material",
+      "E": "The salts of calcium and magnesium"
+    },
+    "correctAnswer": "E",
+    "explanation": "Raw water hardness is caused primarily by dissolved bicarbonate, sulfate, and chloride salts of calcium and magnesium."
+  },
+  {
+    "number": 36,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "One element that leads to caustic embrittlement in boiler tubes is:",
+    "options": {
+      "A": "High concentration of sodium sulfite",
+      "B": "High concentration of sodium hydroxide",
+      "C": "Overheating of boiler parts",
+      "D": "High concentration of sodium chloride",
+      "E": "Excessive boiler pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": "High concentrations of free caustic sodium hydroxide in localized stress areas lead to caustic embrittlement (intergranular cracking) of boiler steel."
+  },
+  {
+    "number": 37,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Sodium sulfite is used in boilers to:",
+    "options": {
+      "A": "Prevent foaming",
+      "B": "Control dissolved solids",
+      "C": "Prevent oxygen corrosion",
+      "D": "Prevent carryover",
+      "E": "Prevent scale formation"
+    },
+    "correctAnswer": "C",
+    "explanation": "Sodium sulfite acts as an oxygen scavenger to chemically remove dissolved oxygen and prevent oxygen pitting/corrosion."
+  },
+  {
+    "number": 38,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Phenolphthalein is a/an:",
+    "options": {
+      "A": "Acid softener",
+      "B": "Buffer",
+      "C": "Reagent",
+      "D": "Neutralizing agent",
+      "E": "Indicator"
+    },
+    "correctAnswer": "E",
+    "explanation": "Phenolphthalein is an acid-base indicator used to determine hydroxide and carbonate alkalinity."
+  },
+  {
+    "number": 39,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "A residual of 20 to 60 ppm of sodium sulfite is to be maintained in the boiler water to:",
+    "options": {
+      "A": "Prevent pitting in the boiler steam drum",
+      "B": "Reduce the total chemical consumption",
+      "C": "Keep feedwater lines free of algae",
+      "D": "Prevent scaling the float in the low water cutoff",
+      "E": "Keep down the sludge"
+    },
+    "correctAnswer": "A",
+    "explanation": "Maintaining a residual of 20 to 60 ppm sodium sulfite ensures complete oxygen scavenging, preventing pitting in boiler drums and feedwater systems."
+  },
+  {
+    "number": 40,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Two common chemicals used for deaeration are Na2SO3 and:",
+    "options": {
+      "A": "N₂H₄",
+      "B": "Na₂(HCO₃)₂",
+      "C": "H₂SO₄",
+      "D": "NaOH",
+      "E": "Na₃PO₄"
+    },
+    "correctAnswer": "A",
+    "explanation": "Hydrazine (N₂H₄) and sodium sulfite (Na₂SO₃) are the two primary chemical oxygen scavengers used for boiler deaeration."
+  },
+  {
+    "number": 41,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Boiler water chemicals are injected:",
+    "options": {
+      "A": "In measured amounts once per year",
+      "B": "To prevent the water from becoming too alkaline",
+      "C": "Into the water softener",
+      "D": "Each time after blowing down",
+      "E": "After considering the water test readings"
+    },
+    "correctAnswer": "E",
+    "explanation": "Boiler water treatment chemicals are dosed and injected based on the results and readings of regular water sample tests."
+  },
+  {
+    "number": 42,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Sludge is usually removed from a boiler by:",
+    "options": {
+      "A": "Raking it into a sludge trap",
+      "B": "Blowing down through the bottom blowdown connection",
+      "C": "Filtering the water before it leaves the boiler",
+      "D": "Blowing down through the continuous blowdown",
+      "E": "Vacuuming it from the bottom"
+    },
+    "correctAnswer": "B",
+    "explanation": "Suspended sludge formed during internal treatment accumulates in the mud drum and is periodically removed via the bottom blowdown/blowoff valve."
+  },
+  {
+    "number": 43,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Phenolphthalein:",
+    "options": {
+      "A": "Is fed to cast iron boilers",
+      "B": "Is put in the natural gas to give it a smell",
+      "C": "Turns pink or red in the presence of an alkali",
+      "D": "Prevents caustic embrittlement",
+      "E": "Indicates the presence of an acid"
+    },
+    "correctAnswer": "C",
+    "explanation": "Phenolphthalein indicator turns pink or red in alkaline solutions (pH above 8.3)."
+  },
+  {
+    "number": 44,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "The “M” alkalinity test indicates alkalinity:",
+    "options": {
+      "A": "Due to organics only",
+      "B": "Due to carbonates only",
+      "C": "Due to bicarbonates only",
+      "D": "Caused by all dissolved impurities contributing to alkalinity",
+      "E": "Due to hydroxides only"
+    },
+    "correctAnswer": "D",
+    "explanation": "Methyl orange or 'M' alkalinity measures the total alkalinity caused by all dissolved alkaline impurities (hydroxides, carbonates, and bicarbonates)."
+  },
+  {
+    "number": 45,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Foaming of water in the boiler:",
+    "options": {
+      "A": "Can be controlled by adding sodium phosphate",
+      "B": "Can be controlled by adding sulfur to the feedwater",
+      "C": "Can be controlled by the bottom and continuous blowdowns",
+      "D": "Can be controlled by adding more neutralizing amines",
+      "E": "Is due to a high concentration of dissolved gases"
+    },
+    "correctAnswer": "C",
+    "explanation": "Boiler water foaming caused by high TDS or suspended solids is controlled and mitigated using bottom and continuous blowdowns."
+  },
+  {
+    "number": 46,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Caustic Embrittlement can be prevented by adding Sodium Nitrate or:",
+    "options": {
+      "A": "Calcium carbonate",
+      "B": "Sodium phosphate",
+      "C": "Phenolphthalein",
+      "D": "Sodium Hydroxide",
+      "E": "Lignins or Tanins"
+    },
+    "correctAnswer": "E",
+    "explanation": "Organic treatments such as tannins or lignins (as well as sodium nitrate) are used to inhibit caustic embrittlement."
+  },
+  {
+    "number": 47,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "The titrating agent used in water tests is called a/an:",
+    "options": {
+      "A": "Reagent",
+      "B": "Buffer",
+      "C": "Indicator",
+      "D": "Phenolphthalein",
+      "E": "Amine"
+    },
+    "correctAnswer": "A",
+    "explanation": "Titrating solutions used in water analysis to determine concentration are referred to as reagents."
+  },
+  {
+    "number": 48,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Residual phosphate level is maintained at:",
+    "options": {
+      "A": "10-40 ppm",
+      "B": "8.5-10.5 ppm",
+      "C": "75-125 ppm",
+      "D": "20-60 ppm",
+      "E": "180-400 ppm"
+    },
+    "correctAnswer": "D",
+    "explanation": "The residual phosphate level in boiler water is maintained at approximately 20–60 ppm. Phosphate reacts with calcium and magnesium hardness salts, converting them into soft sludge that can be removed through blowdown. Maintaining the correct phosphate residual helps prevent hard scale from forming on boiler surfaces."
+  },
+  {
+    "number": 49,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "The operator should decrease the rate of continuous blowdown when tests indicate:",
+    "options": {
+      "A": "Low sodium sulphite",
+      "B": "Very low total alkalinity",
+      "C": "High phosphate",
+      "D": "Very high total alkalinity",
+      "E": "High OH alkalinity"
+    },
+    "correctAnswer": "B",
+    "explanation": "When water tests show very low total alkalinity or low dissolved solids concentrations, the continuous blowdown rate should be decreased to conserve heat and chemicals."
+  },
+  {
+    "number": 50,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "The boiler blowdown and blowoff should be used to:",
+    "options": {
+      "A": "Prevent scale formation",
+      "B": "Reduce steam pressure",
+      "C": "Expel the sodium sulfite",
+      "D": "Reduce feedwater pressure",
+      "E": "Control the total dissolved solids"
+    },
+    "correctAnswer": "E",
+    "explanation": "Boiler blowdown and blowoff valves are operated to expel concentrated impurities and control Total Dissolved Solids (TDS) within prescribed limits."
+  },
+  {
+    "number": 51,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "The pH of the water in the boiler:",
+    "options": {
+      "A": "Could be controlled with amines",
+      "B": "Is controlled by adding treated water",
+      "C": "Must have a value of 7",
+      "D": "Should be neutral",
+      "E": "Is often controlled with sodium hydroxide"
+    },
+    "correctAnswer": "E",
+    "explanation": "Boiler water must be maintained in an alkaline state (typically pH 10.5 to 12.0) often controlled by adding sodium hydroxide."
+  },
+  {
+    "number": 52,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Internal water treatment is:",
+    "options": {
+      "A": "Adding chemicals to the steam in the boiler",
+      "B": "Adding chemicals to the boiler water",
+      "C": "Used with low pressure boilers only",
+      "D": "Measuring the pH of the feedwater",
+      "E": "Adding a coagulant to the settling tank"
+    },
+    "correctAnswer": "B",
+    "explanation": "Internal water treatment involves the direct addition of conditioning chemicals into the boiler water (steam drum or feedwater)."
+  },
+  {
+    "number": 53,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "When performing a water test, be sure that:\n1. All equipment is clean and in good working order\n2. Results are recorded carefully before making the test\n3. Test solutions, indicators, and reagents are fresh and at full strength\n4. Test reagents are filtered before use",
+    "options": {
+      "A": "1, 2",
+      "B": "1, 3",
+      "C": "3, 4",
+      "D": "2, 3",
+      "E": "2, 4"
+    },
+    "correctAnswer": "B",
+    "explanation": "Water testing protocols require that all equipment be clean and in good working order (1) and that test solutions, indicators, and reagents are fresh and at full strength (3)."
+  },
+  {
+    "number": 54,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "To prevent scale formation, inject:",
+    "options": {
+      "A": "Phenolphthalein",
+      "B": "Sodium chloride",
+      "C": "Zeolite",
+      "D": "Amines",
+      "E": "Phosphates"
+    },
+    "correctAnswer": "E",
+    "explanation": "Phosphate compounds are injected into boiler water to react with residual hardness and prevent scale formation."
+  },
+  {
+    "number": 55,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Relative to internal treatment, it is customary to:",
+    "options": {
+      "A": "Filter out dissolved solids",
+      "B": "Cause dissolved solids to remain in solution",
+      "C": "Condition the dissolved solids so they do not adhere to metal",
+      "D": "Precipitate dissolved solids with a precipitator",
+      "E": "Treat the dissolved solids so they remain dispersed"
+    },
+    "correctAnswer": "C",
+    "explanation": "Internal boiler water treatment commonly uses chemicals such as phosphate to precipitate dissolved hardness salts, especially calcium and magnesium, into insoluble particles (sludge). This sludge is then removed through blowdown before it can form hard scale on boiler heating surfaces."
+  },
+  {
+    "number": 56,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "A sludge conditioner will keep precipitated dissolved solids fluid and well dispersed and:",
+    "options": {
+      "A": "In solution",
+      "B": "Permit their removal through a CBD",
+      "C": "Prevent them from depositing on hot surfaces",
+      "D": "Is usually a non-organic compound",
+      "E": "Is injected prior to the water softener"
+    },
+    "correctAnswer": "C",
+    "explanation": "Sludge conditioners keep precipitated solids fluid and well-dispersed to prevent them from baking onto hot internal metal surfaces as hard scale."
+  },
+  {
+    "number": 57,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Excess sulfite is necessary to prevent:",
+    "options": {
+      "A": "Acidity",
+      "B": "Carryover",
+      "C": "Sludging",
+      "D": "Hardness",
+      "E": "Pitting"
+    },
+    "correctAnswer": "E",
+    "explanation": "Excess sodium sulfite residual is maintained to ensure complete oxygen scavenging and prevent oxygen pitting."
+  },
+  {
+    "number": 58,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "The water in a boiler should be kept:",
+    "options": {
+      "A": "At a pH of 14",
+      "B": "At a pH of 7",
+      "C": "Neutral",
+      "D": "Alkaline",
+      "E": "Acidic"
+    },
+    "correctAnswer": "D",
+    "explanation": "Boiler water must always be kept alkaline (pH > 10) to prevent acidic corrosion and protect boiler metal."
+  },
+  {
+    "number": 59,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "With regard to feedwater treatment, “precipitate” means to:",
+    "options": {
+      "A": "Coagulate",
+      "B": "Hasten",
+      "C": "Combine",
+      "D": "Disperse",
+      "E": "Separate"
+    },
+    "correctAnswer": "E",
+    "explanation": "In water treatment chemistry, 'precipitate' means to cause dissolved substances to separate out as a solid particle."
+  },
+  {
+    "number": 60,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Total alkalinity is measured:",
+    "options": {
+      "A": "To keep a check on the dissolved oxygen",
+      "B": "By using phenolphthalein and N50 sulfuric acid",
+      "C": "To be sure that it is not more than 2 500 ppm",
+      "D": "Using methyl orange or purple indicator and N50 sulfuric acid",
+      "E": "To control sludge formation"
+    },
+    "correctAnswer": "D",
+    "explanation": "Total alkalinity is measured using methyl orange (or methyl purple) indicator and standard sulfuric acid titrant."
+  },
+  {
+    "number": 61,
+    "heading": "Condensate Treatment",
+    "question": "Thinning and grooving of metal parts is caused by:",
+    "options": {
+      "A": "Carbon Monoxide",
+      "B": "High Hardness",
+      "C": "Carbon Dioxide",
+      "D": "Oxygen",
+      "E": "Scale"
+    },
+    "correctAnswer": "C",
+    "explanation": "Dissolved carbon dioxide in condensate forms carbonic acid, which attacks metal piping and leads to uniform thinning and grooving along condensate return lines."
+  },
+  {
+    "number": 62,
+    "heading": "Condensate Treatment",
+    "question": "A typical way to evaluate corrosion rates is:",
+    "options": {
+      "A": "Wait for a leak",
+      "B": "Boiler inspector reports",
+      "C": "Corrosion coupons",
+      "D": "Send samples to a corrosion lab",
+      "E": "Insurance company reports"
+    },
+    "correctAnswer": "C",
+    "explanation": "Corrosion coupons (pre-weighted metal strips exposed to the water system for a set time) are standard tools used to evaluate metal loss and corrosion rates."
+  },
+  {
+    "number": 63,
+    "heading": "Condensate Treatment",
+    "question": "Dissolved oxygen is carried from the boiler in the steam until:",
+    "options": {
+      "A": "The open vent releases it",
+      "B": "It is superheated",
+      "C": "It is vented in the turbine",
+      "D": "It is removed in the polisher",
+      "E": "The steam condenses"
+    },
+    "correctAnswer": "E",
+    "explanation": "Dissolved gases travel along with steam until the steam turns back into water (condenses), at which point oxygen dissolves into the condensate and causes localized pitting."
+  },
+  {
+    "number": 64,
+    "heading": "Condensate Treatment",
+    "question": "Condensate polishers can control suspended matter, hardness and:",
+    "options": {
+      "A": "Molybdates",
+      "B": "Sulphites",
+      "C": "Temperature",
+      "D": "Dissolved Oxygen",
+      "E": "Chlorides"
+    },
+    "correctAnswer": "E",
+    "explanation": "Condensate polishers (demineralizers/ion exchangers) are highly effective at removing dissolved ionic impurities such as chlorides, hardness, and suspended matter."
+  },
+  {
+    "number": 65,
+    "heading": "Condensate Treatment",
+    "question": "Sodium Zeolite softeners are not effective at:",
+    "options": {
+      "A": "Removing magnesium salts",
+      "B": "Controlling alkalinity",
+      "C": "Converting salts from insoluble to soluble",
+      "D": "Reducing hardness",
+      "E": "Removing calcium salts"
+    },
+    "correctAnswer": "B",
+    "explanation": "Sodium zeolite softeners exchange calcium and magnesium hardness for sodium, but they do not reduce or control total water alkalinity."
+  },
+  {
+    "number": 66,
+    "heading": "Condensate Treatment",
+    "question": "Increasing the pH in the condensate can be accomplished with:",
+    "options": {
+      "A": "Oxygen scavengers",
+      "B": "Sodium zeolite",
+      "C": "Neutralizing amines",
+      "D": "Filming amines",
+      "E": "Deaeration"
+    },
+    "correctAnswer": "C",
+    "explanation": "Neutralizing amines are volatile chemical compounds added to steam to neutralize carbonic acid and raise the condensate pH to prevent return line corrosion."
+  },
+  {
+    "number": 67,
+    "heading": "Condensate Treatment",
+    "question": "Impurities can enter the condensate system from:",
+    "options": {
+      "A": "Machinery lubricants",
+      "B": "Malfunctioning softeners",
+      "C": "Heat exchangers",
+      "D": "Corrosion products",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "Condensate contamination can originate from raw cooling water leaking through heat exchangers, oil/lubricants from machinery, carryover from softeners, and metal oxides from system corrosion."
+  },
+  {
+    "number": 68,
+    "heading": "Condensate Treatment",
+    "question": "To prevent _______ corrosion the test coupons are fastened using non-conductive fasteners.",
+    "options": {
+      "A": "Brinelling",
+      "B": "Pitting",
+      "C": "Grooving",
+      "D": "Surface",
+      "E": "Galvanic"
+    },
+    "correctAnswer": "E",
+    "explanation": "Using non-conductive fasteners prevents dissimilar metal contact and subsequent galvanic corrosion on or around test corrosion coupons."
+  },
+  {
+    "number": 69,
+    "heading": "Condensate Treatment",
+    "question": "The main water tests used for Condensate include:",
+    "options": {
+      "A": "P alkalinity",
+      "B": "Hardness and softness",
+      "C": "M alkalinity",
+      "D": "pH and hardness",
+      "E": "Turbidity"
+    },
+    "correctAnswer": "D",
+    "explanation": "Routine condensate monitoring primarily tracks pH (to detect acidic attack from carbon dioxide) and hardness (to detect raw water leaks)."
+  },
+  {
+    "number": 70,
+    "heading": "Condensate Treatment",
+    "question": "Return line corrosion can be:",
+    "options": {
+      "A": "Controlled by feeding sodium bicarbonate",
+      "B": "Controlled by feeding amines",
+      "C": "Controlled by adding polymers",
+      "D": "Prevented by adding sodium phosphate",
+      "E": "Prevented by adding sodium sulfite"
+    },
+    "correctAnswer": "B",
+    "explanation": "Feeding neutralizing or filming amines into the boiler steam or feedwater loop protects condensate return lines from carbonic acid and oxygen attack."
+  },
+  {
+    "number": 71,
+    "heading": "Condensate Treatment",
+    "question": "Filming amine is useful to reduce corrosion due to:",
+    "options": {
+      "A": "Oxygen only",
+      "B": "Hardness",
+      "C": "Carbon Dioxide and Oxygen",
+      "D": "Carbon Dioxide only",
+      "E": "Foaming"
+    },
+    "correctAnswer": "C",
+    "explanation": "Filming amines form a microscopic, water-repellent barrier over metal surfaces, protecting against both carbon dioxide and dissolved oxygen attack."
+  },
+  {
+    "number": 72,
+    "heading": "Condensate Treatment",
+    "question": "Carbonic Acid is formed in the condensate due to:",
+    "options": {
+      "A": "SO₂",
+      "B": "Oxygen",
+      "C": "Carbon",
+      "D": "CO₂",
+      "E": "Sulphuric Acid"
+    },
+    "correctAnswer": "D",
+    "explanation": "Carbon dioxide gas (CO₂) dissolves in pure condensate water to form weak carbonic acid ($H_2CO_3$)."
+  },
+  {
+    "number": 73,
+    "heading": "Condensate Treatment",
+    "question": "To reduce corrosion due to dissolved oxygen, you would not use:",
+    "options": {
+      "A": "Sodium Sulphite",
+      "B": "Deaerator",
+      "C": "Filming amines",
+      "D": "Hydrazine",
+      "E": "Neutralizing amines"
+    },
+    "correctAnswer": "E",
+    "explanation": "Neutralizing amines are designed to neutralize acids and raise pH; they do not remove dissolved oxygen or scavenge gases (unlike sulfite, hydrazine, or deaerators)."
+  },
+  {
+    "number": 74,
+    "heading": "Condensate Treatment",
+    "question": "Carbon dioxide causes return line corrosion and may be:",
+    "options": {
+      "A": "Absorbed by sodium sulfite",
+      "B": "Neutralized with filming amines",
+      "C": "Removed in the deaerator",
+      "D": "Neutralized in the boiler with sodium hydroxide",
+      "E": "The result of bicarbonate decomposition"
+    },
+    "correctAnswer": "E",
+    "explanation": "Carbon dioxide in steam frequently originates from the thermal breakdown (decomposition) of bicarbonates and carbonates present in boiler feedwater."
+  },
+  {
+    "number": 75,
+    "heading": "Condensate Treatment",
+    "question": "A properly functioning deaerator will:",
+    "options": {
+      "A": "Control pH",
+      "B": "Control foaming",
+      "C": "Remove almost all CO₂ and O₂",
+      "D": "Condense the steam",
+      "E": "Eliminate scale"
+    },
+    "correctAnswer": "C",
+    "explanation": "Mechanical deaeration uses heat and steam stripping to remove almost all dissolved non-condensable corrosive gases, specifically oxygen and carbon dioxide, from feedwater."
+  },
+  {
+    "number": 76,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Because cooling towers use open air to cool them, the amount of ______ is usually quite high.",
+    "options": {
+      "A": "Dissolved oxygen",
+      "B": "Sand",
+      "C": "Avian waste",
+      "D": "Chlorides",
+      "E": "Heating"
+    },
+    "correctAnswer": "A",
+    "explanation": "Because cooling towers continuously scrub and contact large volumes of atmospheric air, the water becomes saturated with dissolved oxygen."
+  },
+  {
+    "number": 77,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Polyaculates and organic phosphorous compounds are added to cooling tower water to:",
+    "options": {
+      "A": "Decrease avian dropping",
+      "B": "Decrease algae",
+      "C": "Reduce scaling",
+      "D": "Increase pH",
+      "E": "Increase life of wooden structures"
+    },
+    "correctAnswer": "C",
+    "explanation": "Polyacrylates (polymers) and organic phosphorus compounds (phosphonates) are widely used as scale inhibitors and dispersants to prevent calcium and magnesium scale deposition."
+  },
+  {
+    "number": 78,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Sludge in the cooling tower basin is removed by:",
+    "options": {
+      "A": "Injecting biocide",
+      "B": "Flushing it out with a high pressure hose",
+      "C": "Using an excavator",
+      "D": "Side stream filtration",
+      "E": "Draining the cooling tower"
+    },
+    "correctAnswer": "D",
+    "explanation": "Side stream filtration continuously removes suspended solids, silt, and sludge from the cooling tower water. A portion of the circulating water is passed through filters, which capture and remove these impurities before returning the cleaned water to the system. This helps prevent sludge buildup in the cooling tower basin and keeps the water clean."
+  },
+  {
+    "number": 79,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "An solution containing zinc that coats the surfaces of a cooling water system to protect it from corrosion is:",
+    "options": {
+      "A": "Cathodic inhibitor",
+      "B": "Chlorine",
+      "C": "Biocide",
+      "D": "Oxygenated Zinc crystals",
+      "E": "Sacrificial anode"
+    },
+    "correctAnswer": "A",
+    "explanation": "Zinc-based treatments act as cathodic corrosion inhibitors, precipitating a protective film on cathodic areas of metal surfaces."
+  },
+  {
+    "number": 80,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "A good way to minimize wood deterioration is:",
+    "options": {
+      "A": "Avoid use of biocides",
+      "B": "Use sacrificial anodes",
+      "C": "Avoid wood treated with creosote",
+      "D": "Use additional hardware to secure the wood tightly",
+      "E": "Use redwood"
+    },
+    "correctAnswer": "E",
+    "explanation": "Using naturally durable woods like redwood or Douglas fir (properly pressure-treated) significantly increases structural resistance to biological decay and chemical attack."
+  },
+  {
+    "number": 81,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Biological fouling includes algae, fungi, bacteria and:",
+    "options": {
+      "A": "Deposition of solids",
+      "B": "Sand",
+      "C": "Rust",
+      "D": "Bird feathers",
+      "E": "Scaling"
+    },
+    "correctAnswer": "D",
+    "explanation": "Biological fouling is caused by living organisms such as algae, fungi, and bacteria, which grow and accumulate on surfaces in cooling water systems. They can form slimy deposits called biofilms. Bird feathers are physical debris, not biological fouling, so option D is technically incorrect."
+  },
+  {
+    "number": 82,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Erosion can be reduced with the help of:",
+    "options": {
+      "A": "Glycol",
+      "B": "Zinc Cathodes",
+      "C": "Soluble oils",
+      "D": "Filters",
+      "E": "Sacrificial Anode"
+    },
+    "correctAnswer": "D",
+    "explanation": "Installing filters or strainers removes abrasive suspended solids from the circulating water, thereby reducing mechanical erosion of piping and heat exchanger tubes."
+  },
+  {
+    "number": 83,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Impurities in cooling tower water can result in:",
+    "options": {
+      "A": "Deterioration of wood components",
+      "B": "Plugging of heat exchanger tubes",
+      "C": "Growth of slime",
+      "D": "Deterioration of metal components",
+      "E": "All of these problems are possible"
+    },
+    "correctAnswer": "E",
+    "explanation": "Poor cooling water quality causes wood delignification, tube plugging, microbial slime growth, and metal corrosion."
+  },
+  {
+    "number": 84,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Biofilms can:",
+    "options": {
+      "A": "Increase operating costs",
+      "B": "Increase heat exchanger efficiency",
+      "C": "Reduce friction and thus increase flow rates",
+      "D": "Protect steel piping",
+      "E": "Protect wooden parts of the cooling tower"
+    },
+    "correctAnswer": "A",
+    "explanation": "Biofilms act as thermal insulators and restrict water flow, drastically reducing heat transfer efficiency and increasing pumping energy and operating costs."
+  },
+  {
+    "number": 85,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "The best way to determine the types and concentrations of biological organisms in the slime is:",
+    "options": {
+      "A": "Use corrosion coupons",
+      "B": "Visual inspection",
+      "C": "Use dip slides",
+      "D": "Do a TDS test",
+      "E": "Send a sample to a specialist lab"
+    },
+    "correctAnswer": "E",
+    "explanation": "Sending a slime sample to a specialist laboratory is the best way to accurately identify the types of biological organisms present and determine their concentrations. Laboratory testing can identify specific bacteria, fungi, algae, and other microorganisms and measure their populations. Dip slides provide only a general estimate of microbial growth and cannot identify all organisms present."
+  },
+  {
+    "number": 86,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Cycle methods to control dissolved solids include make-up proportional blowdown and:",
+    "options": {
+      "A": "pH base blowdown",
+      "B": "Mixed blowdown",
+      "C": "Conductivity based blowdown",
+      "D": "Total blowdown",
+      "E": "Derivative blowdown"
+    },
+    "correctAnswer": "C",
+    "explanation": "Automatic blowdown systems in cooling towers are typically controlled via conductivity controllers that bleed off water when dissolved solids exceed set limits."
+  },
+  {
+    "number": 87,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Shock feeding of biocides is usually done:",
+    "options": {
+      "A": "At every meal",
+      "B": "Once per year",
+      "C": "Twice a week",
+      "D": "Twice per year",
+      "E": "Every day"
+    },
+    "correctAnswer": "C",
+    "explanation": "To effectively control microbial growth and prevent bacteria from developing immunity, oxidizing and non-oxidizing biocides are typically slug-fed or shock-fed periodically (e.g., twice a week)."
+  },
+  {
+    "number": 88,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "One of the main causes of wood deterioration is:",
+    "options": {
+      "A": "Galvanic attach",
+      "B": "Under deposit corrosion",
+      "C": "Scaling",
+      "D": "Delignification",
+      "E": "Stress corrosion cracking"
+    },
+    "correctAnswer": "D",
+    "explanation": "Delignification (often caused by excess chlorine or high alkalinity) breaks down the lignin binder holding wood cellulose fibers together in cooling towers."
+  },
+  {
+    "number": 89,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "The most important way to ensure the health of a cooling tower system is:",
+    "options": {
+      "A": "Keep the water heavily dosed with chemicals",
+      "B": "Add as much new clean water as possible each day",
+      "C": "Blow down as much water as possible",
+      "D": "Send samples to an off-site lab",
+      "E": "Visual inspection"
+    },
+    "correctAnswer": "E",
+    "explanation": "Regular visual inspections of distribution basins, fill, drift eliminators, and basins are crucial for early detection of scaling, biological growth, and structural defects."
+  },
+  {
+    "number": 90,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Increasing the temperature of the cooling tower water by 20 degrees could result in corrosion:",
+    "options": {
+      "A": "Decelerating",
+      "B": "Tripling",
+      "C": "Decreasing",
+      "D": "Doubling",
+      "E": "Stopping"
+    },
+    "correctAnswer": "D",
+    "explanation": "As a general rule of chemical kinetics, electrochemical corrosion rates double for roughly every 10°C (or ~18-20°F) rise in temperature."
+  },
+  {
+    "number": 91,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "Tests that are useful in managing corrosion are coupons and:",
+    "options": {
+      "A": "pH",
+      "B": "Conductivity",
+      "C": "Biological activity",
+      "D": "Hardness",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "A",
+    "explanation": "Corrosion coupons and pH tests are useful tools for managing corrosion in cooling tower systems. Corrosion coupons measure the actual rate of metal corrosion over time, while pH testing helps ensure the water remains within the proper range to minimize corrosion and protect metal surfaces."
+  },
+  {
+    "number": 92,
+    "heading": "Cooling Tower and Condenser Water Treatment",
+    "question": "The device that is often installed inside a condenser to protect the metal from corrosion is:",
+    "options": {
+      "A": "Corrosion cell",
+      "B": "Sacrificial cathode",
+      "C": "Sacrificial anode",
+      "D": "Filters and screens",
+      "E": "Biocide"
+    },
+    "correctAnswer": "C",
+    "explanation": "Sacrificial anodes (such as zinc or magnesium blocks) are installed in water boxes and condensers to corrode preferentially and protect expensive ferrous metal components."
+  },
+  {
+    "number": 93,
+    "heading": "Recirculating Water Treatment",
+    "question": "An anodic corrosion inhibitor that helps to create a protective iron oxide layer is:",
+    "options": {
+      "A": "Sodium chloride",
+      "B": "Sodium nitrite",
+      "C": "Sodium hydroxide",
+      "D": "Potassium nitrate",
+      "E": "Potassium sulfate"
+    },
+    "correctAnswer": "B",
+    "explanation": "Sodium nitrite is a common anodic corrosion inhibitor that promotes the formation of a protective passivating iron oxide film on steel surfaces."
+  },
+  {
+    "number": 94,
+    "heading": "Recirculating Water Treatment",
+    "question": "When metal is suffering from galvanic corrosion, the more ____ metal will waste away.",
+    "options": {
+      "A": "Noble",
+      "B": "Cathodic",
+      "C": "Anodic",
+      "D": "Lower cost",
+      "E": "Galvanic"
+    },
+    "correctAnswer": "C",
+    "explanation": "In galvanic coupling, the less noble (more anodic) metal corrodes and wastes away sacrificially to protect the more noble (cathodic) metal."
+  },
+  {
+    "number": 95,
+    "heading": "Recirculating Water Treatment",
+    "question": "When dissimilar metals are in contact with each, they transfer electrons and result in:",
+    "options": {
+      "A": "Anodic corrosion",
+      "B": "Galvanic corrosion",
+      "C": "Scale formation",
+      "D": "Under scale corrosion",
+      "E": "Welding"
+    },
+    "correctAnswer": "B",
+    "explanation": "Electrical contact between dissimilar metals in the presence of an electrolyte results in galvanic corrosion driven by potential differences."
+  },
+  {
+    "number": 96,
+    "heading": "Recirculating Water Treatment",
+    "question": "Makeup water to a closed loop system should not exceed:",
+    "options": {
+      "A": "0.1% per month",
+      "B": "2% per day",
+      "C": "50% per year",
+      "D": "2% per month",
+      "E": "2% per week"
+    },
+    "correctAnswer": "D",
+    "explanation": "Makeup water to a closed-loop recirculating system should typically not exceed 2% per month, as high makeup indicates leaks or losses."
+  },
+  {
+    "number": 97,
+    "heading": "Recirculating Water Treatment",
+    "question": "Closed loop heat transfer systems used in areas where the freezing may occur often use____ in the heat transfer fluid.",
+    "options": {
+      "A": "Pure water",
+      "B": "Glycol",
+      "C": "Alcohol",
+      "D": "Propane",
+      "E": "Cellulose"
+    },
+    "correctAnswer": "B",
+    "explanation": "Glycol (ethylene or propylene glycol) is added to closed-loop heat transfer fluids to lower freezing points and prevent freeze damage."
+  },
+  {
+    "number": 98,
+    "heading": "Recirculating Water Treatment",
+    "question": "If you change your water cooling system to a glycol system, the heat transfer capacity:",
+    "options": {
+      "A": "Changes by no more than 20%",
+      "B": "Decreases by 50%",
+      "C": "Increases by 50%",
+      "D": "It is not possible to change to glycol",
+      "E": "Does not change"
+    },
+    "correctAnswer": "B",
+    "explanation": "Aqueous glycol solutions have lower thermal conductivity and higher viscosity than pure water, resulting in a significant decrease in heat transfer capacity (often around 50% depending on concentration)."
+  },
+  {
+    "number": 99,
+    "heading": "Recirculating Water Treatment",
+    "question": "The best choice for a low temperature antifreeze for use in the food industry is:",
+    "options": {
+      "A": "Ammonia",
+      "B": "Propylene glycol",
+      "C": "Triethylene glycol",
+      "D": "Ethylene glycol",
+      "E": "Monopropanolamine"
+    },
+    "correctAnswer": "B",
+    "explanation": "Propylene glycol has low toxicity, making it the preferred and mandatory antifreeze choice for food processing and HVAC applications where contact with food is possible."
+  },
+  {
+    "number": 100,
+    "heading": "Recirculating Water Treatment",
+    "question": "Conductivity tests should be done:",
+    "options": {
+      "A": "Hourly",
+      "B": "Monthly",
+      "C": "Every shift",
+      "D": "Only when the boiler inspector requests it",
+      "E": "Yearly"
+    },
+    "correctAnswer": "B",
+    "explanation": "Conductivity tests should be performed monthly to monitor the concentration of dissolved minerals and salts in the water. Regular testing helps identify changes in water quality and ensures that the cooling water treatment program is working effectively."
+  },
+  {
+    "number": 101,
+    "heading": "Recirculating Water Treatment",
+    "question": "HVAC coils installed on buildings use ______ to prevent freezing.",
+    "options": {
+      "A": "Electrical heating elements",
+      "B": "Solar panels",
+      "C": "Gas fired heaters",
+      "D": "Glycol solutions",
+      "E": "Retractable roof tops"
+    },
+    "correctAnswer": "D",
+    "explanation": "Glycol solutions (water-glycol mixtures) are circulated through HVAC heating and cooling coils exposed to outdoor freezing temperatures."
+  },
+  {
+    "number": 102,
+    "heading": "Recirculating Water Treatment",
+    "question": "Because zinc is anodic to steel, when zinc anodes are installed in a system they will require:",
+    "options": {
+      "A": "Extra thickness",
+      "B": "A sacrificial Nickel Cathode",
+      "C": "Regular replacement",
+      "D": "A magnesium anode to protect them",
+      "E": "Protective coatings"
+    },
+    "correctAnswer": "C",
+    "explanation": "Because sacrificial zinc anodes function by corroding away preferentially to protect steel, they gradually deplete and require regular inspection and replacement."
+  },
+  {
+    "number": 103,
+    "heading": "Recirculating Water Treatment",
+    "question": "To minimize galvanic corrosion, the electrochemical potential of the metals should be less than:",
+    "options": {
+      "A": "1.5 volts",
+      "B": "0.15 volts",
+      "C": "0.51 volts",
+      "D": "5.1 volts",
+      "E": "15 volts"
+    },
+    "correctAnswer": "B",
+    "explanation": "To minimize galvanic corrosion between dissimilar metals, their electrochemical potential difference should be kept small, typically less than 0.15 volts."
+  },
+  {
+    "number": 104,
+    "heading": "Recirculating Water Treatment",
+    "question": "Testing of _______ should be done if a major leak has occurred resulting in a lot of new water being added.",
+    "options": {
+      "A": "Biohazards",
+      "B": "Corrosion Coupons",
+      "C": "Carbonates",
+      "D": "Chelates",
+      "E": "Sulfite levels"
+    },
+    "correctAnswer": "E",
+    "explanation": "Following a major system leak and high makeup water addition, chemical residuals (such as sulfite or inhibitors) must be re-tested and adjusted."
+  },
+  {
+    "number": 105,
+    "heading": "Recirculating Water Treatment",
+    "question": "Testing the recirculating system for pH should be done:",
+    "options": {
+      "A": "Monthly",
+      "B": "Hourly",
+      "C": "Yearly",
+      "D": "Only when refilled",
+      "E": "Daily"
+    },
+    "correctAnswer": "A",
+    "explanation": "The pH of a recirculating water system should be tested monthly to monitor whether the water is too acidic or too alkaline. Maintaining the proper pH helps prevent corrosion, scaling, and damage to cooling tower equipment."
+  },
+  {
+    "number": 106,
+    "heading": "Recirculating Water Treatment",
+    "question": "Dezincification is:",
+    "options": {
+      "A": "Selecting materials that contain no zinc",
+      "B": "Selective leaching",
+      "C": "Systematically eliminating zinc from the process",
+      "D": "Removing zinc based anodes",
+      "E": "Using galvanized metals"
+    },
+    "correctAnswer": "B",
+    "explanation": "Dezincification is a form of selective leaching corrosion where zinc is selectively dissolved or leached out of copper-zinc alloys like brass."
+  },
+  {
+    "number": 107,
+    "heading": "Recirculating Water Treatment",
+    "question": "High or low fluid flows can ______ corrosion.",
+    "options": {
+      "A": "Stop",
+      "B": "Prevent",
+      "C": "Stabilize",
+      "D": "Decelerate",
+      "E": "Accelerate"
+    },
+    "correctAnswer": "E",
+    "explanation": "Abnormally high fluid velocities (causing erosion-corrosion) or extremely low flows (causing under-deposit attack) can accelerate corrosion rates."
+  },
+  {
+    "number": 108,
+    "heading": "Recirculating Water Treatment",
+    "question": "Dispersants are used to:",
+    "options": {
+      "A": "Ensure that water in the cooling tower is dispersed correctly across the entire structure",
+      "B": "Prevent the clustering of sand and silt in the basin",
+      "C": "Ensure that blowndown sludge disperses safely in the environment",
+      "D": "Evenly distribute chemicals within the system",
+      "E": "Keep dead biological matter suspended"
+    },
+    "correctAnswer": "E",
+    "explanation": "Dispersants are chemical additives used in water systems to keep suspended solids, precipitates, and dead biological matter dispersed so they don't settle into hard scale or sludge."
+  }
+]

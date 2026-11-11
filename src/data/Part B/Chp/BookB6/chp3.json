@@ -1,0 +1,212 @@
+[
+  {
+    "number": 1,
+    "heading": "Condensate Treatment",
+    "question": "Thinning and grooving of metal parts is caused by:",
+    "options": {
+      "A": "Carbon Monoxide",
+      "B": "High Hardness",
+      "C": "Carbon Dioxide",
+      "D": "Oxygen",
+      "E": "Scale"
+    },
+    "correctAnswer": "C",
+    "explanation": "Dissolved carbon dioxide in condensate forms carbonic acid, which attacks metal piping and leads to uniform thinning and grooving along condensate return lines."
+  },
+  {
+    "number": 2,
+    "heading": "Condensate Treatment",
+    "question": "A typical way to evaluate corrosion rates is:",
+    "options": {
+      "A": "Wait for a leak",
+      "B": "Boiler inspector reports",
+      "C": "Corrosion coupons",
+      "D": "Send samples to a corrosion lab",
+      "E": "Insurance company reports"
+    },
+    "correctAnswer": "C",
+    "explanation": "Corrosion coupons (pre-weighted metal strips exposed to the water system for a set time) are standard tools used to evaluate metal loss and corrosion rates."
+  },
+  {
+    "number": 3,
+    "heading": "Condensate Treatment",
+    "question": "Dissolved oxygen is carried from the boiler in the steam until:",
+    "options": {
+      "A": "The open vent releases it",
+      "B": "It is superheated",
+      "C": "It is vented in the turbine",
+      "D": "It is removed in the polisher",
+      "E": "The steam condenses"
+    },
+    "correctAnswer": "E",
+    "explanation": "Dissolved gases travel along with steam until the steam turns back into water (condenses), at which point oxygen dissolves into the condensate and causes localized pitting."
+  },
+  {
+    "number": 4,
+    "heading": "Condensate Treatment",
+    "question": "Condensate polishers can control suspended matter, hardness and:",
+    "options": {
+      "A": "Molybdates",
+      "B": "Sulphites",
+      "C": "Temperature",
+      "D": "Dissolved Oxygen",
+      "E": "Chlorides"
+    },
+    "correctAnswer": "E",
+    "explanation": "Condensate polishers (demineralizers/ion exchangers) are highly effective at removing dissolved ionic impurities such as chlorides, hardness, and suspended matter."
+  },
+  {
+    "number": 5,
+    "heading": "Condensate Treatment",
+    "question": "Sodium Zeolite softeners are not effective at:",
+    "options": {
+      "A": "Removing magnesium salts",
+      "B": "Controlling alkalinity",
+      "C": "Converting salts from insoluble to soluble",
+      "D": "Reducing hardness",
+      "E": "Removing calcium salts"
+    },
+    "correctAnswer": "B",
+    "explanation": "Sodium zeolite softeners exchange calcium and magnesium hardness for sodium, but they do not reduce or control total water alkalinity."
+  },
+  {
+    "number": 6,
+    "heading": "Condensate Treatment",
+    "question": "Increasing the pH in the condensate can be accomplished with:",
+    "options": {
+      "A": "Oxygen scavengers",
+      "B": "Sodium zeolite",
+      "C": "Neutralizing amines",
+      "D": "Filming amines",
+      "E": "Deaeration"
+    },
+    "correctAnswer": "C",
+    "explanation": "Neutralizing amines are volatile chemical compounds added to steam to neutralize carbonic acid and raise the condensate pH to prevent return line corrosion."
+  },
+  {
+    "number": 7,
+    "heading": "Condensate Treatment",
+    "question": "Impurities can enter the condensate system from:",
+    "options": {
+      "A": "Machinery lubricants",
+      "B": "Malfunctioning softeners",
+      "C": "Heat exchangers",
+      "D": "Corrosion products",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "Condensate contamination can originate from raw cooling water leaking through heat exchangers, oil/lubricants from machinery, carryover from softeners, and metal oxides from system corrosion."
+  },
+  {
+    "number": 8,
+    "heading": "Condensate Treatment",
+    "question": "To prevent _______ corrosion the test coupons are fastened using non-conductive fasteners.",
+    "options": {
+      "A": "Brinelling",
+      "B": "Pitting",
+      "C": "Grooving",
+      "D": "Surface",
+      "E": "Galvanic"
+    },
+    "correctAnswer": "E",
+    "explanation": "Using non-conductive fasteners prevents dissimilar metal contact and subsequent galvanic corrosion on or around test corrosion coupons."
+  },
+  {
+    "number": 9,
+    "heading": "Condensate Treatment",
+    "question": "The main water tests used for Condensate include:",
+    "options": {
+      "A": "P alkalinity",
+      "B": "Hardness and softness",
+      "C": "M alkalinity",
+      "D": "pH and hardness",
+      "E": "Turbidity"
+    },
+    "correctAnswer": "D",
+    "explanation": "Routine condensate monitoring primarily tracks pH (to detect acidic attack from carbon dioxide) and hardness (to detect raw water leaks)."
+  },
+  {
+    "number": 10,
+    "heading": "Condensate Treatment",
+    "question": "Return line corrosion can be:",
+    "options": {
+      "A": "Controlled by feeding sodium bicarbonate",
+      "B": "Controlled by feeding amines",
+      "C": "Controlled by adding polymers",
+      "D": "Prevented by adding sodium phosphate",
+      "E": "Prevented by adding sodium sulfite"
+    },
+    "correctAnswer": "B",
+    "explanation": "Feeding neutralizing or filming amines into the boiler steam or feedwater loop protects condensate return lines from carbonic acid and oxygen attack."
+  },
+  {
+    "number": 11,
+    "heading": "Condensate Treatment",
+    "question": "Filming amine is useful to reduce corrosion due to:",
+    "options": {
+      "A": "Oxygen only",
+      "B": "Hardness",
+      "C": "Carbon Dioxide and Oxygen",
+      "D": "Carbon Dioxide only",
+      "E": "Foaming"
+    },
+    "correctAnswer": "C",
+    "explanation": "Filming amines form a microscopic, water-repellent barrier over metal surfaces, protecting against both carbon dioxide and dissolved oxygen attack."
+  },
+  {
+    "number": 12,
+    "heading": "Condensate Treatment",
+    "question": "Carbonic Acid is formed in the condensate due to:",
+    "options": {
+      "A": "SO₂",
+      "B": "Oxygen",
+      "C": "Carbon",
+      "D": "CO₂",
+      "E": "Sulphuric Acid"
+    },
+    "correctAnswer": "D",
+    "explanation": "Carbon dioxide gas (CO₂) dissolves in pure condensate water to form weak carbonic acid ($H_2CO_3$)."
+  },
+  {
+    "number": 13,
+    "heading": "Condensate Treatment",
+    "question": "To reduce corrosion due to dissolved oxygen, you would not use:",
+    "options": {
+      "A": "Sodium Sulphite",
+      "B": "Deaerator",
+      "C": "Filming amines",
+      "D": "Hydrazine",
+      "E": "Neutralizing amines"
+    },
+    "correctAnswer": "E",
+    "explanation": "Neutralizing amines are designed to neutralize acids and raise pH; they do not remove dissolved oxygen or scavenge gases (unlike sulfite, hydrazine, or deaerators)."
+  },
+  {
+    "number": 14,
+    "heading": "Condensate Treatment",
+    "question": "Carbon dioxide causes return line corrosion and may be:",
+    "options": {
+      "A": "Absorbed by sodium sulfite",
+      "B": "Neutralized with filming amines",
+      "C": "Removed in the deaerator",
+      "D": "Neutralized in the boiler with sodium hydroxide",
+      "E": "The result of bicarbonate decomposition"
+    },
+    "correctAnswer": "E",
+    "explanation": "Carbon dioxide in steam frequently originates from the thermal breakdown (decomposition) of bicarbonates and carbonates present in boiler feedwater."
+  },
+  {
+    "number": 15,
+    "heading": "Condensate Treatment",
+    "question": "A properly functioning deaerator will:",
+    "options": {
+      "A": "Control pH",
+      "B": "Control foaming",
+      "C": "Remove almost all CO₂ and O₂",
+      "D": "Condense the steam",
+      "E": "Eliminate scale"
+    },
+    "correctAnswer": "C",
+    "explanation": "Mechanical deaeration uses heat and steam stripping to remove almost all dissolved non-condensable corrosive gases, specifically oxygen and carbon dioxide, from feedwater."
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "number": 1,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "A damaged heat exchanger leaking into the steam system might be detected by:",
+    "options": {
+      "A": "High pH",
+      "B": "High phosphate",
+      "C": "Filming Amines",
+      "D": "Low TDS",
+      "E": "Low phosphate"
+    },
+    "correctAnswer": "E",
+    "explanation": "A damaged heat exchanger can allow steam or condensate to become contaminated or diluted by leaking water. If the incoming water contains little or no phosphate, it dilutes the phosphate-treated condensate, causing phosphate levels to drop. An unexpectedly low phosphate reading may therefore indicate a heat exchanger leak."
+  },
+  {
+    "number": 2,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "A continuous blowoff is:",
+    "options": {
+      "A": "Installed in the steam drum",
+      "B": "Installed in the lower drum",
+      "C": "Used to reduce the dissolved gases in the boiler",
+      "D": "Used to reduce sludge",
+      "E": "Used on every boiler"
+    },
+    "correctAnswer": "A",
+    "explanation": "A continuous blowdown (CBD) line is typically installed in the upper steam drum near the normal water level where dissolved solids are most concentrated."
+  },
+  {
+    "number": 3,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Boiler water foaming may be the result of:",
+    "options": {
+      "A": "High TDS",
+      "B": "Low pH",
+      "C": "Low TDS",
+      "D": "Dissolved gases",
+      "E": "Excessive blowdown"
+    },
+    "correctAnswer": "A",
+    "explanation": "High Total Dissolved Solids (TDS) and suspended matter increase surface tension, leading to boiler water foaming and carryover."
+  },
+  {
+    "number": 4,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Boiler water testing is done in the average power plant every:",
+    "options": {
+      "A": "Time the chief engineer requests it",
+      "B": "Daily",
+      "C": "Time the boiler inspector requests it",
+      "D": "Week",
+      "E": "Month"
+    },
+    "correctAnswer": "B",
+    "explanation": "Boiler water and feedwater testing is performed daily in standard power plant operating routines."
+  },
+  {
+    "number": 5,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Raw water has hardness due to:",
+    "options": {
+      "A": "Phosphates",
+      "B": "Suspended solids",
+      "C": "Dissolved gases",
+      "D": "Organic material",
+      "E": "The salts of calcium and magnesium"
+    },
+    "correctAnswer": "E",
+    "explanation": "Raw water hardness is caused primarily by dissolved bicarbonate, sulfate, and chloride salts of calcium and magnesium."
+  },
+  {
+    "number": 6,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "One element that leads to caustic embrittlement in boiler tubes is:",
+    "options": {
+      "A": "High concentration of sodium sulfite",
+      "B": "High concentration of sodium hydroxide",
+      "C": "Overheating of boiler parts",
+      "D": "High concentration of sodium chloride",
+      "E": "Excessive boiler pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": "High concentrations of free caustic sodium hydroxide in localized stress areas lead to caustic embrittlement (intergranular cracking) of boiler steel."
+  },
+  {
+    "number": 7,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Sodium sulfite is used in boilers to:",
+    "options": {
+      "A": "Prevent foaming",
+      "B": "Control dissolved solids",
+      "C": "Prevent oxygen corrosion",
+      "D": "Prevent carryover",
+      "E": "Prevent scale formation"
+    },
+    "correctAnswer": "C",
+    "explanation": "Sodium sulfite acts as an oxygen scavenger to chemically remove dissolved oxygen and prevent oxygen pitting/corrosion."
+  },
+  {
+    "number": 8,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Phenolphthalein is a/an:",
+    "options": {
+      "A": "Acid softener",
+      "B": "Buffer",
+      "C": "Reagent",
+      "D": "Neutralizing agent",
+      "E": "Indicator"
+    },
+    "correctAnswer": "E",
+    "explanation": "Phenolphthalein is an acid-base indicator used to determine hydroxide and carbonate alkalinity."
+  },
+  {
+    "number": 9,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "A residual of 20 to 60 ppm of sodium sulfite is to be maintained in the boiler water to:",
+    "options": {
+      "A": "Prevent pitting in the boiler steam drum",
+      "B": "Reduce the total chemical consumption",
+      "C": "Keep feedwater lines free of algae",
+      "D": "Prevent scaling the float in the low water cutoff",
+      "E": "Keep down the sludge"
+    },
+    "correctAnswer": "A",
+    "explanation": "Maintaining a residual of 20 to 60 ppm sodium sulfite ensures complete oxygen scavenging, preventing pitting in boiler drums and feedwater systems."
+  },
+  {
+    "number": 10,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Two common chemicals used for deaeration are Na2SO3 and:",
+    "options": {
+      "A": "N₂H₄",
+      "B": "Na₂(HCO₃)₂",
+      "C": "H₂SO₄",
+      "D": "NaOH",
+      "E": "Na₃PO₄"
+    },
+    "correctAnswer": "A",
+    "explanation": "Hydrazine (N₂H₄) and sodium sulfite (Na₂SO₃) are the two primary chemical oxygen scavengers used for boiler deaeration."
+  },
+  {
+    "number": 11,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Boiler water chemicals are injected:",
+    "options": {
+      "A": "In measured amounts once per year",
+      "B": "To prevent the water from becoming too alkaline",
+      "C": "Into the water softener",
+      "D": "Each time after blowing down",
+      "E": "After considering the water test readings"
+    },
+    "correctAnswer": "E",
+    "explanation": "Boiler water treatment chemicals are dosed and injected based on the results and readings of regular water sample tests."
+  },
+  {
+    "number": 12,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Sludge is usually removed from a boiler by:",
+    "options": {
+      "A": "Raking it into a sludge trap",
+      "B": "Blowing down through the bottom blowdown connection",
+      "C": "Filtering the water before it leaves the boiler",
+      "D": "Blowing down through the continuous blowdown",
+      "E": "Vacuuming it from the bottom"
+    },
+    "correctAnswer": "B",
+    "explanation": "Suspended sludge formed during internal treatment accumulates in the mud drum and is periodically removed via the bottom blowdown/blowoff valve."
+  },
+  {
+    "number": 13,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Phenolphthalein:",
+    "options": {
+      "A": "Is fed to cast iron boilers",
+      "B": "Is put in the natural gas to give it a smell",
+      "C": "Turns pink or red in the presence of an alkali",
+      "D": "Prevents caustic embrittlement",
+      "E": "Indicates the presence of an acid"
+    },
+    "correctAnswer": "C",
+    "explanation": "Phenolphthalein indicator turns pink or red in alkaline solutions (pH above 8.3)."
+  },
+  {
+    "number": 14,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "The “M” alkalinity test indicates alkalinity:",
+    "options": {
+      "A": "Due to organics only",
+      "B": "Due to carbonates only",
+      "C": "Due to bicarbonates only",
+      "D": "Caused by all dissolved impurities contributing to alkalinity",
+      "E": "Due to hydroxides only"
+    },
+    "correctAnswer": "D",
+    "explanation": "Methyl orange or 'M' alkalinity measures the total alkalinity caused by all dissolved alkaline impurities (hydroxides, carbonates, and bicarbonates)."
+  },
+  {
+    "number": 15,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Foaming of water in the boiler:",
+    "options": {
+      "A": "Can be controlled by adding sodium phosphate",
+      "B": "Can be controlled by adding sulfur to the feedwater",
+      "C": "Can be controlled by the bottom and continuous blowdowns",
+      "D": "Can be controlled by adding more neutralizing amines",
+      "E": "Is due to a high concentration of dissolved gases"
+    },
+    "correctAnswer": "C",
+    "explanation": "Boiler water foaming caused by high TDS or suspended solids is controlled and mitigated using bottom and continuous blowdowns."
+  },
+  {
+    "number": 16,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Caustic Embrittlement can be prevented by adding Sodium Nitrate or:",
+    "options": {
+      "A": "Calcium carbonate",
+      "B": "Sodium phosphate",
+      "C": "Phenolphthalein",
+      "D": "Sodium Hydroxide",
+      "E": "Lignins or Tanins"
+    },
+    "correctAnswer": "E",
+    "explanation": "Organic treatments such as tannins or lignins (as well as sodium nitrate) are used to inhibit caustic embrittlement."
+  },
+  {
+    "number": 17,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "The titrating agent used in water tests is called a/an:",
+    "options": {
+      "A": "Reagent",
+      "B": "Buffer",
+      "C": "Indicator",
+      "D": "Phenolphthalein",
+      "E": "Amine"
+    },
+    "correctAnswer": "A",
+    "explanation": "Titrating solutions used in water analysis to determine concentration are referred to as reagents."
+  },
+  {
+    "number": 18,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Residual phosphate level is maintained at:",
+    "options": {
+      "A": "10-40 ppm",
+      "B": "8.5-10.5 ppm",
+      "C": "75-125 ppm",
+      "D": "20-60 ppm",
+      "E": "180-400 ppm"
+    },
+    "correctAnswer": "D",
+    "explanation": "The residual phosphate level in boiler water is maintained at approximately 20–60 ppm. Phosphate reacts with calcium and magnesium hardness salts, converting them into soft sludge that can be removed through blowdown. Maintaining the correct phosphate residual helps prevent hard scale from forming on boiler surfaces."
+  },
+  {
+    "number": 19,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "The operator should decrease the rate of continuous blowdown when tests indicate:",
+    "options": {
+      "A": "Low sodium sulphite",
+      "B": "Very low total alkalinity",
+      "C": "High phosphate",
+      "D": "Very high total alkalinity",
+      "E": "High OH alkalinity"
+    },
+    "correctAnswer": "B",
+    "explanation": "When water tests show very low total alkalinity or low dissolved solids concentrations, the continuous blowdown rate should be decreased to conserve heat and chemicals."
+  },
+  {
+    "number": 20,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "The boiler blowdown and blowoff should be used to:",
+    "options": {
+      "A": "Prevent scale formation",
+      "B": "Reduce steam pressure",
+      "C": "Expel the sodium sulfite",
+      "D": "Reduce feedwater pressure",
+      "E": "Control the total dissolved solids"
+    },
+    "correctAnswer": "E",
+    "explanation": "Boiler blowdown and blowoff valves are operated to expel concentrated impurities and control Total Dissolved Solids (TDS) within prescribed limits."
+  },
+  {
+    "number": 21,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "The pH of the water in the boiler:",
+    "options": {
+      "A": "Could be controlled with amines",
+      "B": "Is controlled by adding treated water",
+      "C": "Must have a value of 7",
+      "D": "Should be neutral",
+      "E": "Is often controlled with sodium hydroxide"
+    },
+    "correctAnswer": "E",
+    "explanation": "Boiler water must be maintained in an alkaline state (typically pH 10.5 to 12.0) often controlled by adding sodium hydroxide."
+  },
+  {
+    "number": 22,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Internal water treatment is:",
+    "options": {
+      "A": "Adding chemicals to the steam in the boiler",
+      "B": "Adding chemicals to the boiler water",
+      "C": "Used with low pressure boilers only",
+      "D": "Measuring the pH of the feedwater",
+      "E": "Adding a coagulant to the settling tank"
+    },
+    "correctAnswer": "B",
+    "explanation": "Internal water treatment involves the direct addition of conditioning chemicals into the boiler water (steam drum or feedwater)."
+  },
+  {
+    "number": 23,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "When performing a water test, be sure that:\n1. All equipment is clean and in good working order\n2. Results are recorded carefully before making the test\n3. Test solutions, indicators, and reagents are fresh and at full strength\n4. Test reagents are filtered before use",
+    "options": {
+      "A": "1, 2",
+      "B": "1, 3",
+      "C": "3, 4",
+      "D": "2, 3",
+      "E": "2, 4"
+    },
+    "correctAnswer": "B",
+    "explanation": "Water testing protocols require that all equipment be clean and in good working order (1) and that test solutions, indicators, and reagents are fresh and at full strength (3)."
+  },
+  {
+    "number": 24,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "To prevent scale formation, inject:",
+    "options": {
+      "A": "Phenolphthalein",
+      "B": "Sodium chloride",
+      "C": "Zeolite",
+      "D": "Amines",
+      "E": "Phosphates"
+    },
+    "correctAnswer": "E",
+    "explanation": "Phosphate compounds are injected into boiler water to react with residual hardness and prevent scale formation."
+  },
+  {
+    "number": 25,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Relative to internal treatment, it is customary to:",
+    "options": {
+      "A": "Filter out dissolved solids",
+      "B": "Cause dissolved solids to remain in solution",
+      "C": "Condition the dissolved solids so they do not adhere to metal",
+      "D": "Precipitate dissolved solids with a precipitator",
+      "E": "Treat the dissolved solids so they remain dispersed"
+    },
+    "correctAnswer": "D",
+    "explanation": "Internal boiler water treatment commonly uses chemicals such as phosphate to precipitate dissolved hardness salts, especially calcium and magnesium, into insoluble particles (sludge). This sludge is then removed through blowdown before it can form hard scale on boiler heating surfaces."
+  },
+  {
+    "number": 26,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "A sludge conditioner will keep precipitated dissolved solids fluid and well dispersed and:",
+    "options": {
+      "A": "In solution",
+      "B": "Permit their removal through a CBD",
+      "C": "Prevent them from depositing on hot surfaces",
+      "D": "Is usually a non-organic compound",
+      "E": "Is injected prior to the water softener"
+    },
+    "correctAnswer": "C",
+    "explanation": "Sludge conditioners keep precipitated solids fluid and well-dispersed to prevent them from baking onto hot internal metal surfaces as hard scale."
+  },
+  {
+    "number": 27,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Excess sulfite is necessary to prevent:",
+    "options": {
+      "A": "Acidity",
+      "B": "Carryover",
+      "C": "Sludging",
+      "D": "Hardness",
+      "E": "Pitting"
+    },
+    "correctAnswer": "E",
+    "explanation": "Excess sodium sulfite residual is maintained to ensure complete oxygen scavenging and prevent oxygen pitting."
+  },
+  {
+    "number": 28,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "The water in a boiler should be kept:",
+    "options": {
+      "A": "At a pH of 14",
+      "B": "At a pH of 7",
+      "C": "Neutral",
+      "D": "Alkaline",
+      "E": "Acidic"
+    },
+    "correctAnswer": "D",
+    "explanation": "Boiler water must always be kept alkaline (pH > 10) to prevent acidic corrosion and protect boiler metal."
+  },
+  {
+    "number": 29,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "With regard to feedwater treatment, “precipitate” means to:",
+    "options": {
+      "A": "Coagulate",
+      "B": "Hasten",
+      "C": "Combine",
+      "D": "Disperse",
+      "E": "Separate"
+    },
+    "correctAnswer": "E",
+    "explanation": "In water treatment chemistry, 'precipitate' means to cause dissolved substances to separate out as a solid particle."
+  },
+  {
+    "number": 30,
+    "heading": "Internal Boiler Water Treatment",
+    "question": "Total alkalinity is measured:",
+    "options": {
+      "A": "To keep a check on the dissolved oxygen",
+      "B": "By using phenolphthalein and N50 sulfuric acid",
+      "C": "To be sure that it is not more than 2 500 ppm",
+      "D": "Using methyl orange or purple indicator and N50 sulfuric acid",
+      "E": "To control sludge formation"
+    },
+    "correctAnswer": "D",
+    "explanation": "Total alkalinity is measured using methyl orange (or methyl purple) indicator and standard sulfuric acid titrant."
+  }
+]

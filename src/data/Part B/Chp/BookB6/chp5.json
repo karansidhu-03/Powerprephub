@@ -1,0 +1,226 @@
+[
+  {
+    "number": 1,
+    "heading": "Recirculating Water Treatment",
+    "question": "An anodic corrosion inhibitor that helps to create a protective iron oxide layer is:",
+    "options": {
+      "A": "Sodium chloride",
+      "B": "Sodium nitrite",
+      "C": "Sodium hydroxide",
+      "D": "Potassium nitrate",
+      "E": "Potassium sulfate"
+    },
+    "correctAnswer": "B",
+    "explanation": "Sodium nitrite is a common anodic corrosion inhibitor that promotes the formation of a protective passivating iron oxide film on steel surfaces."
+  },
+  {
+    "number": 2,
+    "heading": "Recirculating Water Treatment",
+    "question": "When metal is suffering from galvanic corrosion, the more ____ metal will waste away.",
+    "options": {
+      "A": "Noble",
+      "B": "Cathodic",
+      "C": "Anodic",
+      "D": "Lower cost",
+      "E": "Galvanic"
+    },
+    "correctAnswer": "C",
+    "explanation": "In galvanic coupling, the less noble (more anodic) metal corrodes and wastes away sacrificially to protect the more noble (cathodic) metal."
+  },
+  {
+    "number": 3,
+    "heading": "Recirculating Water Treatment",
+    "question": "When dissimilar metals are in contact with each, they transfer electrons and result in:",
+    "options": {
+      "A": "Anodic corrosion",
+      "B": "Galvanic corrosion",
+      "C": "Scale formation",
+      "D": "Under scale corrosion",
+      "E": "Welding"
+    },
+    "correctAnswer": "B",
+    "explanation": "Electrical contact between dissimilar metals in the presence of an electrolyte results in galvanic corrosion driven by potential differences."
+  },
+  {
+    "number": 4,
+    "heading": "Recirculating Water Treatment",
+    "question": "Makeup water to a closed loop system should not exceed:",
+    "options": {
+      "A": "0.1% per month",
+      "B": "2% per day",
+      "C": "50% per year",
+      "D": "2% per month",
+      "E": "2% per week"
+    },
+    "correctAnswer": "D",
+    "explanation": "Makeup water to a closed-loop recirculating system should typically not exceed 2% per month, as high makeup indicates leaks or losses."
+  },
+  {
+    "number": 5,
+    "heading": "Recirculating Water Treatment",
+    "question": "Closed loop heat transfer systems used in areas where the freezing may occur often use____ in the heat transfer fluid.",
+    "options": {
+      "A": "Pure water",
+      "B": "Glycol",
+      "C": "Alcohol",
+      "D": "Propane",
+      "E": "Cellulose"
+    },
+    "correctAnswer": "B",
+    "explanation": "Glycol (ethylene or propylene glycol) is added to closed-loop heat transfer fluids to lower freezing points and prevent freeze damage."
+  },
+  {
+    "number": 6,
+    "heading": "Recirculating Water Treatment",
+    "question": "If you change your water cooling system to a glycol system, the heat transfer capacity:",
+    "options": {
+      "A": "Changes by no more than 20%",
+      "B": "Decreases by 50%",
+      "C": "Increases by 50%",
+      "D": "It is not possible to change to glycol",
+      "E": "Does not change"
+    },
+    "correctAnswer": "B",
+    "explanation": "Aqueous glycol solutions have lower thermal conductivity and higher viscosity than pure water, resulting in a significant decrease in heat transfer capacity (often around 50% depending on concentration)."
+  },
+  {
+    "number": 7,
+    "heading": "Recirculating Water Treatment",
+    "question": "The best choice for a low temperature antifreeze for use in the food industry is:",
+    "options": {
+      "A": "Ammonia",
+      "B": "Propylene glycol",
+      "C": "Triethylene glycol",
+      "D": "Ethylene glycol",
+      "E": "Monopropanolamine"
+    },
+    "correctAnswer": "B",
+    "explanation": "Propylene glycol has low toxicity, making it the preferred and mandatory antifreeze choice for food processing and HVAC applications where contact with food is possible."
+  },
+  {
+    "number": 8,
+    "heading": "Recirculating Water Treatment",
+    "question": "Conductivity tests should be done:",
+    "options": {
+      "A": "Hourly",
+      "B": "Monthly",
+      "C": "Every shift",
+      "D": "Only when the boiler inspector requests it",
+      "E": "Yearly"
+    },
+    "correctAnswer": "B",
+    "explanation": "Conductivity tests should be performed monthly to monitor the concentration of dissolved minerals and salts in the water. Regular testing helps identify changes in water quality and ensures that the cooling water treatment program is working effectively."
+  },
+  {
+    "number": 9,
+    "heading": "Recirculating Water Treatment",
+    "question": "HVAC coils installed on buildings use ______ to prevent freezing.",
+    "options": {
+      "A": "Electrical heating elements",
+      "B": "Solar panels",
+      "C": "Gas fired heaters",
+      "D": "Glycol solutions",
+      "E": "Retractable roof tops"
+    },
+    "correctAnswer": "D",
+    "explanation": "Glycol solutions (water-glycol mixtures) are circulated through HVAC heating and cooling coils exposed to outdoor freezing temperatures."
+  },
+  {
+    "number": 10,
+    "heading": "Recirculating Water Treatment",
+    "question": "Because zinc is anodic to steel, when zinc anodes are installed in a system they will require:",
+    "options": {
+      "A": "Extra thickness",
+      "B": "A sacrificial Nickel Cathode",
+      "C": "Regular replacement",
+      "D": "A magnesium anode to protect them",
+      "E": "Protective coatings"
+    },
+    "correctAnswer": "C",
+    "explanation": "Because sacrificial zinc anodes function by corroding away preferentially to protect steel, they gradually deplete and require regular inspection and replacement."
+  },
+  {
+    "number": 11,
+    "heading": "Recirculating Water Treatment",
+    "question": "To minimize galvanic corrosion, the electrochemical potential of the metals should be less than:",
+    "options": {
+      "A": "1.5 volts",
+      "B": "0.15 volts",
+      "C": "0.51 volts",
+      "D": "5.1 volts",
+      "E": "15 volts"
+    },
+    "correctAnswer": "B",
+    "explanation": "To minimize galvanic corrosion between dissimilar metals, their electrochemical potential difference should be kept small, typically less than 0.15 volts."
+  },
+  {
+    "number": 12,
+    "heading": "Recirculating Water Treatment",
+    "question": "Testing of _______ should be done if a major leak has occurred resulting in a lot of new water being added.",
+    "options": {
+      "A": "Biohazards",
+      "B": "Corrosion Coupons",
+      "C": "Carbonates",
+      "D": "Chelates",
+      "E": "Sulfite levels"
+    },
+    "correctAnswer": "E",
+    "explanation": "Following a major system leak and high makeup water addition, chemical residuals (such as sulfite or inhibitors) must be re-tested and adjusted."
+  },
+  {
+    "number": 13,
+    "heading": "Recirculating Water Treatment",
+    "question": "Testing the recirculating system for pH should be done:",
+    "options": {
+      "A": "Monthly",
+      "B": "Hourly",
+      "C": "Yearly",
+      "D": "Only when refilled",
+      "E": "Daily"
+    },
+    "correctAnswer": "A",
+    "explanation": "The pH of a recirculating water system should be tested monthly to monitor whether the water is too acidic or too alkaline. Maintaining the proper pH helps prevent corrosion, scaling, and damage to cooling tower equipment."
+  },
+  {
+    "number": 14,
+    "heading": "Recirculating Water Treatment",
+    "question": "Dezincification is:",
+    "options": {
+      "A": "Selecting materials that contain no zinc",
+      "B": "Selective leaching",
+      "C": "Systematically eliminating zinc from the process",
+      "D": "Removing zinc based anodes",
+      "E": "Using galvanized metals"
+    },
+    "correctAnswer": "B",
+    "explanation": "Dezincification is a form of selective leaching corrosion where zinc is selectively dissolved or leached out of copper-zinc alloys like brass."
+  },
+  {
+    "number": 15,
+    "heading": "Recirculating Water Treatment",
+    "question": "High or low fluid flows can ______ corrosion.",
+    "options": {
+      "A": "Stop",
+      "B": "Prevent",
+      "C": "Stabilize",
+      "D": "Decelerate",
+      "E": "Accelerate"
+    },
+    "correctAnswer": "E",
+    "explanation": "Abnormally high fluid velocities (causing erosion-corrosion) or extremely low flows (causing under-deposit attack) can accelerate corrosion rates."
+  },
+  {
+    "number": 16,
+    "heading": "Recirculating Water Treatment",
+    "question": "Dispersants are used to:",
+    "options": {
+      "A": "Ensure that water in the cooling tower is dispersed correctly across the entire structure",
+      "B": "Prevent the clustering of sand and silt in the basin",
+      "C": "Ensure that blowndown sludge disperses safely in the environment",
+      "D": "Evenly distribute chemicals within the system",
+      "E": "Keep dead biological matter suspended"
+    },
+    "correctAnswer": "E",
+    "explanation": "Dispersants are chemical additives used in water systems to keep suspended solids, precipitates, and dead biological matter dispersed so they don't settle into hard scale or sludge."
+  }
+]

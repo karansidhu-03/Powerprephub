@@ -136,8 +136,8 @@
       "D": "Additional pretreatment is required",
       "E": "Chlorine"
     },
-    "correctAnswer": "D",
-    "explanation": "Municipal water often contains residual chlorine, hardness, or dissolved solids that require additional pretreatment (such as softening or deaeration) before boiler use."
+    "correctAnswer": "E",
+    "explanation": "Municipal water is commonly disinfected with chlorine to kill harmful bacteria. However, residual chlorine can damage boiler feedwater treatment equipment and attack ion-exchange resins, reducing their effectiveness. Therefore, chlorine must be removed or neutralized before the water is used as boiler feedwater."
   },
   {
     "number": 11,
@@ -262,8 +262,8 @@
       "D": "5%",
       "E": "15%"
     },
-    "correctAnswer": "D",
-    "explanation": "Zeolite beads experience slight mechanical wear and attrition during operation and regeneration, typically resulting in about 5% loss or replacement per year."
+    "correctAnswer": "C",
+    "explanation": "Zeolite beads gradually wear down, break into smaller particles, and are carried away during normal operation and backwashing. This mechanical wear is called attrition. Over time, it reduces the amount of effective zeolite in the softener, decreasing its capacity by approximately 3% per year."
   },
   {
     "number": 20,
