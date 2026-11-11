@@ -143,7 +143,8 @@ import b5chp2 from "./Part B/Chp/BookB5/chp2.json";
 import b5chp3 from "./Part B/Chp/BookB5/chp3.json";
 import b5chp4 from "./Part B/Chp/BookB5/chp4.json";
 
-// Part B — Book B6 chapters
+// Part B — Book B6 full book + chapters
+import bookB6 from "./Part B/Chp/BookB6/BookB6.json";
 import b6chp1 from "./Part B/Chp/BookB6/chp1.json";
 import b6chp2 from "./Part B/Chp/BookB6/chp2.json";
 import b6chp3 from "./Part B/Chp/BookB6/chp3.json";
@@ -923,6 +924,11 @@ const bookB5Chapters: Paper[] = [
 ];
 
 const bookB6Chapters: Paper[] = [
+  makePaper(
+    "b6-fullbook",
+    "Full Book B6 Exam",
+    toQuestions(bookB6 as unknown as RawNumberQuestion[], "Book B6 — Water Treatment"),
+  ),
   makePaper(
     "b6-chp1",
     "External Boiler Water Treatment",
