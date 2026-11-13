@@ -766,7 +766,7 @@
       "D": "Precipitate dissolved solids with a precipitator",
       "E": "Treat the dissolved solids so they remain dispersed"
     },
-    "correctAnswer": "C",
+    "correctAnswer": "D",
     "explanation": "Internal boiler water treatment commonly uses chemicals such as phosphate to precipitate dissolved hardness salts, especially calcium and magnesium, into insoluble particles (sludge). This sludge is then removed through blowdown before it can form hard scale on boiler heating surfaces."
   },
   {

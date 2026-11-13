@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Steam Turbines",
+    "question": "When starting a steam turbine the correct sequence is:",
+    "options": {
+      "A": "Analyze the oil for water prior to rolling, test hand trip, stop oil pumps",
+      "B": "Turn on all cooling water systems first, start the steam, start oil pumps",
+      "C": "Open steam drains, open steam inlet valve slightly, test the overspeed trip",
+      "D": "Test overspeed trip, place the speed control system in service, open the steam",
+      "E": "Stop the auxiliary oil pump, turn on cooling water, start condenser pump"
+    },
+    "correctAnswer": "C",
+    "explanation": "During steam turbine startup, standard procedure requires opening steam drains to remove condensate and cracking the steam inlet valve slightly for warm-up."
+  },
+  {
+    "number": 2,
+    "heading": "Steam Turbines",
+    "question": "Shaft sealing of steam turbines is done with:\n1. Fly weights\n2. Thrust Bearings\n3. Carbon rings\n4. Labyrinth glands",
+    "options": {
+      "A": "1, 2, 3, 4",
+      "B": "1, 3, 4",
+      "C": "3, 4",
+      "D": "2, 4",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "C",
+    "explanation": "Shaft sealing of steam turbines typically utilizes carbon rings (for lower pressure or gland ends) and labyrinth glands (for higher pressure staging)."
+  },
+  {
+    "number": 3,
+    "heading": "Steam Turbines",
+    "question": "Impulse turbines:\n1. Have a velocity increase through the nozzles\n2. Blades have the angle of inlet the same as the outlet\n3. Could have more than one set of blades\n4. Are used for low pressure steam only",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "2, 3",
+      "C": "1, 2, 3",
+      "D": "1, 2, 3, 4",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "C",
+    "explanation": "Impulse turbines feature a velocity increase through nozzles (1), can have multiple sets of compounding/stages (3), and blade inlet angles match outlet angles (2)."
+  },
+  {
+    "number": 4,
+    "heading": "Steam Turbines",
+    "question": "Turbine lubricating oil:",
+    "options": {
+      "A": "Should be preheated before use",
+      "B": "Lubricates the blades",
+      "C": "Is not required for small impulse turbines",
+      "D": "Must be changed every four months",
+      "E": "Can be used to operate the turbine governor"
+    },
+    "correctAnswer": "E",
+    "explanation": "Turbine lubricating oil is commonly pressurized and used in electro-hydraulic or mechanical-hydraulic control systems to operate the governor valves."
+  },
+  {
+    "number": 5,
+    "heading": "Steam Turbines",
+    "question": "The great majority of turbine governors are of the _____ type.",
+    "options": {
+      "A": "Electronic",
+      "B": "Stationary",
+      "C": "Pneumatic",
+      "D": "Rotary",
+      "E": "Mechanical centrifugal"
+    },
+    "correctAnswer": "E",
+    "explanation": "The vast majority of steam turbine speed governors are of the mechanical centrifugal flyball type."
+  },
+  {
+    "number": 6,
+    "heading": "Steam Turbines",
+    "question": "Reaction turbines:",
+    "options": {
+      "A": "Have a pressure drop through the stationary and moving blades",
+      "B": "Do not need a thrust bearing",
+      "C": "Cannot use counter flow staging",
+      "D": "Are used for high pressure only",
+      "E": "Have a steam velocity decrease across the moving blades"
+    },
+    "correctAnswer": "A",
+    "explanation": "In reaction turbines, steam expands and undergoes a pressure drop across both the stationary blades (nozzles) and the moving blades."
+  },
+  {
+    "number": 7,
+    "heading": "Steam Turbines",
+    "question": "Shaft sealing carbon glands are:",
+    "options": {
+      "A": "Self-lubricating",
+      "B": "Replaced monthly due to erosion",
+      "C": "Metal sprayed components",
+      "D": "Limited to a temperature of 250°C",
+      "E": "Lubricated by the main oil pump"
+    },
+    "correctAnswer": "A",
+    "explanation": "Carbon ring glands used for turbine shaft sealing are self-lubricating (using graphite material)."
+  },
+  {
+    "number": 8,
+    "heading": "Steam Turbines",
+    "question": "The turbine overspeed trip:\n1. Prevents the turbine from vibrating\n2. Prevents the turbine exceeding the maximum rated speed\n3. Is operated by a spring loaded pin in the rotating blades\n4. Will close the steam stop valve\n5. Should be tested before the turbine is placed in service",
+    "options": {
+      "A": "2, 3, 4, 5",
+      "B": "3, 4, 5",
+      "C": "2, 4, 5",
+      "D": "1, 2, 4",
+      "E": "4, 5"
+    },
+    "correctAnswer": "C",
+    "explanation": "The overspeed trip prevents the turbine from exceeding maximum rated speed (2), will close the steam stop valve (4), and should be tested before putting the turbine in service (5)."
+  },
+  {
+    "number": 9,
+    "heading": "Steam Turbines",
+    "question": "The shrouding installed on the blades of a steam turbine serves to:",
+    "options": {
+      "A": "Stop the steam flow",
+      "B": "Confine the steam to the blades",
+      "C": "Expand the steam",
+      "D": "Cool the blade tips",
+      "E": "Heat the steam"
+    },
+    "correctAnswer": "B",
+    "explanation": "Shrouding installed around turbine blade tips confines and prevents steam leakage around the blade tips, directing flow efficiently through the passages."
+  },
+  {
+    "number": 10,
+    "heading": "Steam Turbines",
+    "question": "Overspeed trips:\n1. Operate on turbine vibration due to high speed\n2. Are installed on all turbines\n3. Protect against excessive centrifugal forces\n4. Can be adjusted according to the load demand",
+    "options": {
+      "A": "3, 4",
+      "B": "1, 2, 3",
+      "C": "1, 2",
+      "D": "2, 3, 4",
+      "E": "2, 3"
+    },
+    "correctAnswer": "E",
+    "explanation": "Overspeed trips are installed on all steam turbines (2) and protect against excessive centrifugal forces caused by dangerously high rotational speeds (3). If the turbine exceeds its predetermined safe speed, the overspeed trip activates and shuts off the steam supply to prevent mechanical damage or failure. The trip setting is a fixed safety limit and is not adjusted according to load demand (4 is false). Overspeed trips operate based on rotational speed, not vibration (1 is false)."
+  },
+  {
+    "number": 11,
+    "heading": "Steam Turbines",
+    "question": "In an impulse turbine the:",
+    "options": {
+      "A": "Steam velocity is increased through the blades",
+      "B": "Steam pressure is reduced in the stationary nozzles",
+      "C": "Steam pressure will drop across the blades",
+      "D": "Steam flow is reduced through the nozzles",
+      "E": "Exhaust steam is directed back to the boiler"
+    },
+    "correctAnswer": "B",
+    "explanation": "In an impulse turbine, steam pressure drops and velocity increases exclusively through the stationary nozzles."
+  },
+  {
+    "number": 12,
+    "heading": "Steam Turbines",
+    "question": "The principle of an impulse turbine is that the:\n1. Steam pressure is reduced in the stationary nozzles\n2. High velocity steam strikes upon the moving blades\n3. Steam pressure will drop across the blades\n4. Steam pressure is increased through the blades",
+    "options": {
+      "A": "2, 3, 4",
+      "B": "1, 2, 3, 4",
+      "C": "1, 2",
+      "D": "2, 4",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "C",
+    "explanation": "The principle of an impulse turbine is that steam pressure drops in the stationary nozzles (1) and high-velocity steam strikes the moving blades (2)."
+  },
+  {
+    "number": 13,
+    "heading": "Steam Turbines",
+    "question": "Turbine speed can be \"fine tuned\" with a device that will be limited to about 10% over the rated speed. This device is the:",
+    "options": {
+      "A": "Sentinel valve",
+      "B": "Over-speed trip",
+      "C": "Over-speed governor",
+      "D": "Hand speed control",
+      "E": "Governor valve"
+    },
+    "correctAnswer": "D",
+    "explanation": "The hand speed control is used to manually fine-tune the turbine's operating speed. It allows the operator to make small adjustments to the governor setting to increase or decrease turbine speed. Its adjustment range is limited to approximately 10% above the rated speed to prevent excessive overspeeding."
+  },
+  {
+    "number": 14,
+    "heading": "Steam Turbines",
+    "question": "In an impulse turbine, what prevents a pressure drop in the passage of steam through the blades?",
+    "options": {
+      "A": "The back torque on the driver",
+      "B": "The speed of the shaft",
+      "C": "The temperature of the steam",
+      "D": "The space between the blades",
+      "E": "The momentum of the load"
+    },
+    "correctAnswer": "D",
+    "explanation": "In an impulse turbine, the steam passages between the blades are shaped with constant cross-sectional area so that steam expands only in nozzles, preventing pressure drop across the blades."
+  },
+  {
+    "number": 15,
+    "heading": "Steam Turbines",
+    "question": "Blades or _____ form the rotor flow passages in impulse turbines.",
+    "options": {
+      "A": "Ports",
+      "B": "Buckets",
+      "C": "Dummy pistons",
+      "D": "Shafts",
+      "E": "Carbon rings"
+    },
+    "correctAnswer": "B",
+    "explanation": "Blades or buckets form the rotor flow passages in impulse turbines."
+  },
+  {
+    "number": 16,
+    "heading": "Steam Turbines",
+    "question": "In an impulse turbine, all of the steam pressure drop takes place in the:",
+    "options": {
+      "A": "Stationary nozzles",
+      "B": "Moving nozzles",
+      "C": "Stationary blades",
+      "D": "Exhaust casing",
+      "E": "Governor valve"
+    },
+    "correctAnswer": "A",
+    "explanation": "In a pure impulse turbine, all of the steam pressure drop takes place across the stationary nozzles."
+  },
+  {
+    "number": 17,
+    "heading": "Steam Turbines",
+    "question": "Turbine overspeed trip:",
+    "options": {
+      "A": "Will close the steam stop valve to the turbine",
+      "B": "Supplies the operator with rpm indications",
+      "C": "Is operated by a spring loaded pin in the rotating blades",
+      "D": "Prevents the turbine from vibrating",
+      "E": "Reduces the turbine speed by increasing the back pressure"
+    },
+    "correctAnswer": "A",
+    "explanation": "When tripped, the turbine overspeed trip mechanism acts to instantly close the main steam stop valve."
+  },
+  {
+    "number": 18,
+    "heading": "Steam Turbines",
+    "question": "The stationary nozzles of reaction turbines is the:",
+    "options": {
+      "A": "Shroud ring",
+      "B": "Shaft",
+      "C": "Dummy piston",
+      "D": "Fixed blade",
+      "E": "Rotor"
+    },
+    "correctAnswer": "D",
+    "explanation": "In reaction turbines, the stationary nozzles or fixed blades act to direct and expand the steam."
+  },
+  {
+    "number": 19,
+    "heading": "Steam Turbines",
+    "question": "Turbines often have segmental carbon ring sealing glands that are held in place by:",
+    "options": {
+      "A": "Thrust runners",
+      "B": "Drive screws",
+      "C": "Garter springs",
+      "D": "Shrouding",
+      "E": "Labyrinths"
+    },
+    "correctAnswer": "C",
+    "explanation": "Segmental carbon ring sealing glands are held snugly around the shaft by garter springs."
+  },
+  {
+    "number": 20,
+    "heading": "Steam Turbines",
+    "question": "In a reaction turbine the steam pressure _____ in passing through moving blades, as well as stationary nozzles or blades.",
+    "options": {
+      "A": "Re-circulates",
+      "B": "Drops",
+      "C": "Increases",
+      "D": "Accelerates",
+      "E": "Modulates"
+    },
+    "correctAnswer": "B",
+    "explanation": "In a reaction turbine, steam pressure drops continuously as it passes through both the stationary nozzles/fixed blades and the moving blades."
+  }
+]

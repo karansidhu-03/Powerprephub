@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Internal Combustion Engines",
+    "question": "The process of vaporization of gasoline for use in an internal combustion engine is known as:",
+    "options": {
+      "A": "Convection",
+      "B": "Combustion",
+      "C": "Oxidation",
+      "D": "Priming",
+      "E": "Carburetion"
+    },
+    "correctAnswer": "E",
+    "explanation": "Carburetion is the process of vaporizing liquid gasoline and mixing it with air in the proper ratio before it enters the engine cylinders."
+  },
+  {
+    "number": 2,
+    "heading": "Internal Combustion Engines",
+    "question": "Large internal combustion engines achieve cooling by use of:",
+    "options": {
+      "A": "Refrigerants",
+      "B": "Condensers",
+      "C": "Water jackets",
+      "D": "Evaporation",
+      "E": "Air cooling"
+    },
+    "correctAnswer": "C",
+    "explanation": "Large stationary and industrial internal combustion engines circulate cooling water through water jackets surrounding the cylinders and cylinder heads."
+  },
+  {
+    "number": 3,
+    "heading": "Internal Combustion Engines",
+    "question": "Smoky exhaust from a diesel engine may be caused by:",
+    "options": {
+      "A": "Insufficient combustion air",
+      "B": "Low quality fuel",
+      "C": "Too much cooling",
+      "D": "Improper fuel injection",
+      "E": "All of these can cause smoky exhaust"
+    },
+    "correctAnswer": "E",
+    "explanation": "Incomplete combustion causing black, blue, or white smoke in a diesel engine can result from insufficient air, poor fuel quality, over-cooling (low cylinder temperatures), or faulty injector atomization."
+  },
+  {
+    "number": 4,
+    "heading": "Internal Combustion Engines",
+    "question": "A two-cycle gasoline engine:",
+    "options": {
+      "A": "Has more moving parts than a four cycle",
+      "B": "Requires exhaust valves",
+      "C": "Produces twice as much power as a four cycle",
+      "D": "Is of more simple construction than a four cycle",
+      "E": "Must have two cylinders"
+    },
+    "correctAnswer": "D",
+    "explanation": "Two-cycle gasoline engines use ports uncovered by the piston rather than complex valve trains, resulting in much simpler construction with fewer moving parts."
+  },
+  {
+    "number": 5,
+    "heading": "Internal Combustion Engines",
+    "question": "Using a compressed air starting motor is a popular method of starting a:",
+    "options": {
+      "A": "Jet engine",
+      "B": "Natural gas engine",
+      "C": "Small two-stroke engine",
+      "D": "High performance engine",
+      "E": "Large stationary diesel engine"
+    },
+    "correctAnswer": "E",
+    "explanation": "Large stationary diesel engines require high cranking torque and commonly use pneumatic (compressed air) starting motors or direct compressed air injection into cylinders."
+  },
+  {
+    "number": 6,
+    "heading": "Internal Combustion Engines",
+    "question": "A major difficulty encountered with a two-stroke cycle engine is:",
+    "options": {
+      "A": "Exhausting the spent gases from the cylinder",
+      "B": "The high speeds compared to an equivalent four-stroke engine",
+      "C": "Maintenance of many moving parts",
+      "D": "The difficulty in cold weather starting",
+      "E": "The high torque at low speeds"
+    },
+    "correctAnswer": "A",
+    "explanation": "Because intake and exhaust occur simultaneously near the bottom of the stroke without a dedicated exhaust stroke, completely scavenging and exhausting spent gases is a primary design challenge."
+  },
+  {
+    "number": 7,
+    "heading": "Internal Combustion Engines",
+    "question": "Ignition of the fuel in a diesel engine is by means of:",
+    "options": {
+      "A": "The injector delivery valve pressure",
+      "B": "A spark plug",
+      "C": "The fuel injector nozzle",
+      "D": "A precisely timed glow plug",
+      "E": "The heat of compression"
+    },
+    "correctAnswer": "E",
+    "explanation": "Diesel engines are compression-ignition engines: air is compressed to a high ratio, raising its temperature high enough to auto-ignite the fuel upon injection."
+  },
+  {
+    "number": 8,
+    "heading": "Internal Combustion Engines",
+    "question": "Internal combustion engines used to drive gas compression machinery and which burn natural gas, operate on the _____ stroke cycle.",
+    "options": {
+      "A": "Four",
+      "B": "Rotary",
+      "C": "Two or four",
+      "D": "One",
+      "E": "Two"
+    },
+    "correctAnswer": "C",
+    "explanation": "Large natural gas-fueled industrial engines used for driving gas compressors are built in both two-stroke and four-stroke cycle designs."
+  },
+  {
+    "number": 9,
+    "heading": "Internal Combustion Engines",
+    "question": "Four-cycle engine lubrication is usually:",
+    "options": {
+      "A": "Forced by a pump",
+      "B": "By the dip tube method",
+      "C": "By grease fitting",
+      "D": "By the scoop method",
+      "E": "By gravity oilers"
+    },
+    "correctAnswer": "A",
+    "explanation": "Four-stroke engines utilize a pressurized lubrication system driven by an engine-mounted gear or rotor oil pump."
+  },
+  {
+    "number": 10,
+    "heading": "Internal Combustion Engines",
+    "question": "Diesel engines require:",
+    "options": {
+      "A": "An ignition distributor",
+      "B": "A magneto",
+      "C": "A spark plug in each cylinder",
+      "D": "A fuel injector",
+      "E": "A carburetor"
+    },
+    "correctAnswer": "D",
+    "explanation": "Diesel engines do not use carburetors or spark ignition; they require high-pressure fuel injectors to spray atomized fuel directly into the combustion chamber."
+  },
+  {
+    "number": 11,
+    "heading": "Internal Combustion Engines",
+    "question": "Diesel engine governing is accomplished by:",
+    "options": {
+      "A": "Varying the fuel quantity",
+      "B": "Carburetion",
+      "C": "Varying the fuel quality",
+      "D": "Fuel atomizing air quantity",
+      "E": "Fuel atomizing air pressure"
+    },
+    "correctAnswer": "A",
+    "explanation": "Diesel engine speed and power output are governed exclusively by metering and varying the quantity of fuel injected per power stroke, without throttling intake air."
+  },
+  {
+    "number": 12,
+    "heading": "Internal Combustion Engines",
+    "question": "The fuel for a diesel engine is:",
+    "options": {
+      "A": "Vaporized by a carburetor",
+      "B": "Mixed with air before the cylinder",
+      "C": "Atomized before the cylinder",
+      "D": "Light fuel oil",
+      "E": "Mechanically atomized by high pressure"
+    },
+    "correctAnswer": "E",
+    "explanation": "In modern airless (solid) injection diesel engines, fuel oil is mechanically atomized into a fine mist by forcing it at very high pressure through precision injector nozzles."
+  },
+  {
+    "number": 13,
+    "heading": "Internal Combustion Engines",
+    "question": "The purpose of a spark plug is to:",
+    "options": {
+      "A": "Raise the ignition point of the fuel",
+      "B": "Ignite the air in the cylinder",
+      "C": "Pre-warm the engine",
+      "D": "Ignite the fuel air mixture in a gasoline engine",
+      "E": "Produce power for the compression stroke"
+    },
+    "correctAnswer": "D",
+    "explanation": "A spark plug delivers a high-voltage electric spark across its electrode gap to ignite the compressed air-fuel mixture in spark-ignition engines."
+  },
+  {
+    "number": 14,
+    "heading": "Internal Combustion Engines",
+    "question": "The injection pump of a diesel engine is driven by:",
+    "options": {
+      "A": "The governor",
+      "B": "The camshaft",
+      "C": "Piston action",
+      "D": "The gudgeon pin",
+      "E": "The wrist pin"
+    },
+    "correctAnswer": "B",
+    "explanation": "The diesel fuel injection pump is mechanically geared to and driven by the engine camshaft so that fuel injection timing stays synchronized with piston position."
+  },
+  {
+    "number": 15,
+    "heading": "Internal Combustion Engines",
+    "question": "An injection nozzle is used to _____ the fuel in a diesel engine.",
+    "options": {
+      "A": "Mix",
+      "B": "Atomize",
+      "C": "Aspirate",
+      "D": "Ignite",
+      "E": "Eject"
+    },
+    "correctAnswer": "B",
+    "explanation": "The injection nozzle breaks the high-pressure liquid fuel stream into a fine spray of microscopic droplets (atomization) for rapid mixing and combustion."
+  },
+  {
+    "number": 16,
+    "heading": "Internal Combustion Engines",
+    "question": "Compression ignition engines:",
+    "options": {
+      "A": "Need suction and discharge valves",
+      "B": "Need a carburetor to mix the fuel with the air",
+      "C": "Will compress air only on the compression stroke",
+      "D": "Will compress air only on the power stroke",
+      "E": "Require a spark timing device"
+    },
+    "correctAnswer": "C",
+    "explanation": "Unlike spark-ignition engines that compress an air-fuel mixture, compression-ignition (diesel) engines draw in and compress pure air only on the compression stroke."
+  },
+  {
+    "number": 17,
+    "heading": "Internal Combustion Engines",
+    "question": "When using compressed air to each cylinder for starting purposes, the pressure is approximately:",
+    "options": {
+      "A": "435 kPa",
+      "B": "3 030 kPa",
+      "C": "255 kPa",
+      "D": "520 kPa",
+      "E": "2 100 kPa"
+    },
+    "correctAnswer": "E",
+    "explanation": "Direct air-start systems on large stationary engines typically supply compressed air to the cylinders at approximately 2,100 kPa (around 300 psi)."
+  },
+  {
+    "number": 18,
+    "heading": "Internal Combustion Engines",
+    "question": "One complete movement of the piston in one direction through the cylinder requires _____ revolution(s) of the engine crankshaft:",
+    "options": {
+      "A": "One",
+      "B": "One-half",
+      "C": "Eight",
+      "D": "Four",
+      "E": "Two"
+    },
+    "correctAnswer": "B",
+    "explanation": "One piston stroke (from Top Dead Center to Bottom Dead Center, or vice versa) corresponds to 180 degrees, or one-half (0.5) revolution of the crankshaft."
+  },
+  {
+    "number": 19,
+    "heading": "Internal Combustion Engines",
+    "question": "Cylinder scavenging:",
+    "options": {
+      "A": "Prevents the air from entering the cylinder",
+      "B": "Is more efficient in a two-cycle engine than a four-cycle type",
+      "C": "Removes excessive oil from the cylinder walls",
+      "D": "Is scoring the cylinder by a broken piston ring",
+      "E": "Is the removal of exhaust gases from the cylinder"
+    },
+    "correctAnswer": "E",
+    "explanation": "Scavenging is the process of sweeping burned exhaust gases out of the engine cylinder and replacing them with a fresh charge of air."
+  },
+  {
+    "number": 20,
+    "heading": "Internal Combustion Engines",
+    "question": "An engine which develops one power stroke with every other turn of the crankshaft is the:",
+    "options": {
+      "A": "V type engine",
+      "B": "External combustion unit",
+      "C": "Type that requires pre-mixed lube oil and fuel",
+      "D": "Four stroke natural gas engine",
+      "E": "Two stroke diesel engine"
+    },
+    "correctAnswer": "D",
+    "explanation": "A four-stroke cycle engine completes intake, compression, power, and exhaust over four piston strokes, equaling two crankshaft revolutions (one power stroke every other turn)."
+  }
+]

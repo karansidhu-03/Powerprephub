@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Gas Turbines",
+    "question": "A two shaft gas turbine:",
+    "options": {
+      "A": "Is always an open cycle",
+      "B": "Is always a closed cycle",
+      "C": "Does not require a starting motor",
+      "D": "Has the first turbine drive the prop on a turboprop engine",
+      "E": "Has the load turbine downstream from the compressor turbine"
+    },
+    "correctAnswer": "E",
+    "explanation": "In a two-shaft gas turbine, the compressor is driven by the high-pressure compressor turbine, while the power/load turbine is located downstream on a separate shaft."
+  },
+  {
+    "number": 2,
+    "heading": "Gas Turbines",
+    "question": "Gas turbines are ideal when considering:",
+    "options": {
+      "A": "Good thermal efficiency",
+      "B": "Cooling water pump operation",
+      "C": "Automotive power",
+      "D": "Emergency power generation",
+      "E": "Long warm up periods"
+    },
+    "correctAnswer": "D",
+    "explanation": "Gas turbines are ideal for emergency and peak-load power generation due to their rapid startup and load-acceptance characteristics."
+  },
+  {
+    "number": 3,
+    "heading": "Gas Turbines",
+    "question": "The air side of a gas turbine regenerator is located:",
+    "options": {
+      "A": "Downstream after the compressor",
+      "B": "Before the compressor",
+      "C": "Between the turbine and combustion chamber",
+      "D": "Between the turbine and atmosphere",
+      "E": "After the combustion chamber"
+    },
+    "correctAnswer": "A",
+    "explanation": "The air side of a regenerator (heat exchanger) receives compressed air leaving the compressor (upstream of the combustor) to preheat it using exhaust gases."
+  },
+  {
+    "number": 4,
+    "heading": "Gas Turbines",
+    "question": "Some of the characteristics that make the gas turbine a better choice over other prime movers are:\n1. Low maintenance\n2. Minimum cooling water\n3. High thermal efficiency\n4. Rapid startup and loading",
+    "options": {
+      "A": "1, 2, 4",
+      "B": "1, 2, 3",
+      "C": "1, 2, 3, 4",
+      "D": "1, 3, 4",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "Gas turbines are preferred for low maintenance (1), minimum cooling water requirements (2), and rapid startup and loading (4), though their simple-cycle thermal efficiency can be lower."
+  },
+  {
+    "number": 5,
+    "heading": "Gas Turbines",
+    "question": "The low installation cost of a gas turbine is:",
+    "options": {
+      "A": "Due to short fuel lines",
+      "B": "Because no electrical wiring is required",
+      "C": "Due to cheap materials in the blades",
+      "D": "Because no fuel pump is required",
+      "E": "Because less auxiliary equipment is needed"
+    },
+    "correctAnswer": "E",
+    "explanation": "Gas turbines have low initial and installation costs primarily because they require fewer auxiliary systems and support equipment compared to steam plants."
+  },
+  {
+    "number": 6,
+    "heading": "Gas Turbines",
+    "question": "Gas turbines are very popular where:",
+    "options": {
+      "A": "Water is scarce",
+      "B": "Natural gas is plentiful",
+      "C": "Industrial sites are small and in congested areas",
+      "D": "Noise does not present a problem",
+      "E": "Thermal pollution is of major concern"
+    },
+    "correctAnswer": "A",
+    "explanation": "Gas turbines are exceptionally popular in arid regions or locations where cooling water is scarce because they require minimal or no cooling water."
+  },
+  {
+    "number": 7,
+    "heading": "Gas Turbines",
+    "question": "The compressor on the gas turbine:",
+    "options": {
+      "A": "Is always a multistage compressor",
+      "B": "Is always of the axial type",
+      "C": "Is always independently driven",
+      "D": "Is always a reciprocating type",
+      "E": "Can be driven by the load turbine"
+    },
+    "correctAnswer": "E",
+    "explanation": "In multi-shaft or specific configurations, compressor drive arrangements can vary, or the compressor can be connected/influenced by load turbines depending on design."
+  },
+  {
+    "number": 8,
+    "heading": "Gas Turbines",
+    "question": "Early gas turbines were handicapped by:",
+    "options": {
+      "A": "Metal not being able to withstand high-speed centrifugal forces",
+      "B": "Their inadequate power capability",
+      "C": "Metals not standing the high temperatures involved",
+      "D": "Their high operating speeds",
+      "E": "The inability to get enough air into the combustion chamber"
+    },
+    "correctAnswer": "C",
+    "explanation": "Early gas turbines were severely limited and handicapped by metallurgy—specifically the inability of turbine blade metals to withstand extremely high operating temperatures."
+  },
+  {
+    "number": 9,
+    "heading": "Gas Turbines",
+    "question": "A simple gas turbine is one without reheaters or:",
+    "options": {
+      "A": "Combustors",
+      "B": "Regenerators",
+      "C": "Compressors",
+      "D": "Starting motors",
+      "E": "Shafts"
+    },
+    "correctAnswer": "B",
+    "explanation": "A simple gas turbine consists of a compressor, combustor, and turbine without auxiliary components like reheaters or regenerators."
+  },
+  {
+    "number": 10,
+    "heading": "Gas Turbines",
+    "question": "A gas turbine performs most effectively if the:",
+    "options": {
+      "A": "Lubricating oil is of the proper viscosity",
+      "B": "Ambient air temperature is low",
+      "C": "Cooling water temperature is kept low",
+      "D": "Load is added immediately after starting",
+      "E": "Ambient air temperature is high"
+    },
+    "correctAnswer": "B",
+    "explanation": "Gas turbines perform most effectively and deliver higher mass flow and power output when ambient air temperature is low (cold intake air)."
+  },
+  {
+    "number": 11,
+    "heading": "Gas Turbines",
+    "question": "Compressor blades are commonly cleaned using:",
+    "options": {
+      "A": "High pressure steam",
+      "B": "Acid",
+      "C": "Caustic",
+      "D": "Sand blasting",
+      "E": "Detergent"
+    },
+    "correctAnswer": "E",
+    "explanation": "Gas turbine compressor blades are commonly washed and cleaned using approved solvents or detergent solutions sprayed during cranking or operation."
+  },
+  {
+    "number": 12,
+    "heading": "Gas Turbines",
+    "question": "The output power of a gas turbine is directly related to the:",
+    "options": {
+      "A": "Slippage between the turbine and compressor",
+      "B": "Temperature at the turbine inlet",
+      "C": "Turbine exhaust temperature",
+      "D": "Mass of the unit",
+      "E": "Mass of gas passing through the turbine per second"
+    },
+    "correctAnswer": "E",
+    "explanation": "The output power of a gas turbine is directly related to the mass flow rate of gas passing through the turbine per second."
+  },
+  {
+    "number": 13,
+    "heading": "Gas Turbines",
+    "question": "A gas turbine:",
+    "options": {
+      "A": "Output increases when using an air preheater",
+      "B": "Output increases at higher altitude",
+      "C": "Expands the hot gases through the compressor",
+      "D": "Operates the best on hot intake air",
+      "E": "Output increases when using air of maximum density"
+    },
+    "correctAnswer": "E",
+    "explanation": "Gas turbine performance and air density are directly linked; output increases when using air of maximum density (cold, high pressure)."
+  },
+  {
+    "number": 14,
+    "heading": "Gas Turbines",
+    "question": "A closed cycle gas turbine:",
+    "options": {
+      "A": "Is a self-starting type of gas turbine",
+      "B": "Does not need a combustion chamber",
+      "C": "Must use a cooler before the regenerator",
+      "D": "Will use the same working air over again",
+      "E": "Starts with the exhaust valve closed"
+    },
+    "correctAnswer": "D",
+    "explanation": "A closed cycle gas turbine recirculates and uses the same working fluid (air or gas) over and over through a closed loop."
+  },
+  {
+    "number": 15,
+    "heading": "Gas Turbines",
+    "question": "Many typical steam plant auxiliaries are eliminated with a gas turbine due to its:",
+    "options": {
+      "A": "High speed",
+      "B": "High power to weight ratio",
+      "C": "Low oil consumption",
+      "D": "Small size",
+      "E": "Simplicity"
+    },
+    "correctAnswer": "E",
+    "explanation": "Many typical steam plant auxiliary systems (like condensers, extensive feedwater treatment, boiler feed pumps) are eliminated due to the simplicity and compactness of gas turbines."
+  },
+  {
+    "number": 16,
+    "heading": "Gas Turbines",
+    "question": "A combined steam and gas turbine arrangement can be termed:",
+    "options": {
+      "A": "An ideal system",
+      "B": "A once-through system",
+      "C": "A high capacity system",
+      "D": "A cogeneration system",
+      "E": "Ideal relative to system efficiency"
+    },
+    "correctAnswer": "D",
+    "explanation": "Combined cycle arrangements integrating gas and steam turbines are widely recognized as cogeneration or combined-cycle systems for high thermal efficiency."
+  },
+  {
+    "number": 17,
+    "heading": "Gas Turbines",
+    "question": "An essential auxiliary in a gas turbine installation is a/an:",
+    "options": {
+      "A": "Pump",
+      "B": "Air dehumidifier",
+      "C": "Starting motor",
+      "D": "Generator",
+      "E": "Air heater"
+    },
+    "correctAnswer": "C",
+    "explanation": "A gas turbine is not self-starting and requires an electric motor, pneumatic starter, or auxiliary starting motor to spin it up."
+  },
+  {
+    "number": 18,
+    "heading": "Gas Turbines",
+    "question": "A gas turbine compressor is usually:",
+    "options": {
+      "A": "A centrifugal type",
+      "B": "Downstream of the turbine",
+      "C": "A dynamic axial design",
+      "D": "Downstream of the combustor",
+      "E": "Driven by a motor"
+    },
+    "correctAnswer": "C",
+    "explanation": "Gas turbine compressors in industrial units are typically dynamic axial compressors designed for high continuous mass flow."
+  },
+  {
+    "number": 19,
+    "heading": "Gas Turbines",
+    "question": "The purpose of a regenerator is to:",
+    "options": {
+      "A": "Clean the exhaust gases",
+      "B": "Increase the temperature in the combustion chamber",
+      "C": "Re-circulate the exhaust gases back through the compressor",
+      "D": "Decrease the temperature in the combustion chamber",
+      "E": "Improve the efficiency of the turbine"
+    },
+    "correctAnswer": "E",
+    "explanation": "The purpose of a regenerator is to recover heat from exhaust gases to preheat combustion air, thereby improving overall cycle thermal efficiency."
+  },
+  {
+    "number": 20,
+    "heading": "Gas Turbines",
+    "question": "A gas turbine is not self-starting. It must be rotated at _____ of its maximum speed before fuel is turned on.",
+    "options": {
+      "A": "5% to 10%",
+      "B": "20% to 30%",
+      "C": "55% to 60%",
+      "D": "10% to 15%",
+      "E": "75% to 80%"
+    },
+    "correctAnswer": "B",
+    "explanation": "A gas turbine must be cranked up to 20% to 30% of its rated maximum speed by its starting motor before fuel is introduced and ignited."
+  }
+]

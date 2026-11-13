@@ -1,0 +1,198 @@
+[
+  {
+    "number": 1,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "The term \"prime mover\" refers to:",
+    "options": {
+      "A": "Large steam generators",
+      "B": "All heat engines",
+      "C": "A single device that either by itself or as part of a system converts a natural source of energy into motion",
+      "D": "Steam turbines",
+      "E": "Electric motors"
+    },
+    "correctAnswer": "C",
+    "explanation": "A prime mover is defined as a single device that either by itself or as part of a system converts a natural source of energy into motion."
+  },
+  {
+    "number": 2,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "According to the strict definition a prime mover is:",
+    "options": {
+      "A": "An electric motor",
+      "B": "A centrifugal pump",
+      "C": "A boiler",
+      "D": "A gas turbine",
+      "E": "An air compressor"
+    },
+    "correctAnswer": "D",
+    "explanation": "Strictly speaking, thermal prime movers include devices like gas turbines and steam engines that convert heat into mechanical work."
+  },
+  {
+    "number": 3,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "Despite their size and complexity, steam plants are widely used:",
+    "options": {
+      "A": "Because they can burn solid fuels such as coal and wood",
+      "B": "Due to their low effluent of polluting products",
+      "C": "Due to their minimal requirement for water",
+      "D": "As they are easy to place in an urban environment",
+      "E": "Because they can be run by untrained personnel"
+    },
+    "correctAnswer": "A",
+    "explanation": "Steam power plants are widely utilized despite their complexity because they possess the unique capability to burn solid fuels such as coal and biomass on a large scale."
+  },
+  {
+    "number": 4,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "A routine inspection of an operating steam engine should cover first and foremost:",
+    "options": {
+      "A": "Drive belts",
+      "B": "Steam temperature",
+      "C": "Engine speed",
+      "D": "Steam quality",
+      "E": "Lubricators"
+    },
+    "correctAnswer": "E",
+    "explanation": "Ensuring proper lubrication is critical in reciprocating steam engines; therefore, inspecting lubricators is a primary routine check."
+  },
+  {
+    "number": 5,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "A steam engine piston:",
+    "options": {
+      "A": "Is lubricated from the crankcase oil by splash method",
+      "B": "Moves fastest at the beginning of its stroke",
+      "C": "Never requires lubrication",
+      "D": "Moves fastest at the end of its stroke",
+      "E": "Can never have steam applied to either side"
+    },
+    "correctAnswer": "B",
+    "explanation": "Due to crank-connecting rod kinematics, a steam engine piston moves fastest near the beginning and middle of its stroke, slowing down towards dead centers."
+  },
+  {
+    "number": 6,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "The slide valve of a steam engine is designed to:",
+    "options": {
+      "A": "Provide lubrication for the steam engine",
+      "B": "Allow the piston to slide more freely",
+      "C": "Provide for the steam to enter and leave the cylinder",
+      "D": "Drain the condensate from the cylinder during warm-up",
+      "E": "Prevent the engine from over speeding"
+    },
+    "correctAnswer": "C",
+    "explanation": "The slide valve regulates the admission and exhaust of steam into and out of the steam engine cylinder."
+  },
+  {
+    "number": 7,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "Whenever feasibly possible, when checking bearings on running pieces of equipment it is wise to:",
+    "options": {
+      "A": "Check the oil quantity leaving each",
+      "B": "Get accustomed to normal running temperature and vibration by feel",
+      "C": "Smell the normal running odors of the bearing",
+      "D": "Observe the temperature on a thermometer",
+      "E": "Check the oil quality leaving each"
+    },
+    "correctAnswer": "B",
+    "explanation": "Operating personnel develop a tactile familiarity with normal running temperatures and vibrations of bearings by feel to quickly detect anomalies."
+  },
+  {
+    "number": 8,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "Large power production plants tend to be of the thermal type because they can burn solid fuels and:",
+    "options": {
+      "A": "They require the least amount of manpower",
+      "B": "The heat cycle they use is the most efficient",
+      "C": "The noise level is much less than internal combustion engines",
+      "D": "Solid fuels are the most plentiful and the cheapest",
+      "E": "They are the least expensive to build"
+    },
+    "correctAnswer": "B",
+    "explanation": "Large thermal power production plants use highly efficient heat cycles, such as the Rankine cycle, to convert heat energy into mechanical energy and then electricity. These cycles are well suited for large-scale power generation and can achieve high overall efficiency through the use of steam turbines, condensers, and feedwater heating systems."
+  },
+  {
+    "number": 9,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "A steam engine will have the steam supply to the cylinder shut off once the piston has traveled _____ of its stroke.",
+    "options": {
+      "A": "15% to 20%",
+      "B": "90% to 95%",
+      "C": "1/4 to 1/3",
+      "D": "3/4 to 9/10",
+      "E": "55% to 65%"
+    },
+    "correctAnswer": "C",
+    "explanation": "To utilize expansive energy efficiently, the steam supply is typically cut off early in the stroke, around 1/4 to 1/3 of travel."
+  },
+  {
+    "number": 10,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "The reciprocating motion of a steam engine is converted to rotary motion:",
+    "options": {
+      "A": "By the camshaft",
+      "B": "By the valve gear",
+      "C": "At the end of the piston stroke",
+      "D": "In the steam cylinder",
+      "E": "At the crankshaft"
+    },
+    "correctAnswer": "E",
+    "explanation": "The reciprocating linear motion of the piston is converted into rotary motion at the crankshaft via the crosshead and connecting rod assembly."
+  },
+  {
+    "number": 11,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "Connecting rods on a steam engine:",
+    "options": {
+      "A": "Are used to move the slide valve",
+      "B": "Are used to connect the piston to the slide valve",
+      "C": "Transmit force from the piston",
+      "D": "Are used to connect the piston to the slide valve",
+      "E": "Are only needed on vertical engines"
+    },
+    "correctAnswer": "C",
+    "explanation": "Connecting rods on a steam engine transmit the reciprocating force from the crosshead/piston to the crankshaft crankpin."
+  },
+  {
+    "number": 12,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "The term \"heat engine\" refers to an operating cycle that uses a working fluid to convert:",
+    "options": {
+      "A": "Thermal energy to chemical energy",
+      "B": "Mechanical energy to electrical energy",
+      "C": "Thermal energy to electrical energy",
+      "D": "Thermal energy to mechanical energy",
+      "E": "Chemical energy to mechanical energy"
+    },
+    "correctAnswer": "D",
+    "explanation": "A heat engine is defined as a device or operating cycle that uses a working fluid to convert thermal energy into mechanical energy."
+  },
+  {
+    "number": 13,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "The crosshead of a steam engine:",
+    "options": {
+      "A": "Imparts linear motion to the crankshaft",
+      "B": "Never requires any special bearing material",
+      "C": "Transfers reciprocating motion to rotational motion",
+      "D": "Imparts angular motion to the piston rod",
+      "E": "Does not require any lubrication"
+    },
+    "correctAnswer": "C",
+    "explanation": "The crosshead slides in guides to convert angular connecting rod motion and transmit linear reciprocating motion."
+  },
+  {
+    "number": 14,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "One of the first ways to detect a fault in a reciprocating engine is by:",
+    "options": {
+      "A": "Oil consumption",
+      "B": "Performance efficiency",
+      "C": "Sound",
+      "D": "Smell",
+      "E": "Temperature indication"
+    },
+    "correctAnswer": "C",
+    "explanation": "Unusual noises (knocking, slapping, hissing) are typically the earliest indicators of a mechanical fault or loose component in a reciprocating engine."
+  }
+]

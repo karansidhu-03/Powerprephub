@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Condensers and Cooling Towers",
+    "question": "A cooling tower which requires neither fan nor fill is the:",
+    "options": {
+      "A": "Counter flow induced unit",
+      "B": "Forced draft unit",
+      "C": "Cross flow unit",
+      "D": "Hyperbolic unit",
+      "E": "Induced draft unit"
+    },
+    "correctAnswer": "D",
+    "explanation": "Hyperbolic natural draft cooling towers are massive structures that utilize natural chimney draft and spray systems, requiring neither fans nor internal fill."
+  },
+  {
+    "number": 2,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Natural draft cooling towers operate most effectively in large open spaces and:",
+    "options": {
+      "A": "Where wind is relatively constant",
+      "B": "Require a windbreak",
+      "C": "Must not be in direct sunlight",
+      "D": "Where a large body of water is nearby",
+      "E": "Where relative humidity is high"
+    },
+    "correctAnswer": "A",
+    "explanation": "Natural draft cooling towers rely on ambient air movement and operate most effectively where wind is relatively constant and open spaces are available."
+  },
+  {
+    "number": 3,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Organic growths also called _____ can reduce the flow rates in heat exchanger tubes and channels.",
+    "options": {
+      "A": "Silt",
+      "B": "Algae",
+      "C": "Bugs",
+      "D": "Fungi",
+      "E": "Slime"
+    },
+    "correctAnswer": "E",
+    "explanation": "Organic growths and microbial slimes can severely restrict flow areas and reduce flow rates in heat exchanger tubes."
+  },
+  {
+    "number": 4,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Compared to a cross flow tower, a counter flow tower:",
+    "options": {
+      "A": "Requires less fan power",
+      "B": "Has a lower pressure drop",
+      "C": "Requires less floor space",
+      "D": "Is not as tall",
+      "E": "Has much less capacity"
+    },
+    "correctAnswer": "C",
+    "explanation": "Compared to cross-flow cooling towers, counter-flow towers have a more vertical air-water path requiring less horizontal floor space."
+  },
+  {
+    "number": 5,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Biological fouling in recirculating cooling water towers is caused by _____ and bacteria growth.",
+    "options": {
+      "A": "Floral",
+      "B": "Biologocal",
+      "C": "Chemical",
+      "D": "Algae",
+      "E": "Fauna"
+    },
+    "correctAnswer": "D",
+    "explanation": "Biological fouling in recirculating cooling towers is primarily caused by algae, fungi, and bacteria growth."
+  },
+  {
+    "number": 6,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Changes in fan pitch can cause ______ problems for the motor.",
+    "options": {
+      "A": "Freezing",
+      "B": "Algae",
+      "C": "Low water flow",
+      "D": "Corrosion",
+      "E": "Overheating"
+    },
+    "correctAnswer": "E",
+    "explanation": "Improper adjustment of fan blade pitch can alter load requirements and cause motor overloading and overheating."
+  },
+  {
+    "number": 7,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Dry cooling towers:",
+    "options": {
+      "A": "Have a forced draft fan located at the bottom",
+      "B": "Pass the cooling water through a closed circuit of finned tubes",
+      "C": "Operate by natural draft",
+      "D": "Have an induced draft fan located at the top",
+      "E": "Have the cooling water flow from bottom to top"
+    },
+    "correctAnswer": "B",
+    "explanation": "Dry cooling towers pass the hot cooling water through a closed circuit of finned tubes, transferring heat directly to ambient air without evaporative water loss."
+  },
+  {
+    "number": 8,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Natural draft cooling towers are divided into:",
+    "options": {
+      "A": "Dry and wet types",
+      "B": "Closed and semi closed types",
+      "C": "Filled and unfilled types",
+      "D": "Atmospheric and chimney type",
+      "E": "Open and filled types"
+    },
+    "correctAnswer": "D",
+    "explanation": "Natural draft cooling towers are classified into two types: atmospheric and chimney type. Atmospheric towers rely on natural wind to circulate air through the tower, while chimney-type towers use the stack effect, where warm, moist air rises through the tall tower and draws cooler air in from below. Neither type requires a mechanical fan."
+  },
+  {
+    "number": 9,
+    "heading": "Condensers and Cooling Towers",
+    "question": "High discharge water temperature from the cooling tower could be caused by:",
+    "options": {
+      "A": "Low wet bulb air temperature",
+      "B": "Fine water spray in the tower",
+      "C": "Relative humidity",
+      "D": "Low concentration of solids in the water",
+      "E": "Low dry bulb air temperature"
+    },
+    "correctAnswer": "C",
+    "explanation": "High discharge water temperatures can result from high ambient wet-bulb temperatures, high relative humidity, or inadequate airflow."
+  },
+  {
+    "number": 10,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Excessive wind velocity in a natural draft cooling tower may cause:",
+    "options": {
+      "A": "Over-cooling of the water",
+      "B": "High water drift or losses",
+      "C": "Under-cooling of the water",
+      "D": "Louvers to become broken",
+      "E": "Rotation reversal of the fan"
+    },
+    "correctAnswer": "B",
+    "explanation": "Excessive wind velocity across a natural draft cooling tower can blow water out of the tower, causing high water drift losses."
+  },
+  {
+    "number": 11,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Condensers can be divided into two main groups, contact and:",
+    "options": {
+      "A": "Radiant",
+      "B": "Thermodynamic",
+      "C": "Non contact",
+      "D": "Reverse acting",
+      "E": "Surface"
+    },
+    "correctAnswer": "E",
+    "explanation": "Condensers are divided into two main categories: contact (direct contact) and surface (non-contact) condensers."
+  },
+  {
+    "number": 12,
+    "heading": "Condensers and Cooling Towers",
+    "question": "The component of wood that is leached away reducing the ability of the wood to resist decay is the:",
+    "options": {
+      "A": "Natural extractives",
+      "B": "Lignin",
+      "C": "Bark",
+      "D": "Leaves",
+      "E": "Cellulose"
+    },
+    "correctAnswer": "A",
+    "explanation": "Natural extractives within wood provide natural resistance to biological decay; when leached away by water or chemicals, wood becomes susceptible to rotting."
+  },
+  {
+    "number": 13,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Cooling towers:",
+    "options": {
+      "A": "All have fans",
+      "B": "Are mandatory for all power plants",
+      "C": "Remove sensible heat only from condensate",
+      "D": "Cannot be used during winter periods",
+      "E": "Reduce thermal pollution of rivers and lakes"
+    },
+    "correctAnswer": "E",
+    "explanation": "Cooling towers reject heat to the atmosphere, effectively eliminating thermal pollution of natural rivers and lakes."
+  },
+  {
+    "number": 14,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Water contained in the air stream at the discharge of a cooling tower is removed:",
+    "options": {
+      "A": "With drift eliminators",
+      "B": "By a series of chevron dryers",
+      "C": "With centrifugal separators",
+      "D": "By a series of baffles",
+      "E": "By refrigeration means"
+    },
+    "correctAnswer": "A",
+    "explanation": "Drift eliminators are installed at the discharge of cooling towers to capture and remove entrained water droplets from the exhaust air stream."
+  },
+  {
+    "number": 15,
+    "heading": "Condensers and Cooling Towers",
+    "question": "The rate of heat transfer in any cooling tower system depends on the:\n1. Relative velocity of both air and water during contact\n2. Volume of water in contact with the air\n3. Length of contact time between the air and water\n4. Difference between the inlet water temperature and the inlet air wet bulb temperature",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "1, 2, 3, 4",
+      "C": "1, 2, 4",
+      "D": "1, 2, 3",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "The rate of heat transfer in a cooling tower depends on the relative velocity of air and water during contact (1), the length of contact time between them (3), and the temperature difference between the incoming hot water and the incoming air wet-bulb temperature (4). A greater temperature difference and longer, effective contact between air and water improve heat transfer. Therefore, statements 1, 3, and 4 are correct. The volume of water in contact with air (2) is not included in the correct combination for this question."
+  },
+  {
+    "number": 16,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Cooling towers:\n1. Remove the heat from the condensate\n2. Should use water treatment\n3. Prevent thermal pollution of rivers and lakes\n4. Cannot be used during winter periods\n5. Remove the sensible heat of the steam in the condenser",
+    "options": {
+      "A": "2, 3",
+      "B": "1, 3, 4, 5",
+      "C": "1, 2, 3",
+      "D": "1, 3, 4",
+      "E": "3, 4, 5"
+    },
+    "correctAnswer": "A",
+    "explanation": "Cooling towers require proper water treatment (2) to control scale, corrosion, and biological growth. They also help prevent thermal pollution (3) by cooling the hot circulating water before it is reused or discharged. Statement 1 is incorrect because cooling towers cool the circulating water, not the condensate. Statement 4 is incorrect because cooling towers can operate during winter with proper precautions against freezing. Statement 5 is incorrect because the condenser removes heat from the steam; the cooling tower removes heat from the circulating cooling water. Therefore, statements 2 and 3 are correct."
+  },
+  {
+    "number": 17,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Adding a condenser can increase the efficiency of a turbine by:",
+    "options": {
+      "A": "50%",
+      "B": "75%",
+      "C": "25%",
+      "D": "80%",
+      "E": "10%"
+    },
+    "correctAnswer": "A",
+    "explanation": "Adding a condenser can increase the efficiency of a steam turbine by approximately 50%. The condenser maintains a vacuum (pressure below atmospheric pressure) at the turbine exhaust, allowing steam to expand further through the turbine and produce more useful work from the same amount of steam. This improves the overall thermal efficiency of the power plant."
+  },
+  {
+    "number": 18,
+    "heading": "Condensers and Cooling Towers",
+    "question": "To prevent cooling tower basin water from freezing during cold weather, many units are equipped with:",
+    "options": {
+      "A": "Ethylene glycol antifreeze systems",
+      "B": "Ice defrosters",
+      "C": "Propane burners",
+      "D": "Warming tapes",
+      "E": "Electric basin heaters"
+    },
+    "correctAnswer": "E",
+    "explanation": "To prevent cooling tower basin water from freezing during sub-freezing weather, units are typically equipped with electric basin heaters."
+  },
+  {
+    "number": 19,
+    "heading": "Condensers and Cooling Towers",
+    "question": "The purpose of a condenser in a steam power plant is to improve overall efficiency and:",
+    "options": {
+      "A": "Heat the condensate",
+      "B": "Add air to condensate",
+      "C": "Convert Steam to condensate",
+      "D": "Convert the condensate to steam",
+      "E": "Increase the pressure of the condensate"
+    },
+    "correctAnswer": "C",
+    "explanation": "The primary purpose of a condenser in a steam plant is to condense exhaust steam back into condensate and maintain a high vacuum to improve cycle efficiency."
+  },
+  {
+    "number": 20,
+    "heading": "Condensers and Cooling Towers",
+    "question": "The bypass valve that prevents water flow over the fill of a tower during cold weather should not be closed until the temperature reaches:",
+    "options": {
+      "A": "+5°C",
+      "B": "+0.5°C",
+      "C": "+27°C",
+      "D": "+20°C",
+      "E": "-0.5°C"
+    },
+    "correctAnswer": "C",
+    "explanation": "During cold weather, the bypass valve directs water around the cooling tower fill to prevent ice from forming on the fill and restricting airflow. The bypass valve should not be closed until the temperature reaches approximately +27°C. At this temperature, water can safely be redirected over the fill for normal cooling tower operation without the same risk of severe icing."
+  }
+]
