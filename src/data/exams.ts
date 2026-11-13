@@ -151,7 +151,8 @@ import b6chp3 from "./Part B/Chp/BookB6/chp3.json";
 import b6chp4 from "./Part B/Chp/BookB6/chp4.json";
 import b6chp5 from "./Part B/Chp/BookB6/chp5.json";
 
-// Part B — Book B7 chapters
+// Part B — Book B7 full book + chapters
+import bookB7 from "./Part B/Chp/BookB7/bookb7.json";
 import b7chp1 from "./Part B/Chp/BookB7/chp1.json";
 import b7chp2 from "./Part B/Chp/BookB7/chp2.json";
 import b7chp3 from "./Part B/Chp/BookB7/chp3.json";
@@ -964,6 +965,11 @@ const bookB6Chapters: Paper[] = [
 ];
 
 const bookB7Chapters: Paper[] = [
+  makePaper(
+    "b7-fullbook",
+    "Full Book B7 Exam",
+    toQuestions(bookB7 as unknown as RawNumberQuestion[], "Book B7 — Prime Movers"),
+  ),
   makePaper(
     "b7-chp1",
     "Heat Engines and Prime Movers",
