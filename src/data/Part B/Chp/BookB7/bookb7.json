@@ -1,0 +1,1318 @@
+[
+  {
+    "number": 1,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "The term \"prime mover\" refers to:",
+    "options": {
+      "A": "Large steam generators",
+      "B": "All heat engines",
+      "C": "A single device that either by itself or as part of a system converts a natural source of energy into motion",
+      "D": "Steam turbines",
+      "E": "Electric motors"
+    },
+    "correctAnswer": "C",
+    "explanation": "A prime mover is defined as a single device that either by itself or as part of a system converts a natural source of energy into motion."
+  },
+  {
+    "number": 2,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "According to the strict definition a prime mover is:",
+    "options": {
+      "A": "An electric motor",
+      "B": "A centrifugal pump",
+      "C": "A boiler",
+      "D": "A gas turbine",
+      "E": "An air compressor"
+    },
+    "correctAnswer": "D",
+    "explanation": "Strictly speaking, thermal prime movers include devices like gas turbines and steam engines that convert heat into mechanical work."
+  },
+  {
+    "number": 3,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "Despite their size and complexity, steam plants are widely used:",
+    "options": {
+      "A": "Because they can burn solid fuels such as coal and wood",
+      "B": "Due to their low effluent of polluting products",
+      "C": "Due to their minimal requirement for water",
+      "D": "As they are easy to place in an urban environment",
+      "E": "Because they can be run by untrained personnel"
+    },
+    "correctAnswer": "A",
+    "explanation": "Steam power plants are widely utilized despite their complexity because they possess the unique capability to burn solid fuels such as coal and biomass on a large scale."
+  },
+  {
+    "number": 4,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "A routine inspection of an operating steam engine should cover first and foremost:",
+    "options": {
+      "A": "Drive belts",
+      "B": "Steam temperature",
+      "C": "Engine speed",
+      "D": "Steam quality",
+      "E": "Lubricators"
+    },
+    "correctAnswer": "E",
+    "explanation": "Ensuring proper lubrication is critical in reciprocating steam engines; therefore, inspecting lubricators is a primary routine check."
+  },
+  {
+    "number": 5,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "A steam engine piston:",
+    "options": {
+      "A": "Is lubricated from the crankcase oil by splash method",
+      "B": "Moves fastest at the beginning of its stroke",
+      "C": "Never requires lubrication",
+      "D": "Moves fastest at the end of its stroke",
+      "E": "Can never have steam applied to either side"
+    },
+    "correctAnswer": "B",
+    "explanation": "Due to crank-connecting rod kinematics, a steam engine piston moves fastest near the beginning and middle of its stroke, slowing down towards dead centers."
+  },
+  {
+    "number": 6,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "The slide valve of a steam engine is designed to:",
+    "options": {
+      "A": "Provide lubrication for the steam engine",
+      "B": "Allow the piston to slide more freely",
+      "C": "Provide for the steam to enter and leave the cylinder",
+      "D": "Drain the condensate from the cylinder during warm-up",
+      "E": "Prevent the engine from over speeding"
+    },
+    "correctAnswer": "C",
+    "explanation": "The slide valve regulates the admission and exhaust of steam into and out of the steam engine cylinder."
+  },
+  {
+    "number": 7,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "Whenever feasibly possible, when checking bearings on running pieces of equipment it is wise to:",
+    "options": {
+      "A": "Check the oil quantity leaving each",
+      "B": "Get accustomed to normal running temperature and vibration by feel",
+      "C": "Smell the normal running odors of the bearing",
+      "D": "Observe the temperature on a thermometer",
+      "E": "Check the oil quality leaving each"
+    },
+    "correctAnswer": "B",
+    "explanation": "Operating personnel develop a tactile familiarity with normal running temperatures and vibrations of bearings by feel to quickly detect anomalies."
+  },
+  {
+    "number": 8,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "Large power production plants tend to be of the thermal type because they can burn solid fuels and:",
+    "options": {
+      "A": "They require the least amount of manpower",
+      "B": "The heat cycle they use is the most efficient",
+      "C": "The noise level is much less than internal combustion engines",
+      "D": "Solid fuels are the most plentiful and the cheapest",
+      "E": "They are the least expensive to build"
+    },
+    "correctAnswer": "B",
+    "explanation": "Large thermal power production plants use highly efficient heat cycles, such as the Rankine cycle, to convert heat energy into mechanical energy and then electricity. These cycles are well suited for large-scale power generation and can achieve high overall efficiency through the use of steam turbines, condensers, and feedwater heating systems."
+  },
+  {
+    "number": 9,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "A steam engine will have the steam supply to the cylinder shut off once the piston has traveled _____ of its stroke.",
+    "options": {
+      "A": "15% to 20%",
+      "B": "90% to 95%",
+      "C": "1/4 to 1/3",
+      "D": "3/4 to 9/10",
+      "E": "55% to 65%"
+    },
+    "correctAnswer": "C",
+    "explanation": "To utilize expansive energy efficiently, the steam supply is typically cut off early in the stroke, around 1/4 to 1/3 of travel."
+  },
+  {
+    "number": 10,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "The reciprocating motion of a steam engine is converted to rotary motion:",
+    "options": {
+      "A": "By the camshaft",
+      "B": "By the valve gear",
+      "C": "At the end of the piston stroke",
+      "D": "In the steam cylinder",
+      "E": "At the crankshaft"
+    },
+    "correctAnswer": "E",
+    "explanation": "The reciprocating linear motion of the piston is converted into rotary motion at the crankshaft via the crosshead and connecting rod assembly."
+  },
+  {
+    "number": 11,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "Connecting rods on a steam engine:",
+    "options": {
+      "A": "Are used to move the slide valve",
+      "B": "Are used to connect the piston to the slide valve",
+      "C": "Transmit force from the piston",
+      "D": "Are used to connect the piston to the slide valve",
+      "E": "Are only needed on vertical engines"
+    },
+    "correctAnswer": "C",
+    "explanation": "Connecting rods on a steam engine transmit the reciprocating force from the crosshead/piston to the crankshaft crankpin."
+  },
+  {
+    "number": 12,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "The term \"heat engine\" refers to an operating cycle that uses a working fluid to convert:",
+    "options": {
+      "A": "Thermal energy to chemical energy",
+      "B": "Mechanical energy to electrical energy",
+      "C": "Thermal energy to electrical energy",
+      "D": "Thermal energy to mechanical energy",
+      "E": "Chemical energy to mechanical energy"
+    },
+    "correctAnswer": "D",
+    "explanation": "A heat engine is defined as a device or operating cycle that uses a working fluid to convert thermal energy into mechanical energy."
+  },
+  {
+    "number": 13,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "The crosshead of a steam engine:",
+    "options": {
+      "A": "Imparts linear motion to the crankshaft",
+      "B": "Never requires any special bearing material",
+      "C": "Transfers reciprocating motion to rotational motion",
+      "D": "Imparts angular motion to the piston rod",
+      "E": "Does not require any lubrication"
+    },
+    "correctAnswer": "C",
+    "explanation": "The crosshead slides in guides to convert angular connecting rod motion and transmit linear reciprocating motion."
+  },
+  {
+    "number": 14,
+    "heading": "Heat Engines and Prime Movers",
+    "question": "One of the first ways to detect a fault in a reciprocating engine is by:",
+    "options": {
+      "A": "Oil consumption",
+      "B": "Performance efficiency",
+      "C": "Sound",
+      "D": "Smell",
+      "E": "Temperature indication"
+    },
+    "correctAnswer": "C",
+    "explanation": "Unusual noises (knocking, slapping, hissing) are typically the earliest indicators of a mechanical fault or loose component in a reciprocating engine."
+  },
+  {
+    "number": 15,
+    "heading": "Steam Turbines",
+    "question": "When starting a steam turbine the correct sequence is:",
+    "options": {
+      "A": "Analyze the oil for water prior to rolling, test hand trip, stop oil pumps",
+      "B": "Turn on all cooling water systems first, start the steam, start oil pumps",
+      "C": "Open steam drains, open steam inlet valve slightly, test the overspeed trip",
+      "D": "Test overspeed trip, place the speed control system in service, open the steam",
+      "E": "Stop the auxiliary oil pump, turn on cooling water, start condenser pump"
+    },
+    "correctAnswer": "C",
+    "explanation": "During steam turbine startup, standard procedure requires opening steam drains to remove condensate and cracking the steam inlet valve slightly for warm-up."
+  },
+  {
+    "number": 16,
+    "heading": "Steam Turbines",
+    "question": "Shaft sealing of steam turbines is done with:\n1. Fly weights\n2. Thrust Bearings\n3. Carbon rings\n4. Labyrinth glands",
+    "options": {
+      "A": "1, 2, 3, 4",
+      "B": "1, 3, 4",
+      "C": "3, 4",
+      "D": "2, 4",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "C",
+    "explanation": "Shaft sealing of steam turbines typically utilizes carbon rings (for lower pressure or gland ends) and labyrinth glands (for higher pressure staging)."
+  },
+  {
+    "number": 17,
+    "heading": "Steam Turbines",
+    "question": "Impulse turbines:\n1. Have a velocity increase through the nozzles\n2. Blades have the angle of inlet the same as the outlet\n3. Could have more than one set of blades\n4. Are used for low pressure steam only",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "2, 3",
+      "C": "1, 2, 3",
+      "D": "1, 2, 3, 4",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "C",
+    "explanation": "Impulse turbines feature a velocity increase through nozzles (1), can have multiple sets of compounding/stages (3), and blade inlet angles match outlet angles (2)."
+  },
+  {
+    "number": 18,
+    "heading": "Steam Turbines",
+    "question": "Turbine lubricating oil:",
+    "options": {
+      "A": "Should be preheated before use",
+      "B": "Lubricates the blades",
+      "C": "Is not required for small impulse turbines",
+      "D": "Must be changed every four months",
+      "E": "Can be used to operate the turbine governor"
+    },
+    "correctAnswer": "E",
+    "explanation": "Turbine lubricating oil is commonly pressurized and used in electro-hydraulic or mechanical-hydraulic control systems to operate the governor valves."
+  },
+  {
+    "number": 19,
+    "heading": "Steam Turbines",
+    "question": "The great majority of turbine governors are of the _____ type.",
+    "options": {
+      "A": "Electronic",
+      "B": "Stationary",
+      "C": "Pneumatic",
+      "D": "Rotary",
+      "E": "Mechanical centrifugal"
+    },
+    "correctAnswer": "E",
+    "explanation": "The vast majority of steam turbine speed governors are of the mechanical centrifugal flyball type."
+  },
+  {
+    "number": 20,
+    "heading": "Steam Turbines",
+    "question": "Reaction turbines:",
+    "options": {
+      "A": "Have a pressure drop through the stationary and moving blades",
+      "B": "Do not need a thrust bearing",
+      "C": "Cannot use counter flow staging",
+      "D": "Are used for high pressure only",
+      "E": "Have a steam velocity decrease across the moving blades"
+    },
+    "correctAnswer": "A",
+    "explanation": "In reaction turbines, steam expands and undergoes a pressure drop across both the stationary blades (nozzles) and the moving blades."
+  },
+  {
+    "number": 21,
+    "heading": "Steam Turbines",
+    "question": "Shaft sealing carbon glands are:",
+    "options": {
+      "A": "Self-lubricating",
+      "B": "Replaced monthly due to erosion",
+      "C": "Metal sprayed components",
+      "D": "Limited to a temperature of 250°C",
+      "E": "Lubricated by the main oil pump"
+    },
+    "correctAnswer": "A",
+    "explanation": "Carbon ring glands used for turbine shaft sealing are self-lubricating (using graphite material)."
+  },
+  {
+    "number": 22,
+    "heading": "Steam Turbines",
+    "question": "The turbine overspeed trip:\n1. Prevents the turbine from vibrating\n2. Prevents the turbine exceeding the maximum rated speed\n3. Is operated by a spring loaded pin in the rotating blades\n4. Will close the steam stop valve\n5. Should be tested before the turbine is placed in service",
+    "options": {
+      "A": "2, 3, 4, 5",
+      "B": "3, 4, 5",
+      "C": "2, 4, 5",
+      "D": "1, 2, 4",
+      "E": "4, 5"
+    },
+    "correctAnswer": "C",
+    "explanation": "The overspeed trip prevents the turbine from exceeding maximum rated speed (2), will close the steam stop valve (4), and should be tested before putting the turbine in service (5)."
+  },
+  {
+    "number": 23,
+    "heading": "Steam Turbines",
+    "question": "The shrouding installed on the blades of a steam turbine serves to:",
+    "options": {
+      "A": "Stop the steam flow",
+      "B": "Confine the steam to the blades",
+      "C": "Expand the steam",
+      "D": "Cool the blade tips",
+      "E": "Heat the steam"
+    },
+    "correctAnswer": "B",
+    "explanation": "Shrouding installed around turbine blade tips confines and prevents steam leakage around the blade tips, directing flow efficiently through the passages."
+  },
+  {
+    "number": 24,
+    "heading": "Steam Turbines",
+    "question": "Overspeed trips:\n1. Operate on turbine vibration due to high speed\n2. Are installed on all turbines\n3. Protect against excessive centrifugal forces\n4. Can be adjusted according to the load demand",
+    "options": {
+      "A": "3, 4",
+      "B": "1, 2, 3",
+      "C": "1, 2",
+      "D": "2, 3, 4",
+      "E": "2, 3"
+    },
+    "correctAnswer": "E",
+    "explanation": "Overspeed trips are installed on all steam turbines (2) and protect against excessive centrifugal forces caused by dangerously high rotational speeds (3). If the turbine exceeds its predetermined safe speed, the overspeed trip activates and shuts off the steam supply to prevent mechanical damage or failure. The trip setting is a fixed safety limit and is not adjusted according to load demand (4 is false). Overspeed trips operate based on rotational speed, not vibration (1 is false)."
+  },
+  {
+    "number": 25,
+    "heading": "Steam Turbines",
+    "question": "In an impulse turbine the:",
+    "options": {
+      "A": "Steam velocity is increased through the blades",
+      "B": "Steam pressure is reduced in the stationary nozzles",
+      "C": "Steam pressure will drop across the blades",
+      "D": "Steam flow is reduced through the nozzles",
+      "E": "Exhaust steam is directed back to the boiler"
+    },
+    "correctAnswer": "B",
+    "explanation": "In an impulse turbine, steam pressure drops and velocity increases exclusively through the stationary nozzles."
+  },
+  {
+    "number": 26,
+    "heading": "Steam Turbines",
+    "question": "The principle of an impulse turbine is that the:\n1. Steam pressure is reduced in the stationary nozzles\n2. High velocity steam strikes upon the moving blades\n3. Steam pressure will drop across the blades\n4. Steam pressure is increased through the blades",
+    "options": {
+      "A": "2, 3, 4",
+      "B": "1, 2, 3, 4",
+      "C": "1, 2",
+      "D": "2, 4",
+      "E": "1, 2, 3"
+    },
+    "correctAnswer": "C",
+    "explanation": "The principle of an impulse turbine is that steam pressure drops in the stationary nozzles (1) and high-velocity steam strikes the moving blades (2)."
+  },
+  {
+    "number": 27,
+    "heading": "Steam Turbines",
+    "question": "Turbine speed can be \"fine tuned\" with a device that will be limited to about 10% over the rated speed. This device is the:",
+    "options": {
+      "A": "Sentinel valve",
+      "B": "Over-speed trip",
+      "C": "Over-speed governor",
+      "D": "Hand speed control",
+      "E": "Governor valve"
+    },
+    "correctAnswer": "D",
+    "explanation": "The hand speed control is used to manually fine-tune the turbine's operating speed. It allows the operator to make small adjustments to the governor setting to increase or decrease turbine speed. Its adjustment range is limited to approximately 10% above the rated speed to prevent excessive overspeeding."
+  },
+  {
+    "number": 28,
+    "heading": "Steam Turbines",
+    "question": "In an impulse turbine, what prevents a pressure drop in the passage of steam through the blades?",
+    "options": {
+      "A": "The back torque on the driver",
+      "B": "The speed of the shaft",
+      "C": "The temperature of the steam",
+      "D": "The space between the blades",
+      "E": "The momentum of the load"
+    },
+    "correctAnswer": "D",
+    "explanation": "In an impulse turbine, the steam passages between the blades are shaped with constant cross-sectional area so that steam expands only in nozzles, preventing pressure drop across the blades."
+  },
+  {
+    "number": 29,
+    "heading": "Steam Turbines",
+    "question": "Blades or _____ form the rotor flow passages in impulse turbines.",
+    "options": {
+      "A": "Ports",
+      "B": "Buckets",
+      "C": "Dummy pistons",
+      "D": "Shafts",
+      "E": "Carbon rings"
+    },
+    "correctAnswer": "B",
+    "explanation": "Blades or buckets form the rotor flow passages in impulse turbines."
+  },
+  {
+    "number": 30,
+    "heading": "Steam Turbines",
+    "question": "In an impulse turbine, all of the steam pressure drop takes place in the:",
+    "options": {
+      "A": "Stationary nozzles",
+      "B": "Moving nozzles",
+      "C": "Stationary blades",
+      "D": "Exhaust casing",
+      "E": "Governor valve"
+    },
+    "correctAnswer": "A",
+    "explanation": "In a pure impulse turbine, all of the steam pressure drop takes place across the stationary nozzles."
+  },
+  {
+    "number": 31,
+    "heading": "Steam Turbines",
+    "question": "Turbine overspeed trip:",
+    "options": {
+      "A": "Will close the steam stop valve to the turbine",
+      "B": "Supplies the operator with rpm indications",
+      "C": "Is operated by a spring loaded pin in the rotating blades",
+      "D": "Prevents the turbine from vibrating",
+      "E": "Reduces the turbine speed by increasing the back pressure"
+    },
+    "correctAnswer": "A",
+    "explanation": "When tripped, the turbine overspeed trip mechanism acts to instantly close the main steam stop valve."
+  },
+  {
+    "number": 32,
+    "heading": "Steam Turbines",
+    "question": "The stationary nozzles of reaction turbines is the:",
+    "options": {
+      "A": "Shroud ring",
+      "B": "Shaft",
+      "C": "Dummy piston",
+      "D": "Fixed blade",
+      "E": "Rotor"
+    },
+    "correctAnswer": "D",
+    "explanation": "In reaction turbines, the stationary nozzles or fixed blades act to direct and expand the steam."
+  },
+  {
+    "number": 33,
+    "heading": "Steam Turbines",
+    "question": "Turbines often have segmental carbon ring sealing glands that are held in place by:",
+    "options": {
+      "A": "Thrust runners",
+      "B": "Drive screws",
+      "C": "Garter springs",
+      "D": "Shrouding",
+      "E": "Labyrinths"
+    },
+    "correctAnswer": "C",
+    "explanation": "Segmental carbon ring sealing glands are held snugly around the shaft by garter springs."
+  },
+  {
+    "number": 34,
+    "heading": "Steam Turbines",
+    "question": "In a reaction turbine the steam pressure _____ in passing through moving blades, as well as stationary nozzles or blades.",
+    "options": {
+      "A": "Re-circulates",
+      "B": "Drops",
+      "C": "Increases",
+      "D": "Accelerates",
+      "E": "Modulates"
+    },
+    "correctAnswer": "B",
+    "explanation": "In a reaction turbine, steam pressure drops continuously as it passes through both the stationary nozzles/fixed blades and the moving blades."
+  },
+  {
+    "number": 35,
+    "heading": "Condensers and Cooling Towers",
+    "question": "A cooling tower which requires neither fan nor fill is the:",
+    "options": {
+      "A": "Counter flow induced unit",
+      "B": "Forced draft unit",
+      "C": "Cross flow unit",
+      "D": "Hyperbolic unit",
+      "E": "Induced draft unit"
+    },
+    "correctAnswer": "D",
+    "explanation": "Hyperbolic natural draft cooling towers are massive structures that utilize natural chimney draft and spray systems, requiring neither fans nor internal fill."
+  },
+  {
+    "number": 36,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Natural draft cooling towers operate most effectively in large open spaces and:",
+    "options": {
+      "A": "Where wind is relatively constant",
+      "B": "Require a windbreak",
+      "C": "Must not be in direct sunlight",
+      "D": "Where a large body of water is nearby",
+      "E": "Where relative humidity is high"
+    },
+    "correctAnswer": "A",
+    "explanation": "Natural draft cooling towers rely on ambient air movement and operate most effectively where wind is relatively constant and open spaces are available."
+  },
+  {
+    "number": 37,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Organic growths also called _____ can reduce the flow rates in heat exchanger tubes and channels.",
+    "options": {
+      "A": "Silt",
+      "B": "Algae",
+      "C": "Bugs",
+      "D": "Fungi",
+      "E": "Slime"
+    },
+    "correctAnswer": "E",
+    "explanation": "Organic growths and microbial slimes can severely restrict flow areas and reduce flow rates in heat exchanger tubes."
+  },
+  {
+    "number": 38,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Compared to a cross flow tower, a counter flow tower:",
+    "options": {
+      "A": "Requires less fan power",
+      "B": "Has a lower pressure drop",
+      "C": "Requires less floor space",
+      "D": "Is not as tall",
+      "E": "Has much less capacity"
+    },
+    "correctAnswer": "C",
+    "explanation": "Compared to cross-flow cooling towers, counter-flow towers have a more vertical air-water path requiring less horizontal floor space."
+  },
+  {
+    "number": 39,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Biological fouling in recirculating cooling water towers is caused by _____ and bacteria growth.",
+    "options": {
+      "A": "Floral",
+      "B": "Biologocal",
+      "C": "Chemical",
+      "D": "Algae",
+      "E": "Fauna"
+    },
+    "correctAnswer": "D",
+    "explanation": "Biological fouling in recirculating cooling towers is primarily caused by algae, fungi, and bacteria growth."
+  },
+  {
+    "number": 40,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Changes in fan pitch can cause ______ problems for the motor.",
+    "options": {
+      "A": "Freezing",
+      "B": "Algae",
+      "C": "Low water flow",
+      "D": "Corrosion",
+      "E": "Overheating"
+    },
+    "correctAnswer": "E",
+    "explanation": "Improper adjustment of fan blade pitch can alter load requirements and cause motor overloading and overheating."
+  },
+  {
+    "number": 41,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Dry cooling towers:",
+    "options": {
+      "A": "Have a forced draft fan located at the bottom",
+      "B": "Pass the cooling water through a closed circuit of finned tubes",
+      "C": "Operate by natural draft",
+      "D": "Have an induced draft fan located at the top",
+      "E": "Have the cooling water flow from bottom to top"
+    },
+    "correctAnswer": "B",
+    "explanation": "Dry cooling towers pass the hot cooling water through a closed circuit of finned tubes, transferring heat directly to ambient air without evaporative water loss."
+  },
+  {
+    "number": 42,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Natural draft cooling towers are divided into:",
+    "options": {
+      "A": "Dry and wet types",
+      "B": "Closed and semi closed types",
+      "C": "Filled and unfilled types",
+      "D": "Atmospheric and chimney type",
+      "E": "Open and filled types"
+    },
+    "correctAnswer": "D",
+    "explanation": "Natural draft cooling towers are classified into two types: atmospheric and chimney type. Atmospheric towers rely on natural wind to circulate air through the tower, while chimney-type towers use the stack effect, where warm, moist air rises through the tall tower and draws cooler air in from below. Neither type requires a mechanical fan."
+  },
+  {
+    "number": 43,
+    "heading": "Condensers and Cooling Towers",
+    "question": "High discharge water temperature from the cooling tower could be caused by:",
+    "options": {
+      "A": "Low wet bulb air temperature",
+      "B": "Fine water spray in the tower",
+      "C": "Relative humidity",
+      "D": "Low concentration of solids in the water",
+      "E": "Low dry bulb air temperature"
+    },
+    "correctAnswer": "C",
+    "explanation": "High discharge water temperatures can result from high ambient wet-bulb temperatures, high relative humidity, or inadequate airflow."
+  },
+  {
+    "number": 44,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Excessive wind velocity in a natural draft cooling tower may cause:",
+    "options": {
+      "A": "Over-cooling of the water",
+      "B": "High water drift or losses",
+      "C": "Under-cooling of the water",
+      "D": "Louvers to become broken",
+      "E": "Rotation reversal of the fan"
+    },
+    "correctAnswer": "B",
+    "explanation": "Excessive wind velocity across a natural draft cooling tower can blow water out of the tower, causing high water drift losses."
+  },
+  {
+    "number": 45,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Condensers can be divided into two main groups, contact and:",
+    "options": {
+      "A": "Radiant",
+      "B": "Thermodynamic",
+      "C": "Non contact",
+      "D": "Reverse acting",
+      "E": "Surface"
+    },
+    "correctAnswer": "E",
+    "explanation": "Condensers are divided into two main categories: contact (direct contact) and surface (non-contact) condensers."
+  },
+  {
+    "number": 46,
+    "heading": "Condensers and Cooling Towers",
+    "question": "The component of wood that is leached away reducing the ability of the wood to resist decay is the:",
+    "options": {
+      "A": "Natural extractives",
+      "B": "Lignin",
+      "C": "Bark",
+      "D": "Leaves",
+      "E": "Cellulose"
+    },
+    "correctAnswer": "A",
+    "explanation": "Natural extractives within wood provide natural resistance to biological decay; when leached away by water or chemicals, wood becomes susceptible to rotting."
+  },
+  {
+    "number": 47,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Cooling towers:",
+    "options": {
+      "A": "All have fans",
+      "B": "Are mandatory for all power plants",
+      "C": "Remove sensible heat only from condensate",
+      "D": "Cannot be used during winter periods",
+      "E": "Reduce thermal pollution of rivers and lakes"
+    },
+    "correctAnswer": "E",
+    "explanation": "Cooling towers reject heat to the atmosphere, effectively eliminating thermal pollution of natural rivers and lakes."
+  },
+  {
+    "number": 48,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Water contained in the air stream at the discharge of a cooling tower is removed:",
+    "options": {
+      "A": "With drift eliminators",
+      "B": "By a series of chevron dryers",
+      "C": "With centrifugal separators",
+      "D": "By a series of baffles",
+      "E": "By refrigeration means"
+    },
+    "correctAnswer": "A",
+    "explanation": "Drift eliminators are installed at the discharge of cooling towers to capture and remove entrained water droplets from the exhaust air stream."
+  },
+  {
+    "number": 49,
+    "heading": "Condensers and Cooling Towers",
+    "question": "The rate of heat transfer in any cooling tower system depends on the:\n1. Relative velocity of both air and water during contact\n2. Volume of water in contact with the air\n3. Length of contact time between the air and water\n4. Difference between the inlet water temperature and the inlet air wet bulb temperature",
+    "options": {
+      "A": "1, 3, 4",
+      "B": "1, 2, 3, 4",
+      "C": "1, 2, 4",
+      "D": "1, 2, 3",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "The rate of heat transfer in a cooling tower depends on the relative velocity of air and water during contact (1), the length of contact time between them (3), and the temperature difference between the incoming hot water and the incoming air wet-bulb temperature (4). A greater temperature difference and longer, effective contact between air and water improve heat transfer. Therefore, statements 1, 3, and 4 are correct. The volume of water in contact with air (2) is not included in the correct combination for this question."
+  },
+  {
+    "number": 50,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Cooling towers:\n1. Remove the heat from the condensate\n2. Should use water treatment\n3. Prevent thermal pollution of rivers and lakes\n4. Cannot be used during winter periods\n5. Remove the sensible heat of the steam in the condenser",
+    "options": {
+      "A": "2, 3",
+      "B": "1, 3, 4, 5",
+      "C": "1, 2, 3",
+      "D": "1, 3, 4",
+      "E": "3, 4, 5"
+    },
+    "correctAnswer": "A",
+    "explanation": "Cooling towers require proper water treatment (2) to control scale, corrosion, and biological growth. They also help prevent thermal pollution (3) by cooling the hot circulating water before it is reused or discharged. Statement 1 is incorrect because cooling towers cool the circulating water, not the condensate. Statement 4 is incorrect because cooling towers can operate during winter with proper precautions against freezing. Statement 5 is incorrect because the condenser removes heat from the steam; the cooling tower removes heat from the circulating cooling water. Therefore, statements 2 and 3 are correct."
+  },
+  {
+    "number": 51,
+    "heading": "Condensers and Cooling Towers",
+    "question": "Adding a condenser can increase the efficiency of a turbine by:",
+    "options": {
+      "A": "50%",
+      "B": "75%",
+      "C": "25%",
+      "D": "80%",
+      "E": "10%"
+    },
+    "correctAnswer": "A",
+    "explanation": "Adding a condenser can increase the efficiency of a steam turbine by approximately 50%. The condenser maintains a vacuum (pressure below atmospheric pressure) at the turbine exhaust, allowing steam to expand further through the turbine and produce more useful work from the same amount of steam. This improves the overall thermal efficiency of the power plant."
+  },
+  {
+    "number": 52,
+    "heading": "Condensers and Cooling Towers",
+    "question": "To prevent cooling tower basin water from freezing during cold weather, many units are equipped with:",
+    "options": {
+      "A": "Ethylene glycol antifreeze systems",
+      "B": "Ice defrosters",
+      "C": "Propane burners",
+      "D": "Warming tapes",
+      "E": "Electric basin heaters"
+    },
+    "correctAnswer": "E",
+    "explanation": "To prevent cooling tower basin water from freezing during sub-freezing weather, units are typically equipped with electric basin heaters."
+  },
+  {
+    "number": 53,
+    "heading": "Condensers and Cooling Towers",
+    "question": "The purpose of a condenser in a steam power plant is to improve overall efficiency and:",
+    "options": {
+      "A": "Heat the condensate",
+      "B": "Add air to condensate",
+      "C": "Convert Steam to condensate",
+      "D": "Convert the condensate to steam",
+      "E": "Increase the pressure of the condensate"
+    },
+    "correctAnswer": "C",
+    "explanation": "The primary purpose of a condenser in a steam plant is to condense exhaust steam back into condensate and maintain a high vacuum to improve cycle efficiency."
+  },
+  {
+    "number": 54,
+    "heading": "Condensers and Cooling Towers",
+    "question": "The bypass valve that prevents water flow over the fill of a tower during cold weather should not be closed until the temperature reaches:",
+    "options": {
+      "A": "+5°C",
+      "B": "+0.5°C",
+      "C": "+27°C",
+      "D": "+20°C",
+      "E": "-0.5°C"
+    },
+    "correctAnswer": "C",
+    "explanation": "During cold weather, the bypass valve directs water around the cooling tower fill to prevent ice from forming on the fill and restricting airflow. The bypass valve should not be closed until the temperature reaches approximately +27°C. At this temperature, water can safely be redirected over the fill for normal cooling tower operation without the same risk of severe icing."
+  },
+  {
+    "number": 55,
+    "heading": "Gas Turbines",
+    "question": "A two shaft gas turbine:",
+    "options": {
+      "A": "Is always an open cycle",
+      "B": "Is always a closed cycle",
+      "C": "Does not require a starting motor",
+      "D": "Has the first turbine drive the prop on a turboprop engine",
+      "E": "Has the load turbine downstream from the compressor turbine"
+    },
+    "correctAnswer": "E",
+    "explanation": "In a two-shaft gas turbine, the compressor is driven by the high-pressure compressor turbine, while the power/load turbine is located downstream on a separate shaft."
+  },
+  {
+    "number": 56,
+    "heading": "Gas Turbines",
+    "question": "Gas turbines are ideal when considering:",
+    "options": {
+      "A": "Good thermal efficiency",
+      "B": "Cooling water pump operation",
+      "C": "Automotive power",
+      "D": "Emergency power generation",
+      "E": "Long warm up periods"
+    },
+    "correctAnswer": "D",
+    "explanation": "Gas turbines are ideal for emergency and peak-load power generation due to their rapid startup and load-acceptance characteristics."
+  },
+  {
+    "number": 57,
+    "heading": "Gas Turbines",
+    "question": "The air side of a gas turbine regenerator is located:",
+    "options": {
+      "A": "Downstream after the compressor",
+      "B": "Before the compressor",
+      "C": "Between the turbine and combustion chamber",
+      "D": "Between the turbine and atmosphere",
+      "E": "After the combustion chamber"
+    },
+    "correctAnswer": "A",
+    "explanation": "The air side of a regenerator (heat exchanger) receives compressed air leaving the compressor (upstream of the combustor) to preheat it using exhaust gases."
+  },
+  {
+    "number": 58,
+    "heading": "Gas Turbines",
+    "question": "Some of the characteristics that make the gas turbine a better choice over other prime movers are:\n1. Low maintenance\n2. Minimum cooling water\n3. High thermal efficiency\n4. Rapid startup and loading",
+    "options": {
+      "A": "1, 2, 4",
+      "B": "1, 2, 3",
+      "C": "1, 2, 3, 4",
+      "D": "1, 3, 4",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "Gas turbines are preferred for low maintenance (1), minimum cooling water requirements (2), and rapid startup and loading (4), though their simple-cycle thermal efficiency can be lower."
+  },
+  {
+    "number": 59,
+    "heading": "Gas Turbines",
+    "question": "The low installation cost of a gas turbine is:",
+    "options": {
+      "A": "Due to short fuel lines",
+      "B": "Because no electrical wiring is required",
+      "C": "Due to cheap materials in the blades",
+      "D": "Because no fuel pump is required",
+      "E": "Because less auxiliary equipment is needed"
+    },
+    "correctAnswer": "E",
+    "explanation": "Gas turbines have low initial and installation costs primarily because they require fewer auxiliary systems and support equipment compared to steam plants."
+  },
+  {
+    "number": 60,
+    "heading": "Gas Turbines",
+    "question": "Gas turbines are very popular where:",
+    "options": {
+      "A": "Water is scarce",
+      "B": "Natural gas is plentiful",
+      "C": "Industrial sites are small and in congested areas",
+      "D": "Noise does not present a problem",
+      "E": "Thermal pollution is of major concern"
+    },
+    "correctAnswer": "A",
+    "explanation": "Gas turbines are exceptionally popular in arid regions or locations where cooling water is scarce because they require minimal or no cooling water."
+  },
+  {
+    "number": 61,
+    "heading": "Gas Turbines",
+    "question": "The compressor on the gas turbine:",
+    "options": {
+      "A": "Is always a multistage compressor",
+      "B": "Is always of the axial type",
+      "C": "Is always independently driven",
+      "D": "Is always a reciprocating type",
+      "E": "Can be driven by the load turbine"
+    },
+    "correctAnswer": "E",
+    "explanation": "In multi-shaft or specific configurations, compressor drive arrangements can vary, or the compressor can be connected/influenced by load turbines depending on design."
+  },
+  {
+    "number": 62,
+    "heading": "Gas Turbines",
+    "question": "Early gas turbines were handicapped by:",
+    "options": {
+      "A": "Metal not being able to withstand high-speed centrifugal forces",
+      "B": "Their inadequate power capability",
+      "C": "Metals not standing the high temperatures involved",
+      "D": "Their high operating speeds",
+      "E": "The inability to get enough air into the combustion chamber"
+    },
+    "correctAnswer": "C",
+    "explanation": "Early gas turbines were severely limited and handicapped by metallurgy—specifically the inability of turbine blade metals to withstand extremely high operating temperatures."
+  },
+  {
+    "number": 63,
+    "heading": "Gas Turbines",
+    "question": "A simple gas turbine is one without reheaters or:",
+    "options": {
+      "A": "Combustors",
+      "B": "Regenerators",
+      "C": "Compressors",
+      "D": "Starting motors",
+      "E": "Shafts"
+    },
+    "correctAnswer": "B",
+    "explanation": "A simple gas turbine consists of a compressor, combustor, and turbine without auxiliary components like reheaters or regenerators."
+  },
+  {
+    "number": 64,
+    "heading": "Gas Turbines",
+    "question": "A gas turbine performs most effectively if the:",
+    "options": {
+      "A": "Lubricating oil is of the proper viscosity",
+      "B": "Ambient air temperature is low",
+      "C": "Cooling water temperature is kept low",
+      "D": "Load is added immediately after starting",
+      "E": "Ambient air temperature is high"
+    },
+    "correctAnswer": "B",
+    "explanation": "Gas turbines perform most effectively and deliver higher mass flow and power output when ambient air temperature is low (cold intake air)."
+  },
+  {
+    "number": 65,
+    "heading": "Gas Turbines",
+    "question": "Compressor blades are commonly cleaned using:",
+    "options": {
+      "A": "High pressure steam",
+      "B": "Acid",
+      "C": "Caustic",
+      "D": "Sand blasting",
+      "E": "Detergent"
+    },
+    "correctAnswer": "E",
+    "explanation": "Gas turbine compressor blades are commonly washed and cleaned using approved solvents or detergent solutions sprayed during cranking or operation."
+  },
+  {
+    "number": 66,
+    "heading": "Gas Turbines",
+    "question": "The output power of a gas turbine is directly related to the:",
+    "options": {
+      "A": "Slippage between the turbine and compressor",
+      "B": "Temperature at the turbine inlet",
+      "C": "Turbine exhaust temperature",
+      "D": "Mass of the unit",
+      "E": "Mass of gas passing through the turbine per second"
+    },
+    "correctAnswer": "E",
+    "explanation": "The output power of a gas turbine is directly related to the mass flow rate of gas passing through the turbine per second."
+  },
+  {
+    "number": 67,
+    "heading": "Gas Turbines",
+    "question": "A gas turbine:",
+    "options": {
+      "A": "Output increases when using an air preheater",
+      "B": "Output increases at higher altitude",
+      "C": "Expands the hot gases through the compressor",
+      "D": "Operates the best on hot intake air",
+      "E": "Output increases when using air of maximum density"
+    },
+    "correctAnswer": "E",
+    "explanation": "Gas turbine performance and air density are directly linked; output increases when using air of maximum density (cold, high pressure)."
+  },
+  {
+    "number": 68,
+    "heading": "Gas Turbines",
+    "question": "A closed cycle gas turbine:",
+    "options": {
+      "A": "Is a self-starting type of gas turbine",
+      "B": "Does not need a combustion chamber",
+      "C": "Must use a cooler before the regenerator",
+      "D": "Will use the same working air over again",
+      "E": "Starts with the exhaust valve closed"
+    },
+    "correctAnswer": "D",
+    "explanation": "A closed cycle gas turbine recirculates and uses the same working fluid (air or gas) over and over through a closed loop."
+  },
+  {
+    "number": 69,
+    "heading": "Gas Turbines",
+    "question": "Many typical steam plant auxiliaries are eliminated with a gas turbine due to its:",
+    "options": {
+      "A": "High speed",
+      "B": "High power to weight ratio",
+      "C": "Low oil consumption",
+      "D": "Small size",
+      "E": "Simplicity"
+    },
+    "correctAnswer": "E",
+    "explanation": "Many typical steam plant auxiliary systems (like condensers, extensive feedwater treatment, boiler feed pumps) are eliminated due to the simplicity and compactness of gas turbines."
+  },
+  {
+    "number": 70,
+    "heading": "Gas Turbines",
+    "question": "A combined steam and gas turbine arrangement can be termed:",
+    "options": {
+      "A": "An ideal system",
+      "B": "A once-through system",
+      "C": "A high capacity system",
+      "D": "A cogeneration system",
+      "E": "Ideal relative to system efficiency"
+    },
+    "correctAnswer": "D",
+    "explanation": "Combined cycle arrangements integrating gas and steam turbines are widely recognized as cogeneration or combined-cycle systems for high thermal efficiency."
+  },
+  {
+    "number": 71,
+    "heading": "Gas Turbines",
+    "question": "An essential auxiliary in a gas turbine installation is a/an:",
+    "options": {
+      "A": "Pump",
+      "B": "Air dehumidifier",
+      "C": "Starting motor",
+      "D": "Generator",
+      "E": "Air heater"
+    },
+    "correctAnswer": "C",
+    "explanation": "A gas turbine is not self-starting and requires an electric motor, pneumatic starter, or auxiliary starting motor to spin it up."
+  },
+  {
+    "number": 72,
+    "heading": "Gas Turbines",
+    "question": "A gas turbine compressor is usually:",
+    "options": {
+      "A": "A centrifugal type",
+      "B": "Downstream of the turbine",
+      "C": "A dynamic axial design",
+      "D": "Downstream of the combustor",
+      "E": "Driven by a motor"
+    },
+    "correctAnswer": "C",
+    "explanation": "Gas turbine compressors in industrial units are typically dynamic axial compressors designed for high continuous mass flow."
+  },
+  {
+    "number": 73,
+    "heading": "Gas Turbines",
+    "question": "The purpose of a regenerator is to:",
+    "options": {
+      "A": "Clean the exhaust gases",
+      "B": "Increase the temperature in the combustion chamber",
+      "C": "Re-circulate the exhaust gases back through the compressor",
+      "D": "Decrease the temperature in the combustion chamber",
+      "E": "Improve the efficiency of the turbine"
+    },
+    "correctAnswer": "E",
+    "explanation": "The purpose of a regenerator is to recover heat from exhaust gases to preheat combustion air, thereby improving overall cycle thermal efficiency."
+  },
+  {
+    "number": 74,
+    "heading": "Gas Turbines",
+    "question": "A gas turbine is not self-starting. It must be rotated at _____ of its maximum speed before fuel is turned on.",
+    "options": {
+      "A": "5% to 10%",
+      "B": "20% to 30%",
+      "C": "55% to 60%",
+      "D": "10% to 15%",
+      "E": "75% to 80%"
+    },
+    "correctAnswer": "B",
+    "explanation": "A gas turbine must be cranked up to 20% to 30% of its rated maximum speed by its starting motor before fuel is introduced and ignited."
+  },
+  {
+    "number": 75,
+    "heading": "Internal Combustion Engines",
+    "question": "The process of vaporization of gasoline for use in an internal combustion engine is known as:",
+    "options": {
+      "A": "Convection",
+      "B": "Combustion",
+      "C": "Oxidation",
+      "D": "Priming",
+      "E": "Carburetion"
+    },
+    "correctAnswer": "E",
+    "explanation": "Carburetion is the process of vaporizing liquid gasoline and mixing it with air in the proper ratio before it enters the engine cylinders."
+  },
+  {
+    "number": 76,
+    "heading": "Internal Combustion Engines",
+    "question": "Large internal combustion engines achieve cooling by use of:",
+    "options": {
+      "A": "Refrigerants",
+      "B": "Condensers",
+      "C": "Water jackets",
+      "D": "Evaporation",
+      "E": "Air cooling"
+    },
+    "correctAnswer": "C",
+    "explanation": "Large stationary and industrial internal combustion engines circulate cooling water through water jackets surrounding the cylinders and cylinder heads."
+  },
+  {
+    "number": 77,
+    "heading": "Internal Combustion Engines",
+    "question": "Smoky exhaust from a diesel engine may be caused by:",
+    "options": {
+      "A": "Insufficient combustion air",
+      "B": "Low quality fuel",
+      "C": "Too much cooling",
+      "D": "Improper fuel injection",
+      "E": "All of these can cause smoky exhaust"
+    },
+    "correctAnswer": "E",
+    "explanation": "Incomplete combustion causing black, blue, or white smoke in a diesel engine can result from insufficient air, poor fuel quality, over-cooling (low cylinder temperatures), or faulty injector atomization."
+  },
+  {
+    "number": 78,
+    "heading": "Internal Combustion Engines",
+    "question": "A two-cycle gasoline engine:",
+    "options": {
+      "A": "Has more moving parts than a four cycle",
+      "B": "Requires exhaust valves",
+      "C": "Produces twice as much power as a four cycle",
+      "D": "Is of more simple construction than a four cycle",
+      "E": "Must have two cylinders"
+    },
+    "correctAnswer": "D",
+    "explanation": "Two-cycle gasoline engines use ports uncovered by the piston rather than complex valve trains, resulting in much simpler construction with fewer moving parts."
+  },
+  {
+    "number": 79,
+    "heading": "Internal Combustion Engines",
+    "question": "Using a compressed air starting motor is a popular method of starting a:",
+    "options": {
+      "A": "Jet engine",
+      "B": "Natural gas engine",
+      "C": "Small two-stroke engine",
+      "D": "High performance engine",
+      "E": "Large stationary diesel engine"
+    },
+    "correctAnswer": "E",
+    "explanation": "Large stationary diesel engines require high cranking torque and commonly use pneumatic (compressed air) starting motors or direct compressed air injection into cylinders."
+  },
+  {
+    "number": 80,
+    "heading": "Internal Combustion Engines",
+    "question": "A major difficulty encountered with a two-stroke cycle engine is:",
+    "options": {
+      "A": "Exhausting the spent gases from the cylinder",
+      "B": "The high speeds compared to an equivalent four-stroke engine",
+      "C": "Maintenance of many moving parts",
+      "D": "The difficulty in cold weather starting",
+      "E": "The high torque at low speeds"
+    },
+    "correctAnswer": "A",
+    "explanation": "Because intake and exhaust occur simultaneously near the bottom of the stroke without a dedicated exhaust stroke, completely scavenging and exhausting spent gases is a primary design challenge."
+  },
+  {
+    "number": 81,
+    "heading": "Internal Combustion Engines",
+    "question": "Ignition of the fuel in a diesel engine is by means of:",
+    "options": {
+      "A": "The injector delivery valve pressure",
+      "B": "A spark plug",
+      "C": "The fuel injector nozzle",
+      "D": "A precisely timed glow plug",
+      "E": "The heat of compression"
+    },
+    "correctAnswer": "E",
+    "explanation": "Diesel engines are compression-ignition engines: air is compressed to a high ratio, raising its temperature high enough to auto-ignite the fuel upon injection."
+  },
+  {
+    "number": 82,
+    "heading": "Internal Combustion Engines",
+    "question": "Internal combustion engines used to drive gas compression machinery and which burn natural gas, operate on the _____ stroke cycle.",
+    "options": {
+      "A": "Four",
+      "B": "Rotary",
+      "C": "Two or four",
+      "D": "One",
+      "E": "Two"
+    },
+    "correctAnswer": "C",
+    "explanation": "Large natural gas-fueled industrial engines used for driving gas compressors are built in both two-stroke and four-stroke cycle designs."
+  },
+  {
+    "number": 83,
+    "heading": "Internal Combustion Engines",
+    "question": "Four-cycle engine lubrication is usually:",
+    "options": {
+      "A": "Forced by a pump",
+      "B": "By the dip tube method",
+      "C": "By grease fitting",
+      "D": "By the scoop method",
+      "E": "By gravity oilers"
+    },
+    "correctAnswer": "A",
+    "explanation": "Four-stroke engines utilize a pressurized lubrication system driven by an engine-mounted gear or rotor oil pump."
+  },
+  {
+    "number": 84,
+    "heading": "Internal Combustion Engines",
+    "question": "Diesel engines require:",
+    "options": {
+      "A": "An ignition distributor",
+      "B": "A magneto",
+      "C": "A spark plug in each cylinder",
+      "D": "A fuel injector",
+      "E": "A carburetor"
+    },
+    "correctAnswer": "D",
+    "explanation": "Diesel engines do not use carburetors or spark ignition; they require high-pressure fuel injectors to spray atomized fuel directly into the combustion chamber."
+  },
+  {
+    "number": 85,
+    "heading": "Internal Combustion Engines",
+    "question": "Diesel engine governing is accomplished by:",
+    "options": {
+      "A": "Varying the fuel quantity",
+      "B": "Carburetion",
+      "C": "Varying the fuel quality",
+      "D": "Fuel atomizing air quantity",
+      "E": "Fuel atomizing air pressure"
+    },
+    "correctAnswer": "A",
+    "explanation": "Diesel engine speed and power output are governed exclusively by metering and varying the quantity of fuel injected per power stroke, without throttling intake air."
+  },
+  {
+    "number": 86,
+    "heading": "Internal Combustion Engines",
+    "question": "The fuel for a diesel engine is:",
+    "options": {
+      "A": "Vaporized by a carburetor",
+      "B": "Mixed with air before the cylinder",
+      "C": "Atomized before the cylinder",
+      "D": "Light fuel oil",
+      "E": "Mechanically atomized by high pressure"
+    },
+    "correctAnswer": "E",
+    "explanation": "In modern airless (solid) injection diesel engines, fuel oil is mechanically atomized into a fine mist by forcing it at very high pressure through precision injector nozzles."
+  },
+  {
+    "number": 87,
+    "heading": "Internal Combustion Engines",
+    "question": "The purpose of a spark plug is to:",
+    "options": {
+      "A": "Raise the ignition point of the fuel",
+      "B": "Ignite the air in the cylinder",
+      "C": "Pre-warm the engine",
+      "D": "Ignite the fuel air mixture in a gasoline engine",
+      "E": "Produce power for the compression stroke"
+    },
+    "correctAnswer": "D",
+    "explanation": "A spark plug delivers a high-voltage electric spark across its electrode gap to ignite the compressed air-fuel mixture in spark-ignition engines."
+  },
+  {
+    "number": 88,
+    "heading": "Internal Combustion Engines",
+    "question": "The injection pump of a diesel engine is driven by:",
+    "options": {
+      "A": "The governor",
+      "B": "The camshaft",
+      "C": "Piston action",
+      "D": "The gudgeon pin",
+      "E": "The wrist pin"
+    },
+    "correctAnswer": "B",
+    "explanation": "The diesel fuel injection pump is mechanically geared to and driven by the engine camshaft so that fuel injection timing stays synchronized with piston position."
+  },
+  {
+    "number": 89,
+    "heading": "Internal Combustion Engines",
+    "question": "An injection nozzle is used to _____ the fuel in a diesel engine.",
+    "options": {
+      "A": "Mix",
+      "B": "Atomize",
+      "C": "Aspirate",
+      "D": "Ignite",
+      "E": "Eject"
+    },
+    "correctAnswer": "B",
+    "explanation": "The injection nozzle breaks the high-pressure liquid fuel stream into a fine spray of microscopic droplets (atomization) for rapid mixing and combustion."
+  },
+  {
+    "number": 90,
+    "heading": "Internal Combustion Engines",
+    "question": "Compression ignition engines:",
+    "options": {
+      "A": "Need suction and discharge valves",
+      "B": "Need a carburetor to mix the fuel with the air",
+      "C": "Will compress air only on the compression stroke",
+      "D": "Will compress air only on the power stroke",
+      "E": "Require a spark timing device"
+    },
+    "correctAnswer": "C",
+    "explanation": "Unlike spark-ignition engines that compress an air-fuel mixture, compression-ignition (diesel) engines draw in and compress pure air only on the compression stroke."
+  },
+  {
+    "number": 91,
+    "heading": "Internal Combustion Engines",
+    "question": "When using compressed air to each cylinder for starting purposes, the pressure is approximately:",
+    "options": {
+      "A": "435 kPa",
+      "B": "3 030 kPa",
+      "C": "255 kPa",
+      "D": "520 kPa",
+      "E": "2 100 kPa"
+    },
+    "correctAnswer": "E",
+    "explanation": "Direct air-start systems on large stationary engines typically supply compressed air to the cylinders at approximately 2,100 kPa (around 300 psi)."
+  },
+  {
+    "number": 92,
+    "heading": "Internal Combustion Engines",
+    "question": "One complete movement of the piston in one direction through the cylinder requires _____ revolution(s) of the engine crankshaft:",
+    "options": {
+      "A": "One",
+      "B": "One-half",
+      "C": "Eight",
+      "D": "Four",
+      "E": "Two"
+    },
+    "correctAnswer": "B",
+    "explanation": "One piston stroke (from Top Dead Center to Bottom Dead Center, or vice versa) corresponds to 180 degrees, or one-half (0.5) revolution of the crankshaft."
+  },
+  {
+    "number": 93,
+    "heading": "Internal Combustion Engines",
+    "question": "Cylinder scavenging:",
+    "options": {
+      "A": "Prevents the air from entering the cylinder",
+      "B": "Is more efficient in a two-cycle engine than a four-cycle type",
+      "C": "Removes excessive oil from the cylinder walls",
+      "D": "Is scoring the cylinder by a broken piston ring",
+      "E": "Is the removal of exhaust gases from the cylinder"
+    },
+    "correctAnswer": "E",
+    "explanation": "Scavenging is the process of sweeping burned exhaust gases out of the engine cylinder and replacing them with a fresh charge of air."
+  },
+  {
+    "number": 94,
+    "heading": "Internal Combustion Engines",
+    "question": "An engine which develops one power stroke with every other turn of the crankshaft is the:",
+    "options": {
+      "A": "V type engine",
+      "B": "External combustion unit",
+      "C": "Type that requires pre-mixed lube oil and fuel",
+      "D": "Four stroke natural gas engine",
+      "E": "Two stroke diesel engine"
+    },
+    "correctAnswer": "D",
+    "explanation": "A four-stroke cycle engine completes intake, compression, power, and exhaust over four piston strokes, equaling two crankshaft revolutions (one power stroke every other turn)."
+  }
+]
