@@ -1019,7 +1019,10 @@ const bookB7Chapters: Paper[] = [
   makePaper(
     "b7-fullbook",
     "Full Book B7 Exam",
-    toQuestions(bookB7 as unknown as RawNumberQuestion[], "Book B7 — Prime Movers"),
+    toQuestions(
+      bookB7 as unknown as RawNumberQuestion[],
+      "Book B7 — Types of Prime Movers and Heat Engines",
+    ),
   ),
   makePaper(
     "b7-chp1",
