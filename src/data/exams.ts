@@ -394,7 +394,10 @@ const bookA1Chapters: Paper[] = [
   makePaper(
     "a1-fullbook",
     "Full Book A1 Exam",
-    toQuestions(bookA1 as unknown as RawNumberQuestion[], "Book A1 — Applied Mechanics"),
+    toQuestions(
+      bookA1 as unknown as RawNumberQuestion[],
+      "Book A1 — Applied Mechanics",
+    ),
   ),
   makePaper(
     "a1-chp1",
@@ -471,7 +474,10 @@ const bookA2Chapters: Paper[] = [
   makePaper(
     "a2-fullbook",
     "Full Book A2 Exam",
-    toQuestions(bookA2 as unknown as RawNumberQuestion[], "Book A2 — Applied Chemistry & Heat"),
+    toQuestions(
+      bookA2 as unknown as RawNumberQuestion[],
+      "Book A2 — Applied Chemistry & Heat",
+    ),
   ),
   makePaper(
     "a2-chp1",
@@ -500,7 +506,10 @@ const bookA3Chapters: Paper[] = [
   makePaper(
     "a3-fullbook",
     "Full Book A3 Exam",
-    toQuestions(bookA3 as unknown as RawNumberQuestion[], "Book A3 — Power Engineering Intro & Codes"),
+    toQuestions(
+      bookA3 as unknown as RawNumberQuestion[],
+      "Book A3 — Power Engineering Intro & Codes",
+    ),
   ),
   makePaper(
     "a3-chp1",
@@ -523,7 +532,10 @@ const bookA4Chapters: Paper[] = [
   makePaper(
     "a4-fullbook",
     "Full Book A4 Exam",
-    toQuestions(bookA4 as unknown as RawNumberQuestion[], "Book A4 — Safety, WHMIS & Fire Prevention"),
+    toQuestions(
+      bookA4 as unknown as RawNumberQuestion[],
+      "Book A4 — Safety, WHMIS & Fire Prevention",
+    ),
   ),
   makePaper(
     "a4-chp1",
@@ -556,7 +568,10 @@ const bookA5Chapters: Paper[] = [
   makePaper(
     "a5-fullbook",
     "Full Book A5 Exam",
-    toQuestions(bookA5 as unknown as RawNumberQuestion[], "Book A5 — Environmental & Plant Operations"),
+    toQuestions(
+      bookA5 as unknown as RawNumberQuestion[],
+      "Book A5 — Environmental & Plant Operations",
+    ),
   ),
   makePaper(
     "a5-chp1",
@@ -579,7 +594,10 @@ const bookA6Chapters: Paper[] = [
   makePaper(
     "a6-fullbook",
     "Full Book A6 Exam",
-    toQuestions(bookA6 as unknown as RawNumberQuestion[], "Book A6 — Metallurgy, Welding & NDT"),
+    toQuestions(
+      bookA6 as unknown as RawNumberQuestion[],
+      "Book A6 — Metallurgy, Welding & NDT",
+    ),
   ),
   makePaper(
     "a6-chp1",
@@ -602,7 +620,10 @@ const bookA7Chapters: Paper[] = [
   makePaper(
     "a7-fullbook",
     "Full Book A7 Exam",
-    toQuestions(bookA7 as unknown as RawNumberQuestion[], "Book A7 — Piping, Valves & Steam Traps"),
+    toQuestions(
+      bookA7 as unknown as RawNumberQuestion[],
+      "Book A7 — Piping, Valves & Steam Traps",
+    ),
   ),
   makePaper(
     "a7-chp1",
@@ -620,7 +641,10 @@ const bookA8Chapters: Paper[] = [
   makePaper(
     "a8-fullbook",
     "Full Book A8 Exam",
-    toQuestions(bookA8 as unknown as RawNumberQuestion[], "Book A8 — Basic Electricity"),
+    toQuestions(
+      bookA8 as unknown as RawNumberQuestion[],
+      "Book A8 — Basic Electricity",
+    ),
   ),
   makePaper(
     "a8-chp1",
@@ -691,7 +715,10 @@ const bookA10Chapters: Paper[] = [
   makePaper(
     "a10-fullbook",
     "Full Book A10 Exam",
-    toQuestions(bookA10 as unknown as RawNumberQuestion[], "Book A10 — Plant Sketching & Communications"),
+    toQuestions(
+      bookA10 as unknown as RawNumberQuestion[],
+      "Book A10 — Plant Sketching & Communications",
+    ),
   ),
   makePaper(
     "a10-chp1",
@@ -714,7 +741,10 @@ const bookA11Chapters: Paper[] = [
   makePaper(
     "a11-fullbook",
     "Full Book A11 Exam",
-    toQuestions(bookA11 as unknown as RawNumberQuestion[], "Book A11 — Boilers"),
+    toQuestions(
+      bookA11 as unknown as RawNumberQuestion[],
+      "Book A11 — Boilers",
+    ),
   ),
   makePaper(
     "a11-chp1",
@@ -752,7 +782,10 @@ const bookA12Chapters: Paper[] = [
   makePaper(
     "a12-fullbook",
     "Full Book A12 Exam",
-    toQuestions(bookA12 as unknown as RawNumberQuestion[], "Book A12 — Combustion, Fuels & Feedwater"),
+    toQuestions(
+      bookA12 as unknown as RawNumberQuestion[],
+      "Book A12 — Combustion, Fuels & Feedwater",
+    ),
   ),
   makePaper(
     "a12-chp1",
@@ -790,7 +823,10 @@ const bookB1Chapters: Paper[] = [
   makePaper(
     "b1-fullbook",
     "Full Book B1 Exam",
-    toQuestions(bookB1 as unknown as RawNumberQuestion[], "Book B1 — Lubrication & Bearings"),
+    toQuestions(
+      bookB1 as unknown as RawNumberQuestion[],
+      "Book B1 — Lubrication & Bearings",
+    ),
   ),
   makePaper(
     "b1-chp1",
@@ -808,7 +844,10 @@ const bookB2Chapters: Paper[] = [
   makePaper(
     "b2-fullbook",
     "Full Book B2 Exam",
-    toQuestions(bookB2 as unknown as RawNumberQuestion[], "Book B2 — Pumps & Compressors"),
+    toQuestions(
+      bookB2 as unknown as RawNumberQuestion[],
+      "Book B2 — Pumps & Compressors",
+    ),
   ),
   makePaper(
     "b2-chp1",
@@ -836,7 +875,10 @@ const bookB3Chapters: Paper[] = [
   makePaper(
     "b3-fullbook",
     "Full Book B3 Exam",
-    toQuestions(bookB3 as unknown as RawNumberQuestion[], "Book B3 — Boiler Safety Controls"),
+    toQuestions(
+      bookB3 as unknown as RawNumberQuestion[],
+      "Book B3 — Boiler Safety Controls",
+    ),
   ),
   makePaper(
     "b3-chp1",
@@ -869,7 +911,10 @@ const bookB4Chapters: Paper[] = [
   makePaper(
     "b4-fullbook",
     "Full Book B4 Exam",
-    toQuestions(bookB4 as unknown as RawNumberQuestion[], "Book B4 — Plant Operations"),
+    toQuestions(
+      bookB4 as unknown as RawNumberQuestion[],
+      "Book B4 — Plant Operations",
+    ),
   ),
   makePaper(
     "b4-chp1",
@@ -907,7 +952,10 @@ const bookB5Chapters: Paper[] = [
   makePaper(
     "b5-fullbook",
     "Full Book B5 Exam",
-    toQuestions(bookB5 as unknown as RawNumberQuestion[], "Book B5 — Plant Maintenance"),
+    toQuestions(
+      bookB5 as unknown as RawNumberQuestion[],
+      "Book B5 — Plant Maintenance",
+    ),
   ),
   makePaper(
     "b5-chp1",
@@ -935,7 +983,10 @@ const bookB6Chapters: Paper[] = [
   makePaper(
     "b6-fullbook",
     "Full Book B6 Exam",
-    toQuestions(bookB6 as unknown as RawNumberQuestion[], "Book B6 — Water Treatment"),
+    toQuestions(
+      bookB6 as unknown as RawNumberQuestion[],
+      "Book B6 — Water Treatment",
+    ),
   ),
   makePaper(
     "b6-chp1",
@@ -1130,13 +1181,13 @@ export const exams: Exam[] = [
       },
       {
         id: "book-b4",
-        label: "Book B4 — Plant Operations",
+        label: "Book B4 — Boiler Plant Operation and Management",
         description: `${chapterCount(bookB4Chapters)} questions across ${bookB4Chapters.length} chapters`,
         papers: bookB4Chapters,
       },
       {
         id: "book-b5",
-        label: "Book B5 — Plant Maintenance",
+        label: "Book B5 — Energy Plant Maintenance",
         description: `${chapterCount(bookB5Chapters)} questions across ${bookB5Chapters.length} chapters`,
         papers: bookB5Chapters,
       },
@@ -1148,7 +1199,7 @@ export const exams: Exam[] = [
       },
       {
         id: "book-b7",
-        label: "Book B7 — Prime Movers",
+        label: "Book B7 — Types of Prime Movers and Heat Engines",
         description: `${chapterCount(bookB7Chapters)} questions across ${bookB7Chapters.length} chapters`,
         papers: bookB7Chapters,
       },

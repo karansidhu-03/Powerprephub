@@ -1,0 +1,800 @@
+[
+  {
+    "heading": "Lighting Systems",
+    "question": "The type of luminaire used in industrial warehouses and storage areas is the:",
+    "options": {
+      "A": "Ceiling mount wraparound",
+      "B": "Structural light",
+      "C": "Luminaire",
+      "D": "Recessed troffer",
+      "E": "Open reflector"
+    },
+    "correctAnswer": "E",
+    "explanation": "Open reflector luminaires are widely used in industrial warehouses and high-bay storage areas to provide efficient and direct illumination.",
+    "number": 1
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "When designing a lighting system, which of the following should be considered?",
+    "options": {
+      "A": "Operating cost",
+      "B": "Maintenance cost",
+      "C": "Purpose",
+      "D": "Initial cost",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "Lighting system design requires evaluating initial capital cost, operating electricity costs, maintenance expenses, and the functional purpose.",
+    "number": 2
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "When control for multiple locations is required:",
+    "options": {
+      "A": "A combination of two 3-way switches and two 4-way switches are used",
+      "B": "Changes are simple and economical",
+      "C": "A 4-way switch is used",
+      "D": "The wiring does not require conduits",
+      "E": "Three or more one-way switches are used"
+    },
+    "correctAnswer": "A",
+    "explanation": "When controlling lighting from three or more locations, 3-way switches are used at the ends and one or more 4-way switches are placed in between.",
+    "number": 3
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "In direct lighting systems all or most of the luminous intensity is:",
+    "options": {
+      "A": "Directed to specific areas",
+      "B": "Reflected off the walls",
+      "C": "Reflected off the ceiling",
+      "D": "Directed down toward the work place",
+      "E": "Directed up at the ceiling"
+    },
+    "correctAnswer": "D",
+    "explanation": "In direct lighting systems, 90% to 100% of the light output is directed downward toward the work plane.",
+    "number": 4
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "Economical use of lighting can be enhanced by all of these except:",
+    "options": {
+      "A": "Use dark or dull interiors",
+      "B": "Use good luminaires",
+      "C": "Proper maintenance",
+      "D": "Shut off lights when not needed",
+      "E": "Use efficient light sources"
+    },
+    "correctAnswer": "A",
+    "explanation": "Using dark or dull interior finishes absorbs light and reduces efficiency; light-colored interiors enhance lighting efficiency.",
+    "number": 5
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "The life safety code requires that emergency lighting be provided for means of exit in all of these occupancies except:",
+    "options": {
+      "A": "All educational and institutional occupancies",
+      "B": "Places of assembly of more than 50 people",
+      "C": "Office buildings with occupancies of 300 or more people",
+      "D": "All occupied spaces",
+      "E": "Multiple residence units"
+    },
+    "correctAnswer": "D",
+    "explanation": "Life safety codes mandate emergency lighting for specific exit routes and assembly spaces, but not every single occupied space in all buildings.",
+    "number": 6
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "Which of the following is not a commonly used type of light?",
+    "options": {
+      "A": "Photocell",
+      "B": "Incandescent",
+      "C": "Fluorescent",
+      "D": "HID",
+      "E": "LED"
+    },
+    "correctAnswer": "A",
+    "explanation": "A photocell is a sensor/switch rather than a primary type of artificial light source (unlike incandescent, fluorescent, HID, and LED).",
+    "number": 7
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "Which of the following is not a Luminaire?",
+    "options": {
+      "A": "Structural",
+      "B": "Open reflector",
+      "C": "Fluorescent",
+      "D": "Surface mounted",
+      "E": "Recessed"
+    },
+    "correctAnswer": "C",
+    "explanation": "Fluorescent refers to the lamp technology rather than a luminaire mounting or fixture category (whereas structural, open reflector, surface, and recessed are luminaire types).",
+    "number": 8
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "For reading, the correct light color temperature is:",
+    "options": {
+      "A": "3000 K",
+      "B": "21 C",
+      "C": "5000 C",
+      "D": "5000 K",
+      "E": "3000 F"
+    },
+    "correctAnswer": "D",
+    "explanation": "A color temperature around 5000 K (cool white/daylight) is ideal and commonly recommended for reading and detailed visual tasks.",
+    "number": 9
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "In indirect lighting systems, all or most of the luminous intensity is:",
+    "options": {
+      "A": "Reflected off the walls",
+      "B": "Directed to specific areas",
+      "C": "Directed down toward the work place",
+      "D": "Reflected off the ceiling",
+      "E": "Directed up at the ceiling"
+    },
+    "correctAnswer": "E",
+    "explanation": "In indirect lighting systems, all or most of the luminous intensity is directed upward toward the ceiling to be reflected downward.",
+    "number": 10
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "The most economical group relamping period is typically _____ of rated lamp life.",
+    "options": {
+      "A": "70%",
+      "B": "95%",
+      "C": "5%",
+      "D": "20%",
+      "E": "25%"
+    },
+    "correctAnswer": "A",
+    "explanation": "Group relamping is most economical when performed at approximately 70% of the rated lamp life before widespread burnouts occur.",
+    "number": 11
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "Ambient lighting can be improved by using two types of lighting:",
+    "options": {
+      "A": "Florescent and incandescent",
+      "B": "Natural and artificial",
+      "C": "General and local",
+      "D": "Direct and indirect",
+      "E": "Reflective and refractive"
+    },
+    "correctAnswer": "D",
+    "explanation": "Combining direct and indirect lighting methods significantly improves ambient lighting quality and reduces harsh shadows and glare.",
+    "number": 12
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "Occupancy sensors may use one of two different methods for activation.\n1. Infrared\n2. Ultraviolet\n3. Ultrasonic\n4. Particle beam",
+    "options": {
+      "A": "3, 4",
+      "B": "1, 3",
+      "C": "2, 4",
+      "D": "2, 3",
+      "E": "1, 2"
+    },
+    "correctAnswer": "B",
+    "explanation": "Occupancy sensors commonly use passive infrared (PIR) and ultrasonic technologies for motion detection and activation.",
+    "number": 13
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "The three main types of illumination include:\n1. Direct lighting\n2. Indirect lighting\n3. General (uniform) lighting\n4. Local or supplementary lighting\n5. Combined general/local (non-uniform or task) lighting",
+    "options": {
+      "A": "2, 4, 5",
+      "B": "1, 2, 3",
+      "C": "2, 3, 4",
+      "D": "3, 4, 5",
+      "E": "1, 3, 4"
+    },
+    "correctAnswer": "D",
+    "explanation": "The three main classifications of illumination systems are general (uniform) lighting, local (supplementary) lighting, and combined general/local (task) lighting.",
+    "number": 14
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "The type of light not suitable for on/off service is:",
+    "options": {
+      "A": "LED",
+      "B": "Xenon",
+      "C": "Halogen",
+      "D": "CFL",
+      "E": "HID"
+    },
+    "correctAnswer": "E",
+    "explanation": "High-Intensity Discharge (HID) lamps require a lengthy warm-up and restrike period, making them unsuitable for frequent on/off switching service.",
+    "number": 15
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "Economically conscious consumers are switching to:",
+    "options": {
+      "A": "Halogen bulbs",
+      "B": "HPS bulbs",
+      "C": "LED bulbs",
+      "D": "Candles",
+      "E": "Incandescent bulbs"
+    },
+    "correctAnswer": "C",
+    "explanation": "Energy-conscious consumers and facilities are switching to LED bulbs due to their superior energy efficiency and long operational lifespan.",
+    "number": 16
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "Occupancy sensors are:",
+    "options": {
+      "A": "Modulating switches",
+      "B": "Self-regulating switches",
+      "C": "Automatic switches",
+      "D": "Semi-automatic switches",
+      "E": "Packaged switches"
+    },
+    "correctAnswer": "C",
+    "explanation": "Occupancy sensors act as automatic switches that turn lights on or off based on room occupancy.",
+    "number": 17
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "As well as saving energy, lighting design will also consider:",
+    "options": {
+      "A": "Visual comfort",
+      "B": "Safety",
+      "C": "Uniformity",
+      "D": "Lighting purpose",
+      "E": "All of these will be considered"
+    },
+    "correctAnswer": "E",
+    "explanation": "Effective lighting design must balance energy savings with visual comfort, safety, uniformity, and the specific purpose of the space.",
+    "number": 18
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "Lighting levels will depreciate over time unless there is:",
+    "options": {
+      "A": "Fresh paint on interior walls",
+      "B": "A good maintenance plan",
+      "C": "LED lights",
+      "D": "New lights installed annually",
+      "E": "Higher voltage applied"
+    },
+    "correctAnswer": "B",
+    "explanation": "Lighting levels depreciate over time due to lamp lumen depreciation and dust/dirt accumulation unless managed with a good maintenance plan.",
+    "number": 19
+  },
+  {
+    "heading": "Lighting Systems",
+    "question": "Emergency lighting must be powered by:",
+    "options": {
+      "A": "Non electrical lighting",
+      "B": "Battery or standby generator",
+      "C": "Battery only",
+      "D": "Standby generator only",
+      "E": "A separate electrical feed"
+    },
+    "correctAnswer": "B",
+    "explanation": "Emergency lighting systems must be powered reliably by independent battery units or backup standby generators during power failure.",
+    "number": 20
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "The diaphragm used in a flushometer is made of:",
+    "options": {
+      "A": "Cash iron",
+      "B": "Plastic",
+      "C": "Copper",
+      "D": "Neoprene",
+      "E": "Ceramic"
+    },
+    "correctAnswer": "D",
+    "explanation": "The flexible diaphragm inside flushometer valves is typically manufactured from durable synthetic rubber like neoprene.",
+    "number": 21
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "The most common device used for clearing plugged sinks, toilets, drain lines is:",
+    "options": {
+      "A": "High pressure air injector",
+      "B": "Chemicals",
+      "C": "Auger",
+      "D": "Plunger",
+      "E": "Bent piece of wire"
+    },
+    "correctAnswer": "D",
+    "explanation": "The plunger is the most common manual hand tool used for clearing minor blockages in sinks, toilets, and drain lines.",
+    "number": 22
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "The system that has a storage tank above the highest fixture in the system is called:",
+    "options": {
+      "A": "A constant pressure system with suction tank",
+      "B": "A direct pressure system",
+      "C": "A down feed system",
+      "D": "An up feed system",
+      "E": "A tank less constant pressure system"
+    },
+    "correctAnswer": "C",
+    "explanation": "A down-feed (gravity) water distribution system features a storage tank located above the highest fixture to supply water by gravity.",
+    "number": 23
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "Temperature relief devices limit the temperature increase to about:",
+    "options": {
+      "A": "90°C",
+      "B": "121°C",
+      "C": "79°C",
+      "D": "99°C",
+      "E": "50°C"
+    },
+    "correctAnswer": "D",
+    "explanation": "Temperature relief devices on water heaters are set to open and limit temperature increases to prevent boiling, typically at 99°C (210°F).",
+    "number": 24
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "A hot water heater pressure relief device is usually set:",
+    "options": {
+      "A": "To only open if the temperature exceeds 99 degrees",
+      "B": "175 kPa above line pressure",
+      "C": "100 kPa",
+      "D": "At exactly the pressure of the incoming water line",
+      "E": "25 kPa above line pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": "A hot water heater pressure relief device is customarily set to open at 175 kPa above the normal working line pressure.",
+    "number": 25
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "The pounding or banging of pipes and shuddering of fixtures caused by a shock wave resulting from a sudden stop of water flow in a pipe is caused by:",
+    "options": {
+      "A": "Hissing of pipes",
+      "B": "Chattering of faucets",
+      "C": "Creaking of pipes",
+      "D": "Water hammer",
+      "E": "Whistling of faucets"
+    },
+    "correctAnswer": "D",
+    "explanation": "Water hammer is the hydraulic shock wave and acoustic banging caused by the abrupt stoppage of moving water in a piping system.",
+    "number": 26
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "Older flushometers used over 10 litres per flush, while new flushometers use as little as:",
+    "options": {
+      "A": "0.38 litres",
+      "B": "3.8 gallons",
+      "C": "No water",
+      "D": "3.8 litres",
+      "E": "38 litres"
+    },
+    "correctAnswer": "D",
+    "explanation": "Modern water-saving flushometers use as little as 3.8 litres per flush compared to older models exceeding 10 litres.",
+    "number": 27
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "Some water closets are provided with flush tanks while others are equipped with:",
+    "options": {
+      "A": "Float valves",
+      "B": "Ball cocks",
+      "C": "Flood valves",
+      "D": "Flushometers",
+      "E": "Drain valves"
+    },
+    "correctAnswer": "D",
+    "explanation": "Water closets are commonly equipped either with flush tanks or direct flushometer valves.",
+    "number": 28
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "Which of the following is not an upfeed system?",
+    "options": {
+      "A": "Constant pressure suction tank",
+      "B": "Constant pressure Pneumatic tank",
+      "C": "Direct pressure",
+      "D": "Gravity",
+      "E": "Tankless constant pressure"
+    },
+    "correctAnswer": "D",
+    "explanation": "A gravity water distribution system uses an overhead tank and is a down-feed system, whereas constant pressure, direct pressure, and pneumatic systems are upfeed systems.",
+    "number": 29
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "Which of these is not a method to prevent backflow?",
+    "options": {
+      "A": "PVD",
+      "B": "AVB",
+      "C": "RPZ",
+      "D": "DCVA",
+      "E": "ACBV"
+    },
+    "correctAnswer": "E",
+    "explanation": "ACBV is not a standard recognized acronym for backflow preventers, whereas PVD, AVB, RPZ, and DCVA are standard devices.",
+    "number": 30
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "Which of the following statements about a constant pressure system with a pneumatic tank is false?",
+    "options": {
+      "A": "This system is primarily used in larger buildings",
+      "B": "Air must continuously be introduced into the tank",
+      "C": "A system controller automatically starts a standby pump in the event of pump failure",
+      "D": "The system has a pressure regulator to maintain a relatively constant pressure above the water level inside the tank",
+      "E": "Water entering directly into the pump suction is discharged into a pressurised tank"
+    },
+    "correctAnswer": "A",
+    "explanation": "Pneumatic tank constant pressure systems are typically used for smaller or moderate booster applications, not primarily for massive high-rise buildings where gravity or zoning is favored.",
+    "number": 31
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "The back flow prevention method which consists of two independently acting check valves with an automatic operating pressure differential relief valve located between the two check valves is called:",
+    "options": {
+      "A": "Reduced pressure principle device",
+      "B": "PVB",
+      "C": "Air gap back flow prevention",
+      "D": "Double check valve",
+      "E": "Atmosphere vacuum breaker"
+    },
+    "correctAnswer": "A",
+    "explanation": "A reduced pressure principle device (RPZ) consists of two independently acting check valves with an automatic differential relief valve in between.",
+    "number": 32
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "In an indirect hot water heater, the steam is returned to the condensate system through the:",
+    "options": {
+      "A": "Blow off",
+      "B": "Steam return line",
+      "C": "Feedwater pump",
+      "D": "Steam trap",
+      "E": "Condensate trap"
+    },
+    "correctAnswer": "D",
+    "explanation": "In an indirect steam-heated hot water heater, steam condensate is discharged and returned through a steam trap.",
+    "number": 33
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "The blow off valve in a storage heater is used to:",
+    "options": {
+      "A": "Release steam should the heater malfunction to avoid flashing of steam in the fixtures",
+      "B": "Remove sediment carried to the heater through the water line",
+      "C": "Shut off the flow of gas if the flame and pilot light are extinguished",
+      "D": "Monitor unsafe temperatures",
+      "E": "Eliminate pressure build up in the heater"
+    },
+    "correctAnswer": "B",
+    "explanation": "The blow-off (drain) valve at the bottom of a storage water heater is used to flush out accumulated sediment and scale.",
+    "number": 34
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "New toilets use only 6 liters of water per flush while older toilets used up to:",
+    "options": {
+      "A": "5 litres",
+      "B": "15 litres",
+      "C": "15 gallons",
+      "D": "100 litres",
+      "E": "15 cubic meters"
+    },
+    "correctAnswer": "B",
+    "explanation": "Traditional older gravity toilets used up to 15 litres of water per flush before modern standards reduced this to 6 litres.",
+    "number": 35
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "A simple solution that may resolve minor water hammer issues is:",
+    "options": {
+      "A": "Bigger diameter pipes",
+      "B": "Short air chamber pipe",
+      "C": "A surge tank",
+      "D": "An expansion tank",
+      "E": "Reverse water hammer pulsators"
+    },
+    "correctAnswer": "B",
+    "explanation": "Installing a short vertical air chamber (air cushion) pipe near quick-closing valves is a simple method to absorb hydraulic shock and resolve minor water hammer.",
+    "number": 36
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "A potential connection between potable water supply and a drain system is called:",
+    "options": {
+      "A": "Backflow preventer",
+      "B": "Flushometer",
+      "C": "Air gap",
+      "D": "Cross connection",
+      "E": "Vacuum breaker"
+    },
+    "correctAnswer": "D",
+    "explanation": "A cross connection is any physical connection or potential link between a safe potable water supply and a non-potable source or drain system.",
+    "number": 37
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "When using a gravity water distribution system pressure reducing valves are placed on any floor where the pressure exceeds:",
+    "options": {
+      "A": "350 kPa",
+      "B": "560 kPa",
+      "C": "100 kPa",
+      "D": "175 kPa",
+      "E": "70 kPa"
+    },
+    "correctAnswer": "B",
+    "explanation": "In gravity (down-feed) water distribution systems, pressure increases on lower floors because of the height of the water column above them. Pressure-reducing valves (PRVs) are installed on floors where the static water pressure exceeds 560 kPa to reduce the pressure to a safe and suitable level and protect plumbing fixtures, pipes, and fittings from excessive pressure.",
+    "number": 38
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "Temperature relief devices are effective in eliminating which of the following problems?",
+    "options": {
+      "A": "Flashing of water to steam when faucets are opened",
+      "B": "Venting off air released from water during heating",
+      "C": "Water hammer",
+      "D": "Water stagnation",
+      "E": "Inadequate heating of the water"
+    },
+    "correctAnswer": "A",
+    "explanation": "Temperature relief devices prevent excessive temperature buildup that causes water to flash into steam when hot water faucets are opened.",
+    "number": 39
+  },
+  {
+    "heading": "Building Water Systems",
+    "question": "An aquastat is:",
+    "options": {
+      "A": "Temperature controller",
+      "B": "Water pressure control",
+      "C": "Level controller",
+      "D": "Water flow control",
+      "E": "None of these is correct"
+    },
+    "correctAnswer": "A",
+    "explanation": "An aquastat is an immersion thermostat (temperature controller) used in hydronic heating and domestic hot water systems to control burner or circulator operation.",
+    "number": 40
+  },
+  {
+    "heading": "Drainage System",
+    "question": "When discussing storm water drainage from roofs, corrugations in outside aluminium sheet metal conductors are required for which of the following reasons?",
+    "options": {
+      "A": "To eliminate corrosion",
+      "B": "To permit expansion",
+      "C": "To increase the flow speed of storm water",
+      "D": "To allow water to flow if there is scale build up",
+      "E": "To decrease potential for blockage"
+    },
+    "correctAnswer": "B",
+    "explanation": "Corrugations in exterior aluminum downspouts (conductors) allow the metal to expand and contract if water freezes inside them without splitting.",
+    "number": 41
+  },
+  {
+    "heading": "Drainage System",
+    "question": "A common seal plumbing trap has a water seal depth of:",
+    "options": {
+      "A": "25 cm",
+      "B": "10 cm",
+      "C": "15 cm",
+      "D": "20 cm",
+      "E": "5 cm"
+    },
+    "correctAnswer": "E",
+    "explanation": "A standard (common seal) plumbing trap maintains a water seal depth of 5 cm (50 mm or 2 inches).",
+    "number": 42
+  },
+  {
+    "heading": "Drainage System",
+    "question": "The pressure maintained in a plumbing vent stack is:",
+    "options": {
+      "A": "Significantly above atmospheric",
+      "B": "Significantly below atmospheric",
+      "C": "Slightly below atmospheric",
+      "D": "Atmospheric",
+      "E": "Slightly above atmospheric"
+    },
+    "correctAnswer": "D",
+    "explanation": "Plumbing vent stacks open to the outdoors above the roof, maintaining atmospheric pressure throughout the drainage piping to protect trap seals.",
+    "number": 43
+  },
+  {
+    "heading": "Drainage System",
+    "question": "A deep seal plumbing trap has a water seal depth of:",
+    "options": {
+      "A": "10 cm",
+      "B": "25 cm",
+      "C": "15 cm",
+      "D": "5 cm",
+      "E": "20 cm"
+    },
+    "correctAnswer": "A",
+    "explanation": "A deep seal plumbing trap maintains a water seal depth of 10 cm (100 mm or 4 inches) to resist evaporation and pressure fluctuations.",
+    "number": 44
+  },
+  {
+    "heading": "Drainage System",
+    "question": "Obstructions in sewer lines can be removed through:",
+    "options": {
+      "A": "Air vents",
+      "B": "Cleanouts",
+      "C": "Stack",
+      "D": "Grease traps",
+      "E": "The sump"
+    },
+    "correctAnswer": "B",
+    "explanation": "Cleanouts are accessible capped fittings installed at strategic points in drainage and sewer lines to allow rodding and removal of blockages.",
+    "number": 45
+  },
+  {
+    "heading": "Drainage System",
+    "question": "The piping materials used for storm drainage systems may be any of these except:",
+    "options": {
+      "A": "Glass",
+      "B": "Copper",
+      "C": "Plastic",
+      "D": "Galvanized steel",
+      "E": "Cast iron"
+    },
+    "correctAnswer": "A",
+    "explanation": "Standard storm drainage systems use cast iron, copper, plastic, or galvanized steel, whereas glass is reserved for specialized laboratory chemical drains.",
+    "number": 46
+  },
+  {
+    "heading": "Drainage System",
+    "question": "Which of the following has a trap as an integral part of the fixture?",
+    "options": {
+      "A": "A sump pump",
+      "B": "A sink",
+      "C": "A sewer",
+      "D": "A storm drain",
+      "E": "A water closet"
+    },
+    "correctAnswer": "E",
+    "explanation": "A water closet (toilet) is designed with a porcelain trap molded as an integral part of the fixture itself.",
+    "number": 47
+  },
+  {
+    "heading": "Drainage System",
+    "question": "A plumbing drain trap should be located within _____ of the fixture.",
+    "options": {
+      "A": "460 mm",
+      "B": "610 mm",
+      "C": "590 mm",
+      "D": "750 mm",
+      "E": "350 mm"
+    },
+    "correctAnswer": "B",
+    "explanation": "According to plumbing code standards, a drain trap should be installed as close as possible to the fixture outlet, and within 610 mm (24 inches).",
+    "number": 48
+  },
+  {
+    "heading": "Drainage System",
+    "question": "Negative pressure in a drainage system may result in which of the following problems:",
+    "options": {
+      "A": "Forcing of sewer gases through traps",
+      "B": "Drawing out of sealing liquid in traps",
+      "C": "Clogging of drain pipes",
+      "D": "Collection of sediment in drain traps",
+      "E": "Build up of scale in water closets"
+    },
+    "correctAnswer": "B",
+    "explanation": "Negative pressure (siphonage) in a drainage system can suck or draw the sealing water out of plumbing traps, breaking the gas seal.",
+    "number": 49
+  },
+  {
+    "heading": "Drainage System",
+    "question": "A sump is used in a sewer drain system when:",
+    "options": {
+      "A": "There are no vents to relieve gases",
+      "B": "The building drain is below the city sewer",
+      "C": "The sewage system is a sealed and pressurized system",
+      "D": "When there is no electricity available to run the sump pumps",
+      "E": "The piping is suffering from water hammer"
+    },
+    "correctAnswer": "B",
+    "explanation": "A sump and sewage ejector pump are required when the lowest building drain or basement fixtures sit below the elevation of the municipal city sewer.",
+    "number": 50
+  },
+  {
+    "heading": "Drainage System",
+    "question": "Drain traps serve which of the following purposes:\n1. To seal the outlet fixture\n2. To prevent back flow of sewer gas\n3. To deflect grease and oil for separate disposal",
+    "options": {
+      "A": "1, 2",
+      "B": "1",
+      "C": "1, 2, 3",
+      "D": "2",
+      "E": "1, 3"
+    },
+    "correctAnswer": "A",
+    "explanation": "Drain traps hold a water seal at the fixture outlet (1) to prevent sewer gases from backing up into the occupied building (2).",
+    "number": 51
+  },
+  {
+    "heading": "Drainage System",
+    "question": "Which of the following statements about footing drains is true?",
+    "options": {
+      "A": "Used to reduce the hydrostatic pressure on the walls below ground level",
+      "B": "Perforated or porous pipe is used to collect the water near the footings",
+      "C": "Installed to prevent an accumulation of ground water around the building foundations",
+      "D": "The collected water is drained to a remote area or into a sump",
+      "E": "All of these are true"
+    },
+    "correctAnswer": "E",
+    "explanation": "Footing drains use perforated pipe around foundations to collect groundwater, relieve hydrostatic pressure on basement walls, and route water to a sump or remote discharge.",
+    "number": 52
+  },
+  {
+    "heading": "Drainage System",
+    "question": "Sewer smells coming from a floor drain in a washroom can be a problem if the floors of the washroom are not cleaned often. Which of the following courses of action is the simplest way to stop the smell from coming out of the drain?",
+    "options": {
+      "A": "Cover the drain opening",
+      "B": "Sanitise the washroom",
+      "C": "Pour a pail of water into the drain",
+      "D": "Flush the drain with caustic soda",
+      "E": "Improve the washroom's ventilation"
+    },
+    "correctAnswer": "C",
+    "explanation": "Floor drain odors in infrequently washed rooms happen because the trap water evaporates; pouring a pail of water replenishes the water seal.",
+    "number": 53
+  },
+  {
+    "heading": "Drainage System",
+    "question": "Facilities such as food processing plants, auto manufacturing plants, universities can have large amounts of surface water run-off containing hazardous substances including road salts, processing wastes, drainage from garbage management. These should be collected in a secure storage for testing before releasing to the environment. The outdoor storage areas can become flooded and unsafely release these contaminants unless the level is maintained low enough. The level can become uncontrolled due to:",
+    "options": {
+      "A": "Heavy rainfall",
+      "B": "Spring snow melting",
+      "C": "Poor maintenance",
+      "D": "Inattention",
+      "E": "All of these can result in overflowing the containments"
+    },
+    "correctAnswer": "E",
+    "explanation": "Outdoor retention and containment ponds can overflow and release contaminated runoff due to heavy rain, rapid spring snowmelt, poor maintenance, or operator inattention.",
+    "number": 54
+  },
+  {
+    "heading": "Drainage System",
+    "question": "The operating licence for plants that manufacturer or process anything including food, energy, furniture, clothing, automotive parts, aerospace, etc will specify allowable limits for release of effluents that includes:",
+    "options": {
+      "A": "Contaminants types",
+      "B": "Concentrations",
+      "C": "Volumes",
+      "D": "Frequency",
+      "E": "All of these and more"
+    },
+    "correctAnswer": "E",
+    "explanation": "Industrial environmental operating permits strictly regulate effluent releases across contaminant types, concentrations, total volumes, and discharge frequency.",
+    "number": 55
+  },
+  {
+    "heading": "Drainage System",
+    "question": "Which of the following statements is true?",
+    "options": {
+      "A": "Most buildings have several waste and soil stacks with each stack providing drainage for all the sections of the building",
+      "B": "Branch line connections to the waste stack should be connected at an angle of more than 45°C",
+      "C": "The stack vent and loop vents allow equalisation of pressure in the system",
+      "D": "The stack vent prevents sewer gas from being vented through the roof",
+      "E": "In a multi story building one stack is used for venting and waste disposal"
+    },
+    "correctAnswer": "C",
+    "explanation": "Stack vents and loop vents admit and release air to equalize air pressure within the drainage system, preventing trap siphonage or blowback.",
+    "number": 56
+  },
+  {
+    "heading": "Drainage System",
+    "question": "The piping material used for chemical drain lines in laboratories may be:",
+    "options": {
+      "A": "Galvanized steel",
+      "B": "Cement",
+      "C": "Copper",
+      "D": "Low carbon steel",
+      "E": "Borosilicate glass"
+    },
+    "correctAnswer": "E",
+    "explanation": "Borosilicate glass piping is highly resistant to corrosive acids and solvents, making it standard for laboratory chemical waste drain lines.",
+    "number": 57
+  }
+]

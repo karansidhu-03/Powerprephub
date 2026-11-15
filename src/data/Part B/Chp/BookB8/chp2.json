@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Building Water Systems",
+    "question": "The diaphragm used in a flushometer is made of:",
+    "options": {
+      "A": "Cash iron",
+      "B": "Plastic",
+      "C": "Copper",
+      "D": "Neoprene",
+      "E": "Ceramic"
+    },
+    "correctAnswer": "D",
+    "explanation": "The flexible diaphragm inside flushometer valves is typically manufactured from durable synthetic rubber like neoprene."
+  },
+  {
+    "number": 2,
+    "heading": "Building Water Systems",
+    "question": "The most common device used for clearing plugged sinks, toilets, drain lines is:",
+    "options": {
+      "A": "High pressure air injector",
+      "B": "Chemicals",
+      "C": "Auger",
+      "D": "Plunger",
+      "E": "Bent piece of wire"
+    },
+    "correctAnswer": "D",
+    "explanation": "The plunger is the most common manual hand tool used for clearing minor blockages in sinks, toilets, and drain lines."
+  },
+  {
+    "number": 3,
+    "heading": "Building Water Systems",
+    "question": "The system that has a storage tank above the highest fixture in the system is called:",
+    "options": {
+      "A": "A constant pressure system with suction tank",
+      "B": "A direct pressure system",
+      "C": "A down feed system",
+      "D": "An up feed system",
+      "E": "A tank less constant pressure system"
+    },
+    "correctAnswer": "C",
+    "explanation": "A down-feed (gravity) water distribution system features a storage tank located above the highest fixture to supply water by gravity."
+  },
+  {
+    "number": 4,
+    "heading": "Building Water Systems",
+    "question": "Temperature relief devices limit the temperature increase to about:",
+    "options": {
+      "A": "90°C",
+      "B": "121°C",
+      "C": "79°C",
+      "D": "99°C",
+      "E": "50°C"
+    },
+    "correctAnswer": "D",
+    "explanation": "Temperature relief devices on water heaters are set to open and limit temperature increases to prevent boiling, typically at 99°C (210°F)."
+  },
+  {
+    "number": 5,
+    "heading": "Building Water Systems",
+    "question": "A hot water heater pressure relief device is usually set:",
+    "options": {
+      "A": "To only open if the temperature exceeds 99 degrees",
+      "B": "175 kPa above line pressure",
+      "C": "100 kPa",
+      "D": "At exactly the pressure of the incoming water line",
+      "E": "25 kPa above line pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": "A hot water heater pressure relief device is customarily set to open at 175 kPa above the normal working line pressure."
+  },
+  {
+    "number": 6,
+    "heading": "Building Water Systems",
+    "question": "The pounding or banging of pipes and shuddering of fixtures caused by a shock wave resulting from a sudden stop of water flow in a pipe is caused by:",
+    "options": {
+      "A": "Hissing of pipes",
+      "B": "Chattering of faucets",
+      "C": "Creaking of pipes",
+      "D": "Water hammer",
+      "E": "Whistling of faucets"
+    },
+    "correctAnswer": "D",
+    "explanation": "Water hammer is the hydraulic shock wave and acoustic banging caused by the abrupt stoppage of moving water in a piping system."
+  },
+  {
+    "number": 7,
+    "heading": "Building Water Systems",
+    "question": "Older flushometers used over 10 litres per flush, while new flushometers use as little as:",
+    "options": {
+      "A": "0.38 litres",
+      "B": "3.8 gallons",
+      "C": "No water",
+      "D": "3.8 litres",
+      "E": "38 litres"
+    },
+    "correctAnswer": "D",
+    "explanation": "Modern water-saving flushometers use as little as 3.8 litres per flush compared to older models exceeding 10 litres."
+  },
+  {
+    "number": 8,
+    "heading": "Building Water Systems",
+    "question": "Some water closets are provided with flush tanks while others are equipped with:",
+    "options": {
+      "A": "Float valves",
+      "B": "Ball cocks",
+      "C": "Flood valves",
+      "D": "Flushometers",
+      "E": "Drain valves"
+    },
+    "correctAnswer": "D",
+    "explanation": "Water closets are commonly equipped either with flush tanks or direct flushometer valves."
+  },
+  {
+    "number": 9,
+    "heading": "Building Water Systems",
+    "question": "Which of the following is not an upfeed system?",
+    "options": {
+      "A": "Constant pressure suction tank",
+      "B": "Constant pressure Pneumatic tank",
+      "C": "Direct pressure",
+      "D": "Gravity",
+      "E": "Tankless constant pressure"
+    },
+    "correctAnswer": "D",
+    "explanation": "A gravity water distribution system uses an overhead tank and is a down-feed system, whereas constant pressure, direct pressure, and pneumatic systems are upfeed systems."
+  },
+  {
+    "number": 10,
+    "heading": "Building Water Systems",
+    "question": "Which of these is not a method to prevent backflow?",
+    "options": {
+      "A": "PVD",
+      "B": "AVB",
+      "C": "RPZ",
+      "D": "DCVA",
+      "E": "ACBV"
+    },
+    "correctAnswer": "E",
+    "explanation": "ACBV is not a standard recognized acronym for backflow preventers, whereas PVD, AVB, RPZ, and DCVA are standard devices."
+  },
+  {
+    "number": 11,
+    "heading": "Building Water Systems",
+    "question": "Which of the following statements about a constant pressure system with a pneumatic tank is false?",
+    "options": {
+      "A": "This system is primarily used in larger buildings",
+      "B": "Air must continuously be introduced into the tank",
+      "C": "A system controller automatically starts a standby pump in the event of pump failure",
+      "D": "The system has a pressure regulator to maintain a relatively constant pressure above the water level inside the tank",
+      "E": "Water entering directly into the pump suction is discharged into a pressurised tank"
+    },
+    "correctAnswer": "A",
+    "explanation": "Pneumatic tank constant pressure systems are typically used for smaller or moderate booster applications, not primarily for massive high-rise buildings where gravity or zoning is favored."
+  },
+  {
+    "number": 12,
+    "heading": "Building Water Systems",
+    "question": "The back flow prevention method which consists of two independently acting check valves with an automatic operating pressure differential relief valve located between the two check valves is called:",
+    "options": {
+      "A": "Reduced pressure principle device",
+      "B": "PVB",
+      "C": "Air gap back flow prevention",
+      "D": "Double check valve",
+      "E": "Atmosphere vacuum breaker"
+    },
+    "correctAnswer": "A",
+    "explanation": "A reduced pressure principle device (RPZ) consists of two independently acting check valves with an automatic differential relief valve in between."
+  },
+  {
+    "number": 13,
+    "heading": "Building Water Systems",
+    "question": "In an indirect hot water heater, the steam is returned to the condensate system through the:",
+    "options": {
+      "A": "Blow off",
+      "B": "Steam return line",
+      "C": "Feedwater pump",
+      "D": "Steam trap",
+      "E": "Condensate trap"
+    },
+    "correctAnswer": "D",
+    "explanation": "In an indirect steam-heated hot water heater, steam condensate is discharged and returned through a steam trap."
+  },
+  {
+    "number": 14,
+    "heading": "Building Water Systems",
+    "question": "The blow off valve in a storage heater is used to:",
+    "options": {
+      "A": "Release steam should the heater malfunction to avoid flashing of steam in the fixtures",
+      "B": "Remove sediment carried to the heater through the water line",
+      "C": "Shut off the flow of gas if the flame and pilot light are extinguished",
+      "D": "Monitor unsafe temperatures",
+      "E": "Eliminate pressure build up in the heater"
+    },
+    "correctAnswer": "B",
+    "explanation": "The blow-off (drain) valve at the bottom of a storage water heater is used to flush out accumulated sediment and scale."
+  },
+  {
+    "number": 15,
+    "heading": "Building Water Systems",
+    "question": "New toilets use only 6 liters of water per flush while older toilets used up to:",
+    "options": {
+      "A": "5 litres",
+      "B": "15 litres",
+      "C": "15 gallons",
+      "D": "100 litres",
+      "E": "15 cubic meters"
+    },
+    "correctAnswer": "B",
+    "explanation": "Traditional older gravity toilets used up to 15 litres of water per flush before modern standards reduced this to 6 litres."
+  },
+  {
+    "number": 16,
+    "heading": "Building Water Systems",
+    "question": "A simple solution that may resolve minor water hammer issues is:",
+    "options": {
+      "A": "Bigger diameter pipes",
+      "B": "Short air chamber pipe",
+      "C": "A surge tank",
+      "D": "An expansion tank",
+      "E": "Reverse water hammer pulsators"
+    },
+    "correctAnswer": "B",
+    "explanation": "Installing a short vertical air chamber (air cushion) pipe near quick-closing valves is a simple method to absorb hydraulic shock and resolve minor water hammer."
+  },
+  {
+    "number": 17,
+    "heading": "Building Water Systems",
+    "question": "A potential connection between potable water supply and a drain system is called:",
+    "options": {
+      "A": "Backflow preventer",
+      "B": "Flushometer",
+      "C": "Air gap",
+      "D": "Cross connection",
+      "E": "Vacuum breaker"
+    },
+    "correctAnswer": "D",
+    "explanation": "A cross connection is any physical connection or potential link between a safe potable water supply and a non-potable source or drain system."
+  },
+  {
+    "number": 18,
+    "heading": "Building Water Systems",
+    "question": "When using a gravity water distribution system pressure reducing valves are placed on any floor where the pressure exceeds:",
+    "options": {
+      "A": "350 kPa",
+      "B": "560 kPa",
+      "C": "100 kPa",
+      "D": "175 kPa",
+      "E": "70 kPa"
+    },
+    "correctAnswer": "B",
+    "explanation": "In gravity (down-feed) water distribution systems, pressure increases on lower floors because of the height of the water column above them. Pressure-reducing valves (PRVs) are installed on floors where the static water pressure exceeds 560 kPa to reduce the pressure to a safe and suitable level and protect plumbing fixtures, pipes, and fittings from excessive pressure."
+  },
+  {
+    "number": 19,
+    "heading": "Building Water Systems",
+    "question": "Temperature relief devices are effective in eliminating which of the following problems?",
+    "options": {
+      "A": "Flashing of water to steam when faucets are opened",
+      "B": "Venting off air released from water during heating",
+      "C": "Water hammer",
+      "D": "Water stagnation",
+      "E": "Inadequate heating of the water"
+    },
+    "correctAnswer": "A",
+    "explanation": "Temperature relief devices prevent excessive temperature buildup that causes water to flash into steam when hot water faucets are opened."
+  },
+  {
+    "number": 20,
+    "heading": "Building Water Systems",
+    "question": "An aquastat is:",
+    "options": {
+      "A": "Temperature controller",
+      "B": "Water pressure control",
+      "C": "Level controller",
+      "D": "Water flow control",
+      "E": "None of these is correct"
+    },
+    "correctAnswer": "A",
+    "explanation": "An aquastat is an immersion thermostat (temperature controller) used in hydronic heating and domestic hot water systems to control burner or circulator operation."
+  }
+]

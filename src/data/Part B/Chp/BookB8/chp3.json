@@ -1,0 +1,240 @@
+[
+  {
+    "number": 1,
+    "heading": "Drainage System",
+    "question": "When discussing storm water drainage from roofs, corrugations in outside aluminium sheet metal conductors are required for which of the following reasons?",
+    "options": {
+      "A": "To eliminate corrosion",
+      "B": "To permit expansion",
+      "C": "To increase the flow speed of storm water",
+      "D": "To allow water to flow if there is scale build up",
+      "E": "To decrease potential for blockage"
+    },
+    "correctAnswer": "B",
+    "explanation": "Corrugations in exterior aluminum downspouts (conductors) allow the metal to expand and contract if water freezes inside them without splitting."
+  },
+  {
+    "number": 2,
+    "heading": "Drainage System",
+    "question": "A common seal plumbing trap has a water seal depth of:",
+    "options": {
+      "A": "25 cm",
+      "B": "10 cm",
+      "C": "15 cm",
+      "D": "20 cm",
+      "E": "5 cm"
+    },
+    "correctAnswer": "E",
+    "explanation": "A standard (common seal) plumbing trap maintains a water seal depth of 5 cm (50 mm or 2 inches)."
+  },
+  {
+    "number": 3,
+    "heading": "Drainage System",
+    "question": "The pressure maintained in a plumbing vent stack is:",
+    "options": {
+      "A": "Significantly above atmospheric",
+      "B": "Significantly below atmospheric",
+      "C": "Slightly below atmospheric",
+      "D": "Atmospheric",
+      "E": "Slightly above atmospheric"
+    },
+    "correctAnswer": "D",
+    "explanation": "Plumbing vent stacks open to the outdoors above the roof, maintaining atmospheric pressure throughout the drainage piping to protect trap seals."
+  },
+  {
+    "number": 4,
+    "heading": "Drainage System",
+    "question": "A deep seal plumbing trap has a water seal depth of:",
+    "options": {
+      "A": "10 cm",
+      "B": "25 cm",
+      "C": "15 cm",
+      "D": "5 cm",
+      "E": "20 cm"
+    },
+    "correctAnswer": "A",
+    "explanation": "A deep seal plumbing trap maintains a water seal depth of 10 cm (100 mm or 4 inches) to resist evaporation and pressure fluctuations."
+  },
+  {
+    "number": 5,
+    "heading": "Drainage System",
+    "question": "Obstructions in sewer lines can be removed through:",
+    "options": {
+      "A": "Air vents",
+      "B": "Cleanouts",
+      "C": "Stack",
+      "D": "Grease traps",
+      "E": "The sump"
+    },
+    "correctAnswer": "B",
+    "explanation": "Cleanouts are accessible capped fittings installed at strategic points in drainage and sewer lines to allow rodding and removal of blockages."
+  },
+  {
+    "number": 6,
+    "heading": "Drainage System",
+    "question": "The piping materials used for storm drainage systems may be any of these except:",
+    "options": {
+      "A": "Glass",
+      "B": "Copper",
+      "C": "Plastic",
+      "D": "Galvanized steel",
+      "E": "Cast iron"
+    },
+    "correctAnswer": "A",
+    "explanation": "Standard storm drainage systems use cast iron, copper, plastic, or galvanized steel, whereas glass is reserved for specialized laboratory chemical drains."
+  },
+  {
+    "number": 7,
+    "heading": "Drainage System",
+    "question": "Which of the following has a trap as an integral part of the fixture?",
+    "options": {
+      "A": "A sump pump",
+      "B": "A sink",
+      "C": "A sewer",
+      "D": "A storm drain",
+      "E": "A water closet"
+    },
+    "correctAnswer": "E",
+    "explanation": "A water closet (toilet) is designed with a porcelain trap molded as an integral part of the fixture itself."
+  },
+  {
+    "number": 8,
+    "heading": "Drainage System",
+    "question": "A plumbing drain trap should be located within _____ of the fixture.",
+    "options": {
+      "A": "460 mm",
+      "B": "610 mm",
+      "C": "590 mm",
+      "D": "750 mm",
+      "E": "350 mm"
+    },
+    "correctAnswer": "B",
+    "explanation": "According to plumbing code standards, a drain trap should be installed as close as possible to the fixture outlet, and within 610 mm (24 inches)."
+  },
+  {
+    "number": 9,
+    "heading": "Drainage System",
+    "question": "Negative pressure in a drainage system may result in which of the following problems:",
+    "options": {
+      "A": "Forcing of sewer gases through traps",
+      "B": "Drawing out of sealing liquid in traps",
+      "C": "Clogging of drain pipes",
+      "D": "Collection of sediment in drain traps",
+      "E": "Build up of scale in water closets"
+    },
+    "correctAnswer": "B",
+    "explanation": "Negative pressure (siphonage) in a drainage system can suck or draw the sealing water out of plumbing traps, breaking the gas seal."
+  },
+  {
+    "number": 10,
+    "heading": "Drainage System",
+    "question": "A sump is used in a sewer drain system when:",
+    "options": {
+      "A": "There are no vents to relieve gases",
+      "B": "The building drain is below the city sewer",
+      "C": "The sewage system is a sealed and pressurized system",
+      "D": "When there is no electricity available to run the sump pumps",
+      "E": "The piping is suffering from water hammer"
+    },
+    "correctAnswer": "B",
+    "explanation": "A sump and sewage ejector pump are required when the lowest building drain or basement fixtures sit below the elevation of the municipal city sewer."
+  },
+  {
+    "number": 11,
+    "heading": "Drainage System",
+    "question": "Drain traps serve which of the following purposes:\n1. To seal the outlet fixture\n2. To prevent back flow of sewer gas\n3. To deflect grease and oil for separate disposal",
+    "options": {
+      "A": "1, 2",
+      "B": "1",
+      "C": "1, 2, 3",
+      "D": "2",
+      "E": "1, 3"
+    },
+    "correctAnswer": "A",
+    "explanation": "Drain traps hold a water seal at the fixture outlet (1) to prevent sewer gases from backing up into the occupied building (2)."
+  },
+  {
+    "number": 12,
+    "heading": "Drainage System",
+    "question": "Which of the following statements about footing drains is true?",
+    "options": {
+      "A": "Used to reduce the hydrostatic pressure on the walls below ground level",
+      "B": "Perforated or porous pipe is used to collect the water near the footings",
+      "C": "Installed to prevent an accumulation of ground water around the building foundations",
+      "D": "The collected water is drained to a remote area or into a sump",
+      "E": "All of these are true"
+    },
+    "correctAnswer": "E",
+    "explanation": "Footing drains use perforated pipe around foundations to collect groundwater, relieve hydrostatic pressure on basement walls, and route water to a sump or remote discharge."
+  },
+  {
+    "number": 13,
+    "heading": "Drainage System",
+    "question": "Sewer smells coming from a floor drain in a washroom can be a problem if the floors of the washroom are not cleaned often. Which of the following courses of action is the simplest way to stop the smell from coming out of the drain?",
+    "options": {
+      "A": "Cover the drain opening",
+      "B": "Sanitise the washroom",
+      "C": "Pour a pail of water into the drain",
+      "D": "Flush the drain with caustic soda",
+      "E": "Improve the washroom's ventilation"
+    },
+    "correctAnswer": "C",
+    "explanation": "Floor drain odors in infrequently washed rooms happen because the trap water evaporates; pouring a pail of water replenishes the water seal."
+  },
+  {
+    "number": 14,
+    "heading": "Drainage System",
+    "question": "Facilities such as food processing plants, auto manufacturing plants, universities can have large amounts of surface water run-off containing hazardous substances including road salts, processing wastes, drainage from garbage management. These should be collected in a secure storage for testing before releasing to the environment. The outdoor storage areas can become flooded and unsafely release these contaminants unless the level is maintained low enough. The level can become uncontrolled due to:",
+    "options": {
+      "A": "Heavy rainfall",
+      "B": "Spring snow melting",
+      "C": "Poor maintenance",
+      "D": "Inattention",
+      "E": "All of these can result in overflowing the containments"
+    },
+    "correctAnswer": "E",
+    "explanation": "Outdoor retention and containment ponds can overflow and release contaminated runoff due to heavy rain, rapid spring snowmelt, poor maintenance, or operator inattention."
+  },
+  {
+    "number": 15,
+    "heading": "Drainage System",
+    "question": "The operating licence for plants that manufacturer or process anything including food, energy, furniture, clothing, automotive parts, aerospace, etc will specify allowable limits for release of effluents that includes:",
+    "options": {
+      "A": "Contaminants types",
+      "B": "Concentrations",
+      "C": "Volumes",
+      "D": "Frequency",
+      "E": "All of these and more"
+    },
+    "correctAnswer": "E",
+    "explanation": "Industrial environmental operating permits strictly regulate effluent releases across contaminant types, concentrations, total volumes, and discharge frequency."
+  },
+  {
+    "number": 16,
+    "heading": "Drainage System",
+    "question": "Which of the following statements is true?",
+    "options": {
+      "A": "Most buildings have several waste and soil stacks with each stack providing drainage for all the sections of the building",
+      "B": "Branch line connections to the waste stack should be connected at an angle of more than 45°C",
+      "C": "The stack vent and loop vents allow equalisation of pressure in the system",
+      "D": "The stack vent prevents sewer gas from being vented through the roof",
+      "E": "In a multi story building one stack is used for venting and waste disposal"
+    },
+    "correctAnswer": "C",
+    "explanation": "Stack vents and loop vents admit and release air to equalize air pressure within the drainage system, preventing trap siphonage or blowback."
+  },
+  {
+    "number": 17,
+    "heading": "Drainage System",
+    "question": "The piping material used for chemical drain lines in laboratories may be:",
+    "options": {
+      "A": "Galvanized steel",
+      "B": "Cement",
+      "C": "Copper",
+      "D": "Low carbon steel",
+      "E": "Borosilicate glass"
+    },
+    "correctAnswer": "E",
+    "explanation": "Borosilicate glass piping is highly resistant to corrosive acids and solvents, making it standard for laboratory chemical waste drain lines."
+  }
+]
