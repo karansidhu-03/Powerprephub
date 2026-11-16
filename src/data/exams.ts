@@ -165,6 +165,11 @@ import b8chp1 from "./Part B/Chp/BookB8/chp1.json";
 import b8chp2 from "./Part B/Chp/BookB8/chp2.json";
 import b8chp3 from "./Part B/Chp/BookB8/chp3.json";
 
+// Part B — Book B12 full book + chapters
+import bookB12 from "./Part B/Chp/BookB12/bookb12.json";
+import b12chp1 from "./Part B/Chp/BookB12/chp1.json";
+import b12chp2 from "./Part B/Chp/BookB12/chp2.json";
+
 export interface Question {
   id: string | number;
   topic?: string;
@@ -1083,6 +1088,24 @@ const bookB8Chapters: Paper[] = [
   ),
 ];
 
+const bookB12Chapters: Paper[] = [
+  makePaper(
+    "b12-fullbook",
+    "Full Book B12 Exam",
+    toQuestions(bookB12 as unknown as RawNumberQuestion[], "Book B12 — Typical Industrial Plant Configurations"),
+  ),
+  makePaper(
+    "b12-chp1",
+    "Common Plant Configurations in Hydrocarbon Centric Industries",
+    toQuestions(b12chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b12-chp2",
+    "Common Plant Configurations in Energy Intensive Industries",
+    toQuestions(b12chp2 as unknown as RawNumberQuestion[]),
+  ),
+];
+
 function chapterCount(papers: Paper[]): number {
   return papers.reduce((sum, p) => sum + (p.questions?.length ?? 0), 0);
 }
@@ -1243,6 +1266,12 @@ export const exams: Exam[] = [
         label: "Book B8 — Building Systems",
         description: `${chapterCount(bookB8Chapters)} questions across ${bookB8Chapters.length} chapters`,
         papers: bookB8Chapters,
+      },
+      {
+        id: "book-b12",
+        label: "Book B12 — Typical Industrial Plant Configurations",
+        description: `${chapterCount(bookB12Chapters)} questions across ${bookB12Chapters.length} chapters`,
+        papers: bookB12Chapters,
       },
     ],
   },
