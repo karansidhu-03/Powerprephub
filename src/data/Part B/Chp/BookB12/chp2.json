@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "The product produced in the blast furnace is:",
+    "options": {
+      "A": "Ore",
+      "B": "Pig iron",
+      "C": "Mineral",
+      "D": "Steel",
+      "E": "Stainless steel"
+    },
+    "correctAnswer": "B",
+    "explanation": "A blast furnace reduces iron ore using coke and limestone to produce molten pig iron, which is subsequently refined into steel."
+  },
+  {
+    "number": 2,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "The chemical process in a pulp mill is used to:",
+    "options": {
+      "A": "Decrease the water content of the pulp",
+      "B": "Add lignin",
+      "C": "Remove the lignin",
+      "D": "Add cellulose",
+      "E": "Remove cellulose"
+    },
+    "correctAnswer": "C",
+    "explanation": "Chemical pulping (such as the Kraft process) cooks wood chips with chemicals to dissolve and remove the lignin binding the cellulose fibers together."
+  },
+  {
+    "number": 3,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "Heat from the black liquor recovery boiler is used to produce:",
+    "options": {
+      "A": "Steam",
+      "B": "Slaked lime",
+      "C": "Pulp",
+      "D": "White liquor",
+      "E": "Green liquor"
+    },
+    "correctAnswer": "A",
+    "explanation": "Heat released from burning organic solids in a black liquor recovery boiler generates high-pressure steam for plant processes and power generation."
+  },
+  {
+    "number": 4,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "Most steel today is made using the:",
+    "options": {
+      "A": "Big offgas furnace",
+      "B": "Blast oxygen furnace",
+      "C": "Pulp blast refinery",
+      "D": "Electric arc furnace",
+      "E": "Basic Oxygen Furnace"
+    },
+    "correctAnswer": "E",
+    "explanation": "The majority of modern primary steelmaking utilizes the Basic Oxygen Furnace (BOF) to blow oxygen through molten pig iron and scrap steel."
+  },
+  {
+    "number": 5,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "When drying wood in a sawmill using the air seasoning method, the wood is dried for:",
+    "options": {
+      "A": "Six hours",
+      "B": "12 months",
+      "C": "3 years",
+      "D": "1 month",
+      "E": "1 day"
+    },
+    "correctAnswer": "B",
+    "explanation": "Air seasoning lumber outdoors in a sawmill yard typically takes around 12 months (up to a year) to naturally lower moisture content."
+  },
+  {
+    "number": 6,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "Explosions in black liquor boilers from fuel and smelt water are:",
+    "options": {
+      "A": "Unavoidable",
+      "B": "Preventable",
+      "C": "Never heard of",
+      "D": "Considered normal",
+      "E": "Inevitable"
+    },
+    "correctAnswer": "B",
+    "explanation": "Smelt-water explosions in black liquor recovery boilers are extremely hazardous but preventable through strict tube leak monitoring and emergency drain procedures."
+  },
+  {
+    "number": 7,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "The amount of iron in Pig Iron is:",
+    "options": {
+      "A": "10%",
+      "B": "50%",
+      "C": "98%",
+      "D": "90%",
+      "E": "4%"
+    },
+    "correctAnswer": "D",
+    "explanation": "Pig iron contains approximately 90% to 94% iron, with the remainder consisting of carbon (around 4%), silicon, manganese, and trace impurities."
+  },
+  {
+    "number": 8,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "The food processing thermal segment used to prepare freshly harvested food is:",
+    "options": {
+      "A": "Reduced",
+      "B": "Elevated",
+      "C": "Supercritical",
+      "D": "Ambient",
+      "E": "Sub cryogenic"
+    },
+    "correctAnswer": "D",
+    "explanation": "The ambient temperature thermal segment in food processing is used to wash, sort, and prepare freshly harvested raw foods."
+  },
+  {
+    "number": 9,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "The black liquor recovery boiler is used to:",
+    "options": {
+      "A": "Incinerate strong black liquor",
+      "B": "Recover pulp",
+      "C": "Convert white liquor to black liquor",
+      "D": "Incinerate white liquor to produce green liquor",
+      "E": "Boil white liquor"
+    },
+    "correctAnswer": "A",
+    "explanation": "A black liquor recovery boiler incinerates concentrated (strong) black liquor to recover inorganic cooking chemicals as molten smelt and generate steam."
+  },
+  {
+    "number": 10,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "When describing biomass co-firing, there are 3 possible technology setups:",
+    "options": {
+      "A": "Direct, indirect, series",
+      "B": "Indirect, parallel, series",
+      "C": "Direct, reverse, perpendicular",
+      "D": "Indirect, non direct, incorrect",
+      "E": "Direct, indirect, parallel"
+    },
+    "correctAnswer": "E",
+    "explanation": "Biomass co-firing in coal/fossil power plants is categorized into three main configurations: direct, indirect, and parallel co-firing."
+  },
+  {
+    "number": 11,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "In a pulp mill the wood is shredded in the:",
+    "options": {
+      "A": "Mechanical process",
+      "B": "Black liquor boiler",
+      "C": "Chemical process",
+      "D": "Digester",
+      "E": "Saw mill"
+    },
+    "correctAnswer": "A",
+    "explanation": "In mechanical pulping, logs or wood chips are physically ground or shredded using grindstones or refiners to separate the wood fibers."
+  },
+  {
+    "number": 12,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "Regulations concerning food processing require boiler feedwater to be:",
+    "options": {
+      "A": "Saturated",
+      "B": "Reused",
+      "C": "Superheated",
+      "D": "Cold",
+      "E": "Potable"
+    },
+    "correctAnswer": "E",
+    "explanation": "Food safety regulations require that boiler feedwater (and treatment chemicals) be potable/food-grade wherever steam may come into direct contact with food."
+  },
+  {
+    "number": 13,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "Hog fuel is a term used to describe a:",
+    "options": {
+      "A": "Low calorific fuel used in a meat processing plant",
+      "B": "Waste products from swine production used as fuel",
+      "C": "High oxygen gas used as fuel in gas plants",
+      "D": "Mixture of waste wood and bark used as fuel in a wood mill",
+      "E": "Low quality fuel used in refinery fuel"
+    },
+    "correctAnswer": "D",
+    "explanation": "Hog fuel is an unprocessed or shredded mixture of bark, sawdust, and wood waste burned in wood mill boilers to produce process steam and power."
+  },
+  {
+    "number": 14,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "Biomass fuel from urban sources does not include:",
+    "options": {
+      "A": "Food processing residue",
+      "B": "Biogas from livestock effluent",
+      "C": "Municipal solid waste",
+      "D": "Municipal waste",
+      "E": "Landfill gas"
+    },
+    "correctAnswer": "B",
+    "explanation": "Biogas from livestock effluent is an agricultural/rural biomass source rather than an urban biomass source (unlike MSW, landfill gas, and urban food waste)."
+  },
+  {
+    "number": 15,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "Pelletizing compresses ______ into a usable solid fuel.",
+    "options": {
+      "A": "OSB and MDF",
+      "B": "Biomass",
+      "C": "Plywood and Veneers",
+      "D": "Natural gas",
+      "E": "Asphalt"
+    },
+    "correctAnswer": "B",
+    "explanation": "Pelletizing uses high mechanical pressure to compress dried sawdust, agricultural residues, and other biomass into dense, uniform fuel pellets."
+  },
+  {
+    "number": 16,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "When the Basic Oxygen furnace is pouring, it can:",
+    "options": {
+      "A": "Produce more steam",
+      "B": "Melt the scrap steel",
+      "C": "Cool too quickly",
+      "D": "Not produce steam",
+      "E": "Increase the energy produced"
+    },
+    "correctAnswer": "D",
+    "explanation": "During the tapping/pouring phase of a Basic Oxygen Furnace batch cycle, oxygen blowing stops and off-gas heat recovery ceases, so it cannot produce steam."
+  },
+  {
+    "number": 17,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "The temperature in a blast furnace is:",
+    "options": {
+      "A": "1500°C",
+      "B": "500°C",
+      "C": "1000°C",
+      "D": "5000°C",
+      "E": "2500°C"
+    },
+    "correctAnswer": "A",
+    "explanation": "Temperatures in the lower melting zone of a blast furnace reach approximately 1500°C to 1600°C to melt the reduced iron and slag."
+  },
+  {
+    "number": 18,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "Smelting of metals involves heating the ore with a reducing agent such as:",
+    "options": {
+      "A": "Lime",
+      "B": "Pepsi",
+      "C": "Ethanol",
+      "D": "Sodium hydroxide",
+      "E": "Coke"
+    },
+    "correctAnswer": "E",
+    "explanation": "Smelting heats metallic ore beyond its melting point in the presence of a carbon-based reducing agent such as coke to extract the base metal."
+  },
+  {
+    "number": 19,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "Elevated temperature food processing is used for:",
+    "options": {
+      "A": "Inert gas blanketing",
+      "B": "Harvesting vegetables",
+      "C": "Converting raw material using hot water",
+      "D": "Separating components of food",
+      "E": "Freeze drying"
+    },
+    "correctAnswer": "C",
+    "explanation": "Elevated temperature food processing uses hot water or steam for cooking, blanching, pasteurizing, and converting raw agricultural materials."
+  },
+  {
+    "number": 20,
+    "heading": "Common Plant Configurations in Energy Intensive Industries",
+    "question": "Blast furnace charge contains:",
+    "options": {
+      "A": "Ore, coke, limestone",
+      "B": "Ore, slag, limestone",
+      "C": "CO₂, coke, lime",
+      "D": "Ore, slag, oxygen",
+      "E": "Pig iron, coke, limestone"
+    },
+    "correctAnswer": "A",
+    "explanation": "The solid raw material charge fed into the top of a blast furnace consists of iron ore, coke (fuel/reductant), and limestone (flux)."
+  }
+]

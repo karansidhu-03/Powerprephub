@@ -1061,7 +1061,10 @@ const bookB8Chapters: Paper[] = [
   makePaper(
     "b8-fullbook",
     "Full Book B8 Exam",
-    toQuestions(bookB8 as unknown as RawNumberQuestion[], "Book B8 — Building Systems"),
+    toQuestions(
+      bookB8 as unknown as RawNumberQuestion[],
+      "Book B8 — Building Systems",
+    ),
   ),
   makePaper(
     "b8-chp1",

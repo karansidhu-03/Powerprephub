@@ -1,0 +1,562 @@
+[
+  {
+    "number": 1,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "What is the percent by volume of methane in Natural gas?",
+    "options": {
+      "A": "5%",
+      "B": "95%",
+      "C": "50%",
+      "D": "75%",
+      "E": "100%"
+    },
+    "correctAnswer": "B",
+    "explanation": "Natural gas is composed predominantly of methane, typically making up about 95% by volume."
+  },
+  {
+    "number": 2,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "Which of these is not a common use of heat in an industrial facility.",
+    "options": {
+      "A": "End use",
+      "B": "Cryogenic",
+      "C": "Generation",
+      "D": "Distribution",
+      "E": "Recovery and re-use"
+    },
+    "correctAnswer": "B",
+    "explanation": "Industrial heat uses include generation, distribution, end use, and recovery/re-use; cryogenic is cooling rather than heating."
+  },
+  {
+    "number": 3,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The predominant constituent of natural gas is:",
+    "options": {
+      "A": "C₄H₁₀",
+      "B": "H₂O",
+      "C": "CH₄",
+      "D": "H₂S",
+      "E": "C₃H₈"
+    },
+    "correctAnswer": "C",
+    "explanation": "Methane (CH₄) is the primary hydrocarbon constituent of natural gas."
+  },
+  {
+    "number": 4,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "An industrial system where a fluid other than water/steam is used for energy transfer:",
+    "options": {
+      "A": "Electric arc furnace",
+      "B": "Cyclic steam System",
+      "C": "Heat transfer fluid system",
+      "D": "Waste heat boiler",
+      "E": "Steam assisted Gravity Drainage"
+    },
+    "correctAnswer": "C",
+    "explanation": "A heat transfer fluid system utilizes thermal fluids (like hot oil or molten salt) instead of water or steam for energy transfer."
+  },
+  {
+    "number": 5,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The inner walls and floor of the furnace of a fired heater are usually lined with:",
+    "options": {
+      "A": "Pyrex glass",
+      "B": "Fiberglass brick",
+      "C": "Ceramic tile",
+      "D": "Refractory brick",
+      "E": "Asbestos blocks"
+    },
+    "correctAnswer": "D",
+    "explanation": "Fired heater furnaces are lined with high-temperature refractory bricks to insulate the steel casing and withstand intense radiant heat."
+  },
+  {
+    "number": 6,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The ____ type tubes have fins on their outer surfaces.",
+    "options": {
+      "A": "Looped",
+      "B": "Fir tube",
+      "C": "Extended",
+      "D": "Flared",
+      "E": "Tangential"
+    },
+    "correctAnswer": "C",
+    "explanation": "Extended surface tubes (finned tubes) feature external fins to increase surface area for heat transfer in convection sections."
+  },
+  {
+    "number": 7,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "Use of molten salt for a heat transfer system is typical when temperatures exceed:",
+    "options": {
+      "A": "0°C",
+      "B": "20°C",
+      "C": "200°C",
+      "D": "400°C",
+      "E": "100°C"
+    },
+    "correctAnswer": "D",
+    "explanation": "Molten salt heat transfer systems are used when high-temperature operation exceeds 400°C where standard organic thermal oils would degrade."
+  },
+  {
+    "number": 8,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The automatic shutdown devices on a hot oil system are called:",
+    "options": {
+      "A": "Outerlocks",
+      "B": "Interlocks",
+      "C": "Circuit breakers",
+      "D": "Lock outs",
+      "E": "Fail safe locks"
+    },
+    "correctAnswer": "B",
+    "explanation": "Hot oil systems utilize safety interlocks to automatically shut down burners and equipment under hazardous conditions."
+  },
+  {
+    "number": 9,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "End use physical processes can include:",
+    "options": {
+      "A": "Fractionation",
+      "B": "Drying",
+      "C": "Thermo-Mechanical",
+      "D": "Absorption",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "End use physical processes in hydrocarbon plants include fractionation, drying, thermo-mechanical processing, and absorption."
+  },
+  {
+    "number": 10,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "SAGD is an abbreviation for:",
+    "options": {
+      "A": "Specific gravity determination",
+      "B": "Steam apparatus gravity desulfurization",
+      "C": "Steam assisted gravity drainage",
+      "D": "Steam assisted gangue dilution",
+      "E": "Stripping asphalt gas device"
+    },
+    "correctAnswer": "C",
+    "explanation": "SAGD stands for Steam-Assisted Gravity Drainage, a thermal in-situ recovery process for heavy oil and bitumen."
+  },
+  {
+    "number": 11,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "A board operator notices the hot oil heater stack temperature is rapidly increasing. They should:",
+    "options": {
+      "A": "Alert the fire department",
+      "B": "Call the health department",
+      "C": "Wait to see if the temperature will come down",
+      "D": "Send an operator to check for smoke",
+      "E": "Activate the emergency shutdown"
+    },
+    "correctAnswer": "E",
+    "explanation": "A rapidly increasing stack temperature on a hot oil heater indicates a potential internal fire, tube rupture, or refractory failure, requiring an emergency shutdown."
+  },
+  {
+    "number": 12,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "What is the function of the surge tank low oil level device?",
+    "options": {
+      "A": "Shut down the flare stack",
+      "B": "Reduce the firing rate to minimum",
+      "C": "Prevent loss of pump suction",
+      "D": "Shut down the pilot burner",
+      "E": "Stop flow of thermal fluid"
+    },
+    "correctAnswer": "C",
+    "explanation": "A surge tank low oil level device ensures adequate net positive suction head and prevents loss of pump suction, which would cause cavitation or pump failure."
+  },
+  {
+    "number": 13,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The purpose of the absorber in a natural gas plant is:",
+    "options": {
+      "A": "Remove amine from the gas",
+      "B": "Absorb all the hydrocarbons from the gas",
+      "C": "Remove hydrogen sulphide and carbon dioxide from the gas",
+      "D": "Remove condensate from the gas",
+      "E": "Remove water from the gas"
+    },
+    "correctAnswer": "C",
+    "explanation": "The amine absorber (contactor) in a natural gas plant is designed to sweeten the gas by removing acid gases like hydrogen sulfide (H₂S) and carbon dioxide (CO₂)."
+  },
+  {
+    "number": 14,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "During the liquefaction process, LNG (liquified Natural gas) is cooled to:",
+    "options": {
+      "A": "-273°C",
+      "B": "-100°C",
+      "C": "-30°C",
+      "D": "-162°C",
+      "E": "0°C"
+    },
+    "correctAnswer": "D",
+    "explanation": "Liquefied Natural Gas (LNG) is cryogenic and cooled to approximately -162°C at atmospheric pressure for storage and transport."
+  },
+  {
+    "number": 15,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "Due to low differential pressure in a Heat Transfer system, a ________ is required.",
+    "options": {
+      "A": "Steam turbine",
+      "B": "Pump",
+      "C": "Gas turbine",
+      "D": "Electric motor",
+      "E": "Compressor"
+    },
+    "correctAnswer": "B",
+    "explanation": "A circulating pump is required in a hot oil / heat transfer fluid system to overcome system pressure drop and maintain fluid flow."
+  },
+  {
+    "number": 16,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "A process used in refineries to separate components by using the property of different boiling temperatures is:",
+    "options": {
+      "A": "Fractional distillation",
+      "B": "Absorption",
+      "C": "Catalytic cracking",
+      "D": "Adsorption",
+      "E": "Reforming"
+    },
+    "correctAnswer": "A",
+    "explanation": "Fractional distillation is the primary refining process used to separate crude oil components based on differences in boiling points."
+  },
+  {
+    "number": 17,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "In order to keep some hot oil flowing backwards through the standby pump, it is important that the ______ valve be left open.",
+    "options": {
+      "A": "Suction",
+      "B": "Automatic",
+      "C": "Relief",
+      "D": "Pneumatic",
+      "E": "Safety"
+    },
+    "correctAnswer": "A",
+    "explanation": "The suction valve on standby pumps must be left open to keep hot oil flowing through the standby pump, preventing thermal shock upon startup."
+  },
+  {
+    "number": 18,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "_______ are required to prevent oil from spreading beyond the confines of a heater in the event of a ruptured tube.",
+    "options": {
+      "A": "Pipes",
+      "B": "Tunnels",
+      "C": "Dikes",
+      "D": "Moats",
+      "E": "Rails"
+    },
+    "correctAnswer": "C",
+    "explanation": "Dikes (bund walls) are containment structures required around fired heaters and oil vessels to contain oil spills in the event of a tube rupture or leak."
+  },
+  {
+    "number": 19,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The diluted bitumen that is used as feed stock for Heavy Oil upgraders is called:",
+    "options": {
+      "A": "Naphtha",
+      "B": "Natural gasoline",
+      "C": "Diluent",
+      "D": "Sour gas",
+      "E": "Dilbit"
+    },
+    "correctAnswer": "E",
+    "explanation": "Dilbit (diluted bitumen) is heavy bitumen blended with a lighter hydrocarbon diluent so it can pipeline transport to upgraders."
+  },
+  {
+    "number": 20,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The gas burners of a horizontal rectangular direct fired hot oil heater are located:",
+    "options": {
+      "A": "In the corners of the furnace",
+      "B": "External to the furnace",
+      "C": "On the floor of the furnace",
+      "D": "In the ceiling of the furnace",
+      "E": "In the front of the furnace"
+    },
+    "correctAnswer": "C",
+    "explanation": "The gas burners of a horizontal rectangular direct-fired hot oil heater are typically mounted on the floor of the furnace."
+  },
+  {
+    "number": 21,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "A heat transfer fluid system is typically preferred when the required temperature is above:",
+    "options": {
+      "A": "0°C",
+      "B": "1000°C",
+      "C": "175°C",
+      "D": "25°C",
+      "E": "-40°C"
+    },
+    "correctAnswer": "C",
+    "explanation": "Heat transfer fluid systems are preferred over steam for high-temperature applications when operating temperatures exceed 175°C without requiring high pressures."
+  },
+  {
+    "number": 22,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "Structural support beams that strengthen and support furnace heaters are mounted on:",
+    "options": {
+      "A": "Steel bedplates",
+      "B": "Concrete piers",
+      "C": "Concrete pads",
+      "D": "Concrete saddles",
+      "E": "Refractory piers"
+    },
+    "correctAnswer": "B",
+    "explanation": "Structural steel support columns and beams for large industrial furnaces are mounted on sturdy concrete piers."
+  },
+  {
+    "number": 23,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "SAGD facilities tend to use ________ instead of conventional drum boilers.",
+    "options": {
+      "A": "CO₂ boilers",
+      "B": "OTSG",
+      "C": "Microwaves",
+      "D": "Superheaters",
+      "E": "Hot oil heaters"
+    },
+    "correctAnswer": "B",
+    "explanation": "SAGD facilities utilize Once-Through Steam Generators (OTSGs) rather than conventional drum boilers to handle high silica and mineral content feedwater."
+  },
+  {
+    "number": 24,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The purpose of the inlet separator (scrubber) in a natural gas plant is to remove the:",
+    "options": {
+      "A": "Solids form the liquids",
+      "B": "Hydrogen sulfide from the gas",
+      "C": "Sulfur from the hydrogen sulfide",
+      "D": "Liquids from the gas",
+      "E": "Increase plant flow capacity"
+    },
+    "correctAnswer": "D",
+    "explanation": "The inlet separator (scrubber) at the front end of a natural gas plant removes bulk free liquids and entrained water/hydrocarbons from the incoming gas stream."
+  },
+  {
+    "number": 25,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "In heavy oil production, the knockout vessel is used to:",
+    "options": {
+      "A": "Separate the gas for the oil",
+      "B": "Separate free water",
+      "C": "Remove hydrocarbons",
+      "D": "Remove solids like sand",
+      "E": "Add water"
+    },
+    "correctAnswer": "B",
+    "explanation": "In heavy oil production and treaters, knockout vessels are utilized primarily to separate and drain free water from the oil-water emulsion."
+  },
+  {
+    "number": 26,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "Most hot oil heater fuel controls are ____ to prevent pilot burner fuel supply if hot oil flow supply is below a preset limit.",
+    "options": {
+      "A": "Interlocked",
+      "B": "By-passed",
+      "C": "Unlocked",
+      "D": "Locked",
+      "E": "Jammed"
+    },
+    "correctAnswer": "A",
+    "explanation": "Hot oil heater fuel controls are interlocked with flow safety switches to trip burner fuel if thermal fluid flow drops below safe minimum limits."
+  },
+  {
+    "number": 27,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "Stripping steam is injected into ______ stripping columns in a refinery.",
+    "options": {
+      "A": "Inlet separator",
+      "B": "Side stream",
+      "C": "The top of reformer",
+      "D": "The bottom of the reformer",
+      "E": "Field heater"
+    },
+    "correctAnswer": "B",
+    "explanation": "Stripping steam is injected into the bottom of side-stream stripping columns in crude distillation units to strip out light ends and control flash points."
+  },
+  {
+    "number": 28,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "Hot oil temperature shutdown switches are installed on the:",
+    "options": {
+      "A": "Outlet line from the heater",
+      "B": "Fuel gas line",
+      "C": "Surge tank inlet line",
+      "D": "Inlet line to the heater",
+      "E": "Inlet line to the pump"
+    },
+    "correctAnswer": "A",
+    "explanation": "Hot oil temperature high shutdown switches are located on the outlet line from the heater to protect the thermal fluid from thermal degradation or coking."
+  },
+  {
+    "number": 29,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The purpose of stabilization in a natural gas plant is to:",
+    "options": {
+      "A": "Remove heavy liquids from the lighter oils",
+      "B": "Stabilize the gas from the contactor",
+      "C": "Stabilize the steam system",
+      "D": "Prevent water from entering the dehydrator",
+      "E": "Flash off the gases from the liquid hydrocarbons"
+    },
+    "correctAnswer": "E",
+    "explanation": "The purpose of stabilization in a natural gas plant is to flash off light end gases from liquid hydrocarbons to achieve a safe vapor pressure for storage."
+  },
+  {
+    "number": 30,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The mechanical seal material in a hot oil pump determines the:",
+    "options": {
+      "A": "Pressure of the oil that can be pumped",
+      "B": "Capacity of the oil that can be pumped",
+      "C": "Volume of the oil that can be pumped",
+      "D": "Viscosity of the oil that can be pumped",
+      "E": "Temperature of the oil that can be pumped"
+    },
+    "correctAnswer": "E",
+    "explanation": "The mechanical seal material and flush design in a hot oil pump determine its temperature rating and compatibility with hot thermal fluids."
+  },
+  {
+    "number": 31,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "Which of the following are not reasons to select hot oil system over a steam system?",
+    "options": {
+      "A": "No water treatment requirements",
+      "B": "No freezing concerns",
+      "C": "High operating temperatures",
+      "D": "Simple circuits",
+      "E": "High system pressure"
+    },
+    "correctAnswer": "E",
+    "explanation": "High system pressure is an advantage/characteristic of steam systems, whereas hot oil systems operate at low pressures even at high temperatures (making high system pressure NOT a reason to select hot oil)."
+  },
+  {
+    "number": 32,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The approximate efficiency of a hot oil radiant heater is:",
+    "options": {
+      "A": "75-85%",
+      "B": "55-65%",
+      "C": "60–75%",
+      "D": "40-50%",
+      "E": "20-30%"
+    },
+    "correctAnswer": "D",
+    "explanation": "A hot oil radiant heater typically operates at an approximate efficiency of 40% to 50%. Heat is transferred from the burner flame and hot combustion gases to the oil through radiant heat transfer. Some energy is lost through the exhaust gases and other heat losses, reducing the overall heater efficiency."
+  },
+  {
+    "number": 33,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The purpose of dehydration in a natural gas treatment plant is to:",
+    "options": {
+      "A": "Lower the temperature of the gas",
+      "B": "Separate liquid and gas hydrocarbons",
+      "C": "Remove water from the gas stream",
+      "D": "Remove hydrogen sulfide",
+      "E": "Dry the carbon dioxide"
+    },
+    "correctAnswer": "C",
+    "explanation": "Dehydration units in natural gas processing remove water vapor from the gas stream to prevent hydrate formation and corrosion."
+  },
+  {
+    "number": 34,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The purpose of the FCC Unit in an oil refinery is to:",
+    "options": {
+      "A": "Remove hydrogen sulphide and nitrogen from the naphtha",
+      "B": "Cause the heavy hydrocarbons to be transformed to lighter hydrocarbons",
+      "C": "Convert the light ends to heavy ends",
+      "D": "Remove the sulfur and nitrogen from the diesel fuel",
+      "E": "Remove Propane, butane and light ends from the crude oil"
+    },
+    "correctAnswer": "B",
+    "explanation": "The Fluid Catalytic Cracking (FCC) unit breaks down heavy gas oils into more valuable lighter hydrocarbons like gasoline and olefins."
+  },
+  {
+    "number": 35,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "To avoid unstable burner operation in the event of high or low fuel gas pressure, hot oil heaters are equipped with:",
+    "options": {
+      "A": "A high or low fuel gas pressure shutdown device",
+      "B": "A high stack pressure shutdown switch",
+      "C": "A pilot flame failure shutdown",
+      "D": "A high stack temperature alarm",
+      "E": "A furnace pressure shutdown"
+    },
+    "correctAnswer": "A",
+    "explanation": "Hot oil heaters are equipped with high and low fuel gas pressure shutdown devices to prevent unstable combustion or flame failure."
+  },
+  {
+    "number": 36,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The overall purpose of an oil refinery is to:",
+    "options": {
+      "A": "Only fractionate the oil to separate the gases",
+      "B": "Remove contaminants and process oil into specific products",
+      "C": "Only process crude oil into petrochemical feedstocks",
+      "D": "Only produce diesel and gasoline",
+      "E": "Only remove contaminants such as water and H₂S"
+    },
+    "correctAnswer": "B",
+    "explanation": "The overall purpose of an oil refinery is to remove contaminants and process crude oil into specific commercial petroleum products."
+  },
+  {
+    "number": 37,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The end use process that converts one compound into another by chemical reaction.",
+    "options": {
+      "A": "Economizer",
+      "B": "Compressor",
+      "C": "Condenser",
+      "D": "Chemical conversion process",
+      "E": "Hydraulic pump"
+    },
+    "correctAnswer": "D",
+    "explanation": "A chemical conversion process changes one compound into another via chemical reactions (such as cracking, reforming, or alkylation)."
+  },
+  {
+    "number": 38,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "With hot oil systems, the emergency shutdown is activated:",
+    "options": {
+      "A": "Slowly",
+      "B": "Manually",
+      "C": "Daily",
+      "D": "Carefully",
+      "E": "Automatically"
+    },
+    "correctAnswer": "B",
+    "explanation": "In hot oil systems, the emergency shutdown is activated manually by the operator when an unsafe condition or emergency is identified. The operator initiates the shutdown to stop the heater and prevent equipment damage, fire, or other hazards."
+  },
+  {
+    "number": 39,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "The contaminants in natural gas may include:",
+    "options": {
+      "A": "Hydrogen Sulfide",
+      "B": "Butane",
+      "C": "Pentane",
+      "D": "Methane",
+      "E": "Oxygen"
+    },
+    "correctAnswer": "A",
+    "explanation": "Contaminants in raw natural gas commonly include hydrogen sulfide (H₂S), carbon dioxide, water vapor, and nitrogen."
+  },
+  {
+    "number": 40,
+    "heading": "Common Plant Configurations in Hydrocarbon Centric Industries",
+    "question": "Hydrocarbons in natural gas may include:",
+    "options": {
+      "A": "Nitrogen",
+      "B": "Hydrogen sulfide",
+      "C": "Water",
+      "D": "Carbon dioxide",
+      "E": "Ethane"
+    },
+    "correctAnswer": "E",
+    "explanation": "Hydrocarbons present in natural gas include methane, ethane, propane, butane, and pentanes plus."
+  }
+]
