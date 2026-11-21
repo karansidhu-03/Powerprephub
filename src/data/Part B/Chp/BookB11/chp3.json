@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Other Heating Systems",
+    "question": "Electric resistance coil heating systems are mainly restricted to use in:",
+    "options": {
+      "A": "Large buildings",
+      "B": "Hot water heating systems",
+      "C": "Large warehouses",
+      "D": "Steam heating systems",
+      "E": "Small residences"
+    },
+    "correctAnswer": "E",
+    "explanation": "Electric resistance duct/coil heating is typically limited to small residences or localized zone heating due to high electricity operating costs."
+  },
+  {
+    "number": 2,
+    "heading": "Other Heating Systems",
+    "question": "In a high efficiency furnace or heater the temperature of the flue gases are _____ in the secondary heat exchanger.",
+    "options": {
+      "A": "Very high",
+      "B": "On the dew point",
+      "C": "Very low",
+      "D": "Above the dew point",
+      "E": "Below the dew point"
+    },
+    "correctAnswer": "E",
+    "explanation": "Condensing/high-efficiency furnaces cool flue gases below the water vapor dew point in a secondary heat exchanger to extract latent heat of condensation."
+  },
+  {
+    "number": 3,
+    "heading": "Other Heating Systems",
+    "question": "Infrared radiant energy is directed towards:",
+    "options": {
+      "A": "Doors",
+      "B": "Walls",
+      "C": "Ceilings",
+      "D": "Windows",
+      "E": "Floors"
+    },
+    "correctAnswer": "E",
+    "explanation": "Overhead infrared radiant heaters are aimed downward toward floors and occupied surfaces rather than warming air directly."
+  },
+  {
+    "number": 4,
+    "heading": "Other Heating Systems",
+    "question": "Heat exchangers in gas fired furnaces are made of:",
+    "options": {
+      "A": "Copper",
+      "B": "Steel",
+      "C": "Aluminum",
+      "D": "Brass",
+      "E": "Cast iron"
+    },
+    "correctAnswer": "B",
+    "explanation": "Gas-fired warm air furnace heat exchangers are typically constructed from heavy-gauge sheet steel or aluminized steel."
+  },
+  {
+    "number": 5,
+    "heading": "Other Heating Systems",
+    "question": "Lowboy furnaces are just over _____ in height.",
+    "options": {
+      "A": "1.0 m",
+      "B": "0.8 m",
+      "C": "1.6 m",
+      "D": "1.4 m",
+      "E": "1.2 m"
+    },
+    "correctAnswer": "E",
+    "explanation": "Lowboy warm air furnaces are compact in height, measuring just over 1.2 m (about 4 feet) tall."
+  },
+  {
+    "number": 6,
+    "heading": "Other Heating Systems",
+    "question": "One of the advantages of electric heating over other heating systems is:",
+    "options": {
+      "A": "Low operating pressures",
+      "B": "Ideal for large warehouses",
+      "C": "High operating temperatures",
+      "D": "Low operating cost",
+      "E": "No fuel storage or handling equipment"
+    },
+    "correctAnswer": "E",
+    "explanation": "Electric heating requires no fuel tanks, piping, chimneys, or fuel storage and handling equipment on site."
+  },
+  {
+    "number": 7,
+    "heading": "Other Heating Systems",
+    "question": "Most warm air heating furnaces are often equipped with a _____ to supply moisture to the air during the dry winter season.",
+    "options": {
+      "A": "Steamer",
+      "B": "Dehumidifier",
+      "C": "Water sprayer",
+      "D": "Humidifier",
+      "E": "Vapourizer"
+    },
+    "correctAnswer": "D",
+    "explanation": "A humidifier adds moisture to circulated warm air to maintain comfortable indoor relative humidity during dry winter heating seasons."
+  },
+  {
+    "number": 8,
+    "heading": "Other Heating Systems",
+    "question": "Plugged _____ on warm air heating and ventilating systems limit the air flow and result in insufficient heating and a waste of fuel.",
+    "options": {
+      "A": "Filters",
+      "B": "Univents",
+      "C": "Drain lines",
+      "D": "Convectors",
+      "E": "Diverters"
+    },
+    "correctAnswer": "A",
+    "explanation": "Dirty or plugged air filters restrict blower airflow, causing overheating/short-cycling, poor heating, and wasted energy."
+  },
+  {
+    "number": 9,
+    "heading": "Other Heating Systems",
+    "question": "Which of the following is the equipment used for indirect electric heating systems?\n1. Radiant panel heaters\n2. Unit ventilators\n3. Heat lamps\n4. Electric boilers\n5. Warm air furnaces",
+    "options": {
+      "A": "3, 4",
+      "B": "3, 5",
+      "C": "1, 2",
+      "D": "4, 5",
+      "E": "2, 3"
+    },
+    "correctAnswer": "D",
+    "explanation": "Indirect electric heating systems use electricity to heat a medium such as water/steam in electric boilers or air in electric warm air furnaces."
+  },
+  {
+    "number": 10,
+    "heading": "Other Heating Systems",
+    "question": "Which of the following is the equipment used for direct electric heating systems?\n1. Electric boilers\n2. Baseboard heaters\n3. Wall heaters\n4. Unit heaters\n5. Warm air furnaces",
+    "options": {
+      "A": "1, 3, 5",
+      "B": "3, 4, 5",
+      "C": "1, 2, 3",
+      "D": "2, 4, 5",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "E",
+    "explanation": "Direct electric heating converts electrical energy directly into heat at the point of use, such as baseboard heaters, wall heaters, and electric unit heaters."
+  },
+  {
+    "number": 11,
+    "heading": "Other Heating Systems",
+    "question": "In high efficiency furnaces, if the temperature of the flue gas drops below 65°C, the:",
+    "options": {
+      "A": "Furnace vent will close",
+      "B": "Furnace burner will start up",
+      "C": "Water vapour will condense",
+      "D": "Flue gas will condense",
+      "E": "Furnace burner will shut down"
+    },
+    "correctAnswer": "C",
+    "explanation": "When flue gas cools below its dew point (around 55°C–65°C depending on excess air/fuel), water vapor condenses into liquid condensate."
+  },
+  {
+    "number": 12,
+    "heading": "Other Heating Systems",
+    "question": "In a fin-coil heat exchanger, the primary source of heat for the exchanger is:",
+    "options": {
+      "A": "Radiant",
+      "B": "Solar",
+      "C": "Steam or hot water",
+      "D": "Gas",
+      "E": "Oil"
+    },
+    "correctAnswer": "C",
+    "explanation": "Fin-coil heat exchangers in HVAC air handlers or unit heaters commonly circulate steam or hot water inside the finned tubes to warm passing air."
+  },
+  {
+    "number": 13,
+    "heading": "Other Heating Systems",
+    "question": "Which of the following are gas-fired infrared heaters?\n1. Surface combustion heater\n2. Vented heater\n3. Quartz tube heater\n4. Low temperature catalytic heater\n5. Metal sheath heater",
+    "options": {
+      "A": "2, 3, 5",
+      "B": "1, 2, 5",
+      "C": "1, 3, 4",
+      "D": "1, 2, 3",
+      "E": "1, 2, 4"
+    },
+    "correctAnswer": "E",
+    "explanation": "Gas-fired infrared heaters include surface combustion (ceramic/porous matrix), vented tube heaters, and low-temperature catalytic infrared heaters."
+  },
+  {
+    "number": 14,
+    "heading": "Other Heating Systems",
+    "question": "The correct tension on V belts should be 1 cm for every 16cm between pulleys when the motors are:",
+    "options": {
+      "A": "Less than 1 kilowatt",
+      "B": "Operating over 1800 rpm",
+      "C": "More than 1 kilowatt",
+      "D": "One horse power or more",
+      "E": "Diesel engines"
+    },
+    "correctAnswer": "A",
+    "explanation": "For fractional horsepower / small electric motors under 1 kW, proper V-belt deflection is roughly 1 cm per 16 cm of center-to-center pulley span."
+  },
+  {
+    "number": 15,
+    "heading": "Other Heating Systems",
+    "question": "One of the advantages the forced warm air heating systems has over the steam or hot water heating systems is:",
+    "options": {
+      "A": "Its ease of installation of duct works",
+      "B": "The systems are virtually noise free",
+      "C": "The systems do not require electricity",
+      "D": "The systems are maintenance free",
+      "E": "The air can be humidified"
+    },
+    "correctAnswer": "E",
+    "explanation": "Forced warm air systems can easily integrate humidifiers directly into the supply air stream to humidify conditioned air."
+  },
+  {
+    "number": 16,
+    "heading": "Other Heating Systems",
+    "question": "Infrared heaters are used in:",
+    "options": {
+      "A": "Skating rinks",
+      "B": "Theaters",
+      "C": "Libraries",
+      "D": "Lecture halls",
+      "E": "Offices"
+    },
+    "correctAnswer": "A",
+    "explanation": "Infrared radiant heaters are well suited for large, drafty, or semi-open spaces like skating rinks, arenas, and warehouses where heating air is impractical."
+  },
+  {
+    "number": 17,
+    "heading": "Other Heating Systems",
+    "question": "Infrared heaters are usually mounted:",
+    "options": {
+      "A": "On walls",
+      "B": "Over doors",
+      "C": "Overhead",
+      "D": "In floors",
+      "E": "Under windows"
+    },
+    "correctAnswer": "C",
+    "explanation": "Infrared radiant heaters are typically mounted overhead so radiant waves shine downward onto people, floors, and equipment."
+  },
+  {
+    "number": 18,
+    "heading": "Other Heating Systems",
+    "question": "A fired heater which is installed on location where the heat is needed and heats the air directly without the use of any ducting is called a/an:",
+    "options": {
+      "A": "Convector",
+      "B": "Fin-coil heat exchanger",
+      "C": "Unit heater",
+      "D": "Unit ventilator",
+      "E": "Space heater"
+    },
+    "correctAnswer": "E",
+    "explanation": "A space heater is a self-contained or localized unit installed in the space to be heated without extensive duct distribution."
+  },
+  {
+    "number": 19,
+    "heading": "Other Heating Systems",
+    "question": "In an internally fired gas-fired infrared heater, the surface temperature is about:",
+    "options": {
+      "A": "700°C",
+      "B": "600°C",
+      "C": "400°C",
+      "D": "500°C",
+      "E": "300°C"
+    },
+    "correctAnswer": "C",
+    "explanation": "Internally fired (tube-type) gas infrared heaters typically operate at emitter surface temperatures around 400°C."
+  },
+  {
+    "number": 20,
+    "heading": "Other Heating Systems",
+    "question": "One of the disadvantages of the forced warm air heating systems is the:",
+    "options": {
+      "A": "Air contains too much moisture",
+      "B": "Installation and maintenance costs are higher than the steam heating systems",
+      "C": "High cost for the system due to specialty equipment required",
+      "D": "System can be quite noisy as compared to the gravity warm air heating systems",
+      "E": "Poor air circulation"
+    },
+    "correctAnswer": "D",
+    "explanation": "Forced warm air systems use blowers and ductwork, making them generally noisier than quiet natural-convection gravity warm air systems."
+  }
+]

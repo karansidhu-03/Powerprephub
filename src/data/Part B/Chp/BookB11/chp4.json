@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "For the selection of a HVAC system the building function factor includes:\n1. Normal occupancy periods\n2. Building owner’s considerations\n3. The need to operate certain areas during off hours\n4. Maintenance requirements",
+    "options": {
+      "A": "1, 2, 3, 4",
+      "B": "1, 2",
+      "C": "1, 3",
+      "D": "3, 4",
+      "E": "2, 3"
+    },
+    "correctAnswer": "C",
+    "explanation": "Building function focuses on how the building is used—such as normal occupancy schedules (1) and operating specific zones during off hours (3)—while owner budget and maintenance fall under financial/maintenance factors."
+  },
+  {
+    "number": 2,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "Which of the following statements about the unit ventilators is false?",
+    "options": {
+      "A": "Room air is mixed with outside air",
+      "B": "The units are used in areas with limited available floor space",
+      "C": "The units provide individual room temperature control",
+      "D": "The units provide heating and/or cooling",
+      "E": "The units provide cooling only"
+    },
+    "correctAnswer": "E",
+    "explanation": "Unit ventilators provide heating, ventilation, and often cooling (not cooling only), mixing room air with fresh outdoor air for classrooms or offices."
+  },
+  {
+    "number": 3,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "The constant volume system with perimeter heating provides air from the air-handling unit in the central mechanical room at approximately:",
+    "options": {
+      "A": "12.5°C",
+      "B": "15°C",
+      "C": "Ambient temperature",
+      "D": "10.5°C",
+      "E": "22°C"
+    },
+    "correctAnswer": "A",
+    "explanation": "Constant volume systems with perimeter heating typically supply cooled/tempered primary air from the central air-handling unit at around 12.5°C (55°F)."
+  },
+  {
+    "number": 4,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "Which of the following unitary systems is typical for single zone use only?\n1. A dual duct system\n2. A unit ventilator\n3. A rooftop unit\n4. A packaged air conditioner\n5. A single zone constant air volume system",
+    "options": {
+      "A": "1, 3, 4, 5",
+      "B": "1, 2, 3",
+      "C": "3, 4, 5",
+      "D": "2, 3, 4",
+      "E": "1, 2, 3, 4, 5"
+    },
+    "correctAnswer": "C",
+    "explanation": "Rooftop units (3), packaged air conditioners (4), and single-zone constant air volume systems (5) are standard unitary systems suited for single-zone control."
+  },
+  {
+    "number": 5,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "The condensate that drains from the condenser of a window air conditioner is:",
+    "options": {
+      "A": "Drained on the floor",
+      "B": "Piped to a drain on the evaporator side of the unit",
+      "C": "Run over the evaporator coil to keep it clean",
+      "D": "Used to add humidity to the room air",
+      "E": "Drained to a pan below the condenser fan where it is thrown against the condenser coil and evaporates"
+    },
+    "correctAnswer": "E",
+    "explanation": "Window air conditioners often sling condensate water from a pan onto the condenser coil using a slinger ring/fan to aid heat rejection and evaporation."
+  },
+  {
+    "number": 6,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "The system which runs as a refrigeration system used for air conditioning purposes in the summer and can be modified to run in reverse in cooler weather is called a:",
+    "options": {
+      "A": "Heat valve",
+      "B": "Thermal wheel",
+      "C": "Runaround system",
+      "D": "Heat pump",
+      "E": "Heat pipe"
+    },
+    "correctAnswer": "D",
+    "explanation": "A heat pump uses a reversing valve to flip refrigeration flow direction, providing cooling in summer and heating in winter."
+  },
+  {
+    "number": 7,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "The funds required for the purchase of the air conditioning portion of the building refers to which factor of system selection:",
+    "options": {
+      "A": "Building function",
+      "B": "Maintenance requirements",
+      "C": "Operating costs",
+      "D": "Capital cost",
+      "E": "Building layout"
+    },
+    "correctAnswer": "D",
+    "explanation": "Capital cost refers to the initial upfront funds required to purchase and install the HVAC/air-conditioning equipment."
+  },
+  {
+    "number": 8,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "Which of the following statements about multizone systems is true?",
+    "options": {
+      "A": "The cooling coils are installed in-line",
+      "B": "When the hot deck is fully opened the cold deck is fully closed",
+      "C": "The dampers are out of phase by 10°C",
+      "D": "The system cannot operate a humidifier",
+      "E": "All of these are true"
+    },
+    "correctAnswer": "B",
+    "explanation": "In a multizone air handler, hot and cold deck dampers operate in opposition so that as one opens, the other closes to mix air to the desired zone temperature."
+  },
+  {
+    "number": 9,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "Filters are required to remove contaminants from _____ and _____ air before it is introduced back into the building.",
+    "options": {
+      "A": "Return, supply",
+      "B": "Supply, outside",
+      "C": "Inlet, exhaust",
+      "D": "Outside, return",
+      "E": "Recycled, outside"
+    },
+    "correctAnswer": "E",
+    "explanation": "Air filters clean both recycled (return) air and incoming outside air before delivering supply air to occupied spaces."
+  },
+  {
+    "number": 10,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "The most common system installed in most residences where the furnace is located in the basement and provides conditioned air via ducts to each room is called a:",
+    "options": {
+      "A": "Low velocity terminal re-heat system",
+      "B": "Forced air system",
+      "C": "Single zone, constant air volume system",
+      "D": "Multi-zone system",
+      "E": "Unit ventilator"
+    },
+    "correctAnswer": "B",
+    "explanation": "A residential forced air system uses a central furnace/air handler and duct network to distribute conditioned air to rooms."
+  },
+  {
+    "number": 11,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "Which of the following is false about constant air volume systems with perimeter heating?",
+    "options": {
+      "A": "The cooling and reheating of supply air is not energy efficient unless the zone is at maximum cooling",
+      "B": "It is relatively easy to operate and maintain",
+      "C": "The exterior wall convectors have increased heating capacity to compensate for the 12.5°C air supply",
+      "D": "Over cooling of rooms can develop with the 12.5°C air supply",
+      "E": "It is well suited for larger buildings"
+    },
+    "correctAnswer": "E",
+    "explanation": "Constant air volume systems with perimeter heating become energy-inefficient and bulky in very large buildings compared to variable air volume (VAV) systems."
+  },
+  {
+    "number": 12,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "Which of the following statements about central air conditioning systems is false?",
+    "options": {
+      "A": "The central system is able to utilise large central equipment with high efficiency and low initial cost",
+      "B": "Unitary systems are able to control noise and vibration better than central systems",
+      "C": "Central systems are used in large buildings",
+      "D": "Air is conditioned in the main mechanical room and distributed by duct work",
+      "E": "All the major equipment in central systems is located in a central mechanical room in the building"
+    },
+    "correctAnswer": "B",
+    "explanation": "Central air conditioning systems house heavy compressors/fans in a central mechanical room, so unitary equipment placed in occupied spaces often presents greater local noise/vibration considerations."
+  },
+  {
+    "number": 13,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "The unitary air conditioning system that uses a direct expansion refrigeration system to provide cooling and dehumidification in a local area without ductwork is called a/an:",
+    "options": {
+      "A": "High velocity terminal re-heat system",
+      "B": "Rooftop unit",
+      "C": "Multi-zone system",
+      "D": "Window air conditioner",
+      "E": "Unit ventilator"
+    },
+    "correctAnswer": "D",
+    "explanation": "A window air conditioner is a self-contained unitary direct-expansion unit mounted in a window or wall opening without ductwork."
+  },
+  {
+    "number": 14,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "A system used extensively in hotels and motels due to its minimal space requirement, relatively low initial cost and high degree of individual zone control is called:",
+    "options": {
+      "A": "A fan coil unit with make up air system",
+      "B": "An induction system",
+      "C": "A variable volume system with perimeter heating",
+      "D": "A compartmental atomising system",
+      "E": "A hydronic heat pump system"
+    },
+    "correctAnswer": "A",
+    "explanation": "Fan coil units paired with a make-up air system are widely used in hotels/motels for compact footprint, lower initial cost, and independent room control."
+  },
+  {
+    "number": 15,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "A combined system that provides cooling and heating all year round is highly energy efficient but has a high initial cost. The system consists of two separate supply and return piping systems that are connected to separate coils. Which of the following systems fits the above description?",
+    "options": {
+      "A": "A two-pipe system",
+      "B": "A four-pipe system",
+      "C": "A single pipe system",
+      "D": "A three-pipe system",
+      "E": "A Hydronic heat pump system"
+    },
+    "correctAnswer": "B",
+    "explanation": "A four-pipe hydronic system uses separate supply and return pipes for both chilled water and hot water, allowing simultaneous heating and cooling year-round."
+  },
+  {
+    "number": 16,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "This type of central system works well in smaller buildings with multi-zone layouts. It provides good control of room temperature on a year round basis but is limited by the number of zones and the space needed for the supply ducts.",
+    "options": {
+      "A": "A low velocity terminal reheat system",
+      "B": "A high velocity terminal reheat system",
+      "C": "A multi-zone system",
+      "D": "A roof top unit",
+      "E": "A dual duct system"
+    },
+    "correctAnswer": "C",
+    "explanation": "Multizone systems work well for smaller multi-zone buildings with year-round control, though zone count and bulky multi-zone duct runs limit scalability."
+  },
+  {
+    "number": 17,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "When looking at building function to select a system, which of the following factors are being considered?\n1. The physical size of the building\n2. Climatic conditions\n3. The amount of zoning required\n4. Funds available for the system\n5. Occupancy periods\n6. The need to operate certain areas off hours",
+    "options": {
+      "A": "2, 5, 6",
+      "B": "1, 3, 4, 6",
+      "C": "1, 2, 6",
+      "D": "1, 3, 4, 5, 6",
+      "E": "3, 5, 6"
+    },
+    "correctAnswer": "E",
+    "explanation": "Building function considerations center on zoning needs (3), occupancy schedules (5), and off-hours zone operation (6)."
+  },
+  {
+    "number": 18,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "A combined HVAC system offers the following advantages over a central air system.\n1. Control is better when the number of zones is increased\n2. Usually requires less building space for mechanical equipment and duct work\n3. They are generally more efficient in operation\n4. Ventilation to zones that are not needed can be shut or the temperature can be regulated differently\n5. Additional cooling can be provided to zones that receive heat from solar radiation",
+    "options": {
+      "A": "1, 2, 3, 4, 5",
+      "B": "1, 2, 3",
+      "C": "1, 3, 4",
+      "D": "1, 2, 3, 4",
+      "E": "2, 3, 4, 5"
+    },
+    "correctAnswer": "A",
+    "explanation": "Combined air-water/hydronic-air systems offer finer multi-zone control, space savings, operational efficiency, zone shutoff/modulation, and solar-load handling."
+  },
+  {
+    "number": 19,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "For which system/s is the central fan usually provided with variable inlet vanes for output adjustment to maintain a set pressure in the supply air duct?\n1. Variable air volume system\n2. Fan coil unit with make up air system\n3. Hydronic heat pump system\n4. Dual duct system\n5. Constant air volume system",
+    "options": {
+      "A": "1",
+      "B": "4",
+      "C": "2, 3, 4",
+      "D": "3, 4, 5",
+      "E": "5"
+    },
+    "correctAnswer": "A",
+    "explanation": "Variable air volume (VAV) systems commonly use variable inlet vanes (or VFDs) on the central supply fan to maintain static duct pressure as zone dampers modulate."
+  },
+  {
+    "number": 20,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "Which of the following statements about two-pipe arrangements is false?",
+    "options": {
+      "A": "The system can heat and cool at the same time",
+      "B": "The arrangement is made up of a supply and return connection to a single coil",
+      "C": "The arrangement is the least costly",
+      "D": "Piping is connected to the chiller during summer",
+      "E": "Piping is connected to the boiler during winter"
+    },
+    "correctAnswer": "A",
+    "explanation": "A two-pipe changeover system uses a single supply and return pair to one coil per unit, so it cannot provide simultaneous heating and cooling in different zones."
+  }
+]

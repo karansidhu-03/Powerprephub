@@ -1,0 +1,422 @@
+[
+  {
+    "number": 1,
+    "heading": "Hot Water Heating",
+    "question": "Valves in heating systems should be _____ if they do not shut off tightly.",
+    "options": {
+      "A": "Repaired",
+      "B": "Heated",
+      "C": "Bypassed",
+      "D": "Discarded",
+      "E": "Reported"
+    },
+    "correctAnswer": "A",
+    "explanation": "Valves that fail to shut off tightly should be repaired or replaced to prevent bypassing and loss of system control."
+  },
+  {
+    "number": 2,
+    "heading": "Hot Water Heating",
+    "question": "When the hot water heating system is experiencing insufficient water circulation the solution may be:",
+    "options": {
+      "A": "Decrease the heat to the rooms",
+      "B": "The return lines are too big",
+      "C": "Clean the pump suction screens",
+      "D": "The belts are slipping",
+      "E": "The flow is too high"
+    },
+    "correctAnswer": "C",
+    "explanation": "Clogged or dirty pump suction strainers restrict fluid flow, so cleaning them restores proper water circulation."
+  },
+  {
+    "number": 3,
+    "heading": "Hot Water Heating",
+    "question": "The hot water heating system temperature drop from boiler outlet to boiler return is typically:",
+    "options": {
+      "A": "100°C",
+      "B": "There is no temperature drop",
+      "C": "20°C",
+      "D": "11°C",
+      "E": "50°C"
+    },
+    "correctAnswer": "D",
+    "explanation": "Standard forced hot water heating systems are typically designed for a standard temperature drop of about 11°C (20°F) across the system load."
+  },
+  {
+    "number": 4,
+    "heading": "Hot Water Heating",
+    "question": "Automatic snow melting systems can use:",
+    "options": {
+      "A": "Hot water and antifreeze mixed",
+      "B": "Hot water and ethylene glycol mixed",
+      "C": "Infrared lamps mounted above sidewalks and ramps",
+      "D": "Electric resistance heating",
+      "E": "Any of these can be used"
+    },
+    "correctAnswer": "E",
+    "explanation": "Snow melting systems can employ hydronic fluid loops with antifreeze/glycol, infrared radiant lamps, or electric resistance cables."
+  },
+  {
+    "number": 5,
+    "heading": "Hot Water Heating",
+    "question": "The advantage of radiant panel heating is:",
+    "options": {
+      "A": "More comfort with concrete slab construction",
+      "B": "That the heating elements are out of sight",
+      "C": "A more even heat distribution throughout rooms",
+      "D": "Heater elements do not interfere with furniture",
+      "E": "All of these are advantages"
+    },
+    "correctAnswer": "E",
+    "explanation": "Radiant panel heating offers hidden elements, no furniture interference, excellent thermal comfort, and even heat distribution."
+  },
+  {
+    "number": 6,
+    "heading": "Hot Water Heating",
+    "question": "To prevent corrosion in the expansion tank it is sometimes filled with:",
+    "options": {
+      "A": "Oxygen",
+      "B": "Nitrogen",
+      "C": "Air",
+      "D": "Hydrogen",
+      "E": "Helium"
+    },
+    "correctAnswer": "B",
+    "explanation": "In closed expansion tanks, nitrogen cushioning is sometimes utilized to prevent oxygen corrosion of the steel tank interior."
+  },
+  {
+    "number": 7,
+    "heading": "Hot Water Heating",
+    "question": "In a one pipe hot water system, the fitting that directs the water to each converter is called the:",
+    "options": {
+      "A": "Diverter",
+      "B": "Trap",
+      "C": "Separator",
+      "D": "Lead",
+      "E": "Vent valve"
+    },
+    "correctAnswer": "A",
+    "explanation": "A monoflow or diverter tee creates a pressure differential that forces a portion of the main flow through each radiator/converter loop."
+  },
+  {
+    "number": 8,
+    "heading": "Hot Water Heating",
+    "question": "A/an _____ is used to prevent excessive pressure build-up due to the expansion caused by heating of the water in a hot water heating system.",
+    "options": {
+      "A": "Pressure reducing valve",
+      "B": "Air vent",
+      "C": "Low pressure fuel cut-off device",
+      "D": "Pressure relief valve",
+      "E": "Expansion tank"
+    },
+    "correctAnswer": "E",
+    "explanation": "An expansion tank provides compressible air/gas cushion space to absorb the volumetric expansion of water as it is heated."
+  },
+  {
+    "number": 9,
+    "heading": "Hot Water Heating",
+    "question": "In a hot water system compared to a steam heating system, if there is a leak, damage will:",
+    "options": {
+      "A": "Be about the same in either system",
+      "B": "Depend on where the boiler is located in the system",
+      "C": "Be minimal due to the automatic drain system",
+      "D": "Be greater in the steam system",
+      "E": "Be greater in the hot water system"
+    },
+    "correctAnswer": "E",
+    "explanation": "Because hot water systems remain completely filled with pressurized water under operation, pipe or fitting leaks typically result in continuous, greater water damage than intermittent steam/vapor leaks."
+  },
+  {
+    "number": 10,
+    "heading": "Hot Water Heating",
+    "question": "The air released from the water in a system using a dip tube is directed to the:",
+    "options": {
+      "A": "Radiator vents",
+      "B": "Atmosphere",
+      "C": "Relief valve",
+      "D": "Expansion tank",
+      "E": "Boiler"
+    },
+    "correctAnswer": "D",
+    "explanation": "Air separators with internal dip tubes guide separated air bubbles directly up into the closed expansion tank."
+  },
+  {
+    "number": 11,
+    "heading": "Hot Water Heating",
+    "question": "In a radiant heating system, the maximum surface temperature of the walls is:",
+    "options": {
+      "A": "10°C",
+      "B": "40°C",
+      "C": "20°C",
+      "D": "50°C",
+      "E": "38°C"
+    },
+    "correctAnswer": "E",
+    "explanation": "Building and comfort codes limit radiant wall heating panel surface temperatures to a maximum of about 38°C (100°F) to prevent discomfort."
+  },
+  {
+    "number": 12,
+    "heading": "Hot Water Heating",
+    "question": "What type of boiler would you expect to find in a hot water system incorporating a converter?",
+    "options": {
+      "A": "Reverse flow boiler",
+      "B": "Steam boiler",
+      "C": "Forced circulation boiler",
+      "D": "Once through boiler",
+      "E": "Hot water boiler"
+    },
+    "correctAnswer": "B",
+    "explanation": "A steam-to-hot-water converter uses steam from a central steam boiler to heat a separate closed secondary hot water loop."
+  },
+  {
+    "number": 13,
+    "heading": "Hot Water Heating",
+    "question": "Air tends to collects in the high spots of piping and heating units in hot water heating systems, and this could:",
+    "options": {
+      "A": "Decrease the efficiency of the expansion tank",
+      "B": "Restrict the flow of water",
+      "C": "Restrict the airflow",
+      "D": "Increase the temperature of the system",
+      "E": "Increase the velocity of the water flow"
+    },
+    "correctAnswer": "B",
+    "explanation": "Pocketed air bubbles in high points create air locks that restrict or completely halt water circulation through heating units."
+  },
+  {
+    "number": 14,
+    "heading": "Hot Water Heating",
+    "question": "The closed expansion tank is normally located:",
+    "options": {
+      "A": "At the highest point in the system",
+      "B": "On the condensate receiver",
+      "C": "In the supply line above the lowest convector",
+      "D": "At or near the boiler",
+      "E": "On the supply line before the autofill valve"
+    },
+    "correctAnswer": "D",
+    "explanation": "Closed expansion tanks are typically installed at or near the boiler on the suction side of the circulating pump."
+  },
+  {
+    "number": 15,
+    "heading": "Hot Water Heating",
+    "question": "An air separator should always be installed in:",
+    "options": {
+      "A": "A horizontal pipe",
+      "B": "A cross tee",
+      "C": "A vertical pipe",
+      "D": "An expansion tank",
+      "E": "A converter"
+    },
+    "correctAnswer": "A",
+    "explanation": "In-line air separators are designed and installed in horizontal piping runs where fluid velocity slows to allow entrained air bubbles to separate upward."
+  },
+  {
+    "number": 16,
+    "heading": "Hot Water Heating",
+    "question": "Open type expansion tanks:",
+    "options": {
+      "A": "Must be located indoor",
+      "B": "Are used with large hot water boilers only",
+      "C": "Are used with small hot water boilers only",
+      "D": "Must be located above the heating system",
+      "E": "Must be located below the heating system"
+    },
+    "correctAnswer": "D",
+    "explanation": "Open expansion tanks must be mounted at the absolute highest point of the heating system above all radiation units to vent freely and maintain static head."
+  },
+  {
+    "number": 17,
+    "heading": "Hot Water Heating",
+    "question": "The two pipe reverse return hot water heating system has the advantage of:",
+    "options": {
+      "A": "Elimination of an expansion tank",
+      "B": "Elimination of air vents",
+      "C": "All circuits have the same length",
+      "D": "Low cost",
+      "E": "No circulating is needed"
+    },
+    "correctAnswer": "C",
+    "explanation": "A reverse return piping layout ensures that the total supply and return pipe length for every individual terminal unit is virtually identical, making balancing easy."
+  },
+  {
+    "number": 18,
+    "heading": "Hot Water Heating",
+    "question": "The disadvantage of a series loop hot water heating system is:",
+    "options": {
+      "A": "High water consumption",
+      "B": "Temperature of the system too high",
+      "C": "Consecutive convectors heat output decreases",
+      "D": "High fuel consumption",
+      "E": "High cost piping system"
+    },
+    "correctAnswer": "C",
+    "explanation": "In a series loop system, water passes through each convector in turn, meaning water temperature drops successively, reducing heat output of downstream units."
+  },
+  {
+    "number": 19,
+    "heading": "Hot Water Heating",
+    "question": "The maximum temperature of water in a gravity hot water system is:",
+    "options": {
+      "A": "77°C",
+      "B": "67°C",
+      "C": "87°C",
+      "D": "65°C",
+      "E": "70°C"
+    },
+    "correctAnswer": "A",
+    "explanation": "Gravity hot water heating systems operate at lower temperatures, typically limited to a maximum around 77°C (170°F) to prevent boiling due to lower static heads."
+  },
+  {
+    "number": 20,
+    "heading": "Hot Water Heating",
+    "question": "In many buildings, the hot water heating system is divided into several circuits and the flow of water is controlled by:",
+    "options": {
+      "A": "A thermometer",
+      "B": "A circulating pump in each heating zone",
+      "C": "A thermostat",
+      "D": "An expansion tank in each heating zone",
+      "E": "A thermocouple"
+    },
+    "correctAnswer": "B",
+    "explanation": "Multi-zone hot water heating systems utilize dedicated circulating pumps or zone valves for each circuit controlled by zone thermostats."
+  },
+  {
+    "number": 21,
+    "heading": "Hot Water Heating",
+    "question": "One of the advantages of the hot water heating as compared to steam heating is:",
+    "options": {
+      "A": "Less damage for leakage",
+      "B": "Lower maintenance cost",
+      "C": "More piping is needed",
+      "D": "Hot water boilers are more fuel efficient",
+      "E": "Water treatment is almost eliminated"
+    },
+    "correctAnswer": "B",
+    "explanation": "Hot water systems typically experience lower maintenance costs and less component wear compared to high-pressure or trap-heavy steam systems."
+  },
+  {
+    "number": 22,
+    "heading": "Hot Water Heating",
+    "question": "Air is removed from a hot water system by which of the following:\n1. Air vents\n2. Deaerators\n3. Air condensers\n4. Air separators",
+    "options": {
+      "A": "1, 3",
+      "B": "2, 4",
+      "C": "1, 4",
+      "D": "2, 3",
+      "E": "1, 2"
+    },
+    "correctAnswer": "C",
+    "explanation": "Air is continuously or periodically eliminated from hydronic systems using automatic air vents and mechanical air separators."
+  },
+  {
+    "number": 23,
+    "heading": "Hot Water Heating",
+    "question": "One of the advantages of the radiant panel hot water heating system over the conventional heating system is:",
+    "options": {
+      "A": "Even heat distribution throughout the rooms",
+      "B": "Ease of repair of heating coils",
+      "C": "Low water flow resistance",
+      "D": "Less piping is needed",
+      "E": "Low in cost"
+    },
+    "correctAnswer": "A",
+    "explanation": "Radiant panel systems provide superior thermal comfort and very even temperature distribution throughout the occupied space."
+  },
+  {
+    "number": 24,
+    "heading": "Hot Water Heating",
+    "question": "Which type of heating system would you expect to find in a high rise office building?\n1. Gravity warm air circulation\n2. Forced hot water circulation\n3. Gravity hot water circulation\n4. Steam to hot water heating system",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "2, 3",
+      "C": "2, 3, 4",
+      "D": "1, 3",
+      "E": "2, 4"
+    },
+    "correctAnswer": "E",
+    "explanation": "High-rise buildings utilize forced hot water circulation or steam-to-hot-water converter systems zoned across vertical pressure intervals."
+  },
+  {
+    "number": 25,
+    "heading": "Hot Water Heating",
+    "question": "Advantages of the forced circulation hot water heating systems are:",
+    "options": {
+      "A": "Higher make-up and better chemical control",
+      "B": "High pressure piping and controls",
+      "C": "High vacuum in the return lines and pump",
+      "D": "Low water make-up and better chemical control",
+      "E": "Reduction in pipe size and greater heat control"
+    },
+    "correctAnswer": "E",
+    "explanation": "Forced circulation pumps allow higher water velocities, enabling smaller pipe sizes and precise, rapid heat modulation."
+  },
+  {
+    "number": 26,
+    "heading": "Hot Water Heating",
+    "question": "Snow melting systems are usually filled with:",
+    "options": {
+      "A": "Methanol and water",
+      "B": "Steam",
+      "C": "Ethylene glycol and water",
+      "D": "Water only",
+      "E": "Warm air"
+    },
+    "correctAnswer": "C",
+    "explanation": "Hydronic snow melting systems circulate a mixture of water and ethylene glycol (or propylene glycol) to prevent freezing in cold outdoor conditions."
+  },
+  {
+    "number": 27,
+    "heading": "Hot Water Heating",
+    "question": "Because of the different circuit lengths to each convector, the direct return hot water system is difficult to:",
+    "options": {
+      "A": "Construct",
+      "B": "Balance",
+      "C": "Return water to the boiler",
+      "D": "Maintain heat",
+      "E": "Circulate water"
+    },
+    "correctAnswer": "B",
+    "explanation": "In direct return systems, the first convector encountered has the shortest circuit and highest pressure drop, making hydraulic balancing challenging compared to reverse return."
+  },
+  {
+    "number": 28,
+    "heading": "Hot Water Heating",
+    "question": "_____ valves are necessary in each circuit of multi-zone system to prevent continued circulation of hot water after the circulator has been stopped by the zone control.",
+    "options": {
+      "A": "Balance",
+      "B": "Flow control",
+      "C": "Multi-inlet",
+      "D": "By-pass",
+      "E": "Air separator"
+    },
+    "correctAnswer": "B",
+    "explanation": "Spring-loaded flow control (anti-thermosiphon) valves prevent gravity circulation when zone circulator pumps are switched off."
+  },
+  {
+    "number": 29,
+    "heading": "Hot Water Heating",
+    "question": "Improper location of the circulation pump and expansion tank can cause:",
+    "options": {
+      "A": "The circulating pump to cavitate",
+      "B": "Water hammer",
+      "C": "Vapor bubbles to form in the circulating pump",
+      "D": "Vapour bound pump",
+      "E": "All of these could happen"
+    },
+    "correctAnswer": "E",
+    "explanation": "Improper placement relative to the neutral point of pressure can cause low pressure at the pump inlet, leading to cavitation, vapor binding, and noise."
+  },
+  {
+    "number": 30,
+    "heading": "Hot Water Heating",
+    "question": "The purpose of a pressure reducing valve on a hot water system is to:",
+    "options": {
+      "A": "Reduce water hammer in a heating system",
+      "B": "To increase the feedwater pressure to the boiler",
+      "C": "Level out the flow of steam or hot water",
+      "D": "Maintain hot water at a required temperature",
+      "E": "Automatically reduce pressure and maintain it"
+    },
+    "correctAnswer": "E",
+    "explanation": "A pressure reducing (fill) valve automatically feeds make-up water from city mains and maintains proper static fill pressure in the closed hydronic system."
+  }
+]

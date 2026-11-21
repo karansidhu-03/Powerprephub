@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Steam Heating",
+    "question": "A radiator valve is used to control the amount of:",
+    "options": {
+      "A": "Air leaving the radiator",
+      "B": "Air entering the radiator",
+      "C": "Steam leaving the radiator",
+      "D": "Condensate leaving the radiator",
+      "E": "Steam entering the radiator"
+    },
+    "correctAnswer": "E",
+    "explanation": "A radiator inlet valve regulates the flow of steam entering the heating unit to control room temperature."
+  },
+  {
+    "number": 2,
+    "heading": "Steam Heating",
+    "question": "Convectors use _____ to increase heat transfer.",
+    "options": {
+      "A": "Copper tubes",
+      "B": "Metal fins",
+      "C": "Blowers",
+      "D": "Radiators",
+      "E": "Brass tubes"
+    },
+    "correctAnswer": "B",
+    "explanation": "Convectors attach metal fins to heating pipes to significantly increase the surface area and enhance convective heat transfer to room air."
+  },
+  {
+    "number": 3,
+    "heading": "Steam Heating",
+    "question": "One of the main considerations in the construction of radiators suitable for steam heating systems is:",
+    "options": {
+      "A": "Attractiveness",
+      "B": "Small heating surface area",
+      "C": "Large heating surface area",
+      "D": "Light weight",
+      "E": "Modern in appearance"
+    },
+    "correctAnswer": "C",
+    "explanation": "Radiators are designed with a large heating surface area relative to their size to efficiently transfer heat from steam to the surrounding space."
+  },
+  {
+    "number": 4,
+    "heading": "Steam Heating",
+    "question": "Large hard to heat areas such as warehouses are usually heated by:",
+    "options": {
+      "A": "Radiators",
+      "B": "Space heaters",
+      "C": "Unit heaters",
+      "D": "Open heaters",
+      "E": "Convectors"
+    },
+    "correctAnswer": "C",
+    "explanation": "Unit heaters combine a steam heating coil with a fan to forcefully circulate warm air over large, open areas like warehouses."
+  },
+  {
+    "number": 5,
+    "heading": "Steam Heating",
+    "question": "The radiator trap is a device that allows:",
+    "options": {
+      "A": "Steam to collect",
+      "B": "Steam to be discharged but prevents water from discharging",
+      "C": "Water and steam to collect",
+      "D": "Debris to collect",
+      "E": "Water to be discharged but prevents steam from discharging"
+    },
+    "correctAnswer": "E",
+    "explanation": "A steam trap acts as an automatic valve that retains steam in the heating unit until it condenses while discharging cooled condensate and air."
+  },
+  {
+    "number": 6,
+    "heading": "Steam Heating",
+    "question": "The difference between a convector and a radiator is:",
+    "options": {
+      "A": "The way the heating and cooling is distributed",
+      "B": "The method of control",
+      "C": "That one is made of cast iron and the other of steel or copper",
+      "D": "The way they transfer heat",
+      "E": "The way the heating medium goes through"
+    },
+    "correctAnswer": "D",
+    "explanation": "Radiators primarily transfer heat via direct radiation, whereas convectors transfer heat mainly by circulating air over finned tubes via natural convection."
+  },
+  {
+    "number": 7,
+    "heading": "Steam Heating",
+    "question": "The vacuum pump performs the following function:",
+    "options": {
+      "A": "Returns the steam to the condensate receiver",
+      "B": "Supplies water to the condensate receiver",
+      "C": "Supplies steam to the boiler",
+      "D": "Returns the condensate (water) back to the boiler",
+      "E": "None of the above"
+    },
+    "correctAnswer": "D",
+    "explanation": "A vacuum pump pulls a vacuum on return lines to accelerate air and condensate removal, and pumps the collected condensate back to the boiler or receiver."
+  },
+  {
+    "number": 8,
+    "heading": "Steam Heating",
+    "question": "Air can be removed from steam heating systems by:",
+    "options": {
+      "A": "A steam trap",
+      "B": "Air vents",
+      "C": "An air separator",
+      "D": "An air header",
+      "E": "A dip tube"
+    },
+    "correctAnswer": "B",
+    "explanation": "Automatic air vents are installed on radiators and mains to vent trapped air out of the system while closing against steam."
+  },
+  {
+    "number": 9,
+    "heading": "Steam Heating",
+    "question": "The packless radiator valve has a bronze diaphragm that completely seals off the valve body, this to prevent:",
+    "options": {
+      "A": "Steam leaking out around the valve stem",
+      "B": "Steam pressure become excessive",
+      "C": "Condensate collection on the valve body",
+      "D": "Air to enter into the radiator",
+      "E": "Air leaking out around the valve stem"
+    },
+    "correctAnswer": "A",
+    "explanation": "Packless valves use a flexible diaphragm seal around the stem to completely eliminate steam and water leaks without requiring conventional packing glands."
+  },
+  {
+    "number": 10,
+    "heading": "Steam Heating",
+    "question": "Radiators were traditionally made of:",
+    "options": {
+      "A": "Brass",
+      "B": "Stainless steel",
+      "C": "Copper",
+      "D": "Cast iron",
+      "E": "Steel"
+    },
+    "correctAnswer": "D",
+    "explanation": "Traditional sectional room radiators were manufactured from durable cast iron to retain and steadily radiate heat."
+  },
+  {
+    "number": 11,
+    "heading": "Steam Heating",
+    "question": "Radiators can be classified as:",
+    "options": {
+      "A": "Window, duct or floor",
+      "B": "Floor, window or ceiling",
+      "C": "Wall-hung, floor, and window",
+      "D": "Legless, ductless and floor",
+      "E": "Ceiling, floor, window and legless"
+    },
+    "correctAnswer": "C",
+    "explanation": "Radiators are categorized by their physical installation configuration as wall-hung, floor-mounted, or window-sill types."
+  },
+  {
+    "number": 12,
+    "heading": "Steam Heating",
+    "question": "When air is forced through a heating coil where the fan and coil are within the same unit, the unit is known as:",
+    "options": {
+      "A": "A diverter",
+      "B": "An injector",
+      "C": "An air vent",
+      "D": "A unit heater",
+      "E": "A convector"
+    },
+    "correctAnswer": "D",
+    "explanation": "A self-contained unit combining a motor-driven fan and a heating coil in a single housing is called a unit heater."
+  },
+  {
+    "number": 13,
+    "heading": "Steam Heating",
+    "question": "When starting up a steam heating boiler, it should be filled to:",
+    "options": {
+      "A": "1/4 of the gauge glass",
+      "B": "The maximum level",
+      "C": "3/4 of the gauge glass",
+      "D": "Above LWCO, below normal operating level",
+      "E": "The very bottom of the gauge glass"
+    },
+    "correctAnswer": "D",
+    "explanation": "During startup, water level should be safely above the low-water cutoff (LWCO) but below the normal operating level to account for thermal expansion and returning condensate."
+  },
+  {
+    "number": 14,
+    "heading": "Steam Heating",
+    "question": "All supply and drain lines of a steam heating system must be pitched to:",
+    "options": {
+      "A": "Allow for drainage of condensate",
+      "B": "Prevent corrosion",
+      "C": "Allow collection of air at the highest points",
+      "D": "Allow for temperature expansion",
+      "E": "All of the above"
+    },
+    "correctAnswer": "A",
+    "explanation": "Steam and condensate piping must be sloped (pitched) downward in the direction of flow to ensure complete gravity drainage of condensed water and prevent water hammer."
+  },
+  {
+    "number": 15,
+    "heading": "Steam Heating",
+    "question": "The level in the condensate receiver may be automatically controlled by a:",
+    "options": {
+      "A": "Drain valve",
+      "B": "Float switch",
+      "C": "Sight glass",
+      "D": "Pressure reducing valve",
+      "E": "Gate valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "A float switch inside or connected to the condensate receiver automatically starts and stops the condensate return pump based on water level."
+  },
+  {
+    "number": 16,
+    "heading": "Steam Heating",
+    "question": "Slow or insufficient heat in one or more rooms in a steam heated building can be caused by a faulty:",
+    "options": {
+      "A": "Vacuum switch",
+      "B": "Heater",
+      "C": "Steam trap",
+      "D": "Sight glass",
+      "E": "Float switch"
+    },
+    "correctAnswer": "C",
+    "explanation": "A stuck-closed or faulty steam trap will flood the radiator with backed-up condensate, blocking steam entry and resulting in slow or insufficient room heating."
+  },
+  {
+    "number": 17,
+    "heading": "Steam Heating",
+    "question": "In all systems, the horizontal steam supply pipes between boiler and heating units are called the:",
+    "options": {
+      "A": "Racks",
+      "B": "Risers",
+      "C": "Banks",
+      "D": "Mains",
+      "E": "Downcomers"
+    },
+    "correctAnswer": "D",
+    "explanation": "Main headers and branch lines distributing steam from the boiler out to risers and terminal units are referred to as steam mains."
+  },
+  {
+    "number": 18,
+    "heading": "Steam Heating",
+    "question": "In newer steam heating systems, the condensate discharged by the steam traps from radiators, convectors, or other heating equipment drains by gravity through the return piping to:",
+    "options": {
+      "A": "The condensate scrubber",
+      "B": "The boiler",
+      "C": "The deaerator",
+      "D": "A condensate receiver",
+      "E": "The condensate separator"
+    },
+    "correctAnswer": "D",
+    "explanation": "Gravity return piping collects trap discharges and routes them into a vented condensate receiver tank prior to being pumped back to the boiler."
+  },
+  {
+    "number": 19,
+    "heading": "Steam Heating",
+    "question": "Slow or insufficient heat throughout a building heated by steam can be caused by:",
+    "options": {
+      "A": "Air leaks",
+      "B": "The feedwater being too cold",
+      "C": "Too low a firing rate",
+      "D": "Too high a firing rate",
+      "E": "Oversized piping"
+    },
+    "correctAnswer": "C",
+    "explanation": "An inadequate or too low burner firing rate will fail to generate sufficient steam pressure and volume, leading to under-heating throughout the entire building."
+  },
+  {
+    "number": 20,
+    "heading": "Steam Heating",
+    "question": "Which one of the following steam heating systems can be used to overcome the difficulty of returning condensate back to the boiler due to inefficient static head?",
+    "options": {
+      "A": "Two pipe, free drain return system",
+      "B": "One pipe, gravity return system",
+      "C": "One pipe, free flow return system",
+      "D": "Two pipe, vacuum return trap",
+      "E": "Two pipe, gravity return system"
+    },
+    "correctAnswer": "D",
+    "explanation": "A two-pipe vacuum return trap system utilizes a vacuum pump to lower pressure in the return lines, easily lifting and returning condensate against elevation differences."
+  }
+]

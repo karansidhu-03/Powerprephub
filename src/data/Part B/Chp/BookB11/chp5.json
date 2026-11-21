@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "The fact that the system can be treated against corrosion is an advantage for which system?",
+    "options": {
+      "A": "A thermal wheel",
+      "B": "A heat pipe",
+      "C": "A heat pump",
+      "D": "A runaround system",
+      "E": "A heat valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "Heat pipe heat exchangers can be coated or treated with corrosion-resistant materials to withstand corrosive exhaust airstreams."
+  },
+  {
+    "number": 2,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Air ventilation is based on the larger of these two requirements:",
+    "options": {
+      "A": "CO₂ concentration",
+      "B": "L/s rate and conduction rate per person",
+      "C": "Conduction rate per person and solar heat rate",
+      "D": "Solar heat rate and L/s rate per person",
+      "E": "Infiltration/exhaust rate and L/s rate per person"
+    },
+    "correctAnswer": "E",
+    "explanation": "Required outdoor ventilation airflow is determined by taking the larger value between the required L/s per occupant and the makeup air needed to offset exhaust and infiltration."
+  },
+  {
+    "number": 3,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Thermal resistance (R) may be defined as the:",
+    "options": {
+      "A": "Reciprocal of thermal conductance (m°C/W)",
+      "B": "Thermal transmission through a unit area of homogeneous material (W/m°C)",
+      "C": "Thermal transmission through a unit area of a particular body where the difference between temperatures on either side of the body is unity (W/m²°C)",
+      "D": "Thermal transmission through a unit area of a particular body with defined surfaces (W/m²°C)",
+      "E": "Quantity of heat flow in unit time (Q or W)"
+    },
+    "correctAnswer": "A",
+    "explanation": "Thermal resistance (R-value) measures opposition to heat flow and is defined as the reciprocal of thermal conductance."
+  },
+  {
+    "number": 4,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Disadvantages of the heat pipe recovery systems include:\n1. Piping and pumps are not required\n2. A side-by-side duct arrangement is needed\n3. There are no continuously moving parts\n4. Recovery is limited when there is a possibility of frost forming on the exhaust section\n5. They are appreciably more expensive than the runaround system",
+    "options": {
+      "A": "2, 4, 5",
+      "B": "1, 2, 3",
+      "C": "2, 3, 4",
+      "D": "2, 3, 5",
+      "E": "3, 4, 5"
+    },
+    "correctAnswer": "A",
+    "explanation": "Heat pipes require supply and exhaust ducts to be adjacent/side-by-side (2), must restrict recovery to prevent exhaust frost formation (4), and carry higher equipment cost than runaround coils (5)."
+  },
+  {
+    "number": 5,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Thermal conductivity may be defined as the:",
+    "options": {
+      "A": "Thermal transmission through a unit area of a particular body where the difference between temperatures on either side of the body is unity (W/m²°C)",
+      "B": "Thermal transmission through a unit area of homogeneous material (W/m°C)",
+      "C": "Reciprocal of thermal conductance (m°C/W)",
+      "D": "Thermal transmission through a unit area of a particular body by convection (W/m²°C)",
+      "E": "Quantity of heat flow in unit time (Q or W)"
+    },
+    "correctAnswer": "B",
+    "explanation": "Thermal conductivity (k) is the rate of steady-state heat transfer through a unit area and unit thickness of a homogeneous material per degree temperature difference (W/m°C)."
+  },
+  {
+    "number": 6,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "The recovery system that employs a single exchange unit consisting of a casing split into two sections and a segmented rotating wheel 300 mm thick and 1 to 3.7 m in diameter is called a:",
+    "options": {
+      "A": "Heat pipe",
+      "B": "Thermal wheel",
+      "C": "Runaround system",
+      "D": "Heat valve",
+      "E": "Heat pump"
+    },
+    "correctAnswer": "B",
+    "explanation": "A thermal wheel (rotary air-to-air heat exchanger) uses a segmented rotating matrix wheel rotating between adjacent exhaust and supply air streams."
+  },
+  {
+    "number": 7,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Electric motors give off _____ while running.",
+    "options": {
+      "A": "Sensible heat",
+      "B": "Latent and sensible heat",
+      "C": "Latent heat",
+      "D": "No heat to the atmosphere",
+      "E": "Solar heat"
+    },
+    "correctAnswer": "A",
+    "explanation": "Running electric motors dissipate inefficiency losses directly into the surrounding space air purely as sensible heat."
+  },
+  {
+    "number": 8,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Two methods of calculating air infiltration into a building are the:",
+    "options": {
+      "A": "Conduction and solar method",
+      "B": "Air change and solar method",
+      "C": "Air change and crack method",
+      "D": "Crack and solar method",
+      "E": "Crack and conduction method"
+    },
+    "correctAnswer": "C",
+    "explanation": "Infiltration heat loss/gain is standardly estimated using either the air change method or the crack length method."
+  },
+  {
+    "number": 9,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Thermal transmission may be defined as the:",
+    "options": {
+      "A": "Quantity of heat flow in unit time (Q or W)",
+      "B": "Thermal transmission through a unit area of homogeneous material (W/m°C)",
+      "C": "Reciprocal of thermal conductance (m°C/W)",
+      "D": "Thermal transmission through a unit area of a particular body where the difference between temperatures on either side of the body is unity (W/m²°C)",
+      "E": "Thermal transmission through a unit area of a particular body with defined surfaces (W/m²°C)"
+    },
+    "correctAnswer": "A",
+    "explanation": "Thermal transmission refers to the total quantity of heat flowing per unit of time (measured in Watts, W)."
+  },
+  {
+    "number": 10,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Cross contamination is a disadvantage for which of the following systems?",
+    "options": {
+      "A": "A heat tube",
+      "B": "A runaround system",
+      "C": "A heat pipe",
+      "D": "A heat valve",
+      "E": "A thermal wheel"
+    },
+    "correctAnswer": "E",
+    "explanation": "Because the wheel matrix rotates directly between the exhaust and supply airstreams, minor carryover/leakage of exhaust air (cross contamination) can occur."
+  },
+  {
+    "number": 11,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Heat load from people in a room is mostly affected by:",
+    "options": {
+      "A": "The size of the people",
+      "B": "The activity of the people",
+      "C": "Smoking",
+      "D": "The number of people",
+      "E": "None of the above"
+    },
+    "correctAnswer": "B",
+    "explanation": "The sensible and latent heat emitted per occupant varies dramatically depending on their level of physical activity (e.g., seated vs. dancing vs. heavy work)."
+  },
+  {
+    "number": 12,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "What is the name of the heat recovery system that consists of two finned tube heat exchangers?",
+    "options": {
+      "A": "A heat valve",
+      "B": "A thermal wheel",
+      "C": "A heat tube",
+      "D": "A runaround system",
+      "E": "A heat pump"
+    },
+    "correctAnswer": "D",
+    "explanation": "A runaround coil loop uses two separate finned-tube heat exchanger coils (one in exhaust, one in supply) connected by a pumped glycol/water piping loop."
+  },
+  {
+    "number": 13,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Conduction heat gains are calculated on the assumption that:",
+    "options": {
+      "A": "The \"U\" value is not used",
+      "B": "Solar heat varies from hour to hour as sun changes position",
+      "C": "Solar heat gains are included",
+      "D": "Solar heat gains are not included",
+      "E": "Construction details are unimportant"
+    },
+    "correctAnswer": "D",
+    "explanation": "Standard conductive heat transfer calculations (Q = U·A·ΔT) evaluate transmission due to indoor-outdoor air temperature differences alone, excluding solar radiation gains."
+  },
+  {
+    "number": 14,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "The advantages of the thermal wheel heat recovery system include:\n1. There is no cross contamination\n2. Piping and pumps are not required\n3. Sealing arrangements are simple and effective\n4. Sensible and latent heat can be recovered\n5. Recovery over a wide range of temperatures is possible",
+    "options": {
+      "A": "3, 4, 5",
+      "B": "2, 3, 4",
+      "C": "1, 2, 3",
+      "D": "2, 3, 5",
+      "E": "2, 4, 5"
+    },
+    "correctAnswer": "E",
+    "explanation": "Thermal wheels require no intermediate piping or pumps (2), can recover both sensible and latent heat (4), and operate across wide temperature ranges (5)."
+  },
+  {
+    "number": 15,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "If exhaust fans are not used over cooking, only _____ of the heat gain is used in calculations.",
+    "options": {
+      "A": "50%",
+      "B": "60%",
+      "C": "10%",
+      "D": "25%",
+      "E": "75%"
+    },
+    "correctAnswer": "A",
+    "explanation": "In cooling load estimation standards for unhooded/non-exhausted cooking appliances, a usage/diversity factor of 50% of the rated input heat gain is typically applied."
+  },
+  {
+    "number": 16,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Thermal conductance (C) may be defined as the:",
+    "options": {
+      "A": "Quantity of heat flow in unit time (Q or W)",
+      "B": "Thermal transmission through a unit area of homogeneous material (W/m°C)",
+      "C": "Reciprocal of thermal conductance (m°C/W)",
+      "D": "Thermal transmission through a unit area of a particular body with defined surfaces (W/m²°C)",
+      "E": "Thermal transmission through a unit area of a particular body where the difference between temperatures on either side of the body is unity (W/m²°C)"
+    },
+    "correctAnswer": "D",
+    "explanation": "Thermal conductance (C) is the rate of heat flow through a unit area of a specific material or assembly between its defined surfaces per unit temperature difference (W/m²°C)."
+  },
+  {
+    "number": 17,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Advantages of the runaround heat recovery system include:\n1. The exhaust and ventilation systems can be remote\n2. Many exhausts can be grouped on the same system\n3. Full heat recovery during the cold season\n4. Minimal exhaust and ventilation temperatures are acceptable\n5. No cross contamination is possible",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "2, 3, 5",
+      "C": "2, 3, 4",
+      "D": "1, 2, 5",
+      "E": "2, 4, 5"
+    },
+    "correctAnswer": "D",
+    "explanation": "Runaround coil systems allow remote supply and exhaust ducts (1), can link multiple exhausts to supply units (2), and completely eliminate cross-contamination (5)."
+  },
+  {
+    "number": 18,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "In calculating air infiltration the quickest method is:",
+    "options": {
+      "A": "The air change method",
+      "B": "The conduction method",
+      "C": "The solar method",
+      "D": "The crack method",
+      "E": "None of the above"
+    },
+    "correctAnswer": "A",
+    "explanation": "The air change method estimates infiltration rapidly by multiplying room volume by an empirical number of air changes per hour."
+  },
+  {
+    "number": 19,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Which of the following is a not an advantage for a runaround system?",
+    "options": {
+      "A": "Installation costs are comparatively low",
+      "B": "The system is readily adaptable to retrofit applications",
+      "C": "More space is required compared to other systems",
+      "D": "Maintenance is relatively simple",
+      "E": "The exhaust and ventilation streams can be remote"
+    },
+    "correctAnswer": "C",
+    "explanation": "Requiring more mechanical/piping space than compact air-to-air units is a disadvantage rather than an advantage of a runaround system."
+  },
+  {
+    "number": 20,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "The recovery system which has a capillary wick structure consisting of fine circumferential striations machined on its internal surface is called a:",
+    "options": {
+      "A": "Heat pipe",
+      "B": "Heat pump",
+      "C": "Runaround system",
+      "D": "Thermal wheel",
+      "E": "Heat valve"
+    },
+    "correctAnswer": "A",
+    "explanation": "A heat pipe uses an internal capillary wick structure (fine circumferential grooves/striations) to return condensed working fluid from the condenser end back to the evaporator end."
+  }
+]

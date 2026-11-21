@@ -1,0 +1,1822 @@
+[
+  {
+    "number": 1,
+    "heading": "Steam Heating",
+    "question": "A radiator valve is used to control the amount of:",
+    "options": {
+      "A": "Air leaving the radiator",
+      "B": "Air entering the radiator",
+      "C": "Steam leaving the radiator",
+      "D": "Condensate leaving the radiator",
+      "E": "Steam entering the radiator"
+    },
+    "correctAnswer": "E",
+    "explanation": "A radiator inlet valve regulates the flow of steam entering the heating unit to control room temperature."
+  },
+  {
+    "number": 2,
+    "heading": "Steam Heating",
+    "question": "Convectors use _____ to increase heat transfer.",
+    "options": {
+      "A": "Copper tubes",
+      "B": "Metal fins",
+      "C": "Blowers",
+      "D": "Radiators",
+      "E": "Brass tubes"
+    },
+    "correctAnswer": "B",
+    "explanation": "Convectors attach metal fins to heating pipes to significantly increase the surface area and enhance convective heat transfer to room air."
+  },
+  {
+    "number": 3,
+    "heading": "Steam Heating",
+    "question": "One of the main considerations in the construction of radiators suitable for steam heating systems is:",
+    "options": {
+      "A": "Attractiveness",
+      "B": "Small heating surface area",
+      "C": "Large heating surface area",
+      "D": "Light weight",
+      "E": "Modern in appearance"
+    },
+    "correctAnswer": "C",
+    "explanation": "Radiators are designed with a large heating surface area relative to their size to efficiently transfer heat from steam to the surrounding space."
+  },
+  {
+    "number": 4,
+    "heading": "Steam Heating",
+    "question": "Large hard to heat areas such as warehouses are usually heated by:",
+    "options": {
+      "A": "Radiators",
+      "B": "Space heaters",
+      "C": "Unit heaters",
+      "D": "Open heaters",
+      "E": "Convectors"
+    },
+    "correctAnswer": "C",
+    "explanation": "Unit heaters combine a steam heating coil with a fan to forcefully circulate warm air over large, open areas like warehouses."
+  },
+  {
+    "number": 5,
+    "heading": "Steam Heating",
+    "question": "The radiator trap is a device that allows:",
+    "options": {
+      "A": "Steam to collect",
+      "B": "Steam to be discharged but prevents water from discharging",
+      "C": "Water and steam to collect",
+      "D": "Debris to collect",
+      "E": "Water to be discharged but prevents steam from discharging"
+    },
+    "correctAnswer": "E",
+    "explanation": "A steam trap acts as an automatic valve that retains steam in the heating unit until it condenses while discharging cooled condensate and air."
+  },
+  {
+    "number": 6,
+    "heading": "Steam Heating",
+    "question": "The difference between a convector and a radiator is:",
+    "options": {
+      "A": "The way the heating and cooling is distributed",
+      "B": "The method of control",
+      "C": "That one is made of cast iron and the other of steel or copper",
+      "D": "The way they transfer heat",
+      "E": "The way the heating medium goes through"
+    },
+    "correctAnswer": "D",
+    "explanation": "Radiators primarily transfer heat via direct radiation, whereas convectors transfer heat mainly by circulating air over finned tubes via natural convection."
+  },
+  {
+    "number": 7,
+    "heading": "Steam Heating",
+    "question": "The vacuum pump performs the following function:",
+    "options": {
+      "A": "Returns the steam to the condensate receiver",
+      "B": "Supplies water to the condensate receiver",
+      "C": "Supplies steam to the boiler",
+      "D": "Returns the condensate (water) back to the boiler",
+      "E": "None of the above"
+    },
+    "correctAnswer": "D",
+    "explanation": "A vacuum pump pulls a vacuum on return lines to accelerate air and condensate removal, and pumps the collected condensate back to the boiler or receiver."
+  },
+  {
+    "number": 8,
+    "heading": "Steam Heating",
+    "question": "Air can be removed from steam heating systems by:",
+    "options": {
+      "A": "A steam trap",
+      "B": "Air vents",
+      "C": "An air separator",
+      "D": "An air header",
+      "E": "A dip tube"
+    },
+    "correctAnswer": "B",
+    "explanation": "Automatic air vents are installed on radiators and mains to vent trapped air out of the system while closing against steam."
+  },
+  {
+    "number": 9,
+    "heading": "Steam Heating",
+    "question": "The packless radiator valve has a bronze diaphragm that completely seals off the valve body, this to prevent:",
+    "options": {
+      "A": "Steam leaking out around the valve stem",
+      "B": "Steam pressure become excessive",
+      "C": "Condensate collection on the valve body",
+      "D": "Air to enter into the radiator",
+      "E": "Air leaking out around the valve stem"
+    },
+    "correctAnswer": "A",
+    "explanation": "Packless valves use a flexible diaphragm seal around the stem to completely eliminate steam and water leaks without requiring conventional packing glands."
+  },
+  {
+    "number": 10,
+    "heading": "Steam Heating",
+    "question": "Radiators were traditionally made of:",
+    "options": {
+      "A": "Brass",
+      "B": "Stainless steel",
+      "C": "Copper",
+      "D": "Cast iron",
+      "E": "Steel"
+    },
+    "correctAnswer": "D",
+    "explanation": "Traditional sectional room radiators were manufactured from durable cast iron to retain and steadily radiate heat."
+  },
+  {
+    "number": 11,
+    "heading": "Steam Heating",
+    "question": "Radiators can be classified as:",
+    "options": {
+      "A": "Window, duct or floor",
+      "B": "Floor, window or ceiling",
+      "C": "Wall-hung, floor, and window",
+      "D": "Legless, ductless and floor",
+      "E": "Ceiling, floor, window and legless"
+    },
+    "correctAnswer": "C",
+    "explanation": "Radiators are categorized by their physical installation configuration as wall-hung, floor-mounted, or window-sill types."
+  },
+  {
+    "number": 12,
+    "heading": "Steam Heating",
+    "question": "When air is forced through a heating coil where the fan and coil are within the same unit, the unit is known as:",
+    "options": {
+      "A": "A diverter",
+      "B": "An injector",
+      "C": "An air vent",
+      "D": "A unit heater",
+      "E": "A convector"
+    },
+    "correctAnswer": "D",
+    "explanation": "A self-contained unit combining a motor-driven fan and a heating coil in a single housing is called a unit heater."
+  },
+  {
+    "number": 13,
+    "heading": "Steam Heating",
+    "question": "When starting up a steam heating boiler, it should be filled to:",
+    "options": {
+      "A": "1/4 of the gauge glass",
+      "B": "The maximum level",
+      "C": "3/4 of the gauge glass",
+      "D": "Above LWCO, below normal operating level",
+      "E": "The very bottom of the gauge glass"
+    },
+    "correctAnswer": "D",
+    "explanation": "During startup, water level should be safely above the low-water cutoff (LWCO) but below the normal operating level to account for thermal expansion and returning condensate."
+  },
+  {
+    "number": 14,
+    "heading": "Steam Heating",
+    "question": "All supply and drain lines of a steam heating system must be pitched to:",
+    "options": {
+      "A": "Allow for drainage of condensate",
+      "B": "Prevent corrosion",
+      "C": "Allow collection of air at the highest points",
+      "D": "Allow for temperature expansion",
+      "E": "All of the above"
+    },
+    "correctAnswer": "A",
+    "explanation": "Steam and condensate piping must be sloped (pitched) downward in the direction of flow to ensure complete gravity drainage of condensed water and prevent water hammer."
+  },
+  {
+    "number": 15,
+    "heading": "Steam Heating",
+    "question": "The level in the condensate receiver may be automatically controlled by a:",
+    "options": {
+      "A": "Drain valve",
+      "B": "Float switch",
+      "C": "Sight glass",
+      "D": "Pressure reducing valve",
+      "E": "Gate valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "A float switch inside or connected to the condensate receiver automatically starts and stops the condensate return pump based on water level."
+  },
+  {
+    "number": 16,
+    "heading": "Steam Heating",
+    "question": "Slow or insufficient heat in one or more rooms in a steam heated building can be caused by a faulty:",
+    "options": {
+      "A": "Vacuum switch",
+      "B": "Heater",
+      "C": "Steam trap",
+      "D": "Sight glass",
+      "E": "Float switch"
+    },
+    "correctAnswer": "C",
+    "explanation": "A stuck-closed or faulty steam trap will flood the radiator with backed-up condensate, blocking steam entry and resulting in slow or insufficient room heating."
+  },
+  {
+    "number": 17,
+    "heading": "Steam Heating",
+    "question": "In all systems, the horizontal steam supply pipes between boiler and heating units are called the:",
+    "options": {
+      "A": "Racks",
+      "B": "Risers",
+      "C": "Banks",
+      "D": "Mains",
+      "E": "Downcomers"
+    },
+    "correctAnswer": "D",
+    "explanation": "Main headers and branch lines distributing steam from the boiler out to risers and terminal units are referred to as steam mains."
+  },
+  {
+    "number": 18,
+    "heading": "Steam Heating",
+    "question": "In newer steam heating systems, the condensate discharged by the steam traps from radiators, convectors, or other heating equipment drains by gravity through the return piping to:",
+    "options": {
+      "A": "The condensate scrubber",
+      "B": "The boiler",
+      "C": "The deaerator",
+      "D": "A condensate receiver",
+      "E": "The condensate separator"
+    },
+    "correctAnswer": "D",
+    "explanation": "Gravity return piping collects trap discharges and routes them into a vented condensate receiver tank prior to being pumped back to the boiler."
+  },
+  {
+    "number": 19,
+    "heading": "Steam Heating",
+    "question": "Slow or insufficient heat throughout a building heated by steam can be caused by:",
+    "options": {
+      "A": "Air leaks",
+      "B": "The feedwater being too cold",
+      "C": "Too low a firing rate",
+      "D": "Too high a firing rate",
+      "E": "Oversized piping"
+    },
+    "correctAnswer": "C",
+    "explanation": "An inadequate or too low burner firing rate will fail to generate sufficient steam pressure and volume, leading to under-heating throughout the entire building."
+  },
+  {
+    "number": 20,
+    "heading": "Steam Heating",
+    "question": "Which one of the following steam heating systems can be used to overcome the difficulty of returning condensate back to the boiler due to inefficient static head?",
+    "options": {
+      "A": "Two pipe, free drain return system",
+      "B": "One pipe, gravity return system",
+      "C": "One pipe, free flow return system",
+      "D": "Two pipe, vacuum return trap",
+      "E": "Two pipe, gravity return system"
+    },
+    "correctAnswer": "D",
+    "explanation": "A two-pipe vacuum return trap system utilizes a vacuum pump to lower pressure in the return lines, easily lifting and returning condensate against elevation differences."
+  },
+  {
+    "number": 21,
+    "heading": "Hot Water Heating",
+    "question": "Valves in heating systems should be _____ if they do not shut off tightly.",
+    "options": {
+      "A": "Repaired",
+      "B": "Heated",
+      "C": "Bypassed",
+      "D": "Discarded",
+      "E": "Reported"
+    },
+    "correctAnswer": "A",
+    "explanation": "Valves that fail to shut off tightly should be repaired or replaced to prevent bypassing and loss of system control."
+  },
+  {
+    "number": 22,
+    "heading": "Hot Water Heating",
+    "question": "When the hot water heating system is experiencing insufficient water circulation the solution may be:",
+    "options": {
+      "A": "Decrease the heat to the rooms",
+      "B": "The return lines are too big",
+      "C": "Clean the pump suction screens",
+      "D": "The belts are slipping",
+      "E": "The flow is too high"
+    },
+    "correctAnswer": "C",
+    "explanation": "Clogged or dirty pump suction strainers restrict fluid flow, so cleaning them restores proper water circulation."
+  },
+  {
+    "number": 23,
+    "heading": "Hot Water Heating",
+    "question": "The hot water heating system temperature drop from boiler outlet to boiler return is typically:",
+    "options": {
+      "A": "100°C",
+      "B": "There is no temperature drop",
+      "C": "20°C",
+      "D": "11°C",
+      "E": "50°C"
+    },
+    "correctAnswer": "D",
+    "explanation": "Standard forced hot water heating systems are typically designed for a standard temperature drop of about 11°C (20°F) across the system load."
+  },
+  {
+    "number": 24,
+    "heading": "Hot Water Heating",
+    "question": "Automatic snow melting systems can use:",
+    "options": {
+      "A": "Hot water and antifreeze mixed",
+      "B": "Hot water and ethylene glycol mixed",
+      "C": "Infrared lamps mounted above sidewalks and ramps",
+      "D": "Electric resistance heating",
+      "E": "Any of these can be used"
+    },
+    "correctAnswer": "E",
+    "explanation": "Snow melting systems can employ hydronic fluid loops with antifreeze/glycol, infrared radiant lamps, or electric resistance cables."
+  },
+  {
+    "number": 25,
+    "heading": "Hot Water Heating",
+    "question": "The advantage of radiant panel heating is:",
+    "options": {
+      "A": "More comfort with concrete slab construction",
+      "B": "That the heating elements are out of sight",
+      "C": "A more even heat distribution throughout rooms",
+      "D": "Heater elements do not interfere with furniture",
+      "E": "All of these are advantages"
+    },
+    "correctAnswer": "E",
+    "explanation": "Radiant panel heating offers hidden elements, no furniture interference, excellent thermal comfort, and even heat distribution."
+  },
+  {
+    "number": 26,
+    "heading": "Hot Water Heating",
+    "question": "To prevent corrosion in the expansion tank it is sometimes filled with:",
+    "options": {
+      "A": "Oxygen",
+      "B": "Nitrogen",
+      "C": "Air",
+      "D": "Hydrogen",
+      "E": "Helium"
+    },
+    "correctAnswer": "B",
+    "explanation": "In closed expansion tanks, nitrogen cushioning is sometimes utilized to prevent oxygen corrosion of the steel tank interior."
+  },
+  {
+    "number": 27,
+    "heading": "Hot Water Heating",
+    "question": "In a one pipe hot water system, the fitting that directs the water to each converter is called the:",
+    "options": {
+      "A": "Diverter",
+      "B": "Trap",
+      "C": "Separator",
+      "D": "Lead",
+      "E": "Vent valve"
+    },
+    "correctAnswer": "A",
+    "explanation": "A monoflow or diverter tee creates a pressure differential that forces a portion of the main flow through each radiator/converter loop."
+  },
+  {
+    "number": 28,
+    "heading": "Hot Water Heating",
+    "question": "A/an _____ is used to prevent excessive pressure build-up due to the expansion caused by heating of the water in a hot water heating system.",
+    "options": {
+      "A": "Pressure reducing valve",
+      "B": "Air vent",
+      "C": "Low pressure fuel cut-off device",
+      "D": "Pressure relief valve",
+      "E": "Expansion tank"
+    },
+    "correctAnswer": "E",
+    "explanation": "An expansion tank provides compressible air/gas cushion space to absorb the volumetric expansion of water as it is heated."
+  },
+  {
+    "number": 29,
+    "heading": "Hot Water Heating",
+    "question": "In a hot water system compared to a steam heating system, if there is a leak, damage will:",
+    "options": {
+      "A": "Be about the same in either system",
+      "B": "Depend on where the boiler is located in the system",
+      "C": "Be minimal due to the automatic drain system",
+      "D": "Be greater in the steam system",
+      "E": "Be greater in the hot water system"
+    },
+    "correctAnswer": "E",
+    "explanation": "Because hot water systems remain completely filled with pressurized water under operation, pipe or fitting leaks typically result in continuous, greater water damage than intermittent steam/vapor leaks."
+  },
+  {
+    "number": 30,
+    "heading": "Hot Water Heating",
+    "question": "The air released from the water in a system using a dip tube is directed to the:",
+    "options": {
+      "A": "Radiator vents",
+      "B": "Atmosphere",
+      "C": "Relief valve",
+      "D": "Expansion tank",
+      "E": "Boiler"
+    },
+    "correctAnswer": "D",
+    "explanation": "Air separators with internal dip tubes guide separated air bubbles directly up into the closed expansion tank."
+  },
+  {
+    "number": 31,
+    "heading": "Hot Water Heating",
+    "question": "In a radiant heating system, the maximum surface temperature of the walls is:",
+    "options": {
+      "A": "10°C",
+      "B": "40°C",
+      "C": "20°C",
+      "D": "50°C",
+      "E": "38°C"
+    },
+    "correctAnswer": "E",
+    "explanation": "Building and comfort codes limit radiant wall heating panel surface temperatures to a maximum of about 38°C (100°F) to prevent discomfort."
+  },
+  {
+    "number": 32,
+    "heading": "Hot Water Heating",
+    "question": "What type of boiler would you expect to find in a hot water system incorporating a converter?",
+    "options": {
+      "A": "Reverse flow boiler",
+      "B": "Steam boiler",
+      "C": "Forced circulation boiler",
+      "D": "Once through boiler",
+      "E": "Hot water boiler"
+    },
+    "correctAnswer": "B",
+    "explanation": "A steam-to-hot-water converter uses steam from a central steam boiler to heat a separate closed secondary hot water loop."
+  },
+  {
+    "number": 33,
+    "heading": "Hot Water Heating",
+    "question": "Air tends to collects in the high spots of piping and heating units in hot water heating systems, and this could:",
+    "options": {
+      "A": "Decrease the efficiency of the expansion tank",
+      "B": "Restrict the flow of water",
+      "C": "Restrict the airflow",
+      "D": "Increase the temperature of the system",
+      "E": "Increase the velocity of the water flow"
+    },
+    "correctAnswer": "B",
+    "explanation": "Pocketed air bubbles in high points create air locks that restrict or completely halt water circulation through heating units."
+  },
+  {
+    "number": 34,
+    "heading": "Hot Water Heating",
+    "question": "The closed expansion tank is normally located:",
+    "options": {
+      "A": "At the highest point in the system",
+      "B": "On the condensate receiver",
+      "C": "In the supply line above the lowest convector",
+      "D": "At or near the boiler",
+      "E": "On the supply line before the autofill valve"
+    },
+    "correctAnswer": "D",
+    "explanation": "Closed expansion tanks are typically installed at or near the boiler on the suction side of the circulating pump."
+  },
+  {
+    "number": 35,
+    "heading": "Hot Water Heating",
+    "question": "An air separator should always be installed in:",
+    "options": {
+      "A": "A horizontal pipe",
+      "B": "A cross tee",
+      "C": "A vertical pipe",
+      "D": "An expansion tank",
+      "E": "A converter"
+    },
+    "correctAnswer": "A",
+    "explanation": "In-line air separators are designed and installed in horizontal piping runs where fluid velocity slows to allow entrained air bubbles to separate upward."
+  },
+  {
+    "number": 36,
+    "heading": "Hot Water Heating",
+    "question": "Open type expansion tanks:",
+    "options": {
+      "A": "Must be located indoor",
+      "B": "Are used with large hot water boilers only",
+      "C": "Are used with small hot water boilers only",
+      "D": "Must be located above the heating system",
+      "E": "Must be located below the heating system"
+    },
+    "correctAnswer": "D",
+    "explanation": "Open expansion tanks must be mounted at the absolute highest point of the heating system above all radiation units to vent freely and maintain static head."
+  },
+  {
+    "number": 37,
+    "heading": "Hot Water Heating",
+    "question": "The two pipe reverse return hot water heating system has the advantage of:",
+    "options": {
+      "A": "Elimination of an expansion tank",
+      "B": "Elimination of air vents",
+      "C": "All circuits have the same length",
+      "D": "Low cost",
+      "E": "No circulating is needed"
+    },
+    "correctAnswer": "C",
+    "explanation": "A reverse return piping layout ensures that the total supply and return pipe length for every individual terminal unit is virtually identical, making balancing easy."
+  },
+  {
+    "number": 38,
+    "heading": "Hot Water Heating",
+    "question": "The disadvantage of a series loop hot water heating system is:",
+    "options": {
+      "A": "High water consumption",
+      "B": "Temperature of the system too high",
+      "C": "Consecutive convectors heat output decreases",
+      "D": "High fuel consumption",
+      "E": "High cost piping system"
+    },
+    "correctAnswer": "C",
+    "explanation": "In a series loop system, water passes through each convector in turn, meaning water temperature drops successively, reducing heat output of downstream units."
+  },
+  {
+    "number": 39,
+    "heading": "Hot Water Heating",
+    "question": "The maximum temperature of water in a gravity hot water system is:",
+    "options": {
+      "A": "77°C",
+      "B": "67°C",
+      "C": "87°C",
+      "D": "65°C",
+      "E": "70°C"
+    },
+    "correctAnswer": "A",
+    "explanation": "Gravity hot water heating systems operate at lower temperatures, typically limited to a maximum around 77°C (170°F) to prevent boiling due to lower static heads."
+  },
+  {
+    "number": 40,
+    "heading": "Hot Water Heating",
+    "question": "In many buildings, the hot water heating system is divided into several circuits and the flow of water is controlled by:",
+    "options": {
+      "A": "A thermometer",
+      "B": "A circulating pump in each heating zone",
+      "C": "A thermostat",
+      "D": "An expansion tank in each heating zone",
+      "E": "A thermocouple"
+    },
+    "correctAnswer": "B",
+    "explanation": "Multi-zone hot water heating systems utilize dedicated circulating pumps or zone valves for each circuit controlled by zone thermostats."
+  },
+  {
+    "number": 41,
+    "heading": "Hot Water Heating",
+    "question": "One of the advantages of the hot water heating as compared to steam heating is:",
+    "options": {
+      "A": "Less damage for leakage",
+      "B": "Lower maintenance cost",
+      "C": "More piping is needed",
+      "D": "Hot water boilers are more fuel efficient",
+      "E": "Water treatment is almost eliminated"
+    },
+    "correctAnswer": "B",
+    "explanation": "Hot water systems typically experience lower maintenance costs and less component wear compared to high-pressure or trap-heavy steam systems."
+  },
+  {
+    "number": 42,
+    "heading": "Hot Water Heating",
+    "question": "Air is removed from a hot water system by which of the following:\n1. Air vents\n2. Deaerators\n3. Air condensers\n4. Air separators",
+    "options": {
+      "A": "1, 3",
+      "B": "2, 4",
+      "C": "1, 4",
+      "D": "2, 3",
+      "E": "1, 2"
+    },
+    "correctAnswer": "C",
+    "explanation": "Air is continuously or periodically eliminated from hydronic systems using automatic air vents and mechanical air separators."
+  },
+  {
+    "number": 43,
+    "heading": "Hot Water Heating",
+    "question": "One of the advantages of the radiant panel hot water heating system over the conventional heating system is:",
+    "options": {
+      "A": "Even heat distribution throughout the rooms",
+      "B": "Ease of repair of heating coils",
+      "C": "Low water flow resistance",
+      "D": "Less piping is needed",
+      "E": "Low in cost"
+    },
+    "correctAnswer": "A",
+    "explanation": "Radiant panel systems provide superior thermal comfort and very even temperature distribution throughout the occupied space."
+  },
+  {
+    "number": 44,
+    "heading": "Hot Water Heating",
+    "question": "Which type of heating system would you expect to find in a high rise office building?\n1. Gravity warm air circulation\n2. Forced hot water circulation\n3. Gravity hot water circulation\n4. Steam to hot water heating system",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "2, 3",
+      "C": "2, 3, 4",
+      "D": "1, 3",
+      "E": "2, 4"
+    },
+    "correctAnswer": "E",
+    "explanation": "High-rise buildings utilize forced hot water circulation or steam-to-hot-water converter systems zoned across vertical pressure intervals."
+  },
+  {
+    "number": 45,
+    "heading": "Hot Water Heating",
+    "question": "Advantages of the forced circulation hot water heating systems are:",
+    "options": {
+      "A": "Higher make-up and better chemical control",
+      "B": "High pressure piping and controls",
+      "C": "High vacuum in the return lines and pump",
+      "D": "Low water make-up and better chemical control",
+      "E": "Reduction in pipe size and greater heat control"
+    },
+    "correctAnswer": "E",
+    "explanation": "Forced circulation pumps allow higher water velocities, enabling smaller pipe sizes and precise, rapid heat modulation."
+  },
+  {
+    "number": 46,
+    "heading": "Hot Water Heating",
+    "question": "Snow melting systems are usually filled with:",
+    "options": {
+      "A": "Methanol and water",
+      "B": "Steam",
+      "C": "Ethylene glycol and water",
+      "D": "Water only",
+      "E": "Warm air"
+    },
+    "correctAnswer": "C",
+    "explanation": "Hydronic snow melting systems circulate a mixture of water and ethylene glycol (or propylene glycol) to prevent freezing in cold outdoor conditions."
+  },
+  {
+    "number": 47,
+    "heading": "Hot Water Heating",
+    "question": "Because of the different circuit lengths to each convector, the direct return hot water system is difficult to:",
+    "options": {
+      "A": "Construct",
+      "B": "Balance",
+      "C": "Return water to the boiler",
+      "D": "Maintain heat",
+      "E": "Circulate water"
+    },
+    "correctAnswer": "B",
+    "explanation": "In direct return systems, the first convector encountered has the shortest circuit and highest pressure drop, making hydraulic balancing challenging compared to reverse return."
+  },
+  {
+    "number": 48,
+    "heading": "Hot Water Heating",
+    "question": "_____ valves are necessary in each circuit of multi-zone system to prevent continued circulation of hot water after the circulator has been stopped by the zone control.",
+    "options": {
+      "A": "Balance",
+      "B": "Flow control",
+      "C": "Multi-inlet",
+      "D": "By-pass",
+      "E": "Air separator"
+    },
+    "correctAnswer": "B",
+    "explanation": "Spring-loaded flow control (anti-thermosiphon) valves prevent gravity circulation when zone circulator pumps are switched off."
+  },
+  {
+    "number": 49,
+    "heading": "Hot Water Heating",
+    "question": "Improper location of the circulation pump and expansion tank can cause:",
+    "options": {
+      "A": "The circulating pump to cavitate",
+      "B": "Water hammer",
+      "C": "Vapor bubbles to form in the circulating pump",
+      "D": "Vapour bound pump",
+      "E": "All of these could happen"
+    },
+    "correctAnswer": "E",
+    "explanation": "Improper placement relative to the neutral point of pressure can cause low pressure at the pump inlet, leading to cavitation, vapor binding, and noise."
+  },
+  {
+    "number": 50,
+    "heading": "Hot Water Heating",
+    "question": "The purpose of a pressure reducing valve on a hot water system is to:",
+    "options": {
+      "A": "Reduce water hammer in a heating system",
+      "B": "To increase the feedwater pressure to the boiler",
+      "C": "Level out the flow of steam or hot water",
+      "D": "Maintain hot water at a required temperature",
+      "E": "Automatically reduce pressure and maintain it"
+    },
+    "correctAnswer": "E",
+    "explanation": "A pressure reducing (fill) valve automatically feeds make-up water from city mains and maintains proper static fill pressure in the closed hydronic system."
+  },
+  {
+    "number": 51,
+    "heading": "Other Heating Systems",
+    "question": "Electric resistance coil heating systems are mainly restricted to use in:",
+    "options": {
+      "A": "Large buildings",
+      "B": "Hot water heating systems",
+      "C": "Large warehouses",
+      "D": "Steam heating systems",
+      "E": "Small residences"
+    },
+    "correctAnswer": "E",
+    "explanation": "Electric resistance duct/coil heating is typically limited to small residences or localized zone heating due to high electricity operating costs."
+  },
+  {
+    "number": 52,
+    "heading": "Other Heating Systems",
+    "question": "In a high efficiency furnace or heater the temperature of the flue gases are _____ in the secondary heat exchanger.",
+    "options": {
+      "A": "Very high",
+      "B": "On the dew point",
+      "C": "Very low",
+      "D": "Above the dew point",
+      "E": "Below the dew point"
+    },
+    "correctAnswer": "E",
+    "explanation": "Condensing/high-efficiency furnaces cool flue gases below the water vapor dew point in a secondary heat exchanger to extract latent heat of condensation."
+  },
+  {
+    "number": 53,
+    "heading": "Other Heating Systems",
+    "question": "Infrared radiant energy is directed towards:",
+    "options": {
+      "A": "Doors",
+      "B": "Walls",
+      "C": "Ceilings",
+      "D": "Windows",
+      "E": "Floors"
+    },
+    "correctAnswer": "E",
+    "explanation": "Overhead infrared radiant heaters are aimed downward toward floors and occupied surfaces rather than warming air directly."
+  },
+  {
+    "number": 54,
+    "heading": "Other Heating Systems",
+    "question": "Heat exchangers in gas fired furnaces are made of:",
+    "options": {
+      "A": "Copper",
+      "B": "Steel",
+      "C": "Aluminum",
+      "D": "Brass",
+      "E": "Cast iron"
+    },
+    "correctAnswer": "B",
+    "explanation": "Gas-fired warm air furnace heat exchangers are typically constructed from heavy-gauge sheet steel or aluminized steel."
+  },
+  {
+    "number": 55,
+    "heading": "Other Heating Systems",
+    "question": "Lowboy furnaces are just over _____ in height.",
+    "options": {
+      "A": "1.0 m",
+      "B": "0.8 m",
+      "C": "1.6 m",
+      "D": "1.4 m",
+      "E": "1.2 m"
+    },
+    "correctAnswer": "E",
+    "explanation": "Lowboy warm air furnaces are compact in height, measuring just over 1.2 m (about 4 feet) tall."
+  },
+  {
+    "number": 56,
+    "heading": "Other Heating Systems",
+    "question": "One of the advantages of electric heating over other heating systems is:",
+    "options": {
+      "A": "Low operating pressures",
+      "B": "Ideal for large warehouses",
+      "C": "High operating temperatures",
+      "D": "Low operating cost",
+      "E": "No fuel storage or handling equipment"
+    },
+    "correctAnswer": "E",
+    "explanation": "Electric heating requires no fuel tanks, piping, chimneys, or fuel storage and handling equipment on site."
+  },
+  {
+    "number": 57,
+    "heading": "Other Heating Systems",
+    "question": "Most warm air heating furnaces are often equipped with a _____ to supply moisture to the air during the dry winter season.",
+    "options": {
+      "A": "Steamer",
+      "B": "Dehumidifier",
+      "C": "Water sprayer",
+      "D": "Humidifier",
+      "E": "Vapourizer"
+    },
+    "correctAnswer": "D",
+    "explanation": "A humidifier adds moisture to circulated warm air to maintain comfortable indoor relative humidity during dry winter heating seasons."
+  },
+  {
+    "number": 58,
+    "heading": "Other Heating Systems",
+    "question": "Plugged _____ on warm air heating and ventilating systems limit the air flow and result in insufficient heating and a waste of fuel.",
+    "options": {
+      "A": "Filters",
+      "B": "Univents",
+      "C": "Drain lines",
+      "D": "Convectors",
+      "E": "Diverters"
+    },
+    "correctAnswer": "A",
+    "explanation": "Dirty or plugged air filters restrict blower airflow, causing overheating/short-cycling, poor heating, and wasted energy."
+  },
+  {
+    "number": 59,
+    "heading": "Other Heating Systems",
+    "question": "Which of the following is the equipment used for indirect electric heating systems?\n1. Radiant panel heaters\n2. Unit ventilators\n3. Heat lamps\n4. Electric boilers\n5. Warm air furnaces",
+    "options": {
+      "A": "3, 4",
+      "B": "3, 5",
+      "C": "1, 2",
+      "D": "4, 5",
+      "E": "2, 3"
+    },
+    "correctAnswer": "D",
+    "explanation": "Indirect electric heating systems use electricity to heat a medium such as water/steam in electric boilers or air in electric warm air furnaces."
+  },
+  {
+    "number": 60,
+    "heading": "Other Heating Systems",
+    "question": "Which of the following is the equipment used for direct electric heating systems?\n1. Electric boilers\n2. Baseboard heaters\n3. Wall heaters\n4. Unit heaters\n5. Warm air furnaces",
+    "options": {
+      "A": "1, 3, 5",
+      "B": "3, 4, 5",
+      "C": "1, 2, 3",
+      "D": "2, 4, 5",
+      "E": "2, 3, 4"
+    },
+    "correctAnswer": "E",
+    "explanation": "Direct electric heating converts electrical energy directly into heat at the point of use, such as baseboard heaters, wall heaters, and electric unit heaters."
+  },
+  {
+    "number": 61,
+    "heading": "Other Heating Systems",
+    "question": "In high efficiency furnaces, if the temperature of the flue gas drops below 65°C, the:",
+    "options": {
+      "A": "Furnace vent will close",
+      "B": "Furnace burner will start up",
+      "C": "Water vapour will condense",
+      "D": "Flue gas will condense",
+      "E": "Furnace burner will shut down"
+    },
+    "correctAnswer": "C",
+    "explanation": "When flue gas cools below its dew point (around 55°C–65°C depending on excess air/fuel), water vapor condenses into liquid condensate."
+  },
+  {
+    "number": 62,
+    "heading": "Other Heating Systems",
+    "question": "In a fin-coil heat exchanger, the primary source of heat for the exchanger is:",
+    "options": {
+      "A": "Radiant",
+      "B": "Solar",
+      "C": "Steam or hot water",
+      "D": "Gas",
+      "E": "Oil"
+    },
+    "correctAnswer": "C",
+    "explanation": "Fin-coil heat exchangers in HVAC air handlers or unit heaters commonly circulate steam or hot water inside the finned tubes to warm passing air."
+  },
+  {
+    "number": 63,
+    "heading": "Other Heating Systems",
+    "question": "Which of the following are gas-fired infrared heaters?\n1. Surface combustion heater\n2. Vented heater\n3. Quartz tube heater\n4. Low temperature catalytic heater\n5. Metal sheath heater",
+    "options": {
+      "A": "2, 3, 5",
+      "B": "1, 2, 5",
+      "C": "1, 3, 4",
+      "D": "1, 2, 3",
+      "E": "1, 2, 4"
+    },
+    "correctAnswer": "E",
+    "explanation": "Gas-fired infrared heaters include surface combustion (ceramic/porous matrix), vented tube heaters, and low-temperature catalytic infrared heaters."
+  },
+  {
+    "number": 64,
+    "heading": "Other Heating Systems",
+    "question": "The correct tension on V belts should be 1 cm for every 16cm between pulleys when the motors are:",
+    "options": {
+      "A": "Less than 1 kilowatt",
+      "B": "Operating over 1800 rpm",
+      "C": "More than 1 kilowatt",
+      "D": "One horse power or more",
+      "E": "Diesel engines"
+    },
+    "correctAnswer": "A",
+    "explanation": "For fractional horsepower / small electric motors under 1 kW, proper V-belt deflection is roughly 1 cm per 16 cm of center-to-center pulley span."
+  },
+  {
+    "number": 65,
+    "heading": "Other Heating Systems",
+    "question": "One of the advantages the forced warm air heating systems has over the steam or hot water heating systems is:",
+    "options": {
+      "A": "Its ease of installation of duct works",
+      "B": "The systems are virtually noise free",
+      "C": "The systems do not require electricity",
+      "D": "The systems are maintenance free",
+      "E": "The air can be humidified"
+    },
+    "correctAnswer": "E",
+    "explanation": "Forced warm air systems can easily integrate humidifiers directly into the supply air stream to humidify conditioned air."
+  },
+  {
+    "number": 66,
+    "heading": "Other Heating Systems",
+    "question": "Infrared heaters are used in:",
+    "options": {
+      "A": "Skating rinks",
+      "B": "Theaters",
+      "C": "Libraries",
+      "D": "Lecture halls",
+      "E": "Offices"
+    },
+    "correctAnswer": "A",
+    "explanation": "Infrared radiant heaters are well suited for large, drafty, or semi-open spaces like skating rinks, arenas, and warehouses where heating air is impractical."
+  },
+  {
+    "number": 67,
+    "heading": "Other Heating Systems",
+    "question": "Infrared heaters are usually mounted:",
+    "options": {
+      "A": "On walls",
+      "B": "Over doors",
+      "C": "Overhead",
+      "D": "In floors",
+      "E": "Under windows"
+    },
+    "correctAnswer": "C",
+    "explanation": "Infrared radiant heaters are typically mounted overhead so radiant waves shine downward onto people, floors, and equipment."
+  },
+  {
+    "number": 68,
+    "heading": "Other Heating Systems",
+    "question": "A fired heater which is installed on location where the heat is needed and heats the air directly without the use of any ducting is called a/an:",
+    "options": {
+      "A": "Convector",
+      "B": "Fin-coil heat exchanger",
+      "C": "Unit heater",
+      "D": "Unit ventilator",
+      "E": "Space heater"
+    },
+    "correctAnswer": "E",
+    "explanation": "A space heater is a self-contained or localized unit installed in the space to be heated without extensive duct distribution."
+  },
+  {
+    "number": 69,
+    "heading": "Other Heating Systems",
+    "question": "In an internally fired gas-fired infrared heater, the surface temperature is about:",
+    "options": {
+      "A": "700°C",
+      "B": "600°C",
+      "C": "400°C",
+      "D": "500°C",
+      "E": "300°C"
+    },
+    "correctAnswer": "C",
+    "explanation": "Internally fired (tube-type) gas infrared heaters typically operate at emitter surface temperatures around 400°C."
+  },
+  {
+    "number": 70,
+    "heading": "Other Heating Systems",
+    "question": "One of the disadvantages of the forced warm air heating systems is the:",
+    "options": {
+      "A": "Air contains too much moisture",
+      "B": "Installation and maintenance costs are higher than the steam heating systems",
+      "C": "High cost for the system due to specialty equipment required",
+      "D": "System can be quite noisy as compared to the gravity warm air heating systems",
+      "E": "Poor air circulation"
+    },
+    "correctAnswer": "D",
+    "explanation": "Forced warm air systems use blowers and ductwork, making them generally noisier than quiet natural-convection gravity warm air systems."
+  },
+  {
+    "number": 71,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "For the selection of a HVAC system the building function factor includes:\n1. Normal occupancy periods\n2. Building owner’s considerations\n3. The need to operate certain areas during off hours\n4. Maintenance requirements",
+    "options": {
+      "A": "1, 2, 3, 4",
+      "B": "1, 2",
+      "C": "1, 3",
+      "D": "3, 4",
+      "E": "2, 3"
+    },
+    "correctAnswer": "C",
+    "explanation": "Building function focuses on how the building is used—such as normal occupancy schedules (1) and operating specific zones during off hours (3)—while owner budget and maintenance fall under financial/maintenance factors."
+  },
+  {
+    "number": 72,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "Which of the following statements about the unit ventilators is false?",
+    "options": {
+      "A": "Room air is mixed with outside air",
+      "B": "The units are used in areas with limited available floor space",
+      "C": "The units provide individual room temperature control",
+      "D": "The units provide heating and/or cooling",
+      "E": "The units provide cooling only"
+    },
+    "correctAnswer": "E",
+    "explanation": "Unit ventilators provide heating, ventilation, and often cooling (not cooling only), mixing room air with fresh outdoor air for classrooms or offices."
+  },
+  {
+    "number": 73,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "The constant volume system with perimeter heating provides air from the air-handling unit in the central mechanical room at approximately:",
+    "options": {
+      "A": "12.5°C",
+      "B": "15°C",
+      "C": "Ambient temperature",
+      "D": "10.5°C",
+      "E": "22°C"
+    },
+    "correctAnswer": "A",
+    "explanation": "Constant volume systems with perimeter heating typically supply cooled/tempered primary air from the central air-handling unit at around 12.5°C (55°F)."
+  },
+  {
+    "number": 74,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "Which of the following unitary systems is typical for single zone use only?\n1. A dual duct system\n2. A unit ventilator\n3. A rooftop unit\n4. A packaged air conditioner\n5. A single zone constant air volume system",
+    "options": {
+      "A": "1, 3, 4, 5",
+      "B": "1, 2, 3",
+      "C": "3, 4, 5",
+      "D": "2, 3, 4",
+      "E": "1, 2, 3, 4, 5"
+    },
+    "correctAnswer": "C",
+    "explanation": "Rooftop units (3), packaged air conditioners (4), and single-zone constant air volume systems (5) are standard unitary systems suited for single-zone control."
+  },
+  {
+    "number": 75,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "The condensate that drains from the condenser of a window air conditioner is:",
+    "options": {
+      "A": "Drained on the floor",
+      "B": "Piped to a drain on the evaporator side of the unit",
+      "C": "Run over the evaporator coil to keep it clean",
+      "D": "Used to add humidity to the room air",
+      "E": "Drained to a pan below the condenser fan where it is thrown against the condenser coil and evaporates"
+    },
+    "correctAnswer": "E",
+    "explanation": "Window air conditioners often sling condensate water from a pan onto the condenser coil using a slinger ring/fan to aid heat rejection and evaporation."
+  },
+  {
+    "number": 76,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "The system which runs as a refrigeration system used for air conditioning purposes in the summer and can be modified to run in reverse in cooler weather is called a:",
+    "options": {
+      "A": "Heat valve",
+      "B": "Thermal wheel",
+      "C": "Runaround system",
+      "D": "Heat pump",
+      "E": "Heat pipe"
+    },
+    "correctAnswer": "D",
+    "explanation": "A heat pump uses a reversing valve to flip refrigeration flow direction, providing cooling in summer and heating in winter."
+  },
+  {
+    "number": 77,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "The funds required for the purchase of the air conditioning portion of the building refers to which factor of system selection:",
+    "options": {
+      "A": "Building function",
+      "B": "Maintenance requirements",
+      "C": "Operating costs",
+      "D": "Capital cost",
+      "E": "Building layout"
+    },
+    "correctAnswer": "D",
+    "explanation": "Capital cost refers to the initial upfront funds required to purchase and install the HVAC/air-conditioning equipment."
+  },
+  {
+    "number": 78,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "Which of the following statements about multizone systems is true?",
+    "options": {
+      "A": "The cooling coils are installed in-line",
+      "B": "When the hot deck is fully opened the cold deck is fully closed",
+      "C": "The dampers are out of phase by 10°C",
+      "D": "The system cannot operate a humidifier",
+      "E": "All of these are true"
+    },
+    "correctAnswer": "B",
+    "explanation": "In a multizone air handler, hot and cold deck dampers operate in opposition so that as one opens, the other closes to mix air to the desired zone temperature."
+  },
+  {
+    "number": 79,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "Filters are required to remove contaminants from _____ and _____ air before it is introduced back into the building.",
+    "options": {
+      "A": "Return, supply",
+      "B": "Supply, outside",
+      "C": "Inlet, exhaust",
+      "D": "Outside, return",
+      "E": "Recycled, outside"
+    },
+    "correctAnswer": "E",
+    "explanation": "Air filters clean both recycled (return) air and incoming outside air before delivering supply air to occupied spaces."
+  },
+  {
+    "number": 80,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "The most common system installed in most residences where the furnace is located in the basement and provides conditioned air via ducts to each room is called a:",
+    "options": {
+      "A": "Low velocity terminal re-heat system",
+      "B": "Forced air system",
+      "C": "Single zone, constant air volume system",
+      "D": "Multi-zone system",
+      "E": "Unit ventilator"
+    },
+    "correctAnswer": "B",
+    "explanation": "A residential forced air system uses a central furnace/air handler and duct network to distribute conditioned air to rooms."
+  },
+  {
+    "number": 81,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "Which of the following is false about constant air volume systems with perimeter heating?",
+    "options": {
+      "A": "The cooling and reheating of supply air is not energy efficient unless the zone is at maximum cooling",
+      "B": "It is relatively easy to operate and maintain",
+      "C": "The exterior wall convectors have increased heating capacity to compensate for the 12.5°C air supply",
+      "D": "Over cooling of rooms can develop with the 12.5°C air supply",
+      "E": "It is well suited for larger buildings"
+    },
+    "correctAnswer": "E",
+    "explanation": "Constant air volume systems with perimeter heating become energy-inefficient and bulky in very large buildings compared to variable air volume (VAV) systems."
+  },
+  {
+    "number": 82,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "Which of the following statements about central air conditioning systems is false?",
+    "options": {
+      "A": "The central system is able to utilise large central equipment with high efficiency and low initial cost",
+      "B": "Unitary systems are able to control noise and vibration better than central systems",
+      "C": "Central systems are used in large buildings",
+      "D": "Air is conditioned in the main mechanical room and distributed by duct work",
+      "E": "All the major equipment in central systems is located in a central mechanical room in the building"
+    },
+    "correctAnswer": "B",
+    "explanation": "Central air conditioning systems house heavy compressors/fans in a central mechanical room, so unitary equipment placed in occupied spaces often presents greater local noise/vibration considerations."
+  },
+  {
+    "number": 83,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "The unitary air conditioning system that uses a direct expansion refrigeration system to provide cooling and dehumidification in a local area without ductwork is called a/an:",
+    "options": {
+      "A": "High velocity terminal re-heat system",
+      "B": "Rooftop unit",
+      "C": "Multi-zone system",
+      "D": "Window air conditioner",
+      "E": "Unit ventilator"
+    },
+    "correctAnswer": "D",
+    "explanation": "A window air conditioner is a self-contained unitary direct-expansion unit mounted in a window or wall opening without ductwork."
+  },
+  {
+    "number": 84,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "A system used extensively in hotels and motels due to its minimal space requirement, relatively low initial cost and high degree of individual zone control is called:",
+    "options": {
+      "A": "A fan coil unit with make up air system",
+      "B": "An induction system",
+      "C": "A variable volume system with perimeter heating",
+      "D": "A compartmental atomising system",
+      "E": "A hydronic heat pump system"
+    },
+    "correctAnswer": "A",
+    "explanation": "Fan coil units paired with a make-up air system are widely used in hotels/motels for compact footprint, lower initial cost, and independent room control."
+  },
+  {
+    "number": 85,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "A combined system that provides cooling and heating all year round is highly energy efficient but has a high initial cost. The system consists of two separate supply and return piping systems that are connected to separate coils. Which of the following systems fits the above description?",
+    "options": {
+      "A": "A two-pipe system",
+      "B": "A four-pipe system",
+      "C": "A single pipe system",
+      "D": "A three-pipe system",
+      "E": "A Hydronic heat pump system"
+    },
+    "correctAnswer": "B",
+    "explanation": "A four-pipe hydronic system uses separate supply and return pipes for both chilled water and hot water, allowing simultaneous heating and cooling year-round."
+  },
+  {
+    "number": 86,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "This type of central system works well in smaller buildings with multi-zone layouts. It provides good control of room temperature on a year round basis but is limited by the number of zones and the space needed for the supply ducts.",
+    "options": {
+      "A": "A low velocity terminal reheat system",
+      "B": "A high velocity terminal reheat system",
+      "C": "A multi-zone system",
+      "D": "A roof top unit",
+      "E": "A dual duct system"
+    },
+    "correctAnswer": "C",
+    "explanation": "Multizone systems work well for smaller multi-zone buildings with year-round control, though zone count and bulky multi-zone duct runs limit scalability."
+  },
+  {
+    "number": 87,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "When looking at building function to select a system, which of the following factors are being considered?\n1. The physical size of the building\n2. Climatic conditions\n3. The amount of zoning required\n4. Funds available for the system\n5. Occupancy periods\n6. The need to operate certain areas off hours",
+    "options": {
+      "A": "2, 5, 6",
+      "B": "1, 3, 4, 6",
+      "C": "1, 2, 6",
+      "D": "1, 3, 4, 5, 6",
+      "E": "3, 5, 6"
+    },
+    "correctAnswer": "E",
+    "explanation": "Building function considerations center on zoning needs (3), occupancy schedules (5), and off-hours zone operation (6)."
+  },
+  {
+    "number": 88,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "A combined HVAC system offers the following advantages over a central air system.\n1. Control is better when the number of zones is increased\n2. Usually requires less building space for mechanical equipment and duct work\n3. They are generally more efficient in operation\n4. Ventilation to zones that are not needed can be shut or the temperature can be regulated differently\n5. Additional cooling can be provided to zones that receive heat from solar radiation",
+    "options": {
+      "A": "1, 2, 3, 4, 5",
+      "B": "1, 2, 3",
+      "C": "1, 3, 4",
+      "D": "1, 2, 3, 4",
+      "E": "2, 3, 4, 5"
+    },
+    "correctAnswer": "A",
+    "explanation": "Combined air-water/hydronic-air systems offer finer multi-zone control, space savings, operational efficiency, zone shutoff/modulation, and solar-load handling."
+  },
+  {
+    "number": 89,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "For which system/s is the central fan usually provided with variable inlet vanes for output adjustment to maintain a set pressure in the supply air duct?\n1. Variable air volume system\n2. Fan coil unit with make up air system\n3. Hydronic heat pump system\n4. Dual duct system\n5. Constant air volume system",
+    "options": {
+      "A": "1",
+      "B": "4",
+      "C": "2, 3, 4",
+      "D": "3, 4, 5",
+      "E": "5"
+    },
+    "correctAnswer": "A",
+    "explanation": "Variable air volume (VAV) systems commonly use variable inlet vanes (or VFDs) on the central supply fan to maintain static duct pressure as zone dampers modulate."
+  },
+  {
+    "number": 90,
+    "heading": "Cooling Systems and Combination Systems",
+    "question": "Which of the following statements about two-pipe arrangements is false?",
+    "options": {
+      "A": "The system can heat and cool at the same time",
+      "B": "The arrangement is made up of a supply and return connection to a single coil",
+      "C": "The arrangement is the least costly",
+      "D": "Piping is connected to the chiller during summer",
+      "E": "Piping is connected to the boiler during winter"
+    },
+    "correctAnswer": "A",
+    "explanation": "A two-pipe changeover system uses a single supply and return pair to one coil per unit, so it cannot provide simultaneous heating and cooling in different zones."
+  },
+  {
+    "number": 91,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "The fact that the system can be treated against corrosion is an advantage for which system?",
+    "options": {
+      "A": "A thermal wheel",
+      "B": "A heat pipe",
+      "C": "A heat pump",
+      "D": "A runaround system",
+      "E": "A heat valve"
+    },
+    "correctAnswer": "B",
+    "explanation": "Heat pipe heat exchangers can be coated or treated with corrosion-resistant materials to withstand corrosive exhaust airstreams."
+  },
+  {
+    "number": 92,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Air ventilation is based on the larger of these two requirements:",
+    "options": {
+      "A": "CO₂ concentration",
+      "B": "L/s rate and conduction rate per person",
+      "C": "Conduction rate per person and solar heat rate",
+      "D": "Solar heat rate and L/s rate per person",
+      "E": "Infiltration/exhaust rate and L/s rate per person"
+    },
+    "correctAnswer": "E",
+    "explanation": "Required outdoor ventilation airflow is determined by taking the larger value between the required L/s per occupant and the makeup air needed to offset exhaust and infiltration."
+  },
+  {
+    "number": 93,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Thermal resistance (R) may be defined as the:",
+    "options": {
+      "A": "Reciprocal of thermal conductance (m°C/W)",
+      "B": "Thermal transmission through a unit area of homogeneous material (W/m°C)",
+      "C": "Thermal transmission through a unit area of a particular body where the difference between temperatures on either side of the body is unity (W/m²°C)",
+      "D": "Thermal transmission through a unit area of a particular body with defined surfaces (W/m²°C)",
+      "E": "Quantity of heat flow in unit time (Q or W)"
+    },
+    "correctAnswer": "A",
+    "explanation": "Thermal resistance (R-value) measures opposition to heat flow and is defined as the reciprocal of thermal conductance."
+  },
+  {
+    "number": 94,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Disadvantages of the heat pipe recovery systems include:\n1. Piping and pumps are not required\n2. A side-by-side duct arrangement is needed\n3. There are no continuously moving parts\n4. Recovery is limited when there is a possibility of frost forming on the exhaust section\n5. They are appreciably more expensive than the runaround system",
+    "options": {
+      "A": "2, 4, 5",
+      "B": "1, 2, 3",
+      "C": "2, 3, 4",
+      "D": "2, 3, 5",
+      "E": "3, 4, 5"
+    },
+    "correctAnswer": "A",
+    "explanation": "Heat pipes require supply and exhaust ducts to be adjacent/side-by-side (2), must restrict recovery to prevent exhaust frost formation (4), and carry higher equipment cost than runaround coils (5)."
+  },
+  {
+    "number": 95,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Thermal conductivity may be defined as the:",
+    "options": {
+      "A": "Thermal transmission through a unit area of a particular body where the difference between temperatures on either side of the body is unity (W/m²°C)",
+      "B": "Thermal transmission through a unit area of homogeneous material (W/m°C)",
+      "C": "Reciprocal of thermal conductance (m°C/W)",
+      "D": "Thermal transmission through a unit area of a particular body by convection (W/m²°C)",
+      "E": "Quantity of heat flow in unit time (Q or W)"
+    },
+    "correctAnswer": "B",
+    "explanation": "Thermal conductivity (k) is the rate of steady-state heat transfer through a unit area and unit thickness of a homogeneous material per degree temperature difference (W/m°C)."
+  },
+  {
+    "number": 96,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "The recovery system that employs a single exchange unit consisting of a casing split into two sections and a segmented rotating wheel 300 mm thick and 1 to 3.7 m in diameter is called a:",
+    "options": {
+      "A": "Heat pipe",
+      "B": "Thermal wheel",
+      "C": "Runaround system",
+      "D": "Heat valve",
+      "E": "Heat pump"
+    },
+    "correctAnswer": "B",
+    "explanation": "A thermal wheel (rotary air-to-air heat exchanger) uses a segmented rotating matrix wheel rotating between adjacent exhaust and supply air streams."
+  },
+  {
+    "number": 97,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Electric motors give off _____ while running.",
+    "options": {
+      "A": "Sensible heat",
+      "B": "Latent and sensible heat",
+      "C": "Latent heat",
+      "D": "No heat to the atmosphere",
+      "E": "Solar heat"
+    },
+    "correctAnswer": "A",
+    "explanation": "Running electric motors dissipate inefficiency losses directly into the surrounding space air purely as sensible heat."
+  },
+  {
+    "number": 98,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Two methods of calculating air infiltration into a building are the:",
+    "options": {
+      "A": "Conduction and solar method",
+      "B": "Air change and solar method",
+      "C": "Air change and crack method",
+      "D": "Crack and solar method",
+      "E": "Crack and conduction method"
+    },
+    "correctAnswer": "C",
+    "explanation": "Infiltration heat loss/gain is standardly estimated using either the air change method or the crack length method."
+  },
+  {
+    "number": 99,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Thermal transmission may be defined as the:",
+    "options": {
+      "A": "Quantity of heat flow in unit time (Q or W)",
+      "B": "Thermal transmission through a unit area of homogeneous material (W/m°C)",
+      "C": "Reciprocal of thermal conductance (m°C/W)",
+      "D": "Thermal transmission through a unit area of a particular body where the difference between temperatures on either side of the body is unity (W/m²°C)",
+      "E": "Thermal transmission through a unit area of a particular body with defined surfaces (W/m²°C)"
+    },
+    "correctAnswer": "A",
+    "explanation": "Thermal transmission refers to the total quantity of heat flowing per unit of time (measured in Watts, W)."
+  },
+  {
+    "number": 100,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Cross contamination is a disadvantage for which of the following systems?",
+    "options": {
+      "A": "A heat tube",
+      "B": "A runaround system",
+      "C": "A heat pipe",
+      "D": "A heat valve",
+      "E": "A thermal wheel"
+    },
+    "correctAnswer": "E",
+    "explanation": "Because the wheel matrix rotates directly between the exhaust and supply airstreams, minor carryover/leakage of exhaust air (cross contamination) can occur."
+  },
+  {
+    "number": 101,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Heat load from people in a room is mostly affected by:",
+    "options": {
+      "A": "The size of the people",
+      "B": "The activity of the people",
+      "C": "Smoking",
+      "D": "The number of people",
+      "E": "None of the above"
+    },
+    "correctAnswer": "B",
+    "explanation": "The sensible and latent heat emitted per occupant varies dramatically depending on their level of physical activity (e.g., seated vs. dancing vs. heavy work)."
+  },
+  {
+    "number": 102,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "What is the name of the heat recovery system that consists of two finned tube heat exchangers?",
+    "options": {
+      "A": "A heat valve",
+      "B": "A thermal wheel",
+      "C": "A heat tube",
+      "D": "A runaround system",
+      "E": "A heat pump"
+    },
+    "correctAnswer": "D",
+    "explanation": "A runaround coil loop uses two separate finned-tube heat exchanger coils (one in exhaust, one in supply) connected by a pumped glycol/water piping loop."
+  },
+  {
+    "number": 103,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Conduction heat gains are calculated on the assumption that:",
+    "options": {
+      "A": "The \"U\" value is not used",
+      "B": "Solar heat varies from hour to hour as sun changes position",
+      "C": "Solar heat gains are included",
+      "D": "Solar heat gains are not included",
+      "E": "Construction details are unimportant"
+    },
+    "correctAnswer": "D",
+    "explanation": "Standard conductive heat transfer calculations (Q = U·A·ΔT) evaluate transmission due to indoor-outdoor air temperature differences alone, excluding solar radiation gains."
+  },
+  {
+    "number": 104,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "The advantages of the thermal wheel heat recovery system include:\n1. There is no cross contamination\n2. Piping and pumps are not required\n3. Sealing arrangements are simple and effective\n4. Sensible and latent heat can be recovered\n5. Recovery over a wide range of temperatures is possible",
+    "options": {
+      "A": "3, 4, 5",
+      "B": "2, 3, 4",
+      "C": "1, 2, 3",
+      "D": "2, 3, 5",
+      "E": "2, 4, 5"
+    },
+    "correctAnswer": "E",
+    "explanation": "Thermal wheels require no intermediate piping or pumps (2), can recover both sensible and latent heat (4), and operate across wide temperature ranges (5)."
+  },
+  {
+    "number": 105,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "If exhaust fans are not used over cooking, only _____ of the heat gain is used in calculations.",
+    "options": {
+      "A": "50%",
+      "B": "60%",
+      "C": "10%",
+      "D": "25%",
+      "E": "75%"
+    },
+    "correctAnswer": "A",
+    "explanation": "In cooling load estimation standards for unhooded/non-exhausted cooking appliances, a usage/diversity factor of 50% of the rated input heat gain is typically applied."
+  },
+  {
+    "number": 106,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Thermal conductance (C) may be defined as the:",
+    "options": {
+      "A": "Quantity of heat flow in unit time (Q or W)",
+      "B": "Thermal transmission through a unit area of homogeneous material (W/m°C)",
+      "C": "Reciprocal of thermal conductance (m°C/W)",
+      "D": "Thermal transmission through a unit area of a particular body with defined surfaces (W/m²°C)",
+      "E": "Thermal transmission through a unit area of a particular body where the difference between temperatures on either side of the body is unity (W/m²°C)"
+    },
+    "correctAnswer": "D",
+    "explanation": "Thermal conductance (C) is the rate of heat flow through a unit area of a specific material or assembly between its defined surfaces per unit temperature difference (W/m²°C)."
+  },
+  {
+    "number": 107,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Advantages of the runaround heat recovery system include:\n1. The exhaust and ventilation systems can be remote\n2. Many exhausts can be grouped on the same system\n3. Full heat recovery during the cold season\n4. Minimal exhaust and ventilation temperatures are acceptable\n5. No cross contamination is possible",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "2, 3, 5",
+      "C": "2, 3, 4",
+      "D": "1, 2, 5",
+      "E": "2, 4, 5"
+    },
+    "correctAnswer": "D",
+    "explanation": "Runaround coil systems allow remote supply and exhaust ducts (1), can link multiple exhausts to supply units (2), and completely eliminate cross-contamination (5)."
+  },
+  {
+    "number": 108,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "In calculating air infiltration the quickest method is:",
+    "options": {
+      "A": "The air change method",
+      "B": "The conduction method",
+      "C": "The solar method",
+      "D": "The crack method",
+      "E": "None of the above"
+    },
+    "correctAnswer": "A",
+    "explanation": "The air change method estimates infiltration rapidly by multiplying room volume by an empirical number of air changes per hour."
+  },
+  {
+    "number": 109,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "Which of the following is a not an advantage for a runaround system?",
+    "options": {
+      "A": "Installation costs are comparatively low",
+      "B": "The system is readily adaptable to retrofit applications",
+      "C": "More space is required compared to other systems",
+      "D": "Maintenance is relatively simple",
+      "E": "The exhaust and ventilation streams can be remote"
+    },
+    "correctAnswer": "C",
+    "explanation": "Requiring more mechanical/piping space than compact air-to-air units is a disadvantage rather than an advantage of a runaround system."
+  },
+  {
+    "number": 110,
+    "heading": "Heat Gains and Losses, and Heat Recovery Methods",
+    "question": "The recovery system which has a capillary wick structure consisting of fine circumferential striations machined on its internal surface is called a:",
+    "options": {
+      "A": "Heat pipe",
+      "B": "Heat pump",
+      "C": "Runaround system",
+      "D": "Thermal wheel",
+      "E": "Heat valve"
+    },
+    "correctAnswer": "A",
+    "explanation": "A heat pipe uses an internal capillary wick structure (fine circumferential grooves/striations) to return condensed working fluid from the condenser end back to the evaporator end."
+  },
+  {
+    "number": 111,
+    "heading": "HVAC Control Strategy",
+    "question": "If the humidity is too high in the supply air to the rooms, the temperature controls on the cooling coil should:",
+    "options": {
+      "A": "Increase the air temperature",
+      "B": "Decrease steam injection",
+      "C": "Increase outside air damper opening",
+      "D": "Increase steam injection",
+      "E": "Decrease the air temperature"
+    },
+    "correctAnswer": "E",
+    "explanation": "Lowering the cooling coil discharge temperature below the air's dew point condenses out excess moisture, reducing the moisture content (humidity) of the supply air."
+  },
+  {
+    "number": 112,
+    "heading": "HVAC Control Strategy",
+    "question": "To correct the humidity after the cooling coil:",
+    "options": {
+      "A": "Steam must be added to the air",
+      "B": "The air must be further cooled to drop the water out",
+      "C": "The outside air dampers should be shut",
+      "D": "The temperature must be decreases",
+      "E": "The temperature must be raised"
+    },
+    "correctAnswer": "E",
+    "explanation": "Air leaving a dehumidifying cooling coil is saturated (near 100% relative humidity) and too cold; a reheat coil raises its dry-bulb temperature to achieve comfortable relative humidity and room temperature."
+  },
+  {
+    "number": 113,
+    "heading": "HVAC Control Strategy",
+    "question": "Cost of fan operation can be reduced by:",
+    "options": {
+      "A": "Shutting down the heating coils",
+      "B": "Using constant speed electric motors",
+      "C": "Minimizing recirculating air",
+      "D": "Maintenance of air filters",
+      "E": "Minimizing outside air"
+    },
+    "correctAnswer": "D",
+    "explanation": "Regular cleaning and replacement of air filters prevents high pressure drops across the filter bank, reducing the electrical power required by supply and return fans."
+  },
+  {
+    "number": 114,
+    "heading": "HVAC Control Strategy",
+    "question": "In severely cold weather what adjustment must be made to properly preheat the outside air?",
+    "options": {
+      "A": "Preheat coil temperature should be increased",
+      "B": "Two separate pre-heater coils should be installed",
+      "C": "Damper must be heated",
+      "D": "The outdoor damper should be closed",
+      "E": "The temperature controller's throttling range must be increased"
+    },
+    "correctAnswer": "B",
+    "explanation": "In extreme sub-zero climates, two separate preheat coils are often installed in series to stage heating safely and prevent single-coil freeze-ups."
+  },
+  {
+    "number": 115,
+    "heading": "HVAC Control Strategy",
+    "question": "Building static pressure is not affected by:",
+    "options": {
+      "A": "Room lighting",
+      "B": "Extreme weather demands on cooling",
+      "C": "Open doors and windows",
+      "D": "Bathroom exhaust fans",
+      "E": "Kitchen exhaust fans"
+    },
+    "correctAnswer": "A",
+    "explanation": "Room lighting adds internal heat load but does not add, remove, or leak air volume, so it has no direct effect on building air static pressure."
+  },
+  {
+    "number": 116,
+    "heading": "HVAC Control Strategy",
+    "question": "HVAC Preheat coils are used to:",
+    "options": {
+      "A": "Heat the return air",
+      "B": "Heat the supply air",
+      "C": "Heat the outside air",
+      "D": "Heat the exhaust air",
+      "E": "Increase the humidity"
+    },
+    "correctAnswer": "C",
+    "explanation": "Preheat coils warm cold incoming outdoor air above freezing before it enters filters, mixing boxes, or downstream cooling/heating coils."
+  },
+  {
+    "number": 117,
+    "heading": "HVAC Control Strategy",
+    "question": "Cost of operation of an HVAC system is best controlled by:",
+    "options": {
+      "A": "Recirculating 100% of the treated air",
+      "B": "Reducing the outside air to absolute minimum",
+      "C": "Reducing air flow to zero",
+      "D": "Maintaining the lowest acceptable amount of outside air",
+      "E": "Reducing the exhaust air to as close to zero as possible"
+    },
+    "correctAnswer": "D",
+    "explanation": "Conditioning outdoor air requires substantial heating/cooling energy, so operating costs are minimized by introducing the lowest code-acceptable volume of outdoor ventilation air."
+  },
+  {
+    "number": 118,
+    "heading": "HVAC Control Strategy",
+    "question": "To maintain correct building static pressure, when the OA damper is closed:",
+    "options": {
+      "A": "The EA damper will open",
+      "B": "The RA damper will open",
+      "C": "The SA damper will close",
+      "D": "The heating coils will shut down",
+      "E": "The RA damper will close"
+    },
+    "correctAnswer": "B",
+    "explanation": "As the outside air (OA) damper closes, the return air (RA) damper opens proportionally to maintain constant total airflow through the air handler and keep building static pressure balanced."
+  },
+  {
+    "number": 119,
+    "heading": "HVAC Control Strategy",
+    "question": "The dehumidifier is used to:",
+    "options": {
+      "A": "Remove excess water vapour from the exhaust air",
+      "B": "Remove excess water vapour from the supply air",
+      "C": "Prevent freezing in the winter",
+      "D": "Decrease the steam injection into the supply air",
+      "E": "Increase the water vapour in the supply air"
+    },
+    "correctAnswer": "B",
+    "explanation": "Dehumidifiers extract excess moisture (water vapor) from the supply airstream to maintain indoor comfort and prevent condensation or mold."
+  },
+  {
+    "number": 120,
+    "heading": "HVAC Control Strategy",
+    "question": "In a balanced HVAC system, the outside air and exhaust air dampers will be open the same percentage and:",
+    "options": {
+      "A": "The return air damper will be open the same percentage",
+      "B": "The cooling and heating coils will be open the same percentage",
+      "C": "The return air damper will be closed the same percentage",
+      "D": "The supply air damper will closed the same percentage",
+      "E": "The heating coil will be closed 50%"
+    },
+    "correctAnswer": "C",
+    "explanation": "In a standard economizer/mixing damper arrangement, the return air damper moves inversely to the outside and exhaust air dampers—closing by the exact percentage that OA and EA open."
+  },
+  {
+    "number": 121,
+    "heading": "HVAC Control Strategy",
+    "question": "Generally, the makeup air is around:",
+    "options": {
+      "A": "50%",
+      "B": "100%",
+      "C": "85%",
+      "D": "15%",
+      "E": "35%"
+    },
+    "correctAnswer": "D",
+    "explanation": "In typical commercial recirculating HVAC systems, minimum outdoor makeup air accounts for roughly 15% of total supply airflow (with 85% recirculated return air)."
+  },
+  {
+    "number": 122,
+    "heading": "HVAC Control Strategy",
+    "question": "To optimize HVAC operating costs during off hours, the HVAC PLC may:",
+    "options": {
+      "A": "Shut down the heating coils",
+      "B": "Shut down the fans and heating and cooling coils",
+      "C": "Shut down fans and lights",
+      "D": "Shut down fans, close outside dampers",
+      "E": "Shut down the cooling coils"
+    },
+    "correctAnswer": "D",
+    "explanation": "During unoccupied off-hours, building automation systems shut down supply/exhaust fans and close outside air dampers to prevent cold air infiltration and save energy."
+  },
+  {
+    "number": 123,
+    "heading": "HVAC Control Strategy",
+    "question": "When the fan is at maximum speed and both OA and EA dampers are fully open, and the SA duct pressure is below desired operating point:",
+    "options": {
+      "A": "The operator should shut off all exhaust fans",
+      "B": "The HVAC is at maximum of design capacity",
+      "C": "The operator should use a hose to spray cold water into the outside air duct",
+      "D": "The operator can use the backup generator to increase the fan speed",
+      "E": "The operator should start evacuating the building"
+    },
+    "correctAnswer": "B",
+    "explanation": "If fans are running at 100% speed and air dampers are wide open yet static pressure remains below setpoint, the system has reached the limit of its physical design capacity."
+  },
+  {
+    "number": 124,
+    "heading": "HVAC Control Strategy",
+    "question": "The air within the HVAC system does not include:",
+    "options": {
+      "A": "EA",
+      "B": "RA",
+      "C": "BA",
+      "D": "SA",
+      "E": "OA"
+    },
+    "correctAnswer": "C",
+    "explanation": "Standard HVAC air stream designations are Outside Air (OA), Return Air (RA), Supply Air (SA), Mixed Air (MA), and Exhaust Air (EA); 'BA' is not a standard designation."
+  },
+  {
+    "number": 125,
+    "heading": "HVAC Control Strategy",
+    "question": "When steam is used to correct humidity the ______ of the air is increased.",
+    "options": {
+      "A": "Sensible heat",
+      "B": "Volume",
+      "C": "Latent heat",
+      "D": "Flow rate",
+      "E": "Sensible and latent heat"
+    },
+    "correctAnswer": "E",
+    "explanation": "Injecting hot steam into an airstream adds water vapor (increasing latent heat) as well as slight heat energy from the steam temperature (increasing sensible heat)."
+  },
+  {
+    "number": 126,
+    "heading": "HVAC Control Strategy",
+    "question": "If the HVAC is equipped with CO₂ detectors, and the reading is increasing beyond acceptable levels, the:",
+    "options": {
+      "A": "Outside air only should be increased",
+      "B": "OA/RA ratio needs to decrease",
+      "C": "OA/RA ratio needs to increase",
+      "D": "OA/EA ratio needs to increase",
+      "E": "Return air dampers should be opened"
+    },
+    "correctAnswer": "C",
+    "explanation": "Rising indoor CO₂ levels indicate insufficient fresh air dilution, requiring the controller to increase the outside air to return air (OA/RA) ratio."
+  },
+  {
+    "number": 127,
+    "heading": "HVAC Control Strategy",
+    "question": "Operators should be trying to maintain the comfort and health of building occupants while:",
+    "options": {
+      "A": "Maximizing maximum air flow",
+      "B": "Maintaining a negative pressure in the building at all times",
+      "C": "Reducing outside air as low as possible",
+      "D": "Ensuring the building temperature is constant at all times",
+      "E": "Minimizing costs"
+    },
+    "correctAnswer": "E",
+    "explanation": "The core objective of building HVAC operations is balancing occupant health and thermal comfort while minimizing energy and operating costs."
+  },
+  {
+    "number": 128,
+    "heading": "HVAC Control Strategy",
+    "question": "To maintain building pressure, in general, the quantity of fresh air brought into the building will:",
+    "options": {
+      "A": "Equal double the amount of outside air",
+      "B": "Be double the amount of air exhausted",
+      "C": "Equal the amount of air exhausted",
+      "D": "Always be 100% ventilation",
+      "E": "Equal the amount of supply air"
+    },
+    "correctAnswer": "C",
+    "explanation": "By mass conservation, maintaining steady building static pressure requires incoming outdoor makeup air to equal (or slightly exceed for positive pressurization) the total exhausted air."
+  },
+  {
+    "number": 129,
+    "heading": "HVAC Control Strategy",
+    "question": "Hospitals will have rooms that require:",
+    "options": {
+      "A": "75% BA",
+      "B": "0% OA",
+      "C": "100% RA",
+      "D": "50% EA",
+      "E": "100% OA"
+    },
+    "correctAnswer": "E",
+    "explanation": "Critical hospital spaces such as operating rooms, isolation rooms, and laboratories require 100% outside air (once-through ventilation) with zero recirculation to prevent cross-contamination."
+  },
+  {
+    "number": 130,
+    "heading": "HVAC Control Strategy",
+    "question": "To prevent freezing on a cold January night, the preheat coil may need to:",
+    "options": {
+      "A": "Close the exhaust damper",
+      "B": "Increase the fresh air inlet flow",
+      "C": "Increase the steam pressure",
+      "D": "Be insulated",
+      "E": "Dump the condensate"
+    },
+    "correctAnswer": "E",
+    "explanation": "If a freeze-stat trips or steam flow is interrupted in freezing weather, a preheat coil must rapidly dump/drain its condensate so trapped water does not freeze and burst the tubes."
+  }
+]

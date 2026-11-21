@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "HVAC Control Strategy",
+    "question": "If the humidity is too high in the supply air to the rooms, the temperature controls on the cooling coil should:",
+    "options": {
+      "A": "Increase the air temperature",
+      "B": "Decrease steam injection",
+      "C": "Increase outside air damper opening",
+      "D": "Increase steam injection",
+      "E": "Decrease the air temperature"
+    },
+    "correctAnswer": "E",
+    "explanation": "Lowering the cooling coil discharge temperature below the air's dew point condenses out excess moisture, reducing the moisture content (humidity) of the supply air."
+  },
+  {
+    "number": 2,
+    "heading": "HVAC Control Strategy",
+    "question": "To correct the humidity after the cooling coil:",
+    "options": {
+      "A": "Steam must be added to the air",
+      "B": "The air must be further cooled to drop the water out",
+      "C": "The outside air dampers should be shut",
+      "D": "The temperature must be decreases",
+      "E": "The temperature must be raised"
+    },
+    "correctAnswer": "E",
+    "explanation": "Air leaving a dehumidifying cooling coil is saturated (near 100% relative humidity) and too cold; a reheat coil raises its dry-bulb temperature to achieve comfortable relative humidity and room temperature."
+  },
+  {
+    "number": 3,
+    "heading": "HVAC Control Strategy",
+    "question": "Cost of fan operation can be reduced by:",
+    "options": {
+      "A": "Shutting down the heating coils",
+      "B": "Using constant speed electric motors",
+      "C": "Minimizing recirculating air",
+      "D": "Maintenance of air filters",
+      "E": "Minimizing outside air"
+    },
+    "correctAnswer": "D",
+    "explanation": "Regular cleaning and replacement of air filters prevents high pressure drops across the filter bank, reducing the electrical power required by supply and return fans."
+  },
+  {
+    "number": 4,
+    "heading": "HVAC Control Strategy",
+    "question": "In severely cold weather what adjustment must be made to properly preheat the outside air?",
+    "options": {
+      "A": "Preheat coil temperature should be increased",
+      "B": "Two separate pre-heater coils should be installed",
+      "C": "Damper must be heated",
+      "D": "The outdoor damper should be closed",
+      "E": "The temperature controller's throttling range must be increased"
+    },
+    "correctAnswer": "B",
+    "explanation": "In extreme sub-zero climates, two separate preheat coils are often installed in series to stage heating safely and prevent single-coil freeze-ups."
+  },
+  {
+    "number": 5,
+    "heading": "HVAC Control Strategy",
+    "question": "Building static pressure is not affected by:",
+    "options": {
+      "A": "Room lighting",
+      "B": "Extreme weather demands on cooling",
+      "C": "Open doors and windows",
+      "D": "Bathroom exhaust fans",
+      "E": "Kitchen exhaust fans"
+    },
+    "correctAnswer": "A",
+    "explanation": "Room lighting adds internal heat load but does not add, remove, or leak air volume, so it has no direct effect on building air static pressure."
+  },
+  {
+    "number": 6,
+    "heading": "HVAC Control Strategy",
+    "question": "HVAC Preheat coils are used to:",
+    "options": {
+      "A": "Heat the return air",
+      "B": "Heat the supply air",
+      "C": "Heat the outside air",
+      "D": "Heat the exhaust air",
+      "E": "Increase the humidity"
+    },
+    "correctAnswer": "C",
+    "explanation": "Preheat coils warm cold incoming outdoor air above freezing before it enters filters, mixing boxes, or downstream cooling/heating coils."
+  },
+  {
+    "number": 7,
+    "heading": "HVAC Control Strategy",
+    "question": "Cost of operation of an HVAC system is best controlled by:",
+    "options": {
+      "A": "Recirculating 100% of the treated air",
+      "B": "Reducing the outside air to absolute minimum",
+      "C": "Reducing air flow to zero",
+      "D": "Maintaining the lowest acceptable amount of outside air",
+      "E": "Reducing the exhaust air to as close to zero as possible"
+    },
+    "correctAnswer": "D",
+    "explanation": "Conditioning outdoor air requires substantial heating/cooling energy, so operating costs are minimized by introducing the lowest code-acceptable volume of outdoor ventilation air."
+  },
+  {
+    "number": 8,
+    "heading": "HVAC Control Strategy",
+    "question": "To maintain correct building static pressure, when the OA damper is closed:",
+    "options": {
+      "A": "The EA damper will open",
+      "B": "The RA damper will open",
+      "C": "The SA damper will close",
+      "D": "The heating coils will shut down",
+      "E": "The RA damper will close"
+    },
+    "correctAnswer": "B",
+    "explanation": "As the outside air (OA) damper closes, the return air (RA) damper opens proportionally to maintain constant total airflow through the air handler and keep building static pressure balanced."
+  },
+  {
+    "number": 9,
+    "heading": "HVAC Control Strategy",
+    "question": "The dehumidifier is used to:",
+    "options": {
+      "A": "Remove excess water vapour from the exhaust air",
+      "B": "Remove excess water vapour from the supply air",
+      "C": "Prevent freezing in the winter",
+      "D": "Decrease the steam injection into the supply air",
+      "E": "Increase the water vapour in the supply air"
+    },
+    "correctAnswer": "B",
+    "explanation": "Dehumidifiers extract excess moisture (water vapor) from the supply airstream to maintain indoor comfort and prevent condensation or mold."
+  },
+  {
+    "number": 10,
+    "heading": "HVAC Control Strategy",
+    "question": "In a balanced HVAC system, the outside air and exhaust air dampers will be open the same percentage and:",
+    "options": {
+      "A": "The return air damper will be open the same percentage",
+      "B": "The cooling and heating coils will be open the same percentage",
+      "C": "The return air damper will be closed the same percentage",
+      "D": "The supply air damper will closed the same percentage",
+      "E": "The heating coil will be closed 50%"
+    },
+    "correctAnswer": "C",
+    "explanation": "In a standard economizer/mixing damper arrangement, the return air damper moves inversely to the outside and exhaust air dampers—closing by the exact percentage that OA and EA open."
+  },
+  {
+    "number": 11,
+    "heading": "HVAC Control Strategy",
+    "question": "Generally, the makeup air is around:",
+    "options": {
+      "A": "50%",
+      "B": "100%",
+      "C": "85%",
+      "D": "15%",
+      "E": "35%"
+    },
+    "correctAnswer": "D",
+    "explanation": "In typical commercial recirculating HVAC systems, minimum outdoor makeup air accounts for roughly 15% of total supply airflow (with 85% recirculated return air)."
+  },
+  {
+    "number": 12,
+    "heading": "HVAC Control Strategy",
+    "question": "To optimize HVAC operating costs during off hours, the HVAC PLC may:",
+    "options": {
+      "A": "Shut down the heating coils",
+      "B": "Shut down the fans and heating and cooling coils",
+      "C": "Shut down fans and lights",
+      "D": "Shut down fans, close outside dampers",
+      "E": "Shut down the cooling coils"
+    },
+    "correctAnswer": "D",
+    "explanation": "During unoccupied off-hours, building automation systems shut down supply/exhaust fans and close outside air dampers to prevent cold air infiltration and save energy."
+  },
+  {
+    "number": 13,
+    "heading": "HVAC Control Strategy",
+    "question": "When the fan is at maximum speed and both OA and EA dampers are fully open, and the SA duct pressure is below desired operating point:",
+    "options": {
+      "A": "The operator should shut off all exhaust fans",
+      "B": "The HVAC is at maximum of design capacity",
+      "C": "The operator should use a hose to spray cold water into the outside air duct",
+      "D": "The operator can use the backup generator to increase the fan speed",
+      "E": "The operator should start evacuating the building"
+    },
+    "correctAnswer": "B",
+    "explanation": "If fans are running at 100% speed and air dampers are wide open yet static pressure remains below setpoint, the system has reached the limit of its physical design capacity."
+  },
+  {
+    "number": 14,
+    "heading": "HVAC Control Strategy",
+    "question": "The air within the HVAC system does not include:",
+    "options": {
+      "A": "EA",
+      "B": "RA",
+      "C": "BA",
+      "D": "SA",
+      "E": "OA"
+    },
+    "correctAnswer": "C",
+    "explanation": "Standard HVAC air stream designations are Outside Air (OA), Return Air (RA), Supply Air (SA), Mixed Air (MA), and Exhaust Air (EA); 'BA' is not a standard designation."
+  },
+  {
+    "number": 15,
+    "heading": "HVAC Control Strategy",
+    "question": "When steam is used to correct humidity the ______ of the air is increased.",
+    "options": {
+      "A": "Sensible heat",
+      "B": "Volume",
+      "C": "Latent heat",
+      "D": "Flow rate",
+      "E": "Sensible and latent heat"
+    },
+    "correctAnswer": "E",
+    "explanation": "Injecting hot steam into an airstream adds water vapor (increasing latent heat) as well as slight heat energy from the steam temperature (increasing sensible heat)."
+  },
+  {
+    "number": 16,
+    "heading": "HVAC Control Strategy",
+    "question": "If the HVAC is equipped with CO₂ detectors, and the reading is increasing beyond acceptable levels, the:",
+    "options": {
+      "A": "Outside air only should be increased",
+      "B": "OA/RA ratio needs to decrease",
+      "C": "OA/RA ratio needs to increase",
+      "D": "OA/EA ratio needs to increase",
+      "E": "Return air dampers should be opened"
+    },
+    "correctAnswer": "C",
+    "explanation": "Rising indoor CO₂ levels indicate insufficient fresh air dilution, requiring the controller to increase the outside air to return air (OA/RA) ratio."
+  },
+  {
+    "number": 17,
+    "heading": "HVAC Control Strategy",
+    "question": "Operators should be trying to maintain the comfort and health of building occupants while:",
+    "options": {
+      "A": "Maximizing maximum air flow",
+      "B": "Maintaining a negative pressure in the building at all times",
+      "C": "Reducing outside air as low as possible",
+      "D": "Ensuring the building temperature is constant at all times",
+      "E": "Minimizing costs"
+    },
+    "correctAnswer": "E",
+    "explanation": "The core objective of building HVAC operations is balancing occupant health and thermal comfort while minimizing energy and operating costs."
+  },
+  {
+    "number": 18,
+    "heading": "HVAC Control Strategy",
+    "question": "To maintain building pressure, in general, the quantity of fresh air brought into the building will:",
+    "options": {
+      "A": "Equal double the amount of outside air",
+      "B": "Be double the amount of air exhausted",
+      "C": "Equal the amount of air exhausted",
+      "D": "Always be 100% ventilation",
+      "E": "Equal the amount of supply air"
+    },
+    "correctAnswer": "C",
+    "explanation": "By mass conservation, maintaining steady building static pressure requires incoming outdoor makeup air to equal (or slightly exceed for positive pressurization) the total exhausted air."
+  },
+  {
+    "number": 19,
+    "heading": "HVAC Control Strategy",
+    "question": "Hospitals will have rooms that require:",
+    "options": {
+      "A": "75% BA",
+      "B": "0% OA",
+      "C": "100% RA",
+      "D": "50% EA",
+      "E": "100% OA"
+    },
+    "correctAnswer": "E",
+    "explanation": "Critical hospital spaces such as operating rooms, isolation rooms, and laboratories require 100% outside air (once-through ventilation) with zero recirculation to prevent cross-contamination."
+  },
+  {
+    "number": 20,
+    "heading": "HVAC Control Strategy",
+    "question": "To prevent freezing on a cold January night, the preheat coil may need to:",
+    "options": {
+      "A": "Close the exhaust damper",
+      "B": "Increase the fresh air inlet flow",
+      "C": "Increase the steam pressure",
+      "D": "Be insulated",
+      "E": "Dump the condensate"
+    },
+    "correctAnswer": "E",
+    "explanation": "If a freeze-stat trips or steam flow is interrupted in freezing weather, a preheat coil must rapidly dump/drain its condensate so trapped water does not freeze and burst the tubes."
+  }
+]
