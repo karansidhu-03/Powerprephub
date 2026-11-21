@@ -165,6 +165,15 @@ import b8chp1 from "./Part B/Chp/BookB8/chp1.json";
 import b8chp2 from "./Part B/Chp/BookB8/chp2.json";
 import b8chp3 from "./Part B/Chp/BookB8/chp3.json";
 
+// Part B — Book B11 full book + chapters
+import bookB11 from "./Part B/Chp/BookB11/bookb11.json";
+import b11chp1 from "./Part B/Chp/BookB11/chp1.json";
+import b11chp2 from "./Part B/Chp/BookB11/chp2.json";
+import b11chp3 from "./Part B/Chp/BookB11/chp3.json";
+import b11chp4 from "./Part B/Chp/BookB11/chp4.json";
+import b11chp5 from "./Part B/Chp/BookB11/chp5.json";
+import b11chp6 from "./Part B/Chp/BookB11/chp6.json";
+
 // Part B — Book B12 full book + chapters
 import bookB12 from "./Part B/Chp/BookB12/bookb12.json";
 import b12chp1 from "./Part B/Chp/BookB12/chp1.json";
@@ -1088,6 +1097,44 @@ const bookB8Chapters: Paper[] = [
   ),
 ];
 
+const bookB11Chapters: Paper[] = [
+  makePaper(
+    "b11-fullbook",
+    "Full Book B11 Exam",
+    toQuestions(bookB11 as unknown as RawNumberQuestion[], "Book B11 — Heating & Cooling Systems"),
+  ),
+  makePaper(
+    "b11-chp1",
+    "Steam Heating",
+    toQuestions(b11chp1 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b11-chp2",
+    "Hot Water Heating",
+    toQuestions(b11chp2 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b11-chp3",
+    "Other Heating Systems",
+    toQuestions(b11chp3 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b11-chp4",
+    "Cooling Systems and Combination Systems",
+    toQuestions(b11chp4 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b11-chp5",
+    "Heat Gains and Losses, and Heat Recovery Methods",
+    toQuestions(b11chp5 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b11-chp6",
+    "HVAC Control Strategy",
+    toQuestions(b11chp6 as unknown as RawNumberQuestion[]),
+  ),
+];
+
 const bookB12Chapters: Paper[] = [
   makePaper(
     "b12-fullbook",
@@ -1266,6 +1313,12 @@ export const exams: Exam[] = [
         label: "Book B8 — Building Systems",
         description: `${chapterCount(bookB8Chapters)} questions across ${bookB8Chapters.length} chapters`,
         papers: bookB8Chapters,
+      },
+      {
+        id: "book-b11",
+        label: "Book B11 — Heating & Cooling Systems",
+        description: `${chapterCount(bookB11Chapters)} questions across ${bookB11Chapters.length} chapters`,
+        papers: bookB11Chapters,
       },
       {
         id: "book-b12",
