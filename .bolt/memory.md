@@ -10,7 +10,7 @@
 ## Brand personality & voice
 
 - Utilitarian and content-focused; minimal narrative copy.
-- Labels and headings are descriptive (e.g., "Book B12 — Typical Industrial Plant Configurations").
+- Labels and headings are descriptive (e.g., "Book B10 — HVAC Fundamentals for Facility Operators").
 
 ## Visual design & UX direction
 
@@ -23,13 +23,15 @@
 ## Decisions, constraints & rationale
 
 - Data files are the source of truth for questions; UI imports and renders them.
-- Book B12 (full-book exam + both chapters) is connected on the Part B page.
-- All question files in the project are verified as connected; no orphaned content expected.
-- "Apply new changes from new commit" typically means diffing data/file lists against what's already wired; if identical, no action needed.
+- Books connected on Part B page: B10, B11, B12.
+- Book B10 heading: "HVAC Fundamentals for Facility Operators"; has chapters 4–6 (Ventilation and Air Filters, HVAC Duct Systems, Types of Coils and Operation; 60 questions). Chapters 1–3 and full-book exam not yet on disk.
+- Book B11 heading: "Building Environmental Systems and Control".
+- Book B12 has full-book exam + both chapters connected.
+- "Apply new changes from commit" means diffing data/file lists against what's already wired and connecting any new files; also apply explicit heading/text changes the user specifies.
 
 ## Open questions & assumptions
 
-- Assumed "new commit" refers to data file additions/updates rather than structural UI changes.
-- If a change is intended beyond data wiring (fixes, heading text, layout), the user needs to specify explicitly.
+- Book B10 chapters 1–3 and full-book exam are expected to arrive in future commits; will need wiring then.
 - Unknown whether there are Parts beyond B and how their pages are structured.
 - Unknown version-control integration; currently relying on file-list/content comparison rather than actual git diffing.
+- Chapter numbering may not start at 1 for all books (B10 began at chapter 4).
