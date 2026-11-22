@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "HVAC Duct Systems",
+    "question": "Which of the following is not a function of terminal air distribution devices?",
+    "options": {
+      "A": "To create local still pockets of air",
+      "B": "Provide adequate air motion",
+      "C": "Control or counteract the effects of conduction, convection and radiation",
+      "D": "Distribute the air to the spaces",
+      "E": "Provide uniform space temperatures"
+    },
+    "correctAnswer": "A",
+    "explanation": "Terminal air distribution devices (diffusers, grilles, registers) are designed to evenly distribute conditioned air, maintain uniform temperatures, and prevent stagnant air pockets."
+  },
+  {
+    "number": 2,
+    "heading": "HVAC Duct Systems",
+    "question": "Short radius elbows should be provided with what?",
+    "options": {
+      "A": "Positive lock dampers",
+      "B": "Turning vanes",
+      "C": "Mitre elbows",
+      "D": "Stiffeners",
+      "E": "Flexible connections"
+    },
+    "correctAnswer": "B",
+    "explanation": "Turning vanes are installed inside short-radius and square/miter elbows to guide airflow smoothly around the bend and minimize turbulence and pressure drop."
+  },
+  {
+    "number": 3,
+    "heading": "HVAC Duct Systems",
+    "question": "The main function of an air conditioning duct system is to:",
+    "options": {
+      "A": "Only transmit return air from the space to be conditioned",
+      "B": "Only transmit air to the refrigeration compressor",
+      "C": "Only transmit supply air from the air handling apparatus",
+      "D": "Transmit supply and return air between the air handling apparatus and the space to be conditioned",
+      "E": "Transmit air form the refrigeration compressor to the condenser"
+    },
+    "correctAnswer": "D",
+    "explanation": "An air conditioning duct system conveys conditioned supply air from the air-handling unit to occupied spaces and returns room air back to the air-handling apparatus."
+  },
+  {
+    "number": 4,
+    "heading": "HVAC Duct Systems",
+    "question": "Air louvers are:",
+    "options": {
+      "A": "Used in fresh air intake openings to minimise the amount of water and snow entering the air handling system",
+      "B": "Often used for mixing boxes",
+      "C": "Suited for two position damper operation",
+      "D": "Used as relief dampers",
+      "E": "Always used for fire and smoke dampers"
+    },
+    "correctAnswer": "A",
+    "explanation": "Outdoor air louvers feature angled blades at fresh air intakes to shed rain and snow while permitting intake airflow."
+  },
+  {
+    "number": 5,
+    "heading": "HVAC Duct Systems",
+    "question": "Supply air duct leakage loss calculations include:",
+    "options": {
+      "A": "10% leakage loss when some of the supply air duct is outside the conditioned space and some inside",
+      "B": "5% leakage loss when the supply air duct is outside the conditioned space",
+      "C": "10% leakage loss when the supply air duct is outside the conditioned space",
+      "D": "Losses from bare supply air ducts within the conditioned space",
+      "E": "20% leakage loss when the supply air duct is outside the conditioned space"
+    },
+    "correctAnswer": "C",
+    "explanation": "When supply air ductwork runs outside the conditioned space, standard load calculations assume a 10% supply air leakage loss."
+  },
+  {
+    "number": 6,
+    "heading": "HVAC Duct Systems",
+    "question": "When the entire supply air duct is outside the conditioned space there is a certain leakage This leakage must be calculated how?",
+    "options": {
+      "A": "It need not be considered in loss calculation",
+      "B": "It must be added to the calculated room specific latent humidity load",
+      "C": "An assumed 10% leakage must be added to the calculated room sensible heat load",
+      "D": "It must be subtracted from the return air duct leakage",
+      "E": "It must be added to the return air duct leakage"
+    },
+    "correctAnswer": "C",
+    "explanation": "If the entire supply duct is located outside the conditioned zone, an assumed 10% leakage allowance is added to the calculated room sensible heat load."
+  },
+  {
+    "number": 7,
+    "heading": "HVAC Duct Systems",
+    "question": "Semi-rigid fibrous glass blankets attached to the insides of the ducts are in place to mainly serve which function?",
+    "options": {
+      "A": "To stop leakage in the seams of the duct work",
+      "B": "To insulate",
+      "C": "To restrict spread of smoke",
+      "D": "To act as a fire retardant",
+      "E": "To attenuate airborne noises"
+    },
+    "correctAnswer": "E",
+    "explanation": "Internal semi-rigid fibrous glass acoustic duct liner absorbs fan and airflow noise transmitted through the ductwork."
+  },
+  {
+    "number": 8,
+    "heading": "HVAC Duct Systems",
+    "question": "A mixing box is an example of which kind of damper?",
+    "options": {
+      "A": "A manual damper",
+      "B": "A modulating damper",
+      "C": "A louver",
+      "D": "A relief damper",
+      "E": "A two-position damper"
+    },
+    "correctAnswer": "B",
+    "explanation": "Mixing boxes use interconnected modulating dampers to continuously proportion outside air and return air streams to achieve the desired mixed air temperature."
+  },
+  {
+    "number": 9,
+    "heading": "HVAC Duct Systems",
+    "question": "Materials used in sheet metal ducts are:",
+    "options": {
+      "A": "Only copper",
+      "B": "Only aluminium",
+      "C": "Galvanised or black steel, aluminium, copper, and stainless steel",
+      "D": "Only galvanised or black steel",
+      "E": "Only stainless steel"
+    },
+    "correctAnswer": "C",
+    "explanation": "Sheet metal ductwork is fabricated from galvanized steel, black steel, aluminum, copper, or stainless steel depending on corrosion, hygiene, and pressure requirements."
+  },
+  {
+    "number": 10,
+    "heading": "HVAC Duct Systems",
+    "question": "Parallel blade dampers:",
+    "options": {
+      "A": "Are used only in small sizes with low velocity air",
+      "B": "Are not suited for two position damper operation",
+      "C": "Are used when modulation of air flow is required",
+      "D": "Have blades linked so adjacent blades rotate in opposite directions",
+      "E": "Are often used on mixing boxes where air must be mixed to avoid stratification"
+    },
+    "correctAnswer": "E",
+    "explanation": "Parallel blade dampers deflect airstreams toward one another when partially open, making them effective in mixing boxes to blend warm and cold airstreams and prevent stratification."
+  },
+  {
+    "number": 11,
+    "heading": "HVAC Duct Systems",
+    "question": "Damper designs include:",
+    "options": {
+      "A": "Only opposed blade types",
+      "B": "Opposed blade, parallel blade, and single blade types",
+      "C": "Only single blade types",
+      "D": "Only parallel blade types",
+      "E": "None of the above"
+    },
+    "correctAnswer": "B",
+    "explanation": "HVAC dampers are manufactured in three primary blade configurations: single-blade, parallel-blade, and opposed-blade designs."
+  },
+  {
+    "number": 12,
+    "heading": "HVAC Duct Systems",
+    "question": "Ducts of large dimensions must be diagonally creased for what reason?",
+    "options": {
+      "A": "To decrease air friction in the duct work",
+      "B": "To decrease duct weight",
+      "C": "To increase air velocity",
+      "D": "To provide stiffness",
+      "E": "To allow gradual duct size change"
+    },
+    "correctAnswer": "D",
+    "explanation": "Large flat sheet metal duct panels are diagonally creased (cross-broken) to add structural rigidity and prevent vibration or 'oil-canning' noise."
+  },
+  {
+    "number": 13,
+    "heading": "HVAC Duct Systems",
+    "question": "A ventilation system leading from a fume hood in a chemistry lab would have which duct material used for its ductwork?",
+    "options": {
+      "A": "Cement asbestos",
+      "B": "Fiberglass",
+      "C": "Black steel sheet metal",
+      "D": "Galvanised steel sheet metal",
+      "E": "Aluminium sheet metal"
+    },
+    "correctAnswer": "A",
+    "explanation": "Historically, cement-asbestos (transite) ductwork was specified in chemical laboratory fume hood exhausts for high corrosion and fire resistance against chemical vapors."
+  },
+  {
+    "number": 14,
+    "heading": "HVAC Duct Systems",
+    "question": "Medium and high pressure duct systems require less space than low pressure duct systems, but this feature is partly offset by:",
+    "options": {
+      "A": "More costly fabrication and installation of ductwork",
+      "B": "Higher first cost for special equipment is required to reduce the air velocity before distribution to the air space",
+      "C": "Costly special control devices and costly noise suppressing devices",
+      "D": "Higher operating cost and higher initial cost of air handling apparatus",
+      "E": "All of these are correct"
+    },
+    "correctAnswer": "E",
+    "explanation": "Medium- and high-pressure duct systems save building shaft/ceiling space, but incur higher fabrication costs, higher fan energy costs, and require terminal pressure-reducing/attenuating boxes."
+  },
+  {
+    "number": 15,
+    "heading": "HVAC Duct Systems",
+    "question": "Return air duct leakage calculations include:",
+    "options": {
+      "A": "3% seepage if the return air duct is outside the conditioned space",
+      "B": "10% leakage if the return air duct is inside the conditioned space",
+      "C": "5% seepage if the return air duct is outside the conditioned space",
+      "D": "3% leakage if the return air duct is inside the conditioned space",
+      "E": "3% seepage if the return air duct is both inside and outside the conditioned space"
+    },
+    "correctAnswer": "A",
+    "explanation": "Standard duct leakage allowances include 3% outward/inward seepage when return air ductwork passes outside the conditioned space."
+  },
+  {
+    "number": 16,
+    "heading": "HVAC Duct Systems",
+    "question": "Relief dampers:",
+    "options": {
+      "A": "Allow air mixing",
+      "B": "Are the same as bypass dampers",
+      "C": "Are the same as face dampers",
+      "D": "Allow air flow in both directions",
+      "E": "Allow air flow in one direction only"
+    },
+    "correctAnswer": "E",
+    "explanation": "Relief (barometric) dampers act as backdraft dampers that open under positive pressure to allow airflow in one direction only while preventing reverse flow."
+  },
+  {
+    "number": 17,
+    "heading": "HVAC Duct Systems",
+    "question": "Dampers in air handling systems may only be:",
+    "options": {
+      "A": "Manual and modulating",
+      "B": "Modulating",
+      "C": "Two position",
+      "D": "Manual and two position",
+      "E": "Modulating, manual and two position"
+    },
+    "correctAnswer": "E",
+    "explanation": "HVAC dampers are categorized operationally as manual (balancing), two-position (open/closed isolation), or modulating (proportional control)."
+  },
+  {
+    "number": 18,
+    "heading": "HVAC Duct Systems",
+    "question": "The purpose of dampers in an air handling system is to:",
+    "options": {
+      "A": "Control the flow of air",
+      "B": "Regulate the fire in heating boilers",
+      "C": "Control the flow of water in a hot water heating system",
+      "D": "Control the flow of cooling water in a system",
+      "E": "Regulate refrigeration compressor speed"
+    },
+    "correctAnswer": "A",
+    "explanation": "Dampers are movable plates or louvers installed inside ductwork or air handlers to regulate, balance, or shut off airflow."
+  },
+  {
+    "number": 19,
+    "heading": "HVAC Duct Systems",
+    "question": "The function of a check valve is similar to the function of which type of damper?",
+    "options": {
+      "A": "A two-position damper",
+      "B": "A louver",
+      "C": "A manual damper",
+      "D": "A relief damper",
+      "E": "A modulating damper"
+    },
+    "correctAnswer": "D",
+    "explanation": "A relief (backdraft) damper functions like a check valve in piping, permitting one-way flow and closing automatically to block backflow."
+  },
+  {
+    "number": 20,
+    "heading": "HVAC Duct Systems",
+    "question": "Fibreglass ducts are used:",
+    "options": {
+      "A": "In high pressure systems",
+      "B": "To handle air with high moisture levels or oil and grease",
+      "C": "Where its heavy weight is not a problem",
+      "D": "In some low pressure systems",
+      "E": "Where high strength is required"
+    },
+    "correctAnswer": "D",
+    "explanation": "Preformed fiberglass duct board is lightweight and acoustically absorbent, making it suitable for some low-pressure HVAC systems where moisture or grease is not present."
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "heading": "Types of Coils and Operation",
+    "question": "Steam coils with a short tube length of 1.1 m or less are:",
+    "options": {
+      "A": "Less likely to freeze if the steam trap is properly chosen and the coil is properly piped",
+      "B": "Not recommended because they are more likely to freeze",
+      "C": "More likely to freeze, even if the steam trap is properly chosen",
+      "D": "More likely to freeze, even if the coil is properly piped and sloped",
+      "E": "Less likely to freeze regardless of steam trap choice and coil piping"
+    },
+    "correctAnswer": "A",
+    "explanation": "Short steam coil tubes (1.1 m or less) have less temperature drop across their length and resist freezing well when properly trapped, pitched, and piped."
+  },
+  {
+    "number": 2,
+    "heading": "Types of Coils and Operation",
+    "question": "The purpose of the flow switch or sail switch used with hot water coils is to:",
+    "options": {
+      "A": "Stop the fan and close the outside air dampers if the low limit temperature controller malfunctions or the heat source fails",
+      "B": "Increase the hot water flow through the coil if the outside air temperature is too low",
+      "C": "Open the outside air dampers wide when the outside air temperature rises",
+      "D": "Close the outside air dampers and stop the fan if the flow of water is interrupted due to pump failure or closing of the hand valves",
+      "E": "Increase the heat source temperature if the outside air temperature decreases"
+    },
+    "correctAnswer": "D",
+    "explanation": "Flow/sail switches detect water flow in the coil circuit and trip the fan and close outside air dampers if flow is lost due to pump failure or closed isolation valves."
+  },
+  {
+    "number": 3,
+    "heading": "Types of Coils and Operation",
+    "question": "The use of ethylene glycol solution will result in which of the following:\n1. Lower heat transfer rate\n2. Better protection against freezing\n3. Increased friction losses in the coil and piping\n4. The requirement of a larger pump with more horsepower",
+    "options": {
+      "A": "1, 2, 3, 4",
+      "B": "1, 3",
+      "C": "2, 4",
+      "D": "3",
+      "E": "1, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "Adding ethylene glycol increases fluid viscosity and lowers specific heat capacity, reducing heat transfer rates, increasing pressure drop/friction, and requiring larger pump power for freeze protection."
+  },
+  {
+    "number": 4,
+    "heading": "Types of Coils and Operation",
+    "question": "Steam coils:",
+    "options": {
+      "A": "Are installed exactly the same as are glycol coils",
+      "B": "Do not require a vacuum breaker",
+      "C": "Do not require air venting",
+      "D": "Should be installed with tubes in a vertical position to ensure positive condensate drainage",
+      "E": "When installed in the horizontal position, do not have to be pitched toward the return"
+    },
+    "correctAnswer": "D",
+    "explanation": "Vertical tube orientation in steam coils promotes positive, unimpeded gravity drainage of condensate away from freezing air streams."
+  },
+  {
+    "number": 5,
+    "heading": "Types of Coils and Operation",
+    "question": "Air vents are:",
+    "options": {
+      "A": "Not required anywhere if a F & T trap is used at the steam coil",
+      "B": "Not required on the steam mains if an inverted bucket steam trap is used at the steam coil",
+      "C": "Not required when an inverted bucket steam trap is used",
+      "D": "Required only with hot water coils",
+      "E": "Not required at the steam coil if a float and thermostatic (F & T) trap is used at the steam coil with an atmospheric return and the steam main is adequately vented"
+    },
+    "correctAnswer": "E",
+    "explanation": "A float and thermostatic (F & T) trap continuously vents air and non-condensables at the coil when discharging to an atmospheric return and the main is properly vented."
+  },
+  {
+    "number": 6,
+    "heading": "Types of Coils and Operation",
+    "question": "The inverted bucket steam trap is:",
+    "options": {
+      "A": "Recommended when condensate flows by gravity into a return main at atmospheric pressure",
+      "B": "Used when the flow is modulated",
+      "C": "Used when the coil steam pressure is lower than 172 kPa or 25 psig",
+      "D": "Used when the coil steam pressure is higher than 172 kPa or 25 psig",
+      "E": "More expensive than the F & T trap"
+    },
+    "correctAnswer": "D",
+    "explanation": "Inverted bucket traps handle higher steam pressures (typically above 172 kPa / 25 psig) and resist water hammer, whereas F & T traps excel at low-pressure modulating coils."
+  },
+  {
+    "number": 7,
+    "heading": "Types of Coils and Operation",
+    "question": "It is good design practice to select a steam coil size so that:",
+    "options": {
+      "A": "It is twice the size that is required to handle the heating load",
+      "B": "At least 80% of the coil capacity is needed when the air temperature at the coil inlet is -1°C",
+      "C": "At least 40% of the coil capacity is used when the air temperature entering the coil is -1°C",
+      "D": "At least 10% of the coil capacity is needed when the air temperature at the coil inlet is -5°C",
+      "E": "100% of the coil capacity is needed when the air temperature entering the coil is -1°C"
+    },
+    "correctAnswer": "C",
+    "explanation": "Sizing a steam coil so that roughly 40% of capacity is utilized at -1°C entering air prevents gross oversizing and helps maintain steam velocity/trapping stability at light loads."
+  },
+  {
+    "number": 8,
+    "heading": "Types of Coils and Operation",
+    "question": "Glycol coils using ethylene glycol:",
+    "options": {
+      "A": "Do not use steam-glycol converters as their heat source",
+      "B": "Are used only for heating purposes and are not used for cooling purposes",
+      "C": "Use direct fired boilers as their heat source",
+      "D": "Give reasonable heat transfer efficiency at low glycol velocity",
+      "E": "Are not recommended for use in heating and air conditioning systems in the food industry"
+    },
+    "correctAnswer": "E",
+    "explanation": "Ethylene glycol is toxic and not recommended for HVAC systems in food processing/handling areas where accidental leaks could contaminate food (propylene glycol is preferred instead)."
+  },
+  {
+    "number": 9,
+    "heading": "Types of Coils and Operation",
+    "question": "Steam coil piping and trapping:",
+    "options": {
+      "A": "Only handles steam and non-condensable gases",
+      "B": "Can be supported directly by the coils",
+      "C": "Is the same for hot water and glycol coils",
+      "D": "Are installed in the horizontal position whenever possible",
+      "E": "Differs from the hot water and glycol coil because it carries four fluids: steam, air, water, and non-condensable gases"
+    },
+    "correctAnswer": "E",
+    "explanation": "Steam coil piping must manage steam, condensate water, air, and non-condensable gases simultaneously, unlike single-phase water or glycol coils."
+  },
+  {
+    "number": 10,
+    "heading": "Types of Coils and Operation",
+    "question": "The flow arrangement best suited for hot water coils used to heat sub-freezing air is:",
+    "options": {
+      "A": "The half serpentine",
+      "B": "The parallel flow arrangement because it gives better protection against freezing",
+      "C": "One in which the cold air enters the coil where the coldest water is flowing",
+      "D": "The triple bypass flow arrangement",
+      "E": "The counter flow arrangement because it is more efficient"
+    },
+    "correctAnswer": "B",
+    "explanation": "Parallel flow exposes the coldest incoming air to the hottest entering water first, giving superior freeze protection compared to counter flow when heating sub-freezing air."
+  },
+  {
+    "number": 11,
+    "heading": "Types of Coils and Operation",
+    "question": "Which of the following steam traps are preferred for use with steam coils operating at low and medium steam pressure?",
+    "options": {
+      "A": "Dynamic",
+      "B": "Thermostatic only",
+      "C": "Inverted bucket",
+      "D": "F & T trap (float and thermostatic trap)",
+      "E": "None of the above"
+    },
+    "correctAnswer": "D",
+    "explanation": "Float and thermostatic (F & T) traps provide continuous condensate discharge and air venting, making them preferred for low- and medium-pressure steam heating coils."
+  },
+  {
+    "number": 12,
+    "heading": "Types of Coils and Operation",
+    "question": "The purpose of the \"freeze-stat\" temperature controller used with hot water coils is to:",
+    "options": {
+      "A": "Open the outside air dampers wide when the outside air temperature rises",
+      "B": "Increase the hot water flow through the coil if outside air temperature is too low",
+      "C": "Close the outside air dampers and stop the fan if the heat source fails or the low limit temperature controller malfunctions",
+      "D": "Increase the heat source temperature if the outside air temperature decreases",
+      "E": "Increase the fan output if the return air temperature is too low"
+    },
+    "correctAnswer": "C",
+    "explanation": "A freeze-stat (low-limit thermostat) acts as a safety shutdown device that closes outdoor air dampers and stops the fan if coil/air temperatures drop dangerously low."
+  },
+  {
+    "number": 13,
+    "heading": "Types of Coils and Operation",
+    "question": "In a hot water coil, which of the following is not included for providing a good guideline for the correct application of the system with minimal possibility of freeze-up?",
+    "options": {
+      "A": "Positive air venting of the coil is essential",
+      "B": "The water velocity should exceed 0.9 m/s",
+      "C": "A constant flow of water should be fed to the coil",
+      "D": "The air velocity should exceed 10 m/s",
+      "E": "The water temperature should be maintained at a reasonable pre-set temperature"
+    },
+    "correctAnswer": "D",
+    "explanation": "High water velocity (>0.9 m/s), continuous flow, proper venting, and adequate water temperature prevent freeze-ups; air velocity above 10 m/s is not a freeze-prevention guideline (and can cause water carryover/noise)."
+  },
+  {
+    "number": 14,
+    "heading": "Types of Coils and Operation",
+    "question": "To prevent freezing of the steam coil when steam pressure at the coil inlet is too low or is lost:",
+    "options": {
+      "A": "A two-position steam control valve is installed at the coil inlet",
+      "B": "The fan output is increased",
+      "C": "A second preheat coil is installed at the outside air inlet",
+      "D": "Provisions are made to stop the fan and close the outdoor air dampers",
+      "E": "A modulating steam control valve is installed at the coil inlet"
+    },
+    "correctAnswer": "D",
+    "explanation": "If coil steam pressure drops or is lost in freezing weather, stopping the supply fan and closing outdoor dampers prevents cold air from freezing the coil tubes."
+  },
+  {
+    "number": 15,
+    "heading": "Types of Coils and Operation",
+    "question": "Which of the following statements about vacuum breakers is false?",
+    "options": {
+      "A": "Check valves used as vacuum breakers may be left open to the atmosphere",
+      "B": "They are used to prevent freeze-ups caused by negative pressure in the coil",
+      "C": "The vacuum breaker must be installed before the control valve and as near as possible to the outlet connection of the coil",
+      "D": "Vacuum breakers are essential for satisfactory functioning of the steam trap",
+      "E": "Check valves used as vacuum breakers may be connected to the return header"
+    },
+    "correctAnswer": "C",
+    "explanation": "A vacuum breaker must be installed on the return/condensate side (after the coil outlet, not before the steam control valve) to admit air and break vacuum so condensate can drain."
+  },
+  {
+    "number": 16,
+    "heading": "Types of Coils and Operation",
+    "question": "Which of the following is not a cause of freezing in hot water coils?",
+    "options": {
+      "A": "Failure of the heat source",
+      "B": "Very high circulating water velocity",
+      "C": "Failure of the circulating pump",
+      "D": "Poor air venting of the coil",
+      "E": "Very low circulating water velocity"
+    },
+    "correctAnswer": "B",
+    "explanation": "High circulating water velocity promotes turbulent heat transfer and prevents stagnation, so it does not cause coil freezing (unlike low/no flow, heat loss, or air binding)."
+  },
+  {
+    "number": 17,
+    "heading": "Types of Coils and Operation",
+    "question": "A modulating control valve:",
+    "options": {
+      "A": "Is not used to control steam coils at any air inlet temperature",
+      "B": "Is used for steam coils where the condensate is lifted to an overhead return",
+      "C": "Can be used to control steam coils when the entering air temperature is above 1.5°C",
+      "D": "Can be oversized",
+      "E": "Is used for steam coils when the entering air temperature is below 1.5°C"
+    },
+    "correctAnswer": "C",
+    "explanation": "Modulating steam control valves are generally acceptable when entering air temperatures are above about 1.5°C, whereas below 1.5°C full-steam or face-and-bypass control is favored to prevent partial-load freezing."
+  },
+  {
+    "number": 18,
+    "heading": "Types of Coils and Operation",
+    "question": "The greatest fears in hot water coil installations handling subfreezing air are:\n1. Pipe expansively\n2. Outside air temperature being too low\n3. The failure of the circulating pump\n4. Water viscosity being too high\n5. The failure of the heat source",
+    "options": {
+      "A": "3, 5",
+      "B": "1, 2, 3",
+      "C": "3",
+      "D": "1, 4, 5",
+      "E": "1, 2, 4"
+    },
+    "correctAnswer": "A",
+    "explanation": "The primary operational hazards for water coils handling sub-freezing air are loss of circulating water flow (pump failure, 3) and loss of heat supply (heat source failure, 5)."
+  },
+  {
+    "number": 19,
+    "heading": "Types of Coils and Operation",
+    "question": "Steam coils with long tube lengths:",
+    "options": {
+      "A": "Are less likely to freeze than steam coils with short tube lengths",
+      "B": "Are not likely to freeze at any temperature",
+      "C": "Have the greatest freezing problems at extremely low temperatures such as -35°C",
+      "D": "Have freezing problems at any temperature",
+      "E": "Have the greatest freezing problems at temperatures of about -2°C to -1°C"
+    },
+    "correctAnswer": "E",
+    "explanation": "Long steam coil tubes experience greater temperature drop and slower condensate velocity near light heating loads around -2°C to -1°C, where partial condensing can cause freezing."
+  },
+  {
+    "number": 20,
+    "heading": "Types of Coils and Operation",
+    "question": "Which of the following is not an installation recommendation for steam traps?",
+    "options": {
+      "A": "Locate the steam trap so that its outlet is at least 300 mm above the coil return connection",
+      "B": "Trap each coil separately",
+      "C": "Base steam trap selection on the pressure difference across the trap and a minimum capacity corresponding to three times the coil condensate rate",
+      "D": "Drip the steam supply main through a steam trap into the return condensate main",
+      "E": "Install a strainer near the inlet of each trap"
+    },
+    "correctAnswer": "A",
+    "explanation": "Steam traps must be installed below the coil return outlet to drain by gravity—locating the trap outlet 300 mm above the coil return connection would trap condensate inside the coil."
+  }
+]
