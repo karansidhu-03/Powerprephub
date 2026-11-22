@@ -165,6 +165,11 @@ import b8chp1 from "./Part B/Chp/BookB8/chp1.json";
 import b8chp2 from "./Part B/Chp/BookB8/chp2.json";
 import b8chp3 from "./Part B/Chp/BookB8/chp3.json";
 
+// Part B — Book B10 chapters (chp1-chp3 and full book not yet provided)
+import b10chp4 from "./Part B/Chp/BookB10/chp4.json";
+import b10chp5 from "./Part B/Chp/BookB10/chp5.json";
+import b10chp6 from "./Part B/Chp/BookB10/chp6.json";
+
 // Part B — Book B11 full book + chapters
 import bookB11 from "./Part B/Chp/BookB11/bookb11.json";
 import b11chp1 from "./Part B/Chp/BookB11/chp1.json";
@@ -1097,6 +1102,24 @@ const bookB8Chapters: Paper[] = [
   ),
 ];
 
+const bookB10Chapters: Paper[] = [
+  makePaper(
+    "b10-chp4",
+    "Ventilation and Air Filters",
+    toQuestions(b10chp4 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b10-chp5",
+    "HVAC Duct Systems",
+    toQuestions(b10chp5 as unknown as RawNumberQuestion[]),
+  ),
+  makePaper(
+    "b10-chp6",
+    "Types of Coils and Operation",
+    toQuestions(b10chp6 as unknown as RawNumberQuestion[]),
+  ),
+];
+
 const bookB11Chapters: Paper[] = [
   makePaper(
     "b11-fullbook",
@@ -1315,8 +1338,14 @@ export const exams: Exam[] = [
         papers: bookB8Chapters,
       },
       {
+        id: "book-b10",
+        label: "Book B10 — HVAC Fundamentals for Facility Operators",
+        description: `${chapterCount(bookB10Chapters)} questions across ${bookB10Chapters.length} chapters`,
+        papers: bookB10Chapters,
+      },
+      {
         id: "book-b11",
-        label: "Book B11 — Heating & Cooling Systems",
+        label: "Book B11 — Building Environmental Systems and Control",
         description: `${chapterCount(bookB11Chapters)} questions across ${bookB11Chapters.length} chapters`,
         papers: bookB11Chapters,
       },
